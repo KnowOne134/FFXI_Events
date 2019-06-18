@@ -1,0 +1,2419 @@
+{
+  "id": 2,
+  "name": "Carpenters' Landing",
+  "actors": [
+    {
+      "id": 16785739,
+      "name": "",
+      "events": [
+        {
+          "id": 4500,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4501,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4502,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4503,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4504,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4505,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4506,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4507,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4508,
+          "dialogue": [
+            {
+              "id": 83,
+              "string": "..\u0000\u0007Select an action.\u0007\u000bLv.\n\u0000: Feed fewell.\u0007Operate furnace.\u0007View furnace readings.\u0007End synergy.\u0007Review objective.\u0007Toggle command confirmation \f\u0001[off\/on].\u0007Close menu."
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 86,
+              "string": "1\u0000\u0007Feed which fewell? (current stock)\u0007\u000b?\u001f fewell (\n\u0000).\u0007?  fewell (\n\u0001).\u0007?! fewell (\n\u0002).\u0007?\" fewell (\n\u0003).\u0007?# fewell (\n\u0004).\u0007?$ fewell (\n\u0005).\u0007?% fewell (\n\u0006).\u0007?& fewell (\n\u0007).\u0007Cancel."
+            },
+            {
+              "id": 74,
+              "string": "].\u0000\u0007Internal pressure: \n\u0001 Pz\/Im\u0007Impurity ratio: \n"
+            },
+            {
+              "id": 70,
+              "string": "1\u0000\u0007Internal elemental balance:\u0007?\u001f?\u0000 ? ?\u0001 ?!?\u0002 ?\"?\u0003 ?#?\u0004 ?$?\u0005 ?%?\u0006 ?&"
+            },
+            {
+              "id": 71,
+              "string": "?\u0007\u0000\u0007\u001f??\u001f?\u0000 ? ?\u0001 ?!?\u0002 ?\"?\u0003 ?#?\u0004 ?$?\u0005 ?%?\u0006 ?&"
+            },
+            {
+              "id": 85,
+              "string": "1\u0000\u0007Select an action\/skill.\u0007\u000bLv.\n\u0000: Thwack furnace.\u0007Lv.\n\u0001: Operate pressure handle.\u0007Lv.\n\u0002: Operate safety lever.\u0007Lv.\n\u0003: Repair furnace.\u0007Lv.\n\u0004: Recycle strewn fewell.\u0007Fishing: Lunar Smarts.\u0007Fishing: Precision Thwack.\u0007Woodworking: Cyclical Smarts.\u0007Woodworking: Earth Affinity.\u0007Smithing: Combustive Smarts.\u0007Smithing: Fire Affinity.\u0007Goldsmithing: Engraver's Touch.\u0007Goldsmithing: Wind Affinity.\u0007Clothcraft: Restorer's Touch.\u0007Clothcraft: Lightning Affinity.\u0007Leathercraft: Pressurization Smarts.\u0007Leathercraft: Ice Affinity.\u0007Bonecraft: Carbonization Smarts.\u0007Bonecraft: Dark Affinity.\u0007Alchemy: Alchemical Smarts.\u0007Alchemy: Light Affinity.\u0007Cooking: Heating Smarts.\u0007Cooking: Water Affinity.\u0007DEBUG?FForced perfection.\u0007DEBUG?FSet level (Requires \u0001\u0001\u0001 \u0001\u0005$????).\u0007DEBUG: Set pressure\/impurities.\u0007DEBUG: Something good.\u0007Cancel."
+            },
+            {
+              "id": 90,
+              "string": ").\u0000\u0007Your furnace lost a small amount of durabilit"
+            },
+            {
+              "id": 92,
+              "string": "y.\u0000\u0007Apply a measured thwack to the furnace to prevent explosion.\u0007Cost: Reduction in furnace durabilit"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 93,
+              "string": "y.\u0000\u0007Operate the pressure handle to lower internal pressure and reduce the likelihood of an explosion.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 94,
+              "string": ").\u0000\u0007Operate the safety lever to purge impurities from inside the furnace and reduce the likelihood of an explosion.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 95,
+              "string": ").\u0000\u0007Restore the furnace's durability.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 91,
+              "string": "y.\u0000\u0007There was no impact on fewell reserves or furnace durabilit"
+            },
+            {
+              "id": 96,
+              "string": ").\u0000\u0007Gather and feed explosion-strewn fewell fragments to the furnace. Increases the quantity of cinder obtained as a by-product.\u0007Cost: Nothin"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 97,
+              "string": "g.\u0000\u0007Temporarily increase the likelihood of an elemental surge. Effect varies depending on the moon phase and day of the week.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 90,
+              "string": ").\u0000\u0007Your furnace lost a small amount of durabilit"
+            },
+            {
+              "id": 98,
+              "string": ").\u0000\u0007Apply a precisely aimed blow to the furnace to prevent an explosion, with results superior to the standard thwack.\u0007Cost: Slight reduction in furnace durabilit"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 99,
+              "string": "y.\u0000\u0007Deftly manipulate the furnace's internal elemental balance to temporarily mitigate the rate of wear.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 100,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?\"-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 101,
+              "string": ").\u0000\u0007Temporarily improve fewell combustion rate.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 102,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?\u001f-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 103,
+              "string": ").\u0000\u0007Evenly disperse the furnace's internal stress to delay a looming explosion.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 104,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?!-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 109,
+              "string": ").\u0000\u0007Restore furnace durability by a significant amount.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 110,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?#-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 105,
+              "string": ").\u0000\u0007Temporarily suppress fluctuations in internal pressure.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 106,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ? -based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 107,
+              "string": ").\u0000\u0007Temporarily increase the likelihood of an elemental surge.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 108,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?&-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 111,
+              "string": ").\u0000\u0007Temporarily suppress the force of explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 112,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?%-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 113,
+              "string": ").\u0000\u0007Gradually purge the furnace of impurities.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 114,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?$-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 156,
+              "string": "g.\u0000\u0007Total fewell fed:\u0007?\u001f\n\u0000 ? \n\u0001 ?!\n\u0002 ?\"\n\u0003 ?#\n\u0004 ?$\n\u0005 ?%\n\u0006 ?&"
+            },
+            {
+              "id": 156,
+              "string": "g.\u0000\u0007Total fewell fed:\u0007?\u001f\n\u0000 ? \n\u0001 ?!\n\u0002 ?\"\n\u0003 ?#\n\u0004 ?$\n\u0005 ?%\n\u0006 ?&"
+            },
+            {
+              "id": 173,
+              "string": "n.\u0000\u0007Relinquish your claim to the synergy furnac"
+            },
+            {
+              "id": 174,
+              "string": "e?\u0000\u0007Relinquish claim?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 175,
+              "string": "1\u0000\u0007Your \u0001\u00053???? will be removed, and your claim to the synergy furnace, relinquishe"
+            },
+            {
+              "id": 46,
+              "string": "\n\u0003\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: N\/A"
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 68,
+              "string": "1\u0000\u0007Commence synergy?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 58,
+              "string": "1\u0000\u0007This item cannot house any more apertures."
+            },
+            {
+              "id": 58,
+              "string": "1\u0000\u0007This item cannot house any more apertures."
+            },
+            {
+              "id": 55,
+              "string": "1\u0000\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$???? will be used to etch an aperture on the \u0001\u0005#????."
+            },
+            {
+              "id": 56,
+              "string": "1\u0000\u0007Select elemental alignment.\u0007\u000b?\u001f\u0007? \u0007?!\u0007?\"\u0007?#\u0007?$\u0007?%\u0007?&\u0007Cancel."
+            },
+            {
+              "id": 57,
+              "string": "1\u0000\u0007Confirm: ?\u0001\u0001\u0005#????\f\t[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\u0007\u000bYes.\u0007Redo."
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 68,
+              "string": "1\u0000\u0007Commence synergy?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 63,
+              "string": "1\u0000\u0007There are no compatible apertures on this item."
+            },
+            {
+              "id": 59,
+              "string": "1\u0000\u0007The \u0001\u0005#???? will be embedded in the \u0001\u0005#????."
+            },
+            {
+              "id": 57,
+              "string": "1\u0000\u0007Confirm: ?\u0001\u0001\u0005#????\f\t[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\u0007\u000bYes.\u0007Redo."
+            },
+            {
+              "id": 63,
+              "string": "1\u0000\u0007There are no compatible apertures on this item."
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 68,
+              "string": "1\u0000\u0007Commence synergy?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 68,
+              "string": "1\u0000\u0007Commence synergy?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 68,
+              "string": "1\u0000\u0007Commence synergy?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785740,
+      "name": "",
+      "events": [
+        {
+          "id": 45,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785744,
+      "name": "Chuaie",
+      "events": [
+        {
+          "id": 18,
+          "dialogue": [
+            {
+              "id": 7465,
+              "string": "1\u0000\u0007Welcome to South Landing."
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007The ship bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] is now \f\u0001[arriving\/departing]."
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007The ship bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] is now \f\u0001[arriving\/departing]."
+            },
+            {
+              "id": 7461,
+              "string": "1\u0000\u0007The barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will \f\u0001[arrive\/depart] in \f\u0002[less than an hour\/about 1 hour\/about 2 hours\/about 3 hours\/about 4 hours\/about 5 hours\/about 6 hours\/about 7 hours\/about 8 hours\/about 9 hours\/about 10 hours\/about 11 hours\/about 12 hours\/about 13 hours\/about 14 hours\/about 15 hours\/about 16 hours\/about 17 hours\/about 18 hours\/about 19 hours\/about 20 hours\/about 21 hours\/about 22 hours\/about 23 hours\/about 24 hours] (\n\u0000 ?\u0000[minute\/minutes] in Earth time)."
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007The next barge is about to arrive.\u0007However, it is out-of-service and will not be accepting passengers."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007If you can wait, a barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will be arriving soon after that one."
+            },
+            {
+              "id": 7463,
+              "string": "1\u0000\u0007The next barge will arrive in \f\u0002[less than an hour\/about 1 hour\/about 2 hours\/about 3 hours\/about 4 hours\/about 5 hours\/about 6 hours\/about 7 hours\/about 8 hours\/about 9 hours\/about 10 hours\/about 11 hours\/about 12 hours\/about 13 hours\/about 14 hours\/about 15 hours\/about 16 hours\/about 17 hours\/about 18 hours\/about 19 hours\/about 20 hours\/about 21 hours\/about 22 hours\/about 23 hours\/about 24 hours] (\n\u0000 ?\u0000[minute\/minutes] in Earth time).\u0007However, it is out-of-service, and will not be accepting passengers."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007If you can wait, a barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will be arriving soon after that one."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007This barge is out-of-service. It is not accepting passengers."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007If you can wait, a barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will be arriving soon after that one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785745,
+      "name": "Ratoulle",
+      "events": [
+        {
+          "id": 19,
+          "dialogue": [
+            {
+              "id": 7466,
+              "string": "1\u0000\u0007Welcome to Central Landing."
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007The ship bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] is now \f\u0001[arriving\/departing]."
+            },
+            {
+              "id": 7461,
+              "string": "1\u0000\u0007The barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will \f\u0001[arrive\/depart] in \f\u0002[less than an hour\/about 1 hour\/about 2 hours\/about 3 hours\/about 4 hours\/about 5 hours\/about 6 hours\/about 7 hours\/about 8 hours\/about 9 hours\/about 10 hours\/about 11 hours\/about 12 hours\/about 13 hours\/about 14 hours\/about 15 hours\/about 16 hours\/about 17 hours\/about 18 hours\/about 19 hours\/about 20 hours\/about 21 hours\/about 22 hours\/about 23 hours\/about 24 hours] (\n\u0000 ?\u0000[minute\/minutes] in Earth time)."
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007The ship bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] is now \f\u0001[arriving\/departing]."
+            },
+            {
+              "id": 7461,
+              "string": "1\u0000\u0007The barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will \f\u0001[arrive\/depart] in \f\u0002[less than an hour\/about 1 hour\/about 2 hours\/about 3 hours\/about 4 hours\/about 5 hours\/about 6 hours\/about 7 hours\/about 8 hours\/about 9 hours\/about 10 hours\/about 11 hours\/about 12 hours\/about 13 hours\/about 14 hours\/about 15 hours\/about 16 hours\/about 17 hours\/about 18 hours\/about 19 hours\/about 20 hours\/about 21 hours\/about 22 hours\/about 23 hours\/about 24 hours] (\n\u0000 ?\u0000[minute\/minutes] in Earth time)."
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007The next barge is about to arrive.\u0007However, it is out-of-service and will not be accepting passengers."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007If you can wait, a barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will be arriving soon after that one."
+            },
+            {
+              "id": 7463,
+              "string": "1\u0000\u0007The next barge will arrive in \f\u0002[less than an hour\/about 1 hour\/about 2 hours\/about 3 hours\/about 4 hours\/about 5 hours\/about 6 hours\/about 7 hours\/about 8 hours\/about 9 hours\/about 10 hours\/about 11 hours\/about 12 hours\/about 13 hours\/about 14 hours\/about 15 hours\/about 16 hours\/about 17 hours\/about 18 hours\/about 19 hours\/about 20 hours\/about 21 hours\/about 22 hours\/about 23 hours\/about 24 hours] (\n\u0000 ?\u0000[minute\/minutes] in Earth time).\u0007However, it is out-of-service, and will not be accepting passengers."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007If you can wait, a barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will be arriving soon after that one."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007This barge is out-of-service. It is not accepting passengers."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007If you can wait, a barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will be arriving soon after that one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785746,
+      "name": "Felourie",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Welcome to North Landing."
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007The ship bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] is now \f\u0001[arriving\/departing]."
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007The ship bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] is now \f\u0001[arriving\/departing]."
+            },
+            {
+              "id": 7461,
+              "string": "1\u0000\u0007The barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will \f\u0001[arrive\/depart] in \f\u0002[less than an hour\/about 1 hour\/about 2 hours\/about 3 hours\/about 4 hours\/about 5 hours\/about 6 hours\/about 7 hours\/about 8 hours\/about 9 hours\/about 10 hours\/about 11 hours\/about 12 hours\/about 13 hours\/about 14 hours\/about 15 hours\/about 16 hours\/about 17 hours\/about 18 hours\/about 19 hours\/about 20 hours\/about 21 hours\/about 22 hours\/about 23 hours\/about 24 hours] (\n\u0000 ?\u0000[minute\/minutes] in Earth time)."
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007The next barge is about to arrive.\u0007However, it is out-of-service and will not be accepting passengers."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007If you can wait, a barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will be arriving soon after that one."
+            },
+            {
+              "id": 7463,
+              "string": "1\u0000\u0007The next barge will arrive in \f\u0002[less than an hour\/about 1 hour\/about 2 hours\/about 3 hours\/about 4 hours\/about 5 hours\/about 6 hours\/about 7 hours\/about 8 hours\/about 9 hours\/about 10 hours\/about 11 hours\/about 12 hours\/about 13 hours\/about 14 hours\/about 15 hours\/about 16 hours\/about 17 hours\/about 18 hours\/about 19 hours\/about 20 hours\/about 21 hours\/about 22 hours\/about 23 hours\/about 24 hours] (\n\u0000 ?\u0000[minute\/minutes] in Earth time).\u0007However, it is out-of-service, and will not be accepting passengers."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007If you can wait, a barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will be arriving soon after that one."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007This barge is out-of-service. It is not accepting passengers."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007If you can wait, a barge bound for \f\u0003[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal] will be arriving soon after that one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785747,
+      "name": "ship",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 40,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785748,
+      "name": "Guilloud",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7226,
+              "string": "1\u0000\u0007How...how could you defeat..."
+            },
+            {
+              "id": 7227,
+              "string": "1\u0000\u0007Come!\u0007Strike me down! I am not afraid of death! There is nothing I could want more than to die in the service of my master."
+            },
+            {
+              "id": 7229,
+              "string": "1\u0000\u0007Sir Louverance!"
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007And now I'm just an old man..."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7245,
+              "string": "1\u0000\u0007Well, have you met with Countess Caffaule?\u0007I suggest that you follow the advice given to you by Sir Louverance if you wish to reach the goals you have set for yourself."
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "dialogue": [
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007That honorless count set this trap to take your life, young sir!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007I heard word that those vicious Tonberries had been released under the pretense of dealing with an interloping brigand."
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007They described the bandit as a male Elvaan wearing a mask and bright brigandine armor."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Sir Louverance?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785749,
+      "name": "Louverance",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007Stop this foolishness!"
+            },
+            {
+              "id": 7230,
+              "string": "1\u0000\u0007Do you truly feel your actions here today would please Count Francmage?"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007Noble adventurer, please forgive this man. The Knights Mistalle were once a proud family of knights...until certain happenings within the Kingdom left the count's name scarred with disgrace."
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007The family vowed revenge... However, without a target for that revenge, they were never able to prove their innocence, and their nobility was stripped from them."
+            },
+            {
+              "id": 7233,
+              "string": "1\u0000\u0007As you are quite aware, San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains."
+            },
+            {
+              "id": 7234,
+              "string": "1\u0000\u0007San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains."
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007What answers have you come in search of today? What do you wish to know of the count?"
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007Ah, the Multinational Expedition to the Northlands. What were they searching for?"
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007I assume their purpose was to investigate the Gates of Paradise. Detailed information on the subject can more than likely be found in the San d'Orian Cathedral."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007However, even if they did exist, not even a marquis, let alone a count could lay his eyes on the documents without direct permission from the papsque."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007Though things were quite different when the cathedral was led by the former papsque...Muchavatte..."
+            },
+            {
+              "id": 7241,
+              "string": "1\u0000\u0007Muchavatte P Couchiret had strong ties with Count Caffaule. While the count passed away many years ago, his wife, Hinaree, still lives alone in their manor in Southern San d'Oria."
+            },
+            {
+              "id": 7242,
+              "string": "1\u0000\u0007Perhaps she knows something that may be of use to you. If you mention my name, she should be delighted to assist you."
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "dialogue": [
+            {
+              "id": 7249,
+              "string": "1\u0000\u0007Have you come with a message from him?\u0007I hear the matter is urgent..."
+            },
+            {
+              "id": 7251,
+              "string": "1\u0000\u0007What's this you say?\u0007A ??Master Cid?? requests my presence?\u0007That name sounds somewhat familiar..."
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007What's this you say?\u0007You came to request my presence?"
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007One moment, ?[sir\/madame].\u0007I do believe you are mistaking me for...him."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Explain this treachery!"
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007Once a thief, always a thief.\u0007It seems he is not content with stealing just my name!"
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007If you meet this man, give him a message:\u0007If you would call yourself a knight, then you must seek a just cause to champion!"
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007Farewel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785750,
+      "name": "Louverance",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785752,
+      "name": "Louverance",
+      "events": [
+        {
+          "id": 37,
+          "dialogue": [
+            {
+              "id": 7264,
+              "string": "l!\u0000\u0007?[Sir\/Lady] \b...\u0007I must apologize. It appears you have defeated the Tonberries meant for my demise."
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007You are a most resourceful ally.\u0007I will be sure to return the favor in the future."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007You say that Master Cid requires my presence in Bastok?\u0007I must say, gathering lumber was never my most cherished activity in any case."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007At last, we journey to the celestial capital of Al'Taieu.\u0007Our confrontation with the Keeper of the Apocalypse is at hand."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007Let us finish this battle forthwith.\u0007If I am to follow the path of the knight, I must see justice done as a true knight should."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007And there is no higher cause than saving the world from destruction...\u0007Wouldn't you agree, Louverance Mistalle?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785753,
+      "name": "Chocobo",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785768,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Descendants of a Line Lost.\u0007Tea with a Tonberry?\u0007Calm Before the Storm.\u0007Aegis."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7386,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785770,
+      "name": "???",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785771,
+      "name": "Anguenet",
+      "events": [
+        {
+          "id": 21,
+          "dialogue": [
+            {
+              "id": 7394,
+              "string": "l.\u0000\u0007Well, what have we here?\u0007An adventurer, by chance?"
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007I am Anguenet."
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007My job here at the Carpenters' Landing is to make your short trip on the channel as enjoyable as possible."
+            },
+            {
+              "id": 7397,
+              "string": "1\u0000\u0007Shall I give you an idea of the different routes the barge follows?"
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007Hear an explanation of the routes?\u0007\u000bThat won't be necessary.\u0007The main canal.\u0007The Emfea Waterway.\u0007Newtpool."
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007We leave from South Landing and head for North Landing, following the main waterway of the Phanauet Channel.\u0007This is the longest of the three routes."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007This canal is the Phanauet Channel's newest and widest waterway."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007Its waters are used by the Carpenters' Guild to bring in wood and ship out processed lumber--week in, week out."
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007Please pay careful attention to the eastern cliff.\u0007You will be able to witness the gentle waterfalls that are one of the main attractions of this route."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007This canal is also home to an abundant variety of fish, providing a distraction for even the novice fisherman."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Enjoy the bounties of nature on the Carpenters' Guild barge."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007We leave South Landing and head northwards to Central Landing through the narrow and winding Emfea Waterway.\u0007This is the most exciting route."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007At times, the barge comes to within several ilms of the cliffs on both sides, causing not a few sweaty palms among the passengers..."
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007But please, do not be alarmed.\u0007Our experienced captain is the best in the guild, and a safe journey is guaranteed."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007This waterway is the oldest part of the channel, and its depths teem with rare fish peculiar to this area."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007Those passengers that have come for a spot of fishing will not go home disappointed.\u0007The Emfea Waterway route is an experience not to be missed."
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007We leave Central Landing and embark on a leisurely southern course for South Landing.\u0007Our route takes us through Newtpool, which as the name suggests, is literally squirming with newts."
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007This is the birthplace of ??frog-fishing,?? an activity requiring the use of live flies."
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007The Newtpool route is extraordinarily popular with fisherman of all shapes and sizes all year round."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007Ah yes--if you happen to catch yourself a brownish newt, a \u0001\u0005#????, hand it over to my vertically challenged partner over there."
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007He is a man of few words, but I can assure you his delicious charred newts reflect his unwavering devotion towards pleasing our customers."
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007These mouthwatering delicacies are a treat for young and old.\u0007In particular, Mithran customers are always showering our diminutive chef with compliments, and pestering him for the names of his secret spices."
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "dialogue": [
+            {
+              "id": 7394,
+              "string": "l.\u0000\u0007Well, what have we here?\u0007An adventurer, by chance?"
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007I am Anguenet."
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007My job here at the Carpenters' Landing is to make your short trip on the channel as enjoyable as possible."
+            },
+            {
+              "id": 7397,
+              "string": "1\u0000\u0007Shall I give you an idea of the different routes the barge follows?"
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007Hear an explanation of the routes?\u0007\u000bThat won't be necessary.\u0007The main canal.\u0007The Emfea Waterway.\u0007Newtpool."
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007We leave from South Landing and head for North Landing, following the main waterway of the Phanauet Channel.\u0007This is the longest of the three routes."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007This canal is the Phanauet Channel's newest and widest waterway."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007Its waters are used by the Carpenters' Guild to bring in wood and ship out processed lumber--week in, week out."
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007Please pay careful attention to the eastern cliff.\u0007You will be able to witness the gentle waterfalls that are one of the main attractions of this route."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007This canal is also home to an abundant variety of fish, providing a distraction for even the novice fisherman."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Enjoy the bounties of nature on the Carpenters' Guild barge."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007We leave South Landing and head northwards to Central Landing through the narrow and winding Emfea Waterway.\u0007This is the most exciting route."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007At times, the barge comes to within several ilms of the cliffs on both sides, causing not a few sweaty palms among the passengers..."
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007But please, do not be alarmed.\u0007Our experienced captain is the best in the guild, and a safe journey is guaranteed."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007This waterway is the oldest part of the channel, and its depths teem with rare fish peculiar to this area."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007Those passengers that have come for a spot of fishing will not go home disappointed.\u0007The Emfea Waterway route is an experience not to be missed."
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007We leave Central Landing and embark on a leisurely southern course for South Landing.\u0007Our route takes us through Newtpool, which as the name suggests, is literally squirming with newts."
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007This is the birthplace of ??frog-fishing,?? an activity requiring the use of live flies."
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007The Newtpool route is extraordinarily popular with fisherman of all shapes and sizes all year round."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007Ah yes--if you happen to catch yourself a brownish newt, a \u0001\u0005#????, hand it over to my vertically challenged partner over there."
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007He is a man of few words, but I can assure you his delicious charred newts reflect his unwavering devotion towards pleasing our customers."
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007These mouthwatering delicacies are a treat for young and old.\u0007In particular, Mithran customers are always showering our diminutive chef with compliments, and pestering him for the names of his secret spices."
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007What's this?\u0007You wish to speak with the Tonberry on the barge?"
+            },
+            {
+              "id": 7442,
+              "string": "1\u0000\u0007That may not be as easy as you think.\u0007These Tonberries were captured twenty years ago on their way to the Tavnazian Marquisate, and are not famous for their conversational skills."
+            },
+            {
+              "id": 7443,
+              "string": "1\u0000\u0007They were sent to assassinate the captain of the Tavnazian knights. However..."
+            },
+            {
+              "id": 7444,
+              "string": "1\u0000\u0007The captain in question perished when Tavnazia was destroyed, and the Tonberries were seized as they milled about in confusion and indecision."
+            },
+            {
+              "id": 7445,
+              "string": "1\u0000\u0007Fear of incurring their rancor saved them from execution, and instead they were confined to an island prison."
+            },
+            {
+              "id": 7446,
+              "string": "1\u0000\u0007That island lies upstream from here, and its inhospitable sands were home to the Tonberries for twenty years."
+            },
+            {
+              "id": 7447,
+              "string": "1\u0000\u0007However, after the period of their sentence had passed, the court was surprised and dismayed to find them still very much alive."
+            },
+            {
+              "id": 7448,
+              "string": "1\u0000\u0007Although Tonberries are a southern species of beastmen, they are also unique among the fiends. And since they rarely communicate with other creatures, it was difficult to assess whether or not they had repented of their sins."
+            },
+            {
+              "id": 7449,
+              "string": "1\u0000\u0007A proposal was made by Count Teulomme, the owner of the lands on which Carpenter's Landing is built.\u0007Learning the method from a distant land, the count succeeded in communicating with the Tonberries."
+            },
+            {
+              "id": 7450,
+              "string": "1\u0000\u0007After this accomplishment, he proceeded to lay out his plan to employ the little beastmen as captains of the barge."
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007The Carpenters' Guild would be ruined without this canal at its disposal. And since this is the source of Count Teulomme's wealth, he must do his utmost to protect it."
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Even the Orcs who had attacked the barge captains up until this point would be hesitant to tangle with a Tonberry."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007They work for a song compared to, say, Elvaan employees, and their knives have been dulled as a precaution."
+            },
+            {
+              "id": 7454,
+              "string": "1\u0000\u0007But my own salary has been reduced because of the usefulness of these diminutive fiends, and now I must find other ways to make ends meet..."
+            },
+            {
+              "id": 7455,
+              "string": "1\u0000\u0007Which is why I ask you to bring me \u0001\u0001\u0001 \u0001\u0005$????, and in exchange I will teach you the method for communicating with the Tonberries."
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "dialogue": [
+            {
+              "id": 7456,
+              "string": "1\u0000\u0007Bring me \u0001\u0001\u0001 \u0001\u0005$???? if you want to speak to the Tonberries."
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "dialogue": [
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007Your contribution is most appreciated.\u0007And here is my end of the bargain."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007This is the blackboard we use when communicating with the Tonberry, Riche."
+            },
+            {
+              "id": 7459,
+              "string": "1\u0000\u0007Riche rarely speaks, but he can be convinced to write a few words."
+            },
+            {
+              "id": 7460,
+              "string": "1\u0000\u0007Just remember to complete your business before the barge reaches the cliffs. The Tonberries have work to attend to."
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "dialogue": [
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007This is the blackboard we use when communicating with the Tonberry, Riche."
+            },
+            {
+              "id": 7459,
+              "string": "1\u0000\u0007Riche rarely speaks, but he can be convinced to write a few words."
+            },
+            {
+              "id": 7460,
+              "string": "1\u0000\u0007Just remember to complete your business before the barge reaches the cliffs. The Tonberries have work to attend to."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785772,
+      "name": "Lourdaude",
+      "events": [
+        {
+          "id": 22,
+          "dialogue": [
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007<Sniff...sniff...>\u0007\n\u0002...gil..."
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "dialogue": [
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007<Sniff...sniff...>\u0007\n\u0002...gil..."
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "dialogue": [
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007...Done..."
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "dialogue": [
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785773,
+      "name": "Logging Point",
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            {
+              "id": 7392,
+              "string": "s.\u0000\u0007You are unable to log anythin"
+            },
+            {
+              "id": 7390,
+              "string": "s!\u0000\u0007You successfully cut off \u0001\u0001\u0001 \u0001\u0005$???"
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007Your \u0001\u0005#???? break"
+            },
+            {
+              "id": 7391,
+              "string": "?!\u0000\u0007You cut off \u0001\u0001\u0001 \u0001\u0005$????, but your \u0001\u0005#???? breaks in the proces"
+            },
+            {
+              "id": 7393,
+              "string": "g.\u0000\u0007You cannot carry any more items. Your inventory is ful"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785777,
+      "name": "Cofisephe",
+      "events": [
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7430,
+              "string": "?!\u0000\u0007Welcome to Carpenters' Landing."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007Barge tickets can be purchased for \n\u0002 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of \n\u0003 gil.\u0007Will you be sailing with us today?"
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007Purchase...\u0007\u000b?\u0001\u0001\u00056???? (\n\u0002 gil).\u0007?\u0001\u0001\u00056???? (\n\u0003 gil).\u0007Nothing today."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007You cannot buy more than one \u0001\u00053????.\u0007Use the one you currently have to ride the next ship."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007I'm sorry, ?[sir\/madame].\u0007You don't have enough gil to purchase a ticket."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007Thank you, ?[sir\/madam].\u0007I hope you enjoy sailing with us."
+            },
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007Your \u0001\u00053???? is valid for \n\u0004 more ?\u0004[trip\/trips]. You do not need to purchase a new ticket at this time."
+            },
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007Your \u0001\u00053???? is valid for \n\u0004 more ?\u0004[trip\/trips]. If you wish, you can purchase a new one for \n\u0003 gil."
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Purchase a new multi-ticket?\u0007\u000bYes (\n\u0003 gil).\u0007No."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007I'm sorry, ?[sir\/madame].\u0007You don't have enough gil to purchase a ticket."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007Thank you, ?[sir\/madame].\u0007Enjoy your trip."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007I'm sorry, ?[sir\/madame].\u0007You don't have enough gil to purchase a ticket."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007Thank you, ?[sir\/madam].\u0007I hope you enjoy sailing with us."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785778,
+      "name": "Coupulie",
+      "events": [
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7430,
+              "string": "?!\u0000\u0007Welcome to Carpenters' Landing."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007Barge tickets can be purchased for \n\u0002 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of \n\u0003 gil.\u0007Will you be sailing with us today?"
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007Purchase...\u0007\u000b?\u0001\u0001\u00056???? (\n\u0002 gil).\u0007?\u0001\u0001\u00056???? (\n\u0003 gil).\u0007Nothing today."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007You cannot buy more than one \u0001\u00053????.\u0007Use the one you currently have to ride the next ship."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007I'm sorry, ?[sir\/madame].\u0007You don't have enough gil to purchase a ticket."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007Thank you, ?[sir\/madam].\u0007I hope you enjoy sailing with us."
+            },
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007Your \u0001\u00053???? is valid for \n\u0004 more ?\u0004[trip\/trips]. You do not need to purchase a new ticket at this time."
+            },
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007Your \u0001\u00053???? is valid for \n\u0004 more ?\u0004[trip\/trips]. If you wish, you can purchase a new one for \n\u0003 gil."
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Purchase a new multi-ticket?\u0007\u000bYes (\n\u0003 gil).\u0007No."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007I'm sorry, ?[sir\/madame].\u0007You don't have enough gil to purchase a ticket."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007Thank you, ?[sir\/madame].\u0007Enjoy your trip."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007I'm sorry, ?[sir\/madame].\u0007You don't have enough gil to purchase a ticket."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007Thank you, ?[sir\/madam].\u0007I hope you enjoy sailing with us."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785779,
+      "name": "Echanie",
+      "events": [
+        {
+          "id": 43,
+          "dialogue": [
+            {
+              "id": 7430,
+              "string": "?!\u0000\u0007Welcome to Carpenters' Landing."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007Barge tickets can be purchased for \n\u0002 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of \n\u0003 gil.\u0007Will you be sailing with us today?"
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007Purchase...\u0007\u000b?\u0001\u0001\u00056???? (\n\u0002 gil).\u0007?\u0001\u0001\u00056???? (\n\u0003 gil).\u0007Nothing today."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007You cannot buy more than one \u0001\u00053????.\u0007Use the one you currently have to ride the next ship."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007I'm sorry, ?[sir\/madame].\u0007You don't have enough gil to purchase a ticket."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007Thank you, ?[sir\/madam].\u0007I hope you enjoy sailing with us."
+            },
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007Your \u0001\u00053???? is valid for \n\u0004 more ?\u0004[trip\/trips]. You do not need to purchase a new ticket at this time."
+            },
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007Your \u0001\u00053???? is valid for \n\u0004 more ?\u0004[trip\/trips]. If you wish, you can purchase a new one for \n\u0003 gil."
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Purchase a new multi-ticket?\u0007\u000bYes (\n\u0003 gil).\u0007No."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007I'm sorry, ?[sir\/madame].\u0007You don't have enough gil to purchase a ticket."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007Thank you, ?[sir\/madame].\u0007Enjoy your trip."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007I'm sorry, ?[sir\/madame].\u0007You don't have enough gil to purchase a ticket."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007Thank you, ?[sir\/madam].\u0007I hope you enjoy sailing with us."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785782,
+      "name": "",
+      "events": [
+        {
+          "id": 44,
+          "dialogue": [
+            {
+              "id": 7477,
+              "string": "1\u0000\u0007You hear a voice from out of nowhere..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785783,
+      "name": "Perseus",
+      "events": [
+        {
+          "id": 44,
+          "dialogue": [
+            {
+              "id": 7482,
+              "string": "1\u0000\u0007...Hmmm."
+            },
+            {
+              "id": 7483,
+              "string": "1\u0000\u0007You are to become the new bearer--the new servant--of \u0001\u0005#????..."
+            },
+            {
+              "id": 7484,
+              "string": "1\u0000\u0007Your companions must place great trust in you, otherwise you would not have been chosen."
+            },
+            {
+              "id": 7485,
+              "string": "1\u0000\u0007Continue to treasure your friendships, and be willing to risk life and limb to protect them."
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007Such has it always been.\u0007It is the duty given to the one who bears \u0001\u0005#????.\u0007Farewell, my successor..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785784,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16785785,
+      "name": "Ethereal Junction",
+      "events": [
+        {
+          "id": 9000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9003,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007You currently have multiple Wanted battle objectives set. Select which one you would like to undertake."
+            },
+            {
+              "id": 7554,
+              "string": "1\u0000\u0007Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785786,
+      "name": "Ethereal Junction",
+      "events": [
+        {
+          "id": 9001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9004,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007You currently have multiple Wanted battle objectives set. Select which one you would like to undertake."
+            },
+            {
+              "id": 7554,
+              "string": "1\u0000\u0007Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785787,
+      "name": "Ethereal Junction",
+      "events": [
+        {
+          "id": 9002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9005,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007You currently have multiple Wanted battle objectives set. Select which one you would like to undertake."
+            },
+            {
+              "id": 7554,
+              "string": "1\u0000\u0007Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16785788,
+      "name": "Survival Guide",
+      "events": [
+        {
+          "id": 8500,
+          "dialogue": [
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7558,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7561,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            }
+          ]
+        },
+        {
+          "id": 8501,
+          "dialogue": [
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7558,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7561,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            },
+            {
+              "id": 7574,
+              "string": "1\u0000\u0007You may change the way you select areas listed in ??Teleportation Assistance."
+            },
+            {
+              "id": 7575,
+              "string": "??\u0000\u0007Any changes to make?\u0007\u000bKeep course.\u0007Select by region.\u0007Select by content."
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 7570,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007At the bottom of the page is a reminder. It perfunctorily states that you may receive \u0001\u0001\u0001 \u0001\u0005$???? once you have logged a total of \n\u0002 hours."
+            },
+            {
+              "id": 7570,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007As per the custom noted within, you are eligible to receive \u0001\u0001\u0001 \u0001\u0005$???? for the \n\u0002 hour?\u0002[\/s] of fighting you've accrued."
+            },
+            {
+              "id": 7573,
+              "string": "1\u0000\u0007Accept the reward?\u0007\u000bYes, please.\u0007No, thanks."
+            },
+            {
+              "id": 6388,
+              "string": "1\u0000\u0007Obtained: ?\u0001\u0001\u0005#????."
+            },
+            {
+              "id": 6382,
+              "string": "1\u0000\u0007You cannot obtain the \u0001\u0005#????.\u0007Come back after sorting your inventory."
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
+            },
+            {
+              "id": 7563,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 7578,
+              "string": "1\u0000\u0007Travel to which region?\u0007\u000bOn second thought, none.\u0007Select from amongst favorites.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7563,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 7577,
+              "string": "].\u0000\u0007\u000bNowhere for now.\u0007Select from amongst favorites.\u0007Original release areas.\u0007Rise of the Zilart areas.\u0007Chains of Promathia areas.\u0007Treasures of Aht Urhgan areas.\u0007Wings of the Goddess areas.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007Seekers of Adoulin areas."
+            },
+            {
+              "id": 7566,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7569,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 7580,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7580,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7581,
+              "string": "].\u0000\u0007Your list of favorites is full. You must remove an existing entry to add new one"
+            },
+            {
+              "id": 7580,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7566,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7569,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7569,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007You use your \u0001\u00053????. (\n\u0002 trip?\u0002[\/s] remainin"
+            },
+            {
+              "id": 7439,
+              "string": "g)\u0000\u0007You use up your \u0001\u00053???"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007You use your \u0001\u00053????. (\n\u0002 trip?\u0002[\/s] remainin"
+            },
+            {
+              "id": 7439,
+              "string": "g)\u0000\u0007You use up your \u0001\u00053???"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007You were refused passage for failing to present \u0001\u00056???"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007You were refused passage for failing to present \u0001\u00056???"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "dialogue": [
+            {
+              "id": 7250,
+              "string": "1\u0000\u0007How do you respond?\u0007\u000bYes, I have a message.\u0007I have no message for you."
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 39,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 40,
+          "dialogue": [
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007You use your \u0001\u00053????. (\n\u0002 trip?\u0002[\/s] remainin"
+            },
+            {
+              "id": 7439,
+              "string": "g)\u0000\u0007You use up your \u0001\u00053???"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 42,
+          "dialogue": [
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007You were refused passage for failing to present \u0001\u00056???"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

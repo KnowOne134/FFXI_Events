@@ -1,0 +1,1594 @@
+{
+  "id": 168,
+  "name": "Chamber of Oracles",
+  "actors": [
+    {
+      "id": 17465520,
+      "name": "",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465522,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7594,
+              "string": "1\u0000\u0007While visiting Delkfutt's Tower, the elder of the two Zilart princes made a ??connection?? with the crystal. It was then that he had his ??vision.??"
+            },
+            {
+              "id": 7595,
+              "string": "1\u0000\u0007Using his spiritual power, the prince became an antenna and broadcast this vision--a vision of the gods and eternal paradise--to the masses. "
+            },
+            {
+              "id": 7596,
+              "string": "1\u0000\u0007According to the vision, people had been cast from this paradise long ago."
+            },
+            {
+              "id": 7597,
+              "string": "1\u0000\u0007However, those who saw this vision also heard an accompanying voice--a voice telling them that the light of the crystal would lead them back to Paradise."
+            },
+            {
+              "id": 7598,
+              "string": "1\u0000\u0007When the energy of the five crystals was joined as one, the Gate of the Gods would open and the path to Paradise would once again be lit."
+            },
+            {
+              "id": 7599,
+              "string": "1\u0000\u0007These words, though, were not taken lightly by all. The Kuluu of the Northlands and we, the Dawnmaidens, spoke out against the vision."
+            },
+            {
+              "id": 7600,
+              "string": "1\u0000\u0007??What would opening the Gate of the Gods bring upon this planet???\u0007??With Vana'diel transformed, what would become of those who remained???"
+            },
+            {
+              "id": 7601,
+              "string": "1\u0000\u0007However, the Zilart were already enchanted by this vision of Paradise, and our cries went unnoticed."
+            },
+            {
+              "id": 7602,
+              "string": "1\u0000\u0007They proceeded in constructing a floating island above one of their temples in the center of their nation. This island was to become the Gate of the Gods."
+            },
+            {
+              "id": 7603,
+              "string": "1\u0000\u0007However, as you have already learned from Grav'iton, the Kuluu thwarted the Zilart's plan, leading to the annihilation of a complete civilization."
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7610,
+              "string": "1\u0000\u0007There is still time..."
+            },
+            {
+              "id": 7611,
+              "string": "1\u0000\u0007The end is near..."
+            },
+            {
+              "id": 7612,
+              "string": "1\u0000\u0007You must stop them from opening..."
+            },
+            {
+              "id": 7613,
+              "string": "1\u0000\u0007The Gate of the Gods..."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007The \u0001\u00053???? is resonating with the door."
+            },
+            {
+              "id": 7624,
+              "string": "1\u0000\u0007Proceed through the door?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007The door cannot be opened from this side."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465523,
+      "name": "Shimmering Circle",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465524,
+      "name": "Shimmering Circle",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465525,
+      "name": "Shimmering Circle",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465526,
+      "name": "Shimmering Circle",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465527,
+      "name": "Zeid",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7584,
+              "string": "1\u0000\u0007So that is how it works...\u0007It is as if this place has been waiting for your arrival."
+            },
+            {
+              "id": 7615,
+              "string": "1\u0000\u0007Hm? What is this?"
+            },
+            {
+              "id": 7587,
+              "string": "1\u0000\u0007What does this mean? Who are the Crystal Warriors?"
+            },
+            {
+              "id": 7592,
+              "string": "1\u0000\u0007So, the reason that they resemble us is a direct result of the five crystals?"
+            },
+            {
+              "id": 7593,
+              "string": "1\u0000\u0007What did you people try doing ten thousand years ago? And what does that have to do with what the Archduke and his brother are up to now?"
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007Delkfutt's Tower? Gate of the Gods? The end of the world? This is more serious than I had imagined."
+            },
+            {
+              "id": 7615,
+              "string": "1\u0000\u0007Hm? What is this?"
+            },
+            {
+              "id": 7616,
+              "string": "1\u0000\u0007A prismatic crystal...\u0007You should probably take this with you on your journey. I will take a shard of it as well."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465528,
+      "name": "Eald'narche",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465529,
+      "name": "Kam'lanaut",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465530,
+      "name": "Knight01",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465531,
+      "name": "Knight02",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465532,
+      "name": "Cast01",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465533,
+      "name": "Cast02",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465534,
+      "name": "Cast03",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465535,
+      "name": "Illusory Image",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7585,
+              "string": "1\u0000\u0007We are the Dawnmaidens, servants of the Goddess Altana. Let us be your guide as you venture into the unknown."
+            },
+            {
+              "id": 7586,
+              "string": "1\u0000\u0007We have long awaited your arrival, ?[son\/daughter] of the five crystals. Just as the Crystal Warriors, your people, too, were born from the great force that dwells deep beneath the surface of Vana'diel."
+            },
+            {
+              "id": 7588,
+              "string": "1\u0000\u0007Using the power of the crystals, the Zilart created the five warriors."
+            },
+            {
+              "id": 7589,
+              "string": "1\u0000\u0007Children of the crystals--their senses enhanced to assist them in their duty of guarding the five arks."
+            },
+            {
+              "id": 7590,
+              "string": "1\u0000\u0007As for you...\u0007A great explosion--the Meltdown--ended the Zilart's evil plan ten thousand years ago. Over the millennia, the power of the crystals has transformed the people of that era to the five races that exist today."
+            },
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007However, the effect the crystals had on you was not nearly as great as that it had on the five Warriors."
+            },
+            {
+              "id": 7604,
+              "string": "1\u0000\u0007The Kuluu cannot be blamed for what they did. Had they not acted, Vana'diel as we know it would surely have perished."
+            },
+            {
+              "id": 7605,
+              "string": "1\u0000\u0007They sacrificed the honor of their people to save the world from certain destruction."
+            },
+            {
+              "id": 7606,
+              "string": "1\u0000\u0007However, now the two Zilart princes have put their plan into motion. They are once again attempting to open the Gate of the Gods."
+            },
+            {
+              "id": 7607,
+              "string": "1\u0000\u0007You must do everything in your power to stop them, or Vana'diel...will be lost for eternity."
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007Vana'diel belongs to you. No one has the right to take it from you."
+            },
+            {
+              "id": 7609,
+              "string": "1\u0000\u0007Make your way to Delkfutt's Tower. In that tower await the answers to all your questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465536,
+      "name": "MaidenFire",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465537,
+      "name": "MaidenEarth",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465538,
+      "name": "MaidenIce",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465539,
+      "name": "MaidenWind",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465540,
+      "name": "MaidenWater",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465541,
+      "name": "MaidenThunder",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465542,
+      "name": "MaidenLight",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465543,
+      "name": "MaidenDark",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465544,
+      "name": "Pedestal of Fire",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465545,
+      "name": "Pedestal of Earth",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465546,
+      "name": "Pedestal of Ice",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465547,
+      "name": "Pedestal of Wind",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465548,
+      "name": "Pedestal of Water",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465549,
+      "name": "Pedestal of Lightning",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465550,
+      "name": "Pedestal of Light",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465551,
+      "name": "Pedestal of Darkness",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465552,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465553,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465554,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465555,
+      "name": "Cermet Door",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465557,
+      "name": "Cermet Door",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465572,
+      "name": "Grav'iton",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465573,
+      "name": "Eald'narche",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465574,
+      "name": "Kam'lanaut",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465575,
+      "name": "Yve'noile",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465576,
+      "name": "Maiden01",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465577,
+      "name": "Maiden02",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465578,
+      "name": "Kuluu01",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465579,
+      "name": "Kuluu02",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465580,
+      "name": "KODAI01",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465581,
+      "name": "KODAI02",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465582,
+      "name": "KODAI03",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465583,
+      "name": "KODAI04",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465584,
+      "name": "KODAI05",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465585,
+      "name": "KODAI06",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465586,
+      "name": "KODAI07",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465587,
+      "name": "KODAI08",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465588,
+      "name": "KODAI09",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465589,
+      "name": "KODAI10",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465590,
+      "name": "DIRECTOR",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007A haunting song suddenly echoes throughout the ruins..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465591,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7659,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Chamber of Oracles.\u0007Moon Reading.\u0007Roar! A Cat Burglar Bares Her Fangs.\u0007Relief! A Triumphant Return."
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465593,
+      "name": "",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7693,
+              "string": "1\u0000\u0007Rescue?\u0007Whatever are you talking about?"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7707,
+              "string": "a!\u0000\u0007Yeowch!\u0007You're strongerrr than ya look."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465594,
+      "name": "???",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7687,
+              "string": "o!\u0000\u0007Is someone out there, kupo?"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465595,
+      "name": "",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465596,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7684,
+              "string": "1\u0000\u0007Master, I've come after all!\u0007No contract nor work order, nor even the mightiest magic can stop a moogle in love!"
+            },
+            {
+              "id": 7689,
+              "string": "g!\u0000\u0007Are you hurt, kupo!?\u0007If these hoods have laid so much as a finger on you, why I swear, I'll--!"
+            },
+            {
+              "id": 7692,
+              "string": "1\u0000\u0007Is something the matter!?\u0007Why, I've come to rescue you from these sordid scoundrels, kupo!"
+            },
+            {
+              "id": 7695,
+              "string": "1\u0000\u0007The wh-what!?"
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007I haven't an onz of intention of signing that ridiculous thing, kupo!\u0007Kupiruru, the master and I will be heading back to our cozy Mog House right now, thank you very much!"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007Well! It would seem our job here is done, kupo!"
+            },
+            {
+              "id": 7720,
+              "string": "1\u0000\u0007To my side, Kupiruru! Let's take our leave of this den of degenerates."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465597,
+      "name": "Kupiruru",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7690,
+              "string": "1\u0000\u0007Oh, my dear Moggie.\u0007Fancy meeting you here!"
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007Why the worried face?\u0007Is something the matter, kupo?"
+            },
+            {
+              "id": 7693,
+              "string": "1\u0000\u0007Rescue?\u0007Whatever are you talking about?"
+            },
+            {
+              "id": 7694,
+              "string": "1\u0000\u0007Why, I was just playing dress-up with my new friends here.\u0007Do you like the cute costume they picked out for me, kupo?"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7718,
+              "string": "1\u0000\u0007Ta-ta, boys! Stay in touch, kupo!"
+            },
+            {
+              "id": 7721,
+              "string": "1\u0000\u0007Do we have to?\u0007And here I was having so much fun, kupooo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465598,
+      "name": "Nanaa Mihgo",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007Awww, don't look at me with those little kitty-cat eyes..."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007I mean, what gil-loving cat burrrglar in her rrright mind could turn down such a lucrrrative offer?"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7707,
+              "string": "a!\u0000\u0007Yeowch!\u0007You're strongerrr than ya look."
+            },
+            {
+              "id": 7708,
+              "string": "1\u0000\u0007Grrr...now look what you've done.\u0007I've gone and brrroken a nail!"
+            },
+            {
+              "id": 7709,
+              "string": "1\u0000\u0007At this rrrate, I'll have to squanderrr my whole paycheck on a new manicurrre!"
+            },
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007Let's just call it a drrraw, shall we?"
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007Sorry, boys. I'm outta here!"
+            },
+            {
+              "id": 7712,
+              "string": "1\u0000\u0007You tell your boss that the Cat Burrrglar gave him his money's worth."
+            },
+            {
+              "id": 7713,
+              "string": "1\u0000\u0007...And that I'd be happy to do business with him again.\u0007For the rrright prrrice, of course!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465599,
+      "name": "Goblin Repossessor",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007You sign contract?\u0007Hand over now, and we do this easy way."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007Heh. You really not so bright, are you?"
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007Fine. You no want do easy way, we do it...fun way."
+            },
+            {
+              "id": 7703,
+              "string": "d.\u0000\u0007Maybe you know Nanaa Mihgo. She come to play with you today.\u0007Teach you good lesson about paying rent on time...har har har."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7716,
+              "string": "1\u0000\u0007Listen, punks.\u0007Look like you got lucky today."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465600,
+      "name": "Goblin Intimidator",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7717,
+              "string": "1\u0000\u0007But this ain't over...not by long shot.\u0007The boss ain't gonna be happy 'bout this. And when the boss ain't happy, ain't no one happy. You can bet on that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465601,
+      "name": "Goblin Enforcer",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7697,
+              "string": "e.\u0000\u0007Guess you no coward after all.\u0007No smart either, though...har har har."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7715,
+              "string": "l!\u0000\u0007Grrrrrrrrr--!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465602,
+      "name": "4",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17465603,
+      "name": "5",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7583,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007Through the Quicksand Caves.\u0007Legion XI Comitatensis.\u0007Shattering Stars (SAM).\u0007Shattering Stars (NIN).\u0007Shattering Stars (DRG).\u0007Cactuar Suave.\u0007Eye of the Storm.\u0007The Scarlet King.\u0007Roar! A Cat Burglar Bares Her Fangs.\u0007Dragon Scales.\u0007??Legion XI Comitatensis.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007"
+            },
+            {
+              "id": 7573,
+              "string": "\u0000!\u0000\u0007Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave."
+            },
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7572,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7581,
+              "string": "].\u0000\u0007The current battlefield clear time record for ??\f\u0001[Through the Quicksand Caves\/Legion XI Comitatensis\/Shattering Stars (SAM)\/Shattering Stars (NIN)\/Shattering Stars (DRG)\/Cactuar Suave\/Eye of the Storm\/The Scarlet King\/Roar! A Cat Burglar Bares Her Fangs\/Dragon Scales\/??Legion XI Comitatensis]?? is \n\u0003 minute?\u0003[\/s] \n\u0002 second?\u0002[\/s"
+            },
+            {
+              "id": 7580,
+              "string": "?!\u0000\u0007The current battlefield clear time record for ??\f\u0001[Through the Quicksand Caves\/Legion XI Comitatensis\/Shattering Stars (SAM)\/Shattering Stars (NIN)\/Shattering Stars (DRG)\/Cactuar Suave\/Eye of the Storm\/The Scarlet King\/Roar! A Cat Burglar Bares Her Fangs\/Dragon Scales\/??Legion XI Comitatensis]?? is \n\u0003 second?\u0003[\/s"
+            },
+            {
+              "id": 7572,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7211,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

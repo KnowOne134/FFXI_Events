@@ -1,0 +1,2514 @@
+{
+  "id": 32,
+  "name": "Sealion's Den",
+  "actors": [
+    {
+      "id": 16908417,
+      "name": "",
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908419,
+      "name": "Iron Gate",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 29,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908420,
+      "name": "Airship Door",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908421,
+      "name": "Airship Door",
+      "events": [
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7895,
+              "string": "1\u0000\u0007What to do...\u0007\u000bMove to the\f\u0001[ armada\/ next] warship.\u0007Return to Tavnazia.\u0007Nothing."
+            }
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908422,
+      "name": "Airship Door",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7895,
+              "string": "1\u0000\u0007What to do...\u0007\u000bMove to the\f\u0001[ armada\/ next] warship.\u0007Return to Tavnazia.\u0007Nothing."
+            }
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908428,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7713,
+              "string": "1\u0000\u0007You dirty rat!\u0007Why don't you come down here and fight like a man!?"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7601,
+              "string": "1\u0000\u0007So she's not coming... I guess this means I'll never see her again."
+            },
+            {
+              "id": 7603,
+              "string": "1\u0000\u0007Yeah, but to tell you the truth, I'd rather spend the next few weeks with Ulmia than I would with you."
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007Huh? What?"
+            },
+            {
+              "id": 7612,
+              "string": "1\u0000\u0007Did you hear that? Ulmia and Prishe, back together again on the trail of adventure!"
+            },
+            {
+              "id": 7618,
+              "string": "1\u0000\u0007Heh heh heh.\u0007Thanks, Ulmia.\u0007Now let's get moving!"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 7842,
+              "string": "1\u0000\u0007Hey, \b!\u0007Check it out! That old Cid's a genius!"
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007The airship's been rebuilt shinier than Despachiaire's bald spot.\u0007Hell, with the autopilot Cid installed, it's even better than before!"
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007We even got an escort from the Jeuno Armada!\u0007C'mon, let's get this baby back in the air!"
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007Heh heh!\u0007We're bound for the fifth mothercrystal and beyond!\u0007Next stop: the legendary city of Al'Taieu!"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007The place where ten thousand years of history began."
+            },
+            {
+              "id": 7849,
+              "string": "1\u0000\u0007No sweat!\u0007I'll be back making trouble before you know it.\u0007Let's go, \b!"
+            },
+            {
+              "id": 7850,
+              "string": "1\u0000\u0007The new and improved \f\u0000[\/Ultra \/Hyper \/Psycho \/Eternal \/Neo \/Lovely \/Pretty \/Final \/Extra \/Deadly \/Savage \/Aero \/Pseudo \/Universal \/Exciting \/Celestial \/Super \/Mighty \/Mega \/Omni \/Poly ]\f\u0001[\/Terror \/Perfect \/Royale \/Gorgeous \/Pretty \/Hell \/Fantasy \/Stealth \/Powerful \/Invincible \/Explosive \/Storm \/Fantastic \/Duper \/Go-Go \/Morphing \/Retro \/Sonic \/Cloud \/Sky \/Stellar ]\f\u0002[\/Hyper \/Neo \/Lovely \/Happy \/Caller \/Hound \/XI \/Armored \/Brutal \/Buster \/Alpha \/Chief \/Provoker \/Mincer \/Streak \/King \/Prince \/Power \/Robo \/Delver \/Mystic ]\f\u0003[C.I.D.\/Enterprise\/Nautilus\/Gilgamemnon\/Redwing\/Blackjack\/Falcon\/Highwind\/Ragnarok\/Hilda Garde\/Prima Vista\/Red Rose\/Fahrenheit] is ready for take off!"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7860,
+              "string": "1\u0000\u0007Full speed ahead!"
+            },
+            {
+              "id": 7864,
+              "string": "1\u0000\u0007What the hell"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7742,
+              "string": "1\u0000\u0007The boy Selh'teus has already asked the Moblins to open the gate to the capital."
+            },
+            {
+              "id": 7743,
+              "string": "1\u0000\u0007If you follow him, he'll lead you right to the fifth crystal."
+            },
+            {
+              "id": 7746,
+              "string": "1\u0000\u0007I've told you what you want to know, now get out of here!"
+            },
+            {
+              "id": 7759,
+              "string": "1\u0000\u0007What are you talking about!? This is where it gets interesting!"
+            },
+            {
+              "id": 7760,
+              "string": "1\u0000\u0007Bahamut!\u0007Conqueror of the skies! King of the wyrms!"
+            },
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007Damn!\u0007And you call yourself a guardian of Vana'diel!? Why didn't you tell us what you were going to do a long time ago!?"
+            },
+            {
+              "id": 7788,
+              "string": "1\u0000\u0007If you would've been honest with us, we could have been in Al'Taieu whipping that keeper's butt last week!"
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007I'm sick of all this talk! Doesn't anybody here think we can handle the situation!?"
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007Huh!?\u0007What do you mean, you don't know!? I'm telling you that you do!"
+            },
+            {
+              "id": 7807,
+              "string": "1\u0000\u0007Whoa, I have a bad feeling about this."
+            },
+            {
+              "id": 7808,
+              "string": "..\u0000\u0007\b!\u0007Get out of the wa"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            {
+              "id": 7881,
+              "string": "1\u0000\u0007Here comes the cavalry!"
+            },
+            {
+              "id": 7887,
+              "string": "1\u0000\u0007I know what you're thinking, samurai guy!\u0007But this is a battle without honor!"
+            },
+            {
+              "id": 7890,
+              "string": "1\u0000\u0007That flaming bird knew everything from the start, but failed to let you in on the facts.\u0007Why should you follow her orders now?"
+            },
+            {
+              "id": 7892,
+              "string": "1\u0000\u0007That's right!\u0007But I didn't lie to anyone!"
+            },
+            {
+              "id": 7893,
+              "string": "1\u0000\u0007I didn't bring \b here to die!"
+            },
+            {
+              "id": 7894,
+              "string": "1\u0000\u0007\b is here to join our struggle for survival!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908429,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7761,
+              "string": "1\u0000\u0007I am Prishe!\u0007I am the Keeper of the Apocalypse!"
+            },
+            {
+              "id": 7762,
+              "string": "1\u0000\u0007Your pact with Selh'teus left me trapped for thousands of years."
+            },
+            {
+              "id": 7765,
+              "string": "1\u0000\u0007And we will do it right here, right now! We will fulfill the pact!"
+            },
+            {
+              "id": 7770,
+              "string": "1\u0000\u0007Not the keeper!? But..."
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908430,
+      "name": "Ulmia",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007What if they discovered where Prishe was hiding!?"
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007Louverance is moving the ship into position so we can board their vessel. Let us hurry below decks."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007P-puppets.."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007Look!"
+            },
+            {
+              "id": 7718,
+              "string": "e!\u0000\u0007Prish"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7609,
+              "string": "1\u0000\u0007Take me with you. I still may be of some use. I haven't yet told you of the song I learned from Cardinal Mildaurion."
+            },
+            {
+              "id": 7610,
+              "string": "1\u0000\u0007I feel that the song may be an important clue into solving the mysteries that lie before us."
+            },
+            {
+              "id": 7613,
+              "string": "1\u0000\u0007Prishe, I'm... I'm so sorry..."
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007I know you already know this, but let me say it anyway."
+            },
+            {
+              "id": 7615,
+              "string": "1\u0000\u0007I do not have any of the special powers that you do.\u0007There is so much that I do not understand..."
+            },
+            {
+              "id": 7616,
+              "string": "1\u0000\u0007However, there is one thing I do know, and that is that I wish to travel with you and sing--sing your song."
+            },
+            {
+              "id": 7617,
+              "string": "1\u0000\u0007It is you who introduced me to a world filled with song, and this is the only way I can repay you."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007We...\u0007We couldn't find Prishe..."
+            },
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007I fear that she is hiding somewhere on one of the armada's warships."
+            },
+            {
+              "id": 7642,
+              "string": "1\u0000\u0007I think Prishe knows...that we would follow her."
+            },
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007Prishe can read the hearts of others. She knows what we feel and what we think--she knows what I feel..."
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007But why does she continue on if she knows that her decisions will only hurt me...?"
+            },
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007Why does believing hurt so...?"
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007...\u0007Perhaps you are right, Jabbos. Perhaps the only option left to mankind is to change Vana'diel..."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007For the past ten thousand years, Vana'diel has grown and evolved to become what it is today--a world bound by the chains of an evil deity."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007Prishe set out on her own in an attempt to change that world--our world..."
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007Cid...\u0007Thank you so very much for all that you have done."
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7668,
+              "string": "1\u0000\u0007According to Aldo, the Jeuno Armada departed the Duchy after splitting into two units."
+            },
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007The main unit will enter Cape Riverne directly by air and attempt to draw the wyrms from the floating islands."
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007At the same time, the remaining unit will attempt to approach Bahamut from the opposite direction."
+            },
+            {
+              "id": 7673,
+              "string": "1\u0000\u0007Engineer Cid said the same thing. This means we still have time!"
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007Secret weapon?\u0007You wouldn't happen to be the same ??secret weapon?? that Cid received from Gilgamesh...would you?"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7856,
+              "string": "1\u0000\u0007Great Goddess of the Dawn.\u0007May your divine blessings protect the fifth mothercrystal--and the future of your children."
+            },
+            {
+              "id": 7857,
+              "string": "1\u0000\u0007May your gentle gaze also watch over the safe return of Cardinal Mildaurion..."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Oh my!"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7785,
+              "string": "1\u0000\u0007Nothing to envelop...?"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908431,
+      "name": "Tenzen",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007\b!\u0007The attack seems to have subsided..."
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007Something is going on over there... Something is wrong..."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007If we continue like this, both sides will end up exhausted without having made any progress!"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007We will be departing shortly for the San d'Orian Cathedral aboard Sir Louverance's airship."
+            },
+            {
+              "id": 7592,
+              "string": "1\u0000\u0007I asked if you might accompany us, but they answered me with a hearty ??no.??"
+            },
+            {
+              "id": 7593,
+              "string": "1\u0000\u0007However, you need not worry, \b. I will not take an eye off of Lady Prishe."
+            },
+            {
+              "id": 7594,
+              "string": "1\u0000\u0007And if, by chance, San d'Oria breaks its promise and refuses to release her, I will do everything in my power to rescue the fair lady."
+            },
+            {
+              "id": 7595,
+              "string": "1\u0000\u0007However, if there is one thing we must worry about, it is the amount of time we are losing with all this sidetracking. We can only hope the boy is not too far ahead of us..."
+            },
+            {
+              "id": 7597,
+              "string": "1\u0000\u0007Hm?\u0007Where is Lady Ulmia? Is she not accompanying us?"
+            },
+            {
+              "id": 7600,
+              "string": "1\u0000\u0007Yes, I sense we are to encounter much danger in our journey ahead. It is better that she stays here...for her own safety."
+            },
+            {
+              "id": 7602,
+              "string": "1\u0000\u0007Lady Prishe. We all walk different paths in life. However, if those paths point in the same direction, there is a good chance that they will cross once again."
+            },
+            {
+              "id": 7604,
+              "string": "1\u0000\u0007Lady Prishe! There are some opinions better left unspoken!"
+            },
+            {
+              "id": 7619,
+              "string": "1\u0000\u0007\b.\u0007We will await you at the San d'Orian Cathedral!"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7631,
+              "string": "1\u0000\u0007Master Cid!\u0007We have been waiting for your arrival!"
+            },
+            {
+              "id": 7634,
+              "string": "1\u0000\u0007A problem? What do you mean?"
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007That cannot be possible!"
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007Why did Lady Prishe not wait for you to return?"
+            },
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007She is not planning to attack the Wyrmking, is she!?"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007Do you think there is any chance to catch up with Lady Prishe?"
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007I assume that Prishe would be with the latter."
+            },
+            {
+              "id": 7672,
+              "string": "1\u0000\u0007However, that unit cannot begin its operation until the main unit has successfully drawn the attention of the other wyrms."
+            },
+            {
+              "id": 7683,
+              "string": "1\u0000\u0007Hmmm, we will be making contact with the armada shortly."
+            },
+            {
+              "id": 7684,
+              "string": "1\u0000\u0007It may be to our advantage to have someone on board who can communicate with the"
+            },
+            {
+              "id": 7685,
+              "string": "m.\u0000\u0007What the.."
+            },
+            {
+              "id": 7688,
+              "string": "a!\u0000\u0007Warning shots?"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7873,
+              "string": "1\u0000\u0007The mothercrystals..."
+            },
+            {
+              "id": 7874,
+              "string": "1\u0000\u0007The origin of all life, and the destination for spent souls..."
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007All return to the light of the closest crystal..."
+            },
+            {
+              "id": 7876,
+              "string": "1\u0000\u0007I have long awaited this moment.\u0007The moment you were bathed in the glow..."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007She is right, Lord Bahamut."
+            },
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007Such intolerant behavior does not befit the conqueror of the skies!"
+            },
+            {
+              "id": 7791,
+              "string": "1\u0000\u0007Why do you not believe in the power of the children of the dawn?"
+            },
+            {
+              "id": 7809,
+              "string": "y!\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            {
+              "id": 7879,
+              "string": "1\u0000\u0007I expected nothing less from the light of hope...\u0007Never before has my blade failed me in battle."
+            },
+            {
+              "id": 7880,
+              "string": "1\u0000\u0007So...\u0007Only the youth that seethes with Emptiness can extinguish that light..."
+            },
+            {
+              "id": 7888,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7891,
+              "string": "1\u0000\u0007You possessed the same knowledge, Lady Prishe!\u0007That is why you brought ?[Sir\/Lady] \b to this place!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908432,
+      "name": "Cherukiki",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007You're wasting your breath, samurai man."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7675,
+              "string": "1\u0000\u0007Get your hands off me, you pointy-eared brute!4\u0001"
+            },
+            {
+              "id": 7679,
+              "string": "1\u0000\u0007We've given up the fame and glory of being high-class Jeunoan officers!4\u0001"
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007I say we go to the communications room!"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7866,
+              "string": "1\u0000\u0007Welcome to the \f\u0000[\/Ultra \/Hyper \/Psycho \/Eternal \/Neo \/Lovely \/Pretty \/Final \/Extra \/Deadly \/Savage \/Aero \/Pseudo \/Universal \/Exciting \/Celestial \/Super \/Mighty \/Mega \/Omni \/Poly ]\f\u0001[\/Terror \/Perfect \/Royale \/Gorgeous \/Pretty \/Hell \/Fantasy \/Stealth \/Powerful \/Invincible \/Explosive \/Storm \/Fantastic \/Duper \/Go-Go \/Morphing \/Retro \/Sonic \/Cloud \/Sky \/Stellar ]\f\u0002[\/Hyper \/Neo \/Lovely \/Happy \/Caller \/Hound \/XI \/Armored \/Brutal \/Buster \/Alpha \/Chief \/Provoker \/Mincer \/Streak \/King \/Prince \/Power \/Robo \/Delver \/Mystic ]Cherukiki Flagship!"
+            },
+            {
+              "id": 7871,
+              "string": "1\u0000\u0007We've decided to find more suitable (and survivable) employment..."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            {
+              "id": 7884,
+              "string": "1\u0000\u0007We totally forgot!"
+            }
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908433,
+      "name": "Kukki-Chebukki",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007Yeah, they can't hear you--they're just puppets made by those crazy scientists in Jeuno!"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7676,
+              "string": "1\u0000\u0007Let us go, or you'll all be doomed!4\u0001"
+            },
+            {
+              "id": 7680,
+              "string": "1\u0000\u0007And decided to become high-class pirates!4\u0001"
+            },
+            {
+              "id": 7690,
+              "string": "1\u0000\u0007Shouldn't we be going to the communications room?"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7865,
+              "string": "!?\u0000\u0007Welcome to the \f\u0000[\/Ultra \/Hyper \/Psycho \/Eternal \/Neo \/Lovely \/Pretty \/Final \/Extra \/Deadly \/Savage \/Aero \/Pseudo \/Universal \/Exciting \/Celestial \/Super \/Mighty \/Mega \/Omni \/Poly ]\f\u0001[\/Terror \/Perfect \/Royale \/Gorgeous \/Pretty \/Hell \/Fantasy \/Stealth \/Powerful \/Invincible \/Explosive \/Storm \/Fantastic \/Duper \/Go-Go \/Morphing \/Retro \/Sonic \/Cloud \/Sky \/Stellar ]\f\u0002[\/Hyper \/Neo \/Lovely \/Happy \/Caller \/Hound \/XI \/Armored \/Brutal \/Buster \/Alpha \/Chief \/Provoker \/Mincer \/Streak \/King \/Prince \/Power \/Robo \/Delver \/Mystic ]Kukki Battle Cruiser!"
+            },
+            {
+              "id": 7870,
+              "string": "1\u0000\u0007But since that would lead to certain death..."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7757,
+              "string": "e!\u0000\u0007It's a?`ll over."
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            {
+              "id": 7885,
+              "string": "1\u0000\u0007How could we forget"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908434,
+      "name": "Makki-Chebukki",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007And if you can't hear us, respond!"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7677,
+              "string": "1\u0000\u0007Yeah! We're your secret weapon!"
+            },
+            {
+              "id": 7681,
+              "string": "1\u0000\u0007The highest of the high, and classiest of the class, yes sir-ee!"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7867,
+              "string": "1\u0000\u0007A beautiful day for a sad announcement."
+            },
+            {
+              "id": 7868,
+              "string": "1\u0000\u0007We've decided to give up our occupation as high-class pirates."
+            },
+            {
+              "id": 7869,
+              "string": "1\u0000\u0007As a final high-class pirate duty, we were entrusted with this ship for the purpose of escorting Prishe safely to her destination."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7758,
+              "string": "..\u0000\u0007It's over easy..."
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908435,
+      "name": "Jabbos",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007C-could she b-be...inside that thing...?"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Even when...two hearts...are connected...there are times...when pain...can't be avoided..."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007When the world...is overwhelmed with...sadness...\u0007The only way...to escape the pain...is to...change the world..."
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7686,
+              "string": ".!\u0000\u0007I can see them... The."
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7853,
+              "string": "1\u0000\u0007It's too...quiet...\u0007Could it be...the wyrms...haven't...noticed us...?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908436,
+      "name": "Shikaree Z",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7705,
+              "string": ".?\u0000\u0007Prishe!\u0007Are you okay!? If you can hear us, rrrespond!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7709,
+              "string": "1\u0000\u0007What's going on!?"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7682,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7687,
+              "string": "..\u0000\u0007The Jeuno Armad"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7855,
+              "string": "1\u0000\u0007I wonder how the battle fares."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908437,
+      "name": "Louverance",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7712,
+              "string": "1\u0000\u0007I will attempt to pull our ship up alongside theirs. Hold on!"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7598,
+              "string": "1\u0000\u0007I spoke with Ulmia earlier and do not feel that she possesses any information of use to the Kingdom. She is to remain here on the island."
+            },
+            {
+              "id": 7599,
+              "string": "1\u0000\u0007The elder Despachiaire would not even allow her to come see us off. He is quite worried about his granddaughter, isn't he?"
+            },
+            {
+              "id": 7611,
+              "string": "1\u0000\u0007Interesting...\u0007Very well. You may accompany us to San d'Oria."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Master Cid, I ask that you allow me to fly her."
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lady Prishe!\u0007We have a transmission from the warship:"
+            },
+            {
+              "id": 7863,
+              "string": "1\u0000\u0007??Attention!\u0007Your most prized possession is now the property of the Chebukki Samurai Sky Pirates!??"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908438,
+      "name": "Esha'ntarl",
+      "events": [
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007What do you think you are trying to do, Nag'molada? You were relieved from your position within the Armathrwn Society and banished from Jeuno."
+            },
+            {
+              "id": 7724,
+              "string": "1\u0000\u0007How dare you step over the boundaries of the amnesty you were granted and bring that creation aboard an armada vessel!"
+            },
+            {
+              "id": 7725,
+              "string": "1\u0000\u0007Did you think that by performing this ??service?? we would take you back?"
+            },
+            {
+              "id": 7726,
+              "string": "1\u0000\u0007Or was this cause of turmoil simply a desperate attempt to interfere with our plan--an attempt born from hate and despisal?"
+            },
+            {
+              "id": 7728,
+              "string": "1\u0000\u0007Or perhaps, you came to ask Bahamut the way to Al'Taieu..."
+            },
+            {
+              "id": 7729,
+              "string": "1\u0000\u0007Nag'molada.\u0007I understand why you seek the path to the celestial capital."
+            },
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007We who have lost the ??whisper of the soul?? are forced to live alone, trapped within our own wretched solitude."
+            },
+            {
+              "id": 7731,
+              "string": "1\u0000\u0007However, that is our path to freedom."
+            },
+            {
+              "id": 7732,
+              "string": "1\u0000\u0007We are children born from one.\u0007Now our children and our children's children step out into the ever expanding world."
+            },
+            {
+              "id": 7733,
+              "string": "1\u0000\u0007This is much like when the mothercrystal split into five pieces long, long ago."
+            },
+            {
+              "id": 7734,
+              "string": "1\u0000\u0007We were simply ready to leave the nest before the Zilart."
+            },
+            {
+              "id": 7747,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007Return the favor...?\u0007A surprise attack"
+            },
+            {
+              "id": 7769,
+              "string": "1\u0000\u0007!?"
+            },
+            {
+              "id": 7777,
+              "string": "r?\u0000\u0007...In Al'Taieu!?"
+            },
+            {
+              "id": 7786,
+              "string": "1\u0000\u0007And so that is why you planned to attack...!"
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007There... There is still a way!"
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007Bahamut!\u0007We need not fight Promathia...if we can stop the Keeper of the Apocalypse!"
+            },
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007Selh'teus told us this! That is why he has returned!"
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007He is here to stop Al'Taieu from falling back to this dimension!"
+            },
+            {
+              "id": 7810,
+              "string": "\b!\u0000\u0007Everyone, abandon ship!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908439,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908440,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908441,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908442,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908443,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908444,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908445,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908446,
+      "name": "ship",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 29,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908447,
+      "name": "Nag'molada",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7714,
+              "string": "1\u0000\u0007Hah ha ha! The wonderful exhibition about to unfold will buy me more than enough time."
+            },
+            {
+              "id": 7715,
+              "string": "1\u0000\u0007My ??pet?? is still far from completion. However, when she is finished, she will be the most powerful creation Vana'diel has ever seen!"
+            },
+            {
+              "id": 7716,
+              "string": "1\u0000\u0007Though those created ten thousand years ago may still be residing somewhere within the celestial capital of Al'Taieu..."
+            },
+            {
+              "id": 7720,
+              "string": "e?\u0000\u0007<Sigh>\u0007Not another distraction...\u0007Well, at least now I can test my pet in ??extreme battle mode.??"
+            },
+            {
+              "id": 7721,
+              "string": "1\u0000\u0007Ultima Weapon, show our friends what you can do."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7722,
+              "string": "1\u0000\u0007<Sigh>\u0007I guess I cannot expect too much from a prototype..."
+            },
+            {
+              "id": 7727,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7735,
+              "string": "1\u0000\u0007...\u0007Then why did you choose to abandon your people and hide away in the Chamber of Eventide?"
+            },
+            {
+              "id": 7736,
+              "string": "1\u0000\u0007Why do you join the Zilart in blocking the path to Al'Taieu?"
+            },
+            {
+              "id": 7738,
+              "string": "1\u0000\u0007By entering the chamber, you succeeded in washing away the darkness of your soul."
+            },
+            {
+              "id": 7739,
+              "string": "1\u0000\u0007That is why I seek the capital--so I can remove the darkness from my soul. So I can be free!"
+            },
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007I see...\u0007Whether it has been buried or submerged, there is no place the Moblins cannot find..."
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007And I was beginning to wonder when I was going to be able to see the boy once again. I have unfinished business with him..."
+            },
+            {
+              "id": 7748,
+              "string": "!?\u0000\u0007As much as I'd like to, it would be improper for me not to return the favor..."
+            },
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007...the favor bestowed upon the Kuluu over ten thousand years ago!"
+            },
+            {
+              "id": 7751,
+              "string": "!?\u0000\u0007Ha ha ha!\u0007I see my song has reached the conqueror of the skies!"
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007I am Kuluu!\u0007My strength comes from the protection of the terrestrial avatars. Without you, I am powerless!"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007The Zilart--those who have sworn revenge against Vana'diel--to you I offer these traitors as a sacrifice!"
+            },
+            {
+              "id": 7755,
+              "string": "1\u0000\u0007And that is why I must cleanse it!"
+            },
+            {
+              "id": 7756,
+              "string": "1\u0000\u0007I will find Al'Taieu and use the Chamber of Eventid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908448,
+      "name": "Bahamut",
+      "events": [
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7767,
+              "string": "1\u0000\u0007So this is what you meant, Esha'ntarl..."
+            },
+            {
+              "id": 7768,
+              "string": "1\u0000\u0007There is no need for you to prove anything, young Elvaan, for you are not the keeper."
+            },
+            {
+              "id": 7771,
+              "string": "1\u0000\u0007Esha'ntarl...\u0007Children of Altana...\u0007And, Phoenix..."
+            },
+            {
+              "id": 7772,
+              "string": "1\u0000\u0007I commend you on what you are attempting to do for the people of Vana'diel. And that is why I will tell you this..."
+            },
+            {
+              "id": 7773,
+              "string": "1\u0000\u0007The true Keeper of the Apocalypse lies in the celestial capital of Al'Taieu."
+            },
+            {
+              "id": 7774,
+              "string": "1\u0000\u0007Within that soul lies an immeasurable amount of darkness..."
+            },
+            {
+              "id": 7775,
+              "string": "1\u0000\u0007For ten thousand years it has slept... But now it has awoken..."
+            },
+            {
+              "id": 7778,
+              "string": "1\u0000\u0007Who was it that restarted the Crystal Line? Remnants of the Zilart? The children of Altana?"
+            },
+            {
+              "id": 7779,
+              "string": "1\u0000\u0007It does not matter, for now the power within the final crystal--the crystal that holds Al'Taieu in balance--has begun to fade."
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007It will not be long before the celestial capital has fallen to Vana'diel."
+            },
+            {
+              "id": 7781,
+              "string": "1\u0000\u0007When this occurs, the Keeper of the Apocalypse will arise and envelop all life."
+            },
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007And finally the Twilight God, Promathia, will use his almighty power to begin his eternal reign."
+            },
+            {
+              "id": 7783,
+              "string": "1\u0000\u0007That is why I have come... To stop the seeds of man from being wiped from Vana'diel."
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007If there is nothing for the keeper to envelop, then Promathia will not have the strength to enter our realm."
+            },
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007Why must I believe in something that does not exist?"
+            },
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007You cannot defeat the Twilight God. You will not even be allowed to approach him."
+            },
+            {
+              "id": 7794,
+              "string": "1\u0000\u0007Selh'teus proved that to us ten thousand years ago. Destruction is your destiny. You cannot escape what has already been decided."
+            },
+            {
+              "id": 7799,
+              "string": "1\u0000\u0007Impossible!\u0007Selh'teus does not have the power to..."
+            },
+            {
+              "id": 7805,
+              "string": "1\u0000\u0007Damn you, Selh'teus...!"
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007I will not let you harm Vana'diel and her children like you did once before!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908449,
+      "name": "???",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908450,
+      "name": "Selh'teus",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908451,
+      "name": "Shikaree Z",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7816,
+              "string": ".)\u0000\u0007\b!\u0007It is just as Prishe said.\u0007You didn't fall from the airship after all."
+            },
+            {
+              "id": 7822,
+              "string": "1\u0000\u0007Do you rrrealize what happened back there?"
+            },
+            {
+              "id": 7823,
+              "string": "1\u0000\u0007It was your actions that enraged the Wyrmking Bahamut."
+            },
+            {
+              "id": 7824,
+              "string": "1\u0000\u0007The rift between dragons and people is deep.\u0007There was no rrreasoning with him."
+            },
+            {
+              "id": 7825,
+              "string": "1\u0000\u0007If we could only harness the strength of the sleeping gods, we could approach Bahamut on equal footing..."
+            },
+            {
+              "id": 7827,
+              "string": "1\u0000\u0007\b, tell Tenzen to rrreturn to town before Cid's airship arrives. I want to leave as soon as possible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908452,
+      "name": "Jabbos",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7817,
+              "string": "1\u0000\u0007Are you wounded...?\u0007Tell us...where...you are...hurt..."
+            },
+            {
+              "id": 7818,
+              "string": "1\u0000\u0007Think carefully...\u0007Wounds...of the spirit...can escape...your notice..."
+            },
+            {
+              "id": 7819,
+              "string": "1\u0000\u0007And they are...much more...dangerous...than physical...cuts and bruises..."
+            },
+            {
+              "id": 7820,
+              "string": "1\u0000\u0007If you are...wounded...this Moblin...medicine...can help..."
+            },
+            {
+              "id": 7821,
+              "string": "1\u0000\u0007Tenzen...said he...was fine...as well.\u0007But he...needs medicine...as much...as you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908453,
+      "name": "Jovial Rat",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7903,
+              "string": "1\u0000\u0007The minstrel of melodies is my name,\u0007For a mere \n\u0006 gil I'd recall your past.\u0007But I find that you're lacking in cash or in fame,\u0007So until that time, my kind offer will last."
+            },
+            {
+              "id": 7903,
+              "string": "1\u0000\u0007The minstrel of melodies is my name,\u0007For a mere \n\u0006 gil I'd recall your past.\u0007But I find that you're lacking in cash or in fame,\u0007So until that time, my kind offer will last."
+            },
+            {
+              "id": 7902,
+              "string": "1\u0000\u0007The minstrel of melodies is my name,\u0007For a mere \n\u0006 gil I'll recall your past.\u0007Your stories of love, anger, triumph, and shame,\u0007The river of memories runs deep and vast."
+            },
+            {
+              "id": 7905,
+              "string": "1\u0000\u0007Which memory will you have recalled?\u0007\u000bNothing.\u0007Promathia Missions.\u0007Other Quests."
+            },
+            {
+              "id": 7906,
+              "string": "1\u0000\u0007Which memory will you have recalled?\u0007\u000bNothing.\u0007Slanderous Utterings.\u0007One to Be Feared(pt.1).\u0007One to Be Feared(pt.2).\u0007One to Be Feared(pt.3).\u0007One to Be Feared(pt.4).\u0007One to Be Feared(pt.5).\u0007One to Be Feared(pt.6).\u0007Chains and Bonds.\u0007Flames in the Darkness.\u0007Calm Before the Storm.\u0007The Warrior's Path(pt.1).\u0007The Warrior's Path(pt.2).\u0007On to Al'Taieu(pt.1)."
+            },
+            {
+              "id": 7907,
+              "string": "1\u0000\u0007Which memory will you have recalled?\u0007\u000bNothing.\u0007Apocalypse Nigh."
+            },
+            {
+              "id": 7908,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908454,
+      "name": "Justinius",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 7839,
+              "string": "1\u0000\u0007Sueleen, look sharp!\u0007An airship is entering the port!"
+            },
+            {
+              "id": 7841,
+              "string": "1\u0000\u0007That ship..."
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007Where are you off to this time, Prishe?"
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007To where...!?\u0007You better make it back here alive, Prishe!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908455,
+      "name": "Tressia",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 7840,
+              "string": "1\u0000\u0007There's a whole lot more of them circling above.\u0007What the hell's going on?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908456,
+      "name": "Sueleen",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7898,
+              "string": "].\u0000\u0007That ship of yours made its way back here of its own accord.\u0007Must be that ??autopilot?? thing that Prishe was talking about."
+            },
+            {
+              "id": 7900,
+              "string": "1\u0000\u0007I've resupplied the airship, so you can take off at any time.\u0007Are you ready to go?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007Take the airship to Al'Taieu?\u0007\u000bLet's go!\u0007Not just yet."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7830,
+              "string": "1\u0000\u0007You just missed them!\u0007Not more than a couple of minutes ago, an airship from Jeuno came and took Prishe and her friends away."
+            },
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007Ulmia said that they should wait for you, but Prishe said you'd find your own way back to the mainland...so they left."
+            },
+            {
+              "id": 7832,
+              "string": "1\u0000\u0007I wonder if that means they'll be sending another ship..."
+            },
+            {
+              "id": 7833,
+              "string": "1\u0000\u0007If that's the case, those three Tarutaru should have waited instead of hiding away in those barrels."
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 7836,
+              "string": "1\u0000\u0007You were asked to deliver all these letters from Ulmia and Prishe?"
+            },
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007And I'm supposed to hand them out if those two fail to return...?"
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007Where on Vana'diel are they thinking of going?\u0007You're not seriously thinking of taking on the wyrms...!?"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "dialogue": [
+            {
+              "id": 7898,
+              "string": "].\u0000\u0007That ship of yours made its way back here of its own accord.\u0007Must be that ??autopilot?? thing that Prishe was talking about."
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007The Sealion's Den once served as a private port for the Tavnazian Cathedral."
+            },
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007However, not a single ship has visited this place in over twenty years.\u0007I'm only stationed here to make sure no beastmen try to sneak their way into the safehold."
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "dialogue": [
+            {
+              "id": 7624,
+              "string": "1\u0000\u0007I never believed the day would come when I saw a ship docked in the Sealion's Den."
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007I have a feeling my job is about to become real interesting!"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "dialogue": [
+            {
+              "id": 7620,
+              "string": "1\u0000\u0007The airship carrying Prishe and Ulmia just left for San d'Oria."
+            },
+            {
+              "id": 7621,
+              "string": "1\u0000\u0007Someday maybe I'll be lucky enough to ride an airship off the island... Someday..."
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "dialogue": [
+            {
+              "id": 7630,
+              "string": "1\u0000\u0007Cid?\u0007No one going by that name has passed through here."
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "dialogue": [
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007Ulmia told me that we may never see Prishe again..."
+            },
+            {
+              "id": 7665,
+              "string": "1\u0000\u0007...That Prishe is ready to sacrifice herself to the Wyrmking to save the world..."
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007But you won't let that happen, will you, \b? You'll find a way to save Prishe, Ulmia, and everybody, right?"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "dialogue": [
+            {
+              "id": 7834,
+              "string": "1\u0000\u0007Over the past few months, hundreds of ships have brought thousands of people to our town."
+            },
+            {
+              "id": 7835,
+              "string": "1\u0000\u0007It's like a clock that hasn't run for twenty years has suddenly started ticking again."
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "dialogue": [
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007The Chebukki brothers arrived a while back on an airship that was unlike any that had visited our port before."
+            },
+            {
+              "id": 7627,
+              "string": "1\u0000\u0007There were enough weapons on the contraption to blow up an island..."
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007If you're looking for the Chebukki brothers, they headed back to Jeuno a few days ago.\u0007Now that you mention it, they looked like they were in quite a hurry."
+            },
+            {
+              "id": 7629,
+              "string": "1\u0000\u0007I guess once you've had a taste of city life, it's hard to come back to the country..."
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "dialogue": [
+            {
+              "id": 7851,
+              "string": "1\u0000\u0007Please, adventurer.\u0007Keep Prishe and Ulmia safe from harm."
+            },
+            {
+              "id": 7852,
+              "string": "1\u0000\u0007I want to laugh as I hand back the letters they wrote in case they didn't make it..."
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908457,
+      "name": "Chemioue",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908458,
+      "name": "Mengrenaux",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908459,
+      "name": "Parelbriaux",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908460,
+      "name": "Ondieulix",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908461,
+      "name": "Cid",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7632,
+              "string": "1\u0000\u0007I've brought Ulmia and Louverance with me."
+            },
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007But I'm sorry to say Prishe couldn't make it. There's been a bit of a problem."
+            },
+            {
+              "id": 7635,
+              "string": "1\u0000\u0007Ulmia, would you be so kind as to fill Tenzen in on the details?"
+            },
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007I have some business with Gilgamesh's little helpers."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007I'm going to hitch a ride back to Bastok on Gilgamesh's boat and let the president in on what's going on."
+            },
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007Even if you are successful in stopping Bahamut, there's no knowing what his wyrm army might do. The Republic has to be prepared for the worst."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007Heh heh. You know if I were only a few years younger, I'd be up there with you guys. But my place is back in Bastok. Gilgamesh made sure I didn't forget that."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007And don't you forget that you're going up there to save your nations--no, to save all of Vana'diel!"
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007Your lives will be on the line, but I know you'll be all right!"
+            },
+            {
+              "id": 7659,
+              "string": "1\u0000\u0007As long as you're riding my \f\u0000[\/Ultra \/Hyper \/Psycho \/Eternal \/Neo \/Lovely \/Pretty \/Final \/Extra \/Deadly \/Savage \/Aero \/Pseudo \/Universal \/Exciting \/Celestial \/Super \/Mighty \/Mega \/Omni \/Poly ]\f\u0001[\/Terror \/Perfect \/Royale \/Gorgeous \/Pretty \/Hell \/Fantasy \/Stealth \/Powerful \/Invincible \/Explosive \/Storm \/Fantastic \/Duper \/Go-Go \/Morphing \/Retro \/Sonic \/Cloud \/Sky \/Stellar ]\f\u0002[\/Hyper \/Neo \/Lovely \/Happy \/Caller \/Hound \/XI \/Armored \/Brutal \/Buster \/Alpha \/Chief \/Provoker \/Mincer \/Streak \/King \/Prince \/Power \/Robo \/Delver \/Mystic ]\f\u0003[C.I.D.\/Enterprise\/Nautilus\/Gilgamemnon\/Redwing\/Blackjack\/Falcon\/Highwind\/Ragnarok\/Hilda Garde\/Prima Vista\/Red Rose\/Fahrenheit], nothing can go wrong!"
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007Wah ha ha ha!"
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007She's all yours!\u0007Now get out of here...Warriors of the Crystal!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908462,
+      "name": "Shikaree Y",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908463,
+      "name": "Shikaree X",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908473,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 29,
+          "dialogue": [
+            {
+              "id": 7940,
+              "string": "1\u0000\u0007\b, I have awaited your arrival."
+            },
+            {
+              "id": 7941,
+              "string": "1\u0000\u0007It is my fault that this terrible thing is occurring--I have no excuses."
+            },
+            {
+              "id": 7942,
+              "string": "1\u0000\u0007I always feared that my act of relinquishing the Star of Tavnazia..."
+            },
+            {
+              "id": 7943,
+              "string": "1\u0000\u0007...would one day bring the world back to the brink of destruction."
+            },
+            {
+              "id": 7944,
+              "string": "1\u0000\u0007But to be completely honest, I am overjoyed that this darkness has given us another chance to meet.\u0007Truly, I am..."
+            },
+            {
+              "id": 7947,
+              "string": "1\u0000\u0007Aw, c'mon, Ulmia!\u0007It's been so long since I've seen \b."
+            },
+            {
+              "id": 7948,
+              "string": "1\u0000\u0007A normal reunion would be kinda boring, and I just wanted to spice things up a little..."
+            },
+            {
+              "id": 7950,
+              "string": "1\u0000\u0007That's...not...true..."
+            },
+            {
+              "id": 7951,
+              "string": "1\u0000\u0007Oh! Hey, there's the \f\u0000[\/Ultra \/Hyper \/Psycho \/Eternal \/Neo \/Lovely \/Pretty \/Final \/Extra \/Deadly \/Savage \/Aero \/Pseudo \/Universal \/Exciting \/Celestial \/Super \/Mighty \/Mega \/Omni \/Poly ]\f\u0001[\/Terror \/Perfect \/Royale \/Gorgeous \/Pretty \/Hell \/Fantasy \/Stealth \/Powerful \/Invincible \/Explosive \/Storm \/Fantastic \/Duper \/Go-Go \/Morphing \/Retro \/Sonic \/Cloud \/Sky \/Stellar ]\f\u0002[\/Hyper \/Neo \/Lovely \/Happy \/Caller \/Hound \/XI \/Armored \/Brutal \/Buster \/Alpha \/Chief \/Provoker \/Mincer \/Streak \/King \/Prince \/Power \/Robo \/Delver \/Mystic ]\f\u0003[C.I.D.\/Enterprise\/Nautilus\/Gilgamemnon\/Redwing\/Blackjack\/Falcon\/Highwind\/Ragnarok\/Hilda Garde\/Prima Vista\/Red Rose\/Fahrenheit]!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908474,
+      "name": "Ulmia",
+      "events": [
+        {
+          "id": 29,
+          "dialogue": [
+            {
+              "id": 7945,
+              "string": "1\u0000\u0007Prishe!\u0007You stop this nonsense at once!"
+            },
+            {
+              "id": 7946,
+              "string": "1\u0000\u0007Why must you insist on playing the clown at a time like this!?\u0007You truly are incorrigible!"
+            },
+            {
+              "id": 7949,
+              "string": "1\u0000\u0007You were just trying to cover up your own awkwardness!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908475,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 29,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908476,
+      "name": "Ulmia",
+      "events": [
+        {
+          "id": 29,
+          "dialogue": [
+            {
+              "id": 7952,
+              "string": "1\u0000\u0007\b.\u0007Cardinal Mildaurion will be joining us later.\u0007Let us begin our journey to the fifth mothercrystal."
+            },
+            {
+              "id": 7953,
+              "string": "1\u0000\u0007Our mission will be a success.\u0007I know it in my heart."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908477,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16908478,
+      "name": "",
+      "events": [
+        {
+          "id": 29,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908479,
+      "name": "",
+      "events": [
+        {
+          "id": 31,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16908480,
+      "name": "Resume Point",
+      "events": [
+        {
+          "id": 35,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 36,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7583,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007One to Be Feared.\u0007The Warrior's Path.\u0007??The Warrior's Path.\u0007??One to Be Feared.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007."
+            },
+            {
+              "id": 7414,
+              "string": "\u0000!\u0000\u0007Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave."
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7060,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7061,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7062,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7063,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7099,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7413,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7581,
+              "string": "].\u0000\u0007The current battlefield clear time record for ??\f\u0001[One to Be Feared\/The Warrior's Path\/??The Warrior's Path\/??One to Be Feared]?? is \n\u0003 minute?\u0003[\/s] \n\u0002 second?\u0002[\/s"
+            },
+            {
+              "id": 7580,
+              "string": "?!\u0000\u0007The current battlefield clear time record for ??\f\u0001[One to Be Feared\/The Warrior's Path\/??The Warrior's Path\/??One to Be Feared]?? is \n\u0003 second?\u0003[\/s"
+            },
+            {
+              "id": 7413,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7052,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32005,
+          "dialogue": [
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1461 @@
+{
+  "id": 271,
+  "name": "Cirdas Caverns [U]",
+  "actors": [
+    {
+      "id": 17888188,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2000,
+          "dialogue": [
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Stockade Cons. 1.\u0007Stockade Cons. 2.\u0007Cantonment Rest.\u0007Stockade Const. 3.\u0007Stockade Const. 4.\u0007Decreased Defending Time."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Fenestral Boons."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Fragments+ (Weak).\u0007Fragments+ (Medium).\u0007Fragments+ (Strong).\u0007Fragments+ (Very Strong).\u0007Fragments+ (Colossal)."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Bayld+\/Obsidian Fragments+\/Attack+\/Defense+\/Magic Attack+\/Magic Defense+\/Map Obtainment\/HP & MP Recovery+\/TP3000+\/HP+\/MP+\/Movement Speed+]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Stockade Cons. 1\/Stockade Cons. 2\/Cantonment Rest.\/Stockade Cons. 3\/Stockade Cons. 4\/Dec. Def. Time]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Fragments+ (Weak)\/Fragments+ (Medium)\/Fragments+ (Strong)\/Frag.+ (Very Strong)\/Frag.+ (Colossal)]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888189,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2001,
+          "dialogue": [
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Stockade Cons. 1.\u0007Stockade Cons. 2.\u0007Cantonment Rest.\u0007Stockade Const. 3.\u0007Stockade Const. 4.\u0007Decreased Defending Time."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Fenestral Boons."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Fragments+ (Weak).\u0007Fragments+ (Medium).\u0007Fragments+ (Strong).\u0007Fragments+ (Very Strong).\u0007Fragments+ (Colossal)."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Bayld+\/Obsidian Fragments+\/Attack+\/Defense+\/Magic Attack+\/Magic Defense+\/Map Obtainment\/HP & MP Recovery+\/TP3000+\/HP+\/MP+\/Movement Speed+]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Stockade Cons. 1\/Stockade Cons. 2\/Cantonment Rest.\/Stockade Cons. 3\/Stockade Cons. 4\/Dec. Def. Time]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Fragments+ (Weak)\/Fragments+ (Medium)\/Fragments+ (Strong)\/Frag.+ (Very Strong)\/Frag.+ (Colossal)]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888190,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2002,
+          "dialogue": [
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Stockade Cons. 1.\u0007Stockade Cons. 2.\u0007Cantonment Rest.\u0007Stockade Const. 3.\u0007Stockade Const. 4.\u0007Decreased Defending Time."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Fenestral Boons."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Fragments+ (Weak).\u0007Fragments+ (Medium).\u0007Fragments+ (Strong).\u0007Fragments+ (Very Strong).\u0007Fragments+ (Colossal)."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Bayld+\/Obsidian Fragments+\/Attack+\/Defense+\/Magic Attack+\/Magic Defense+\/Map Obtainment\/HP & MP Recovery+\/TP3000+\/HP+\/MP+\/Movement Speed+]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Stockade Cons. 1\/Stockade Cons. 2\/Cantonment Rest.\/Stockade Cons. 3\/Stockade Cons. 4\/Dec. Def. Time]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Fragments+ (Weak)\/Fragments+ (Medium)\/Fragments+ (Strong)\/Frag.+ (Very Strong)\/Frag.+ (Colossal)]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888191,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2003,
+          "dialogue": [
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Stockade Cons. 1.\u0007Stockade Cons. 2.\u0007Cantonment Rest.\u0007Stockade Const. 3.\u0007Stockade Const. 4.\u0007Decreased Defending Time."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Fenestral Boons."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Fragments+ (Weak).\u0007Fragments+ (Medium).\u0007Fragments+ (Strong).\u0007Fragments+ (Very Strong).\u0007Fragments+ (Colossal)."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Bayld+\/Obsidian Fragments+\/Attack+\/Defense+\/Magic Attack+\/Magic Defense+\/Map Obtainment\/HP & MP Recovery+\/TP3000+\/HP+\/MP+\/Movement Speed+]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Stockade Cons. 1\/Stockade Cons. 2\/Cantonment Rest.\/Stockade Cons. 3\/Stockade Cons. 4\/Dec. Def. Time]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Fragments+ (Weak)\/Fragments+ (Medium)\/Fragments+ (Strong)\/Frag.+ (Very Strong)\/Frag.+ (Colossal)]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888192,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2004,
+          "dialogue": [
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Stockade Cons. 1.\u0007Stockade Cons. 2.\u0007Cantonment Rest.\u0007Stockade Const. 3.\u0007Stockade Const. 4.\u0007Decreased Defending Time."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Fenestral Boons."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Fragments+ (Weak).\u0007Fragments+ (Medium).\u0007Fragments+ (Strong).\u0007Fragments+ (Very Strong).\u0007Fragments+ (Colossal)."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Bayld+\/Obsidian Fragments+\/Attack+\/Defense+\/Magic Attack+\/Magic Defense+\/Map Obtainment\/HP & MP Recovery+\/TP3000+\/HP+\/MP+\/Movement Speed+]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Stockade Cons. 1\/Stockade Cons. 2\/Cantonment Rest.\/Stockade Cons. 3\/Stockade Cons. 4\/Dec. Def. Time]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Fragments+ (Weak)\/Fragments+ (Medium)\/Fragments+ (Strong)\/Frag.+ (Very Strong)\/Frag.+ (Colossal)]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888193,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2005,
+          "dialogue": [
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Stockade Cons. 1.\u0007Stockade Cons. 2.\u0007Cantonment Rest.\u0007Stockade Const. 3.\u0007Stockade Const. 4.\u0007Decreased Defending Time."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Fenestral Boons."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Fragments+ (Weak).\u0007Fragments+ (Medium).\u0007Fragments+ (Strong).\u0007Fragments+ (Very Strong).\u0007Fragments+ (Colossal)."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Bayld+\/Obsidian Fragments+\/Attack+\/Defense+\/Magic Attack+\/Magic Defense+\/Map Obtainment\/HP & MP Recovery+\/TP3000+\/HP+\/MP+\/Movement Speed+]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Stockade Cons. 1\/Stockade Cons. 2\/Cantonment Rest.\/Stockade Cons. 3\/Stockade Cons. 4\/Dec. Def. Time]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Fragments+ (Weak)\/Fragments+ (Medium)\/Fragments+ (Strong)\/Frag.+ (Very Strong)\/Frag.+ (Colossal)]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888194,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2006,
+          "dialogue": [
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Stockade Cons. 1.\u0007Stockade Cons. 2.\u0007Cantonment Rest.\u0007Stockade Const. 3.\u0007Stockade Const. 4.\u0007Decreased Defending Time."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Fenestral Boons."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Fragments+ (Weak).\u0007Fragments+ (Medium).\u0007Fragments+ (Strong).\u0007Fragments+ (Very Strong).\u0007Fragments+ (Colossal)."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Bayld+\/Obsidian Fragments+\/Attack+\/Defense+\/Magic Attack+\/Magic Defense+\/Map Obtainment\/HP & MP Recovery+\/TP3000+\/HP+\/MP+\/Movement Speed+]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Stockade Cons. 1\/Stockade Cons. 2\/Cantonment Rest.\/Stockade Cons. 3\/Stockade Cons. 4\/Dec. Def. Time]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Fragments+ (Weak)\/Fragments+ (Medium)\/Fragments+ (Strong)\/Frag.+ (Very Strong)\/Frag.+ (Colossal)]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888195,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2007,
+          "dialogue": [
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Stockade Cons. 1.\u0007Stockade Cons. 2.\u0007Cantonment Rest.\u0007Stockade Const. 3.\u0007Stockade Const. 4.\u0007Decreased Defending Time."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Fenestral Boons."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Fragments+ (Weak).\u0007Fragments+ (Medium).\u0007Fragments+ (Strong).\u0007Fragments+ (Very Strong).\u0007Fragments+ (Colossal)."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Bayld+\/Obsidian Fragments+\/Attack+\/Defense+\/Magic Attack+\/Magic Defense+\/Map Obtainment\/HP & MP Recovery+\/TP3000+\/HP+\/MP+\/Movement Speed+]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Stockade Cons. 1\/Stockade Cons. 2\/Cantonment Rest.\/Stockade Cons. 3\/Stockade Cons. 4\/Dec. Def. Time]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Fragments+ (Weak)\/Fragments+ (Medium)\/Fragments+ (Strong)\/Frag.+ (Very Strong)\/Frag.+ (Colossal)]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888196,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2008,
+          "dialogue": [
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Stockade Cons. 1.\u0007Stockade Cons. 2.\u0007Cantonment Rest.\u0007Stockade Const. 3.\u0007Stockade Const. 4.\u0007Decreased Defending Time."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Fenestral Boons."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Fragments+ (Weak).\u0007Fragments+ (Medium).\u0007Fragments+ (Strong).\u0007Fragments+ (Very Strong).\u0007Fragments+ (Colossal)."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Bayld+\/Obsidian Fragments+\/Attack+\/Defense+\/Magic Attack+\/Magic Defense+\/Map Obtainment\/HP & MP Recovery+\/TP3000+\/HP+\/MP+\/Movement Speed+]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Stockade Cons. 1\/Stockade Cons. 2\/Cantonment Rest.\/Stockade Cons. 3\/Stockade Cons. 4\/Dec. Def. Time]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Fragments+ (Weak)\/Fragments+ (Medium)\/Fragments+ (Strong)\/Frag.+ (Very Strong)\/Frag.+ (Colossal)]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888197,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2009,
+          "dialogue": [
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Defensive Measures."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Stockade Cons. 1.\u0007Stockade Cons. 2.\u0007Cantonment Rest.\u0007Stockade Const. 3.\u0007Stockade Const. 4.\u0007Decreased Defending Time."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone.\u0007Bayld+.\u0007Obsidian Fragments+.\u0007Attack+.\u0007Defense+.\u0007Magic Attack+.\u0007Magic Defense+.\u0007Map Obtainment.\u0007HP & MP Recovery+.\u0007TP3000+.\u0007HP+.\u0007MP+.\u0007Movement Speed+.\u0007Fenestral Boons."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Which benefit?\u0007\u000bNone. Go back.\u0007Fragments+ (Weak).\u0007Fragments+ (Medium).\u0007Fragments+ (Strong).\u0007Fragments+ (Very Strong).\u0007Fragments+ (Colossal)."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Bayld+\/Obsidian Fragments+\/Attack+\/Defense+\/Magic Attack+\/Magic Defense+\/Map Obtainment\/HP & MP Recovery+\/TP3000+\/HP+\/MP+\/Movement Speed+]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Stockade Cons. 1\/Stockade Cons. 2\/Cantonment Rest.\/Stockade Cons. 3\/Stockade Cons. 4\/Dec. Def. Time]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Receive the effect of \f\u0000[Fragments+ (Weak)\/Fragments+ (Medium)\/Fragments+ (Strong)\/Frag.+ (Very Strong)\/Frag.+ (Colossal)]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888205,
+      "name": "Treasure Coffer",
+      "events": [
+        {
+          "id": 2010,
+          "dialogue": [
+            {
+              "id": 7357,
+              "string": "].\u0000\u0007Which will you obtain?\u0007\u000bNothing.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007All the spoils!"
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888206,
+      "name": "Treasure Coffer",
+      "events": [
+        {
+          "id": 2011,
+          "dialogue": [
+            {
+              "id": 7357,
+              "string": "].\u0000\u0007Which will you obtain?\u0007\u000bNothing.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007All the spoils!"
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888207,
+      "name": "Treasure Coffer",
+      "events": [
+        {
+          "id": 2012,
+          "dialogue": [
+            {
+              "id": 7357,
+              "string": "].\u0000\u0007Which will you obtain?\u0007\u000bNothing.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007All the spoils!"
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888208,
+      "name": "Treasure Coffer",
+      "events": [
+        {
+          "id": 2013,
+          "dialogue": [
+            {
+              "id": 7357,
+              "string": "].\u0000\u0007Which will you obtain?\u0007\u000bNothing.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007All the spoils!"
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888209,
+      "name": "Treasure Coffer",
+      "events": [
+        {
+          "id": 2014,
+          "dialogue": [
+            {
+              "id": 7357,
+              "string": "].\u0000\u0007Which will you obtain?\u0007\u000bNothing.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007All the spoils!"
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888210,
+      "name": "Treasure Coffer",
+      "events": [
+        {
+          "id": 2015,
+          "dialogue": [
+            {
+              "id": 7357,
+              "string": "].\u0000\u0007Which will you obtain?\u0007\u000bNothing.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007All the spoils!"
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888211,
+      "name": "Living Cairn",
+      "events": [
+        {
+          "id": 2016,
+          "dialogue": [
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007Teleport to the next location?\u0007\u000bProceed.\u0007Not yet."
+            }
+          ]
+        },
+        {
+          "id": 2017,
+          "dialogue": [
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007Teleport to which area?\u0007\u000bNone.\u00071.\u00072.\u00073.\u00074.\u00075.\u00076.\u00077.\u00078.\u00079.\u000710."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888214,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2018,
+          "dialogue": [
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing for now.\u0007Have benefits bestowed upon you.\u0007Receive Puissance.\u0007Check active benefits."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888215,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2019,
+          "dialogue": [
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing for now.\u0007Have benefits bestowed upon you.\u0007Receive Puissance.\u0007Check active benefits."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888216,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2020,
+          "dialogue": [
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing for now.\u0007Have benefits bestowed upon you.\u0007Receive Puissance.\u0007Check active benefits."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888217,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2021,
+          "dialogue": [
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing for now.\u0007Have benefits bestowed upon you.\u0007Receive Puissance.\u0007Check active benefits."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888218,
+      "name": "Noetic Ascension",
+      "events": [
+        {
+          "id": 2022,
+          "dialogue": [
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing for now.\u0007Have benefits bestowed upon you.\u0007Receive Puissance.\u0007Check active benefits."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007What shall you do?\u0007\u000bNothing.\u0007Have benefits bestowed upon you.\u0007Check active benefits."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You are currently blessed with the following powers...\u0007\f\u0000[??\/??] Attack+\u0007\f\u0001[??\/??] Defense+\u0007\f\u0002[??\/??] Magic Attack+"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007\f\u0000[??\/??] Magic Defense+\u0007\f\u0001[??\/??] HP+\u0007\f\u0002[??\/??] MP+\u0007\f\u0003[??\/??] Movement Speed+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888219,
+      "name": "",
+      "events": [
+        {
+          "id": 1003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888220,
+      "name": "",
+      "events": [
+        {
+          "id": 1003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888232,
+      "name": "Hollowed Pathway",
+      "events": [
+        {
+          "id": 12000,
+          "dialogue": [
+            {
+              "id": 7319,
+              "string": "..\u0000\u0007Leave the area?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888233,
+      "name": "Rusted Transmitter",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007The device makes a small humming noise. Teleportation is now active."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007Select a location.\u0007\u000bNone, thanks.\u0007Hall of the Reckless.\u0007Ymmr-Ulvid's Chamber.\u0007Ignor-Mnt's Chamber.\u0007Durs-Vike's Chamber.\u0007Tryl-Wuj's Chamber.\u0007Liij-Vok's Chamber.\u0007Gramk-Droog's Hall."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888234,
+      "name": "Rusted Transmitter",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007The device makes a small humming noise. Teleportation is now active."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007Select a location.\u0007\u000bNone, thanks.\u0007Hall of the Reckless.\u0007Ymmr-Ulvid's Chamber.\u0007Ignor-Mnt's Chamber.\u0007Durs-Vike's Chamber.\u0007Tryl-Wuj's Chamber.\u0007Liij-Vok's Chamber.\u0007Gramk-Droog's Hall."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888235,
+      "name": "Rusted Transmitter",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007The device makes a small humming noise. Teleportation is now active."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007Select a location.\u0007\u000bNone, thanks.\u0007Hall of the Reckless.\u0007Ymmr-Ulvid's Chamber.\u0007Ignor-Mnt's Chamber.\u0007Durs-Vike's Chamber.\u0007Tryl-Wuj's Chamber.\u0007Liij-Vok's Chamber.\u0007Gramk-Droog's Hall."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888236,
+      "name": "Rusted Transmitter",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007The device makes a small humming noise. Teleportation is now active."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007Select a location.\u0007\u000bNone, thanks.\u0007Hall of the Reckless.\u0007Ymmr-Ulvid's Chamber.\u0007Ignor-Mnt's Chamber.\u0007Durs-Vike's Chamber.\u0007Tryl-Wuj's Chamber.\u0007Liij-Vok's Chamber.\u0007Gramk-Droog's Hall."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888237,
+      "name": "Rusted Transmitter",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007The device makes a small humming noise. Teleportation is now active."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007Select a location.\u0007\u000bNone, thanks.\u0007Hall of the Reckless.\u0007Ymmr-Ulvid's Chamber.\u0007Ignor-Mnt's Chamber.\u0007Durs-Vike's Chamber.\u0007Tryl-Wuj's Chamber.\u0007Liij-Vok's Chamber.\u0007Gramk-Droog's Hall."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888238,
+      "name": "Rusted Transmitter",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007The device makes a small humming noise. Teleportation is now active."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007Select a location.\u0007\u000bNone, thanks.\u0007Hall of the Reckless.\u0007Ymmr-Ulvid's Chamber.\u0007Ignor-Mnt's Chamber.\u0007Durs-Vike's Chamber.\u0007Tryl-Wuj's Chamber.\u0007Liij-Vok's Chamber.\u0007Gramk-Droog's Hall."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17888239,
+      "name": "Rusted Transmitter",
+      "events": [
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007The device makes a small humming noise. Teleportation is now active."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007Select a location.\u0007\u000bNone, thanks.\u0007Hall of the Reckless.\u0007Ymmr-Ulvid's Chamber.\u0007Ignor-Mnt's Chamber.\u0007Durs-Vike's Chamber.\u0007Tryl-Wuj's Chamber.\u0007Liij-Vok's Chamber.\u0007Gramk-Droog's Hall."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 1000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

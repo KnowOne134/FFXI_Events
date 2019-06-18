@@ -1,0 +1,1500 @@
+{
+  "id": 269,
+  "name": "Moh Gates",
+  "actors": [
+    {
+      "id": 17879339,
+      "name": "JGL_BUILD_MASTER_0",
+      "events": [
+        {
+          "id": 2000,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879340,
+      "name": "JGL_BUILD_MASTER_1",
+      "events": [
+        {
+          "id": 2001,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879341,
+      "name": "JGL_BUILD_MASTER_2",
+      "events": [
+        {
+          "id": 2002,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879342,
+      "name": "JGL_BUILD_MASTER_3",
+      "events": [
+        {
+          "id": 2003,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879343,
+      "name": "JGL_BUILD_MASTER_4",
+      "events": [
+        {
+          "id": 2004,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879344,
+      "name": "JGL_BUILD_MASTER_5",
+      "events": [
+        {
+          "id": 2005,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879379,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4001,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879380,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4002,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879381,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4003,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879382,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4004,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879383,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4005,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879384,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4006,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879391,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879398,
+      "name": "",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7523,
+              "string": "1\u0000\u0007Placing the \u0001\u0005#???? in the fissure causes its vermilion surface to deepen multiple shades."
+            },
+            {
+              "id": 7524,
+              "string": "1\u0000\u0007Pouring the \u0001\u00053???? on the \u0001\u0005#???? as it begins to melt shrouds the cavern in a thick plume of breath-stealing vapor!"
+            },
+            {
+              "id": 7525,
+              "string": "1\u0000\u0007Zurko-Bazurko endeavors to steal the \u0001\u00053????, but fails miserably."
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879399,
+      "name": "Molten Rift",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879400,
+      "name": "",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7526,
+              "string": "1\u0000\u0007The darkness that dwells deep within the Zurk's soul began to broil and churn with ill portentaru, so he's come to see how you fare, pioneer."
+            },
+            {
+              "id": 7527,
+              "string": "1\u0000\u0007However, it seems his fatherly-watherly concerns were unfounded and he needs not resort to enacting Operation: Marjami. Since such is the case, the Zurk bids you ad--"
+            },
+            {
+              "id": 7528,
+              "string": "1\u0000\u0007\b!\u0007Behind you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879401,
+      "name": "Staumarth",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879402,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879403,
+      "name": "???",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7541,
+              "string": "1\u0000\u0007To your rrright!"
+            },
+            {
+              "id": 7542,
+              "string": "1\u0000\u0007No! I might not make i"
+            },
+            {
+              "id": 7543,
+              "string": "t!\u0000\u0007...Just under the wirrre!"
+            },
+            {
+              "id": 7544,
+              "string": "1\u0000\u0007Now! Let our battle crrries echo far and wide!"
+            },
+            {
+              "id": 7545,
+              "string": "1\u0000\u0007Cut them down!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879404,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879405,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879406,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879407,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879408,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879409,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879410,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879411,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879412,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879413,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879415,
+      "name": "Magma Vein",
+      "events": [
+        {
+          "id": 2500,
+          "dialogue": [
+            {
+              "id": 7477,
+              "string": "1\u0000\u0007A strange energy rises forth from the magma."
+            },
+            {
+              "id": 7478,
+              "string": "1\u0000\u0007You write down your findings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879416,
+      "name": "Ergon Locus",
+      "events": [
+        {
+          "id": 3007,
+          "dialogue": [
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[\/Flourishing Island\/Bud of the Swarm\/Luminous Isle\/Immutable Boulder\/Immaculate Sands\/Fruit of Fecundity\/Dragon Driftwood\/Torchbloom\/Spring of Prosperity\/Snowdrift Arbor\/Frostbloom\/Prominence of the Gales\/Lake of Light\/Sweltering Spring\/Prominence of the Flame].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[Sanctum of Life\/Prominence of the Soil\/Pool of Clarity\/Bryophitic Boulder\/Overgrown Grove\/Whitewater Arbor\/Bud of the Fragrant Breeze\/Crag of the Triumvirate\/Prominence of the Ripple\/Saliferous Spring\/Loch of Flux\/Lambent Pillar\/Crystalline Claw\/Prominence of the Rime\/Halcyon Icefall].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[\/Flourishing Island\/Bud of the Swarm\/Luminous Isle\/Immutable Boulder\/Immaculate Sands\/Fruit of Fecundity\/Dragon Driftwood\/Torchbloom\/Spring of Prosperity\/Snowdrift Arbor\/Frostbloom\/Prominence of the Gales\/Lake of Light\/Sweltering Spring\/Prominence of the Flame].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[Sanctum of Life\/Prominence of the Soil\/Pool of Clarity\/Bryophitic Boulder\/Overgrown Grove\/Whitewater Arbor\/Bud of the Fragrant Breeze\/Crag of the Triumvirate\/Prominence of the Ripple\/Saliferous Spring\/Loch of Flux\/Lambent Pillar\/Crystalline Claw\/Prominence of the Rime\/Halcyon Icefall].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007Commence survey?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007\f\u0000[Your survey is a success.\/You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes."
+            },
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007\f\u0000[Your survey is a success.\/You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879417,
+      "name": "Ergon Locus",
+      "events": [
+        {
+          "id": 3008,
+          "dialogue": [
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[\/Flourishing Island\/Bud of the Swarm\/Luminous Isle\/Immutable Boulder\/Immaculate Sands\/Fruit of Fecundity\/Dragon Driftwood\/Torchbloom\/Spring of Prosperity\/Snowdrift Arbor\/Frostbloom\/Prominence of the Gales\/Lake of Light\/Sweltering Spring\/Prominence of the Flame].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[Sanctum of Life\/Prominence of the Soil\/Pool of Clarity\/Bryophitic Boulder\/Overgrown Grove\/Whitewater Arbor\/Bud of the Fragrant Breeze\/Crag of the Triumvirate\/Prominence of the Ripple\/Saliferous Spring\/Loch of Flux\/Lambent Pillar\/Crystalline Claw\/Prominence of the Rime\/Halcyon Icefall].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[\/Flourishing Island\/Bud of the Swarm\/Luminous Isle\/Immutable Boulder\/Immaculate Sands\/Fruit of Fecundity\/Dragon Driftwood\/Torchbloom\/Spring of Prosperity\/Snowdrift Arbor\/Frostbloom\/Prominence of the Gales\/Lake of Light\/Sweltering Spring\/Prominence of the Flame].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[Sanctum of Life\/Prominence of the Soil\/Pool of Clarity\/Bryophitic Boulder\/Overgrown Grove\/Whitewater Arbor\/Bud of the Fragrant Breeze\/Crag of the Triumvirate\/Prominence of the Ripple\/Saliferous Spring\/Loch of Flux\/Lambent Pillar\/Crystalline Claw\/Prominence of the Rime\/Halcyon Icefall].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007Commence survey?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007\f\u0000[Your survey is a success.\/You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes."
+            },
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007\f\u0000[Your survey is a success.\/You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879418,
+      "name": "Ergon Locus",
+      "events": [
+        {
+          "id": 3009,
+          "dialogue": [
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[\/Flourishing Island\/Bud of the Swarm\/Luminous Isle\/Immutable Boulder\/Immaculate Sands\/Fruit of Fecundity\/Dragon Driftwood\/Torchbloom\/Spring of Prosperity\/Snowdrift Arbor\/Frostbloom\/Prominence of the Gales\/Lake of Light\/Sweltering Spring\/Prominence of the Flame].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[Sanctum of Life\/Prominence of the Soil\/Pool of Clarity\/Bryophitic Boulder\/Overgrown Grove\/Whitewater Arbor\/Bud of the Fragrant Breeze\/Crag of the Triumvirate\/Prominence of the Ripple\/Saliferous Spring\/Loch of Flux\/Lambent Pillar\/Crystalline Claw\/Prominence of the Rime\/Halcyon Icefall].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[\/Flourishing Island\/Bud of the Swarm\/Luminous Isle\/Immutable Boulder\/Immaculate Sands\/Fruit of Fecundity\/Dragon Driftwood\/Torchbloom\/Spring of Prosperity\/Snowdrift Arbor\/Frostbloom\/Prominence of the Gales\/Lake of Light\/Sweltering Spring\/Prominence of the Flame].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[Sanctum of Life\/Prominence of the Soil\/Pool of Clarity\/Bryophitic Boulder\/Overgrown Grove\/Whitewater Arbor\/Bud of the Fragrant Breeze\/Crag of the Triumvirate\/Prominence of the Ripple\/Saliferous Spring\/Loch of Flux\/Lambent Pillar\/Crystalline Claw\/Prominence of the Rime\/Halcyon Icefall].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007Commence survey?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007\f\u0000[Your survey is a success.\/You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes."
+            },
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007\f\u0000[Your survey is a success.\/You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879419,
+      "name": "Ergon Locus",
+      "events": [
+        {
+          "id": 30010,
+          "dialogue": [
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[\/Flourishing Island\/Bud of the Swarm\/Luminous Isle\/Immutable Boulder\/Immaculate Sands\/Fruit of Fecundity\/Dragon Driftwood\/Torchbloom\/Spring of Prosperity\/Snowdrift Arbor\/Frostbloom\/Prominence of the Gales\/Lake of Light\/Sweltering Spring\/Prominence of the Flame].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[Sanctum of Life\/Prominence of the Soil\/Pool of Clarity\/Bryophitic Boulder\/Overgrown Grove\/Whitewater Arbor\/Bud of the Fragrant Breeze\/Crag of the Triumvirate\/Prominence of the Ripple\/Saliferous Spring\/Loch of Flux\/Lambent Pillar\/Crystalline Claw\/Prominence of the Rime\/Halcyon Icefall].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[\/Flourishing Island\/Bud of the Swarm\/Luminous Isle\/Immutable Boulder\/Immaculate Sands\/Fruit of Fecundity\/Dragon Driftwood\/Torchbloom\/Spring of Prosperity\/Snowdrift Arbor\/Frostbloom\/Prominence of the Gales\/Lake of Light\/Sweltering Spring\/Prominence of the Flame].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007This seems to be the site of the ergon locus oft called the ??\f\u0000[Sanctum of Life\/Prominence of the Soil\/Pool of Clarity\/Bryophitic Boulder\/Overgrown Grove\/Whitewater Arbor\/Bud of the Fragrant Breeze\/Crag of the Triumvirate\/Prominence of the Ripple\/Saliferous Spring\/Loch of Flux\/Lambent Pillar\/Crystalline Claw\/Prominence of the Rime\/Halcyon Icefall].??\u0007It is most likely worth surveying."
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007Commence survey?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007\f\u0000[Your survey is a success.\/You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes."
+            },
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007\f\u0000[Your survey is a success.\/You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879420,
+      "name": "Lost Article",
+      "events": [
+        {
+          "id": 30011,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879431,
+      "name": "Scalable Area",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007You might be able to \f\u0002[descend\/ascend] using these vines if you only had \u0001\u00053???? and \u0001\u00056????."
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007\f\u0002[Descend\/Ascend]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879432,
+      "name": "Scalable Area",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007You might be able to \f\u0002[descend\/ascend] using these vines if you only had \u0001\u00053???? and \u0001\u00056????."
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007\f\u0002[Descend\/Ascend]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879433,
+      "name": "Scalable Area",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007You might be able to \f\u0002[descend\/ascend] using these vines if you only had \u0001\u00053???? and \u0001\u00056????."
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007\f\u0002[Descend\/Ascend]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879434,
+      "name": "Scalable Area",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007You might be able to \f\u0002[descend\/ascend] using these vines if you only had \u0001\u00053???? and \u0001\u00056????."
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007\f\u0002[Descend\/Ascend]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879435,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7720,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7721,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7729,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Forging New Bonds.\u0007Saved by the Bell."
+            },
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7731,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7732,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7733,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7722,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879437,
+      "name": "???",
+      "events": [
+        {
+          "id": 8800,
+          "dialogue": [
+            {
+              "id": 7735,
+              "string": "1\u0000\u0007Teleportation protocols active. Proceed?\u0007\u000bNo.\u0007Beam me up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879438,
+      "name": "???",
+      "events": [
+        {
+          "id": 8801,
+          "dialogue": [
+            {
+              "id": 7735,
+              "string": "1\u0000\u0007Teleportation protocols active. Proceed?\u0007\u000bNo.\u0007Beam me up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879439,
+      "name": "???",
+      "events": [
+        {
+          "id": 8802,
+          "dialogue": [
+            {
+              "id": 7735,
+              "string": "1\u0000\u0007Teleportation protocols active. Proceed?\u0007\u000bNo.\u0007Beam me up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879440,
+      "name": "???",
+      "events": [
+        {
+          "id": 8803,
+          "dialogue": [
+            {
+              "id": 7735,
+              "string": "1\u0000\u0007Teleportation protocols active. Proceed?\u0007\u000bNo.\u0007Beam me up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17879441,
+      "name": "???",
+      "events": [
+        {
+          "id": 8804,
+          "dialogue": [
+            {
+              "id": 7735,
+              "string": "1\u0000\u0007Teleportation protocols active. Proceed?\u0007\u000bNo.\u0007Beam me up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        
+      ]
+    }
+  ]
+}

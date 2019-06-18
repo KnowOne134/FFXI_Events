@@ -1,0 +1,698 @@
+{
+  "id": 224,
+  "name": "Bastok-Jeuno Airship",
+  "actors": [
+    {
+      "id": 17694724,
+      "name": "Passenger",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007Can I help you?"
+            },
+            {
+              "id": 7215,
+              "string": "1\u0000\u0007Return the dropped item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007Thank you! I don't know what I would've done if I had lost this!"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Please take this as a token of my gratitude."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Wow, thanks...\u0007I don't really remember dropping anything, though..."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007I wonder if I could see my house from up here..."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007There seem to be a lot of disreputable characters riding the airships these days..."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007It's hard to tell people apart these days, don't you agree?\u0007For some reason, that thought occurs to me whenever I ride an airship..."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007These flights to Jeuno are always so crowded, aren't they?1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17694725,
+      "name": "Passenger",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 112,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007Can I help you?"
+            },
+            {
+              "id": 7215,
+              "string": "1\u0000\u0007Return the dropped item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007Thank you! I don't know what I would've done if I had lost this!"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Please take this as a token of my gratitude."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Wow, thanks...\u0007I don't really remember dropping anything, though..."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007I wonder if I could see my house from up here..."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007There seem to be a lot of disreputable characters riding the airships these days..."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007It's hard to tell people apart these days, don't you agree?\u0007For some reason, that thought occurs to me whenever I ride an airship..."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007These flights to Jeuno are always so crowded, aren't they?1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17694726,
+      "name": "Passenger",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 113,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007Can I help you?"
+            },
+            {
+              "id": 7215,
+              "string": "1\u0000\u0007Return the dropped item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007Thank you! I don't know what I would've done if I had lost this!"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Please take this as a token of my gratitude."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Wow, thanks...\u0007I don't really remember dropping anything, though..."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007I wonder if I could see my house from up here..."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007There seem to be a lot of disreputable characters riding the airships these days..."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007It's hard to tell people apart these days, don't you agree?\u0007For some reason, that thought occurs to me whenever I ride an airship..."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007These flights to Jeuno are always so crowded, aren't they?1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17694727,
+      "name": "Passenger",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 114,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007Can I help you?"
+            },
+            {
+              "id": 7215,
+              "string": "1\u0000\u0007Return the dropped item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007Thank you! I don't know what I would've done if I had lost this!"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Please take this as a token of my gratitude."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Wow, thanks...\u0007I don't really remember dropping anything, though..."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007I wonder if I could see my house from up here..."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007There seem to be a lot of disreputable characters riding the airships these days..."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007It's hard to tell people apart these days, don't you agree?\u0007For some reason, that thought occurs to me whenever I ride an airship..."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007These flights to Jeuno are always so crowded, aren't they?1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17694728,
+      "name": "Passenger",
+      "events": [
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 115,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007Can I help you?"
+            },
+            {
+              "id": 7215,
+              "string": "1\u0000\u0007Return the dropped item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007Thank you! I don't know what I would've done if I had lost this!"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Please take this as a token of my gratitude."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Wow, thanks...\u0007I don't really remember dropping anything, though..."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007I wonder if I could see my house from up here..."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007There seem to be a lot of disreputable characters riding the airships these days..."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007It's hard to tell people apart these days, don't you agree?\u0007For some reason, that thought occurs to me whenever I ride an airship..."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007These flights to Jeuno are always so crowded, aren't they?1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17694729,
+      "name": "Passenger",
+      "events": [
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 116,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007Can I help you?"
+            },
+            {
+              "id": 7215,
+              "string": "1\u0000\u0007Return the dropped item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007Thank you! I don't know what I would've done if I had lost this!"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Please take this as a token of my gratitude."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Wow, thanks...\u0007I don't really remember dropping anything, though..."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007I wonder if I could see my house from up here..."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007There seem to be a lot of disreputable characters riding the airships these days..."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007It's hard to tell people apart these days, don't you agree?\u0007For some reason, that thought occurs to me whenever I ride an airship..."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007These flights to Jeuno are always so crowded, aren't they?1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17694730,
+      "name": "Passenger",
+      "events": [
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 117,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007Can I help you?"
+            },
+            {
+              "id": 7215,
+              "string": "1\u0000\u0007Return the dropped item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007Thank you! I don't know what I would've done if I had lost this!"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Please take this as a token of my gratitude."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Wow, thanks...\u0007I don't really remember dropping anything, though..."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007I wonder if I could see my house from up here..."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007There seem to be a lot of disreputable characters riding the airships these days..."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007It's hard to tell people apart these days, don't you agree?\u0007For some reason, that thought occurs to me whenever I ride an airship..."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007These flights to Jeuno are always so crowded, aren't they?1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17694731,
+      "name": "Passenger",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 118,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007Can I help you?"
+            },
+            {
+              "id": 7215,
+              "string": "1\u0000\u0007Return the dropped item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Thank you! I've been looking all over the place for this!"
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007Thank you! I don't know what I would've done if I had lost this!"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Please take this as a token of my gratitude."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Oh, thanks...\u0007I'm not sure that this belongs to me, though..."
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Wow, thanks...\u0007I don't really remember dropping anything, though..."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007I wonder if I could see my house from up here..."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007There seem to be a lot of disreputable characters riding the airships these days..."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007It's hard to tell people apart these days, don't you agree?\u0007For some reason, that thought occurs to me whenever I ride an airship..."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007These flights to Jeuno are always so crowded, aren't they?1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2298 @@
+{
+  "id": 13,
+  "name": "Mine Shaft #2716",
+  "actors": [
+    {
+      "id": 16830583,
+      "name": "",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830586,
+      "name": "Shaft Entrance",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830587,
+      "name": "Shaft Entrance",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830588,
+      "name": "Shaft Entrance",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830589,
+      "name": "Shaft Entrance",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830594,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007???l?f?o?b?O?p???j???[\u0007\u000b?L?????Z??\u0007???[?v\u0007?J????\u0007?C?x???g"
+            },
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007?{?^?????????????i??????"
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007?W?????v?????I??\u0007\u000b?{?X????"
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007?C?x???g???I??\u0007\u000b?{?X?O\u0007?{?X??\u0007????\u0007????\u0007?????p"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830595,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16830596,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16830597,
+      "name": "Selh'teus",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830598,
+      "name": "Louverance",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7592,
+              "string": "1\u0000\u0007I never imagined we would meet Selh'teus in this place..."
+            },
+            {
+              "id": 7593,
+              "string": "1\u0000\u0007However, what could these creatures be jabbering about...?"
+            },
+            {
+              "id": 7597,
+              "string": "1\u0000\u0007A Galka...?"
+            },
+            {
+              "id": 7604,
+              "string": "1\u0000\u0007But..."
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007Wait right there! Why, you are those pesky children from Tavnazia!"
+            },
+            {
+              "id": 7612,
+              "string": "1\u0000\u0007\b!\u0007This is a perfect opportunity to take Selh'teus into custody. We cannot pass it up!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007Delegates? You would not happen to have been sent here by Nag'molada, would you?"
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007I do not think that will be possible."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007Mister Jabbos.\u0007Of what the Moblins said, there is still much that troubles me..."
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007What were they talking of with the boy?"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You must tell us. It may aid us in finding Selh'teus and bringing him into custody. "
+            },
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007That's it!\u0007Master Cid may know more of what is going on!\u0007I shall lead the way to the Metalworks. There you can inform us of what you know!"
+            },
+            {
+              "id": 7668,
+              "string": "1\u0000\u0007\b, I will meet you again in Cid's laboratory!"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7672,
+              "string": "1\u0000\u0007Come to your senses, man."
+            },
+            {
+              "id": 7673,
+              "string": "1\u0000\u0007You've been trying to convince these creatures for the past one hundred years. They have not listened to you before, and they are not about to listen to you any time soon."
+            },
+            {
+              "id": 7674,
+              "string": "1\u0000\u0007The beastmen were born from a seed different than you and I. They will never understand our logic, and we will never understand theirs."
+            },
+            {
+              "id": 7676,
+              "string": "1\u0000\u0007Yes, there are a few individuals on both sides that learn to feel for the other."
+            },
+            {
+              "id": 7677,
+              "string": "1\u0000\u0007However, when the species unite as one, their ??nature?? takes control. The will of the group overrides the will of the individual. This will is their destiny--a destiny that cannot be altered."
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007The boy we are after, Selh'teus--the Moblins will never betray him because that is the will of their species."
+            },
+            {
+              "id": 7679,
+              "string": "1\u0000\u0007And the will of their species is that of the Twilight God, Promathia--the same will that Selh'teus inherited over ten thousand years ago."
+            },
+            {
+              "id": 7681,
+              "string": "1\u0000\u0007Tricked? Tricked into what?"
+            },
+            {
+              "id": 7688,
+              "string": "1\u0000\u0007The statue...?"
+            },
+            {
+              "id": 7692,
+              "string": "1\u0000\u0007And that is why you remain here with the Moblins?\u0007To convince them of their misunderstanding?\u0007To repent for your sins?"
+            },
+            {
+              "id": 7693,
+              "string": "1\u0000\u0007Jabbos, you need not burden yourself with such futile efforts to shake unwavering destinies. The Moblins would have eventually realized they were born of the Twilight God."
+            },
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007!?\u0007Preposterous!"
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007Are you to have me believe that an official from the Tavnazian Cathedral denied the teachings of Altana!?"
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007I have never heard such an outrageous thing! Are you in your right mind, man!?"
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7708,
+              "string": "1\u0000\u0007...!"
+            },
+            {
+              "id": 7727,
+              "string": "o!\u0000\u0007Wait!"
+            },
+            {
+              "id": 7728,
+              "string": "1\u0000\u0007Jabbos! What did they say?\u0007Where are you going?"
+            },
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007Then come with us!"
+            },
+            {
+              "id": 7731,
+              "string": "1\u0000\u0007Jabbos, your strength and will to save the Moblins--why not use that ability to save us as well!?"
+            },
+            {
+              "id": 7733,
+              "string": "1\u0000\u0007Just as the Moblins are bound by the chains of Promathia, the children of Altana, too, are in danger of meeting the same fate."
+            },
+            {
+              "id": 7734,
+              "string": "1\u0000\u0007If the chains are merely part of the Twilight God's curse, then possibly what you said is true--the Moblins are not the children of Promathia, but simply diseased by his evil will..."
+            },
+            {
+              "id": 7736,
+              "string": "1\u0000\u0007Come, Jabbos. Let us meet with Cid and derive a plan to rid our world of the twilight's darkness once and for all."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7759,
+              "string": "1\u0000\u0007However, it seems as if he caused a cave-in to prevent us from following him..."
+            },
+            {
+              "id": 7760,
+              "string": "1\u0000\u0007The Moblins' wounds are severe. It would be impossible for them to aid us in clearing the tunnel..."
+            },
+            {
+              "id": 7767,
+              "string": "1\u0000\u0007Calm down, my friend. We all understand how you feel, but you will never be able to clear this tunnel by yourself."
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830599,
+      "name": "Jabbos",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7595,
+              "string": "1\u0000\u0007Who are you...people...?"
+            },
+            {
+              "id": 7596,
+              "string": "1\u0000\u0007Do you know...who that boy...is?"
+            },
+            {
+              "id": 7598,
+              "string": "1\u0000\u0007I am...Jabbos...\u0007I have lived...with the Moblins...for a long, long time..."
+            },
+            {
+              "id": 7599,
+              "string": "1\u0000\u0007A long time...in peace..."
+            },
+            {
+              "id": 7600,
+              "string": "1\u0000\u0007But lately...\u0007The Moblins...act strangely..."
+            },
+            {
+              "id": 7601,
+              "string": "1\u0000\u0007They praise the Twilight...God...\u0007They attack...the children of Altana..."
+            },
+            {
+              "id": 7602,
+              "string": "1\u0000\u0007But I'll...stop them...\u0007I promise...\u0007Moblins...don't break...promises..."
+            },
+            {
+              "id": 7603,
+              "string": "1\u0000\u0007Now go...\u0007Leave...the rest to...me..."
+            },
+            {
+              "id": 7607,
+              "string": "1\u0000\u0007!?"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7624,
+              "string": "1\u0000\u0007Wait...everyone...\u0007Calm...down...\u0007Listen to...me..."
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007That boy... He's... He's not Promathia..."
+            },
+            {
+              "id": 7627,
+              "string": "1\u0000\u0007He looks...nothing...like Promathia..."
+            },
+            {
+              "id": 7629,
+              "string": "1\u0000\u0007Yes...\u0007I've seen Promathia... His statue..."
+            },
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007Yes...\u0007But there is no...crystal...on his chest...\u0007He can't...be the real...Promathia..."
+            },
+            {
+              "id": 7635,
+              "string": "1\u0000\u0007And you...weren't created by...Promathia...anyway..."
+            },
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007Statue...?"
+            },
+            {
+              "id": 7657,
+              "string": "..\u0000\u0007Shhhooowaaa...\u0007Travelers... This place...is dangerous..."
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007You...should leave...right away...\u0007The Moblins...are upset...\u0007Who knows...what they might...do..."
+            },
+            {
+              "id": 7659,
+              "string": "1\u0000\u0007There is...an exit...over there...\u0007Don't...look back...\u0007Run..."
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007And don't...\u0007Don't tell anyone...what you heard...or saw here...\u0007Don't..."
+            },
+            {
+              "id": 7665,
+              "string": "1\u0000\u0007Shhhhoooowaaa...\u0007So...\u0007You know...of the boy..."
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007I, too...wish to know...more...\u0007We must go...to Bastok..."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007You...!"
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007Why...have you...returned...?\u0007I have...nothing more to...say to you..."
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007Don't...worry...\u0007I will convince...the Moblins...\u0007I just need...more time...\u0007More...time..."
+            },
+            {
+              "id": 7675,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7680,
+              "string": "1\u0000\u0007No... You are...wrong...\u0007The Moblins...are merely...blind...\u0007Blind...to the truth...\u0007They...were tricked..."
+            },
+            {
+              "id": 7682,
+              "string": "1\u0000\u0007Listen...to me...\u0007Long, long ago...the Moblins were searching...\u0007Searching for...an iron...giant...bathed in light..."
+            },
+            {
+              "id": 7683,
+              "string": "1\u0000\u0007Their legend...\u0007It says...the iron giant...he will give them...power...\u0007So the Moblins...began digging..."
+            },
+            {
+              "id": 7684,
+              "string": "1\u0000\u0007But...what they found...\u0007It wasn't the iron...giant...\u0007It was a stone...statue..."
+            },
+            {
+              "id": 7685,
+              "string": "1\u0000\u0007But they...believed it was...what they had been...searching for...\u0007Though...no matter how much...they prayed... No matter how many offerings they gave...\u0007The statue...gave them nothing...in return..."
+            },
+            {
+              "id": 7686,
+              "string": "1\u0000\u0007To learn...the reason why...they left the caves...and began to attack...people...\u0007They would kidnap...and pillage... All to find...an answer..."
+            },
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007I knew...I must try to stop...them...\u0007So...I set out...on a journey to...learn of the...statue..."
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007It was not...long...before I learned...it was not...the iron...giant...but Promathia...\u0007I told this...to the Moblins...hoping they...would understand...and change...their ways..."
+            },
+            {
+              "id": 7690,
+              "string": "1\u0000\u0007But I was wrong...\u0007I had opened...Pandora's...box..."
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007The Moblins...started to believe...they were the...children of Promathia...\u0007And that...it was their destiny...to hate...and destroy...the children...of Altana..."
+            },
+            {
+              "id": 7694,
+              "string": "1\u0000\u0007No... No...\u0007The Tavnazian...priest...told me..."
+            },
+            {
+              "id": 7695,
+              "string": "1\u0000\u0007Our legend...was wrong...\u0007The Moblins...were not born...of the Twilight..."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007I know...only what I heard...\u0007The priest...she helped me..."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007She said...the Twilight God...died long before...the beastmen...were born..."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007But...he will...return...\u0007And bring...the end...of the world..."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007She also told me...to continue...searching for...the true...iron giant..."
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007And when I...found him...the slumbering...gods...would show me...the truth..."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007Then...she rid this...place of the...statue..."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007With their...statue gone...the Moblins...returned to their caves...and began digging...once more...\u0007In search...of the iron giant...\u0007In peace..."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007Until...they found...the crystal...\u0007The crystal...that breathes life...into Vana'diel..."
+            },
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007Chekochuk!"
+            },
+            {
+              "id": 7713,
+              "string": "1\u0000\u0007Movamuq!\u0007Trikotrak...!"
+            },
+            {
+              "id": 7716,
+              "string": "1\u0000\u0007I'm...sorry...\u0007I didn't...mean to..."
+            },
+            {
+              "id": 7717,
+              "string": "1\u0000\u0007Yes...\u0007I lied...to you..."
+            },
+            {
+              "id": 7718,
+              "string": "1\u0000\u0007I was told...you were...children of...Promathia...\u0007But...I couldn't believe..."
+            },
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007That's why...\u0007I kept...searching..."
+            },
+            {
+              "id": 7720,
+              "string": "1\u0000\u0007Searching for...someone...who would tell me...the truth...\u0007Searching for...the real god..."
+            },
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007Wait...\u0007I..."
+            },
+            {
+              "id": 7675,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7729,
+              "string": "1\u0000\u0007...\u0007I...must go...\u0007They...told me...goodbye..."
+            },
+            {
+              "id": 7732,
+              "string": "1\u0000\u0007Save us...?"
+            },
+            {
+              "id": 7735,
+              "string": "1\u0000\u0007The chains...of Promathia...?"
+            },
+            {
+              "id": 7675,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7737,
+              "string": "1\u0000\u0007Alright...\u0007I will help you...\u0007To save...them..."
+            },
+            {
+              "id": 7738,
+              "string": "1\u0000\u0007Not us... Them...\u0007My friends... The Moblins..."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7740,
+              "string": "1\u0000\u0007Swipostik!\u0007Swipostik!!!"
+            },
+            {
+              "id": 7739,
+              "string": "1\u0000\u0007Chekochuk!"
+            },
+            {
+              "id": 7741,
+              "string": "1\u0000\u0007Noooooooo!!!"
+            },
+            {
+              "id": 7742,
+              "string": "1\u0000\u0007You...\u0007You...did this...!"
+            },
+            {
+              "id": 7675,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7675,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7755,
+              "string": "1\u0000\u0007You...knew that...he was planning...to call forth...the Wyrmking..."
+            },
+            {
+              "id": 7756,
+              "string": "1\u0000\u0007You were only...trying to stop...him..."
+            },
+            {
+              "id": 7762,
+              "string": "1\u0000\u0007Arrrgh!\u0007I will not...forgive...him for what...he has done to...my friends...\u0007Nag'molada...you won't get...away..."
+            },
+            {
+              "id": 7765,
+              "string": "1\u0000\u0007What...does it...look like...!?"
+            },
+            {
+              "id": 7766,
+              "string": "1\u0000\u0007When I'm...through with him...he'll know...the meaning...of pain!"
+            },
+            {
+              "id": 7768,
+              "string": "1\u0000\u0007But if I...don't...who...will...?"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830600,
+      "name": "Makki-Chebukki",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7611,
+              "string": "1\u0000\u0007Whoa!\u0007Who cares? Let's catch him!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7613,
+              "string": "1\u0000\u0007Is that all ya got?"
+            },
+            {
+              "id": 7617,
+              "string": "e!\u0000\u0007Hey!"
+            },
+            {
+              "id": 7621,
+              "string": "1\u0000\u0007We're delegates from Jeuno! If you don't let us delegate, you'll be toast!"
+            },
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007Yikes!\u0007If you do that, we won't be able to trade you Promathia's staaatuuue!"
+            },
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Yeah!\u0007We know all about that white statue!"
+            },
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007Aaah!\u0007Wait wait wait wait! My reward's running away!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7746,
+              "string": "4\u0001\u0000\u0007He's a bad, bad man!"
+            },
+            {
+              "id": 7749,
+              "string": "4\u0001\u0000\u0007He's a bad, bad man!"
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830601,
+      "name": "Kukki-Chebukki",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7606,
+              "string": "h!\u0000\u0007Out of the way! Kukki's coming through, too!"
+            },
+            {
+              "id": 7610,
+              "string": "1\u0000\u0007Whoa!\u0007I told you we shouldn't have taken that shortcut!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007I could beat you all with one hand!"
+            },
+            {
+              "id": 7620,
+              "string": "1\u0000\u0007We're delegates from Jeuno! You touch us, you're toast!"
+            },
+            {
+              "id": 7642,
+              "string": "1\u0000\u0007No Promathia's staaatuuue!"
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Yeah!\u0007You want that statue, you trade us the boy!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7745,
+              "string": "4\u0001\u0000\u0007He did it!"
+            },
+            {
+              "id": 7748,
+              "string": "4\u0001\u0000\u0007Waaah!"
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830602,
+      "name": "Cherukiki",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7609,
+              "string": "1\u0000\u0007Whoa!\u0007It's the funny-looking boy!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7615,
+              "string": "1\u0000\u0007It's time for the tickle torture!"
+            },
+            {
+              "id": 7618,
+              "string": "1\u0000\u0007Hey! Hey!\u0007Let us outta here! Let us out!"
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007Yeah!\u0007Trade us the boy!"
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007Aaah!\u0007Open open open open! My reward's getting away!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7744,
+              "string": "t!\u0000\u0007Nag'molada..."
+            },
+            {
+              "id": 7747,
+              "string": "4\u0002\u0000\u0007Waaah!"
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830603,
+      "name": "Chekochuk",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7588,
+              "string": "1\u0000\u0007Promathia's Reborn!\u0007Promathia's Reborn!\u0007He's stronger than stupid Hume Hume! He's more powerful than ugly goddess goddess!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7619,
+              "string": "1\u0000\u0007What's this this? Oooh! Three Tarutarutaru look tasty tasty!"
+            },
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007Shut up up! Shut up up up!\u0007Noisy Tarutarutaru give Moblin Moblins headache! Be quiet or I cut your throat throats!"
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007Jabbo Jabbo! What do you want want!?"
+            },
+            {
+              "id": 7631,
+              "string": "1\u0000\u0007Yeah, yeah!\u0007I saw it, too, too! It looked nothing like the boy boy!"
+            },
+            {
+              "id": 7632,
+              "string": "1\u0000\u0007But, but...\u0007Boy boy used the dark dark power, just like legend says!"
+            },
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007Jabbo Jabbo! Don't start start with that again!"
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007Tarutarutaru!\u0007You have statue statue of Twilight God God?"
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Moblins want want the statue statue!\u0007It's written in Moblin legend legend!"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7709,
+              "string": "1\u0000\u0007Jabbo! Jabbo!\u0007Why didn't you tell us us!?"
+            },
+            {
+              "id": 7715,
+              "string": "1\u0000\u0007Jabbo! Jabbo!\u0007We've never never been this mad mad before!\u0007Jabbo never never lied to us us before!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830604,
+      "name": "Movamuq",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7589,
+              "string": "1\u0000\u0007Weee'll taaake hiiim! Mooobliiins dooon't breeeak prooomiiises! Weee'll taaake hiiim tooo spaaarkly plaaace!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007Huuuh?\u0007Doooesn't looook liiike Prooomaaathiaaa? Yooou knooow whaaat heee looooks liiike?"
+            },
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007Jaaabbooos iiis fooooled by baaad peeeople!"
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007Baaad peeeople muuust paaay!"
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007Leeeave theeem fooor taisai's diiinner!"
+            },
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007Taaaruuuu!\u0007Yooou duuug uuup Prooomaaathiaaa staaatuuue!?"
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007!!!\u0007Prooomaaathiaaa's aaangry!"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007Jaaabbooos!\u0007Weee heeeard eeeverythiiing!"
+            },
+            {
+              "id": 7721,
+              "string": "1\u0000\u0007Jaaabbooos!\u0007Yooou caaan't fooool uuus aaagaaain!\u0007Yooou caaan't triiick uuus aaagaaain!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830605,
+      "name": "Trikotrak",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7590,
+              "string": "1\u0000\u0007Ys! Sprkly plc! Fr t th nrth! Undr wtr!\u0007Trmr csd cv t fll wth rcks..."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007Jbbs...\u0007Jbbs blv wrds f dwn gddss..."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007Bt, Prmth s strng! W gv hm t Trtr, myb h cn cm bck n hs wn!"
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007!!!\u0007Prmth's gttng wy!"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7712,
+              "string": "1\u0000\u0007Jbbs!\u0007Jbbs ddnt tll Mblns th trth!\u0007Jbbs btryd Mblns!"
+            },
+            {
+              "id": 7722,
+              "string": "1\u0000\u0007Jbbs!\u0007Mbln hv nthng mr t sy t Jbbs!"
+            },
+            {
+              "id": 7725,
+              "string": "1\u0000\u0007Gdbyng!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830606,
+      "name": "Swipostik",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007But's we's dig's!\u0007Moblins's don't's break's promises's!\u0007We's take's Promathia's to's sparkly's place's!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7630,
+              "string": "1\u0000\u0007Statue's? Oh's! That's statue's! The's one's that's got's stolen's!"
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007But's, we's can't's give's them's reincarnate's of's Promathia's!"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7714,
+              "string": "1\u0000\u0007Jabbos's!\u0007We're's very's mad's!\u0007Very's, very's mad's!"
+            },
+            {
+              "id": 7724,
+              "string": "1\u0000\u0007Jabbos's!\u0007Goodebyongo's!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830607,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830608,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830609,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830610,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830611,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007Come out, you lousy rat! Come out and fight like a man!"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007I'm really sorry, Jabbos. It's all my fault. If I hadn't told Nag'molada about Movalpolos, none of this would have happened."
+            },
+            {
+              "id": 7754,
+              "string": "1\u0000\u0007I should have known that creep would do something this low..."
+            },
+            {
+              "id": 7757,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7763,
+              "string": "1\u0000\u0007Hold on!"
+            },
+            {
+              "id": 7769,
+              "string": "1\u0000\u0007Dammit! What in Altana's name are we supposed to do now, huh!?"
+            },
+            {
+              "id": 7775,
+              "string": "1\u0000\u0007Well, there you go! If pushin' gets you nowhere, start pullin'! That's what I always say!"
+            },
+            {
+              "id": 7776,
+              "string": "1\u0000\u0007C'mon! Let's go see our buddy Cid. He'll help us out!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830612,
+      "name": "Ulmia",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7750,
+              "string": "4\u0001\u0000\u0007It is all right, children. Prishe and I are here now. We will not allow Nag'molada to harm you."
+            },
+            {
+              "id": 7758,
+              "string": "1\u0000\u0007According to the Tarutaru, Nag'molada disappeared down the path the Moblins cleared for Selh'teus."
+            },
+            {
+              "id": 7774,
+              "string": "1\u0000\u0007Look to the heavens...?\u0007Could the path we are searching for...be located in the heavens?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830613,
+      "name": "Tenzen",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007They're still alive!\u0007Come, give me a hand!"
+            },
+            {
+              "id": 7770,
+              "string": "1\u0000\u0007No matter the hardship, there will always be a path lighted for the righteous."
+            },
+            {
+              "id": 7771,
+              "string": "1\u0000\u0007When the land no longer gives an answer, we must look to the heavens for guidance."
+            },
+            {
+              "id": 7772,
+              "string": "1\u0000\u0007Phoenix will be our guiding light. She will show us the way."
+            },
+            {
+              "id": 7773,
+              "string": "1\u0000\u0007I do not know how, and I do not know when, but I know she will..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830614,
+      "name": "Shikaree Z",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7761,
+              "string": "1\u0000\u0007He missed their vital organs on purpose.\u0007He knew exactly what he was doing. Nag'molada is toying with us..."
+            },
+            {
+              "id": 7764,
+              "string": "1\u0000\u0007What do you think you are doing!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830615,
+      "name": "Nag'molada",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830616,
+      "name": "5",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830617,
+      "name": "6",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830618,
+      "name": "7",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830619,
+      "name": "8",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830629,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7781,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7791,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007A Century of Hardship(pt.1).\u0007A Century of Hardship(pt.2).\u0007Departures.\u0007Flames in the Darkness.\u0007Return to the Depths(pt.1).\u0007Return to the Depths(pt.2).\u0007Return to the Depths(pt.3).\u0007Return to the Depths(pt.4).\u0007Return to the Depths(pt.5)."
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7794,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7783,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830631,
+      "name": "Pawnpix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Are you sure about this, Moblin?"
+            },
+            {
+              "id": 7867,
+              "string": "1\u0000\u0007Which means celebration time!"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830632,
+      "name": "Stufstix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7863,
+              "string": "1\u0000\u0007Is that really him, Moblin?"
+            },
+            {
+              "id": 7866,
+              "string": "1\u0000\u0007Party time!"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830633,
+      "name": "Twilotak",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830634,
+      "name": "Brakobrik",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830635,
+      "name": "Tarnotik",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7859,
+              "string": "1\u0000\u0007That's the crazy reincarnation of Promathia."
+            },
+            {
+              "id": 7860,
+              "string": "1\u0000\u0007That's the crazy servant of Promathia."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007He said he brought the reincarnation of Promathia to Movalpolos."
+            },
+            {
+              "id": 7864,
+              "string": "1\u0000\u0007Crazy young Moblins all gather to argue.\u0007Is all truth, or all lies?"
+            },
+            {
+              "id": 7865,
+              "string": "1\u0000\u0007This time, Tarnotik thinks this real deal."
+            },
+            {
+              "id": 7868,
+              "string": "4\u0001\u0000\u0007Right!\u0007Tarnotik take in crazy \u0001\u0005#????!"
+            },
+            {
+              "id": 7869,
+              "string": "1\u0000\u0007Crazy Goblin show crazy people face to Promathia. Show him crazy magic."
+            },
+            {
+              "id": 7870,
+              "string": "1\u0000\u0007Crazy Goblin show crazy people face to servant of Promathia. Show him crazy magic."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16830636,
+      "name": "Magriffon",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7584,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007A Century of Hardship.\u0007Return to the Depths.\u0007Bionic Bug.\u0007Pulling the Strings.\u0007Automaton Assault.\u0007The Mobline Comedy.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007"
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave."
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7060,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7061,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7062,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7063,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7099,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7413,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7582,
+              "string": "].\u0000\u0007The current battlefield clear time record for ??\f\u0001[A Century of Hardship\/Return to the Depths\/Bionic Bug\/Pulling the Strings\/Automaton Assault\/The Mobline Comedy]?? is \n\u0003 minute?\u0003[\/s] \n\u0002 second?\u0002[\/s"
+            },
+            {
+              "id": 7581,
+              "string": "?!\u0000\u0007The current battlefield clear time record for ??\f\u0001[A Century of Hardship\/Return to the Depths\/Bionic Bug\/Pulling the Strings\/Automaton Assault\/The Mobline Comedy]?? is \n\u0003 second?\u0003[\/s"
+            },
+            {
+              "id": 7413,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7052,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            },
+            {
+              "id": 7585,
+              "string": "1\u0000\u0007Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members."
+            },
+            {
+              "id": 7586,
+              "string": "1\u0000\u0007Level limit of 60. Restricted to one person. Support job abilities inaccessable for this battlefield."
+            },
+            {
+              "id": 7587,
+              "string": "1\u0000\u0007Level limit of 60. The experience point reward for this battlefield will be reduced for parties of four or more members. Restricted to characters of the same race."
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

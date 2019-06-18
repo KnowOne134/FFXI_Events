@@ -1,0 +1,1394 @@
+{
+  "id": 148,
+  "name": "Qulun Dome",
+  "actors": [
+    {
+      "id": 17383456,
+      "name": "",
+      "events": [
+        {
+          "id": 68,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383458,
+      "name": "Magicite",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383459,
+      "name": "Raogrimm",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7226,
+              "string": "1\u0000\u0007As I thought...they were trying to protect their eggs..."
+            },
+            {
+              "id": 7227,
+              "string": "1\u0000\u0007But they don't even try to understand..."
+            },
+            {
+              "id": 7229,
+              "string": "1\u0000\u0007Ulrich, why!?"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007You will never get away with this, Ulrich!"
+            },
+            {
+              "id": 7233,
+              "string": "e!\u0000\u0007...Cornelia!?"
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007Why...!?"
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007Cornelia!!!"
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007No... NOOOOO!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383460,
+      "name": "Cornelia",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007Ulrich, wait!"
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007I...couldn't let you die here, Raogrimm... There are people who need you..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383461,
+      "name": "Ulrich",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007Huh. Nothing.\u0007With all the Quadav guarding the place, you think we'd find a treasure or two!"
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007C'mon, let's move! Let's just finish this job and go."
+            },
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007Is that all you've got, Raogrimm!?"
+            },
+            {
+              "id": 7230,
+              "string": "1\u0000\u0007Why? Because I never liked you, that's why!"
+            },
+            {
+              "id": 7234,
+              "string": "1\u0000\u0007Wh-what have I done!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383462,
+      "name": "Quadav",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383463,
+      "name": "Quadav",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383464,
+      "name": "Raogrimm",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007What is the matter, Babenn?"
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007That is unfortunate... As always, they don't even try to understand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383465,
+      "name": "Babenn",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Lord Raogrimm... We've found the Quadav temple in the mines, as you suspected.\u0007I-I could not stop them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383466,
+      "name": "Omran",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Indeed. Without them, we would not have been able to dig that mine.\u0007Now, finally, we can compete with San d'Oria for power."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383467,
+      "name": "Blamor",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007Those ??explosives??--pretty amazing, aren't they?"
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Heh, Quadav aren't good enough to live in there! One blast should take care of them..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383468,
+      "name": "Lion",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007So, that's what magicite looks like."
+            },
+            {
+              "id": 7241,
+              "string": "1\u0000\u0007What are they trying to do with it, though?"
+            },
+            {
+              "id": 7242,
+              "string": "1\u0000\u0007!!!"
+            },
+            {
+              "id": 7245,
+              "string": "1\u0000\u0007Who are you!?"
+            },
+            {
+              "id": 7248,
+              "string": "1\u0000\u0007The Shadow Lord!? It can't be!\u0007His powers couldn't have returned!?"
+            },
+            {
+              "id": 7249,
+              "string": "1\u0000\u0007Then it is true.\u0007The beastmen are trying to bring back the Shadow Lord."
+            },
+            {
+              "id": 7250,
+              "string": "1\u0000\u0007...Be careful."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383469,
+      "name": "Shadow of Darkness",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007You are too late...\u0007I have already awakened."
+            },
+            {
+              "id": 7244,
+              "string": "1\u0000\u0007Your rage, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel."
+            },
+            {
+              "id": 7246,
+              "string": "1\u0000\u0007Your kind awakened me...and this time, you will be destroyed!"
+            },
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007You cannot stop me.\u0007Vana'diel will be the grave for you and all your kind!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383470,
+      "name": "Door",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7215,
+              "string": "\n\u0007\u0000\u0007Investigate the door?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7210,
+              "string": "1\u0000\u0007The \u0001\u00053????, \u0001\u00053????, and \u0001\u00053???? shine brightl"
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            {
+              "id": 7215,
+              "string": "\n\u0007\u0000\u0007Investigate the door?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7210,
+              "string": "1\u0000\u0007The \u0001\u00053????, \u0001\u00053????, and \u0001\u00053???? shine brightl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383485,
+      "name": "Raptorlegs Gedwad",
+      "events": [
+        {
+          "id": 60,
+          "dialogue": [
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007Huh?\u0007Adventurer?"
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007You there! Help Orc friend!"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007......"
+            },
+            {
+              "id": 7360,
+              "string": "1\u0000\u0007Gah hah ha! Turtle cowards!\u0007Gedwad's plan work! Turtles think you Gedwad's army!\u0007Now Gedwad rest..."
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007...Eh?\u0007Oh! Gedwad no say thank you to adventurer!"
+            },
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007Thank you to adventurer!\u0007Gedwad saved by \b!"
+            },
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007How Gedwad know adventurer name?\u0007Trooper first class Raptorlegs Gedwad of Gochakzuk's Gravemakers know everything. Collecting information Gedwad's job!"
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Adventurer never hear of Gravemakers?\u0007Of course no hear of Gravemakers! Gravemakers secret team! Gravemakers...\u0007Ah! Forget what Gedwad say!"
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007Gedwad use speed and cunning. Gedwad sneak into turtle lair and get information for mighty Empire."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007But Gedwad have trouble. Turtles find Gedwad. Turtles send more guards. Now Gedwad no enter lair. Now Gedwad no use spybats..."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007Adventurer! You know why Gedwad blabber top-secret information to you?"
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007Gedwad no need friend! Gedwad need Orcish axe to slice adventurer head!\u0007Adventurer more stupid than Orc!"
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007If forces weak, Orc Empire attack and take cave! If Orc Empire take cave, less turtles for adventurers to fight! Orcs win, adventurers win!"
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007Spybats do rest. When spybats get info, spybats fly back to Gedwad. When spybats fly back to Gedwad, adventurer gets gold. Easy mission! Easy mission!"
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007Adventurer kill beastmen for gil, but adventurer no take beastman offer for gil. Adventurer more ruthless than Orc..."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Noble Gedwad like noble adventurer spirit!"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007But adventurer ugly face no good for mission. Turtles no stupid. Turtles see adventurer, turtles kill adventurer. Turtles kill adventurer, Gedwad mission fail, Gochakzuk eat Gedwad liver for breakfast!"
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007Adventurer need disguise..."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Oh! Gedwad remember see lady make bone helmet in country of tasty Taru. Maybe she make you good disguise!"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Gedwad stay here. When adventurer ready, come fast. Gedwad no like wait. Gedwad get hungry...eat spybats..."
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            {
+              "id": 7381,
+              "string": "1\u0000\u0007Adventurer slow. Gedwad give adventurer new name--Stubbylegs \b. Gah ha hah!"
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Eh? What thing on Stubbylegs's head?"
+            },
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007Quadav disguise?\u0007Turtle horde stupid, but not that stupid..."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007Wait... Maybe adventurer have plan!\u0007Yes! Adventurer have plan. Use funny helmet to fool stupid Quadav! Right?"
+            },
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007Here. Take spybats. Put spybats somewhere inside cave."
+            }
+          ]
+        },
+        {
+          "id": 65,
+          "dialogue": [
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007Adventurer back! Adventurer in one piece!"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007......"
+            },
+            {
+              "id": 7424,
+              "string": "1\u0000\u0007.........\u0007Eh?\u0007Adventurer and spybats captured by turtle king? I told you disguise useless!"
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007Eh?\u0007But if adventurer captured, why adventurer here?"
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007.........\u0007Gedwad see. Turtle king smarter than thought. Maybe Orc attack too early."
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007Here, adventurer. Take reward."
+            },
+            {
+              "id": 7428,
+              "string": "1\u0000\u0007Adventurer get caught, but learn much about strong Quadav defenses."
+            },
+            {
+              "id": 7430,
+              "string": "1\u0000\u0007Adventurer be Orc enemy, but today, friend."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007Gedwad tell Overlord of adventurer help, but he no listen..."
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007Maybe when adventurer die, reborn as Orc! Then I teach adventurer to be real warrior! Gwahwahaw!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383486,
+      "name": "Diamond Quadav",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383487,
+      "name": "Za'Dha Adamantking",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007Not many with skin so soft can wi-ithstand such an onslaught."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007I am impressed with your ski-ill, young recruit. Why not join the ranks of the Shieldwarriors as one of my pe-ersonal guards?"
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007Excellent! You will make a fine addi-ition to my forces. Now nothing will pene-etrate our adamantium defe-enses!\u0007Ah yes, let me offer you a gift to show you my grati-itude. Place that fine he-elmet at the base of the banner yonder."
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007I see the fire of adve-enture burns bright in your eyes. Your talent would be wa-asted as a mere bodyguard..."
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007Then why not be-ecome one of the Elite Raiders. Together we can launch an atta-ack on the empires of the East and fill our vaults with their hidden tre-easures!"
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007Excellent! You will make a fine addi-ition to my forces. Now nothing will pene-etrate our adamantium defe-enses!\u0007Ah yes, let me offer you a gift to show you my grati-itude. Place that fine he-elmet at the base of the banner yonder."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007That is unfo-ortunate. However, I admire your adama-antium will."
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007The least I can do is offer you a gift. Place that fine he-elmet at the base of the banner yonder."
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007An adve-enturer!\u0007Not only are you strong, but cunni-ing as well. My insti-incts tell me I should rip out your heart and throw your body to the land pugils. However, that does not change my admira-ation towards your fine display of fighting prowe-ess."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007Deadeye! Come fo-orth!"
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007Stand down, Deadeye. If I wa-anted the adventurer dead, I would have spli-it ?[him\/her] in half myself."
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007What of the bats? I have known of this adve-enturer's meeting with the Orcish trooper and their plans for days."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007Si-ilence, fool!\u0007There will be no more bloodshed here toda-ay. I shall release the adve-enturer and allow the Orc to return with his precious bats."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007Do you question my judge-ement, Da'Vhu!?\u0007The Quadav have nothing to hide! Let anyone and anythi-ing step into our lair! Then, they too can witness the true might of the Shieldwarriors!"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007As for you. You are to se-erve this adventurer for as long as I wish it so. If ?[he\/she] is to call you with this he-elmet, hurry to ?[his\/her] aid, and fight as you would when fi-ighting an enemy of the Quadav."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007And as your king, I am ordering you to swear an oath of loyalty to thi-is adventurer! I will send for you when I require your se-ervices once more."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Think of this as a cha-ance for you to show the rest of Vana'diel the true stre-ength of the Quadav! Do well, and I personally guarantee you a pla-ace by my side. Fail, and..."
+            },
+            {
+              "id": 7419,
+              "string": "1\u0000\u0007Consider yourself admoni-ished for your sins here today. You are free to go."
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007And tell that Orcish swine that if he wi-ishes to gather any more information, to come directly to my qua-arters. I shall tell him everything he wi-ishes to know...and more! Ahahahahah!"
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007Today has been an eventful day for bo-oth of us, adventurer. However, I cannot guarantee that our next meeting will be as ple-easant."
+            },
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007I do wish a day would come when our peoples can join hands in ba-attle. However, I fear much more time is needed for the wounds dealt to us by the chi-ildren of Altana to heal..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383488,
+      "name": "Da'Vhu Deadeye",
+      "events": [
+        {
+          "id": 64,
+          "dialogue": [
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007Da'Vhu at your service, Your Highness."
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007Wh-what is this!?\u0007Your Highness! Have you sustained any injuries?\u0007Do you wish I do away with the intruder?"
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Of course, Your Highness.\u0007But what of the bats? I have reason to believe they were placed here by this intruder to spy on us!"
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007O-of course, Your Highness!\u0007And now that we have captured the intruder, give the order, and I will dispose of ?[him\/her] immediately."
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007B-but, Your Highness! They are the enemy!"
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007B-but Your Highness. I have already sworn an oath of loyalty to you!"
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007Your Highness! I shall not fail!"
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007Farewell, adventurer. I pledge my life and allegiance to you, but only because my king so commands..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383489,
+      "name": "???",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383490,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 66,
+          "dialogue": [
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7439,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7447,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7448,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007An Affable Adamantking?(pt.1).\u0007An Affable Adamantking?(pt.2).\u0007An Affable Adamantking?(pt.3).\u0007An Affable Adamantking?(pt.4).\u0007An Affable Adamantking?(pt.5).\u0007An Affable Adamantking?(pt.6).\u0007Mixed Signals.\u0007Magicite(pt.1).\u0007Magicite(pt.2)."
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7449,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7450,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7440,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383492,
+      "name": "",
+      "events": [
+        {
+          "id": 67,
+          "dialogue": [
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7454,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7455,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7459,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7460,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7461,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7456,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7463,
+              "string": "1\u0000\u0007I can't believe you came this far in..."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007Now! Run for it!"
+            },
+            {
+              "id": 7465,
+              "string": "1\u0000\u0007Now! Run for it!"
+            },
+            {
+              "id": 7466,
+              "string": "1\u0000\u0007Now! Run for it!"
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Now's your chance!\u0007Run!"
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007Now! Run for it!"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Now! Run for it!"
+            },
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007Now! Run for it!"
+            },
+            {
+              "id": 7473,
+              "string": "1\u0000\u0007Now! Run for it!"
+            },
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007Now's your chance!\u0007Run!"
+            },
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Now! Run for it!"
+            },
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007Now! Run for it!"
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007Now's your chance!\u0007Run!"
+            },
+            {
+              "id": 7476,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7488,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came straight away."
+            },
+            {
+              "id": 7477,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7489,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came straight away."
+            },
+            {
+              "id": 7478,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7490,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came straight away."
+            },
+            {
+              "id": 7479,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7491,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came as soon as I could."
+            },
+            {
+              "id": 7482,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7494,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came straight away."
+            },
+            {
+              "id": 7483,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7495,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came straight away."
+            },
+            {
+              "id": 7484,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7496,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came straight away."
+            },
+            {
+              "id": 7485,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7497,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came straight away."
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7498,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came as soon as I could."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7492,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came straight away."
+            },
+            {
+              "id": 7481,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7493,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came straight away."
+            },
+            {
+              "id": 7487,
+              "string": "1\u0000\u0007Phew.\u0007Are you okay, \b?"
+            },
+            {
+              "id": 7499,
+              "string": "1\u0000\u0007When I heard where you were headed for, I came straight away."
+            },
+            {
+              "id": 7500,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7501,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7508,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7509,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7510,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7511,
+              "string": "1\u0000\u0007So, where did \b go, anyway?"
+            },
+            {
+              "id": 7513,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7515,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7516,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7519,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7520,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7521,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7522,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7523,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7517,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7518,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7524,
+              "string": "1\u0000\u0007What!?\u0007That's a beastman stronghold!\u0007Why would you send ?[him\/her] to such a dangerous place!?"
+            },
+            {
+              "id": 7527,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have gone..."
+            },
+            {
+              "id": 7528,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have gone..."
+            },
+            {
+              "id": 7529,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have gone..."
+            },
+            {
+              "id": 7530,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have ventured..."
+            },
+            {
+              "id": 7533,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have gone..."
+            },
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have gone..."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have gone..."
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have gone..."
+            },
+            {
+              "id": 7537,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have ventured..."
+            },
+            {
+              "id": 7531,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have gone..."
+            },
+            {
+              "id": 7532,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have gone..."
+            },
+            {
+              "id": 7538,
+              "string": "1\u0000\u0007I don't know--this is \b we're talking about here.\u0007Who knows how far in ?[he\/she] might have gone..."
+            },
+            {
+              "id": 7539,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7551,
+              "string": "1\u0000\u0007Of course, there's a reason why she deceived you.\u0007Let's talk about it once we're safe back in Jeuno."
+            },
+            {
+              "id": 7540,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7552,
+              "string": "1\u0000\u0007Of course, there's a reason why she deceived you.\u0007Let's talk about it once we're safe back in Jeuno."
+            },
+            {
+              "id": 7541,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007Of course, there's a reason why she deceived you.\u0007Let's talk about it once we're safe back in Jeuno."
+            },
+            {
+              "id": 7542,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7554,
+              "string": "1\u0000\u0007Of course, there's a reason for her deception.\u0007We can discuss that once we're safe back in Jeuno."
+            },
+            {
+              "id": 7545,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7557,
+              "string": "1\u0000\u0007Of course, there's a reason why she deceived you.\u0007Let's talk about it once we're safe back in Jeuno."
+            },
+            {
+              "id": 7546,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7558,
+              "string": "1\u0000\u0007Of course, there's a reason why she deceived you.\u0007Let's talk about it once we're safe back in Jeuno."
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007Of course, there's a reason why she deceived you.\u0007Let's talk about it once we're safe back in Jeuno."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007Of course, there's a reason why she deceived you.\u0007Let's talk about it once we're safe back in Jeuno."
+            },
+            {
+              "id": 7549,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7561,
+              "string": "1\u0000\u0007Of course, there's a reason for her deception.\u0007We can discuss that once we're safe back in Jeuno."
+            },
+            {
+              "id": 7543,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7555,
+              "string": "1\u0000\u0007Of course, there's a reason why she deceived you.\u0007Let's talk about it once we're safe back in Jeuno."
+            },
+            {
+              "id": 7544,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7556,
+              "string": "1\u0000\u0007Of course, there's a reason why she deceived you.\u0007Let's talk about it once we're safe back in Jeuno."
+            },
+            {
+              "id": 7550,
+              "string": "1\u0000\u0007Luto lied when she said I was waiting for you here."
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007Of course, there's a reason why she deceived you.\u0007Let's talk about it once we're safe back in Jeuno.1\u0000\u0007\u0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383493,
+      "name": "Luto Mewrilah",
+      "events": [
+        {
+          "id": 67,
+          "dialogue": [
+            {
+              "id": 7512,
+              "string": "1\u0000\u0007?[He\/She] should be on ?[his\/her] way to Beadeaux.\u0007When I said you were waiting for ?[him\/her] there, ?[he\/she] left immediately."
+            },
+            {
+              "id": 7525,
+              "string": "1\u0000\u0007When you're dealing with an adventurer of \b's stature, you gotta make things difficult if you want to slow ?[him\/her] down."
+            },
+            {
+              "id": 7526,
+              "string": "1\u0000\u0007And \b knows better than to try anything too rrrisky."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383494,
+      "name": "",
+      "events": [
+        {
+          "id": 67,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383495,
+      "name": "",
+      "events": [
+        {
+          "id": 67,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383496,
+      "name": "",
+      "events": [
+        {
+          "id": 67,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383497,
+      "name": "",
+      "events": [
+        {
+          "id": 67,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383498,
+      "name": "",
+      "events": [
+        {
+          "id": 67,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383499,
+      "name": "",
+      "events": [
+        {
+          "id": 67,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17383500,
+      "name": "",
+      "events": [
+        {
+          "id": 67,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 60,
+          "dialogue": [
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007You understand?\u0007\u000bYou need some help.\u0007You need a friend."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007What say?\u0007\u000bEasy mission!\u0007Good day!"
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 65,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 67,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

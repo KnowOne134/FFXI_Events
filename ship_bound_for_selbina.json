@@ -1,0 +1,65 @@
+{
+  "id": 227,
+  "name": "Ship bound for Selbina",
+  "actors": [
+    {
+      "id": 17707037,
+      "name": "Maera",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17707038,
+      "name": "Rajmonda",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17707040,
+      "name": "Map",
+      "events": [
+        {
+          "id": 1024,
+          "dialogue": [
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007This is the ship route from Mhaura to Selbina."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007You have entered the ship route by unauthorized means.\u0007Zoning you to Mhaura."
+            }
+          ]
+        },
+        {
+          "id": 255,
+          "dialogue": [
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007We are now docking in Selbina."
+            }
+          ]
+        },
+        {
+          "id": 2048,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

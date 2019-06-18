@@ -1,0 +1,2950 @@
+{
+  "id": 170,
+  "name": "Full Moon Fountain",
+  "actors": [
+    {
+      "id": 17473676,
+      "name": "",
+      "events": [
+        {
+          "id": 66,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473678,
+      "name": "Moon Spiral",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473679,
+      "name": "Moon Spiral",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473680,
+      "name": "Moon Spiral",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473681,
+      "name": "Moon Spiral",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473686,
+      "name": "Foo Beibo",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473687,
+      "name": "Vahn Paineesha",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473688,
+      "name": "Shaz Norem",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473689,
+      "name": "Rhy Epocan",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473690,
+      "name": "Ufu Koromoa",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473691,
+      "name": "Star Sibyl",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007So cold and dark..."
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007I thought that perhaps the Stars and the Moon might have returned to the fountain... Nothing has changed..."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007Semih Lafihna, I thank you for bringing me here. I never thought I would be able to stand in this place again."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007That day, twenty years ago...\u0007From that day forward, I honestly believed that I would never return to Full Moon Fountain again."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007The place of Karaha-Baruha's death... A place enveloped in frigid darkness."
+            },
+            {
+              "id": 7226,
+              "string": "1\u0000\u0007I felt that Windurst would share the same fate as this fountain. A bleak future of eternal night..."
+            },
+            {
+              "id": 7227,
+              "string": "1\u0000\u0007I turned my eyes from the darkness and pretended it didn't exist... I ceased to look for the future of Windurst, the future of our people."
+            },
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007In a world without that guiding light, my fear of the darkness froze my feet upon the path..."
+            },
+            {
+              "id": 7233,
+              "string": "1\u0000\u0007...Semih Lafihna.\u0007Thank you..."
+            },
+            {
+              "id": 7234,
+              "string": "1\u0000\u0007The gentle strength of the Sibyl Guards has always been there to hold me steady..."
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007For your sake as well as mine, we must understand our situation."
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007We must discover where we stand, and what lies out there before us."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007...!"
+            },
+            {
+              "id": 7242,
+              "string": "1\u0000\u0007You, it can't be...!\u0007What do you mean to do...!?"
+            },
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007Star of hope I called forth...?"
+            },
+            {
+              "id": 7250,
+              "string": "1\u0000\u0007Yes...\u0007I remember, I made a wish to the Star Spring..."
+            },
+            {
+              "id": 7251,
+              "string": "1\u0000\u0007I could stand my grief no longer... I wished for the help of Karaha-Baruha, dead these long years..."
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007...!!!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007...!?\u0007You mean...!?"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473692,
+      "name": "Ajido-Marujido",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Oh, it's you. Nothing bettaru to do than follow me around?"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007...Well, you mightaru as well come with me.\u0007Come and behold the truth..."
+            },
+            {
+              "id": 7209,
+              "string": "..\u0000\u0007Dammitaru! It's just as I feared!"
+            },
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007And this time, they look serious.\u0007Time for you to leave!"
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Star Sibyl!!!"
+            },
+            {
+              "id": 7259,
+              "string": "4\u0001\u0000\u0007...You!?"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007.."
+            },
+            {
+              "id": 7265,
+              "string": "!!\u0000\u0007Joker!"
+            },
+            {
+              "id": 7266,
+              "string": "4\u0001\u0000\u0007We have broughtaru together the verses that bind the Great Beast and the ancient people!"
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007With this song, the bearer of darkness will be drawn here from any distance."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007We have grantarued your wish. Now return to us the Star Sibyl!"
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007\b, the rest is up to you. No mattaru what happens, you must protect the Star Sibyl."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007...Th-this...!? \u0007This is...summoning magic...!?"
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473693,
+      "name": "Semih Lafihna",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7213,
+              "string": "1\u0000\u0007Hold it rrright ther"
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007Star Sibyl..."
+            },
+            {
+              "id": 7229,
+              "string": "1\u0000\u0007Star Sibyl, you mustn't be so harsh on yourself."
+            },
+            {
+              "id": 7230,
+              "string": "1\u0000\u0007Perhaps you have forgotten that your guidance has allowed Windurst to exist in peace these past twenty years."
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007To the citizens of Windurst, you are the light that shines in the darkness. You are their guiding star."
+            },
+            {
+              "id": 7239,
+              "string": "!?\u0000\u0007Joker!?"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            {
+              "id": 7264,
+              "string": ".!\u0000\u0007...Star Sibyl!"
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473694,
+      "name": "Fenrir",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473695,
+      "name": "Karaha-Baruha",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17473696,
+      "name": "Apururu",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473698,
+      "name": "SP01",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473699,
+      "name": "Talking Doll",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473700,
+      "name": "",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473701,
+      "name": "",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473702,
+      "name": "DIRECTOR",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007Yes, that is the kind of determination you need..."
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Un??GH...!"
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Un??GH...!"
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473703,
+      "name": "",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473704,
+      "name": "Joker",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007It seems you still recognize me, though my form has changed."
+            },
+            {
+              "id": 7244,
+              "string": "1\u0000\u0007However, you have nothing to fear. I have not come to seek vengeance for past wrongs. And do not be concerned for the Mithra; they have not been harmed."
+            },
+            {
+              "id": 7245,
+              "string": "1\u0000\u0007I have come to tell you of the star of hope that you have called forth..."
+            },
+            {
+              "id": 7246,
+              "string": "1\u0000\u0007I must tell you of all that star has set in motion upon Vana'diel."
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Yes, that wish... That wish reached the faint amount of power that remained of the Stars and the Moon."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007And then, with the strands of magic that bind us together, Karaha-Baruha and I returned from Death's dark hall."
+            },
+            {
+              "id": 7255,
+              "string": "4\u0001\u0000\u0007You should be surprised, Star Sibyl. Your hope--your wish--will aid in the restoration of the power of the Stars and the Moon...and bring us closer to the moment we have been waiting for."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007However, for things to be set in motion, I need you to wish alongside me."
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007It seems your star of hope has already arrived. That brilliant incandescence has shown us through several crossroads."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007I speak to you now, Star of Hope.\u0007Here, I will await your final illumination..."
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007Lead the darkened soul to this place of the Stars and the Moon once more...! A time for miracles is upon us!"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007...The ancient people... \u0007You speak of the Kuluu..."
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007Very well. You may approach. Let us have \b play the song."
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007...\b. Our guiding star. \u0007You have braved much to reach this point."
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007You have navigated a galaxy of stars to bring light to the land of hope."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007It was the wish of the Star Sibyl that began this epic tale. But it is you who must realize the truth."
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007It was your will that led us to this moment..."
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007Your brilliant incandescence will show the way. Call the Stars and the Moon to this place once more."
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007...You have come."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007We who have been divided..."
+            },
+            {
+              "id": 7279,
+              "string": "4\u0002\u0000\u0007Will become whole once more..."
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473705,
+      "name": "Water in Space",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 42,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473706,
+      "name": "POWDER",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 42,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 54,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473707,
+      "name": "IZUMI of MANGETSU",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 42,
+          "dialogue": [
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007?????????G?t?F?N?g?e?X?g????\u0007\u000b?^???????i?f?t?H?j\u0007????????????????\u0007???u??1?i?K\u0007???u??2?i?K\u0007???????????????`\u0007?????????V??\u0007?G?t?F?N?g???Z?b?g\u0007endmapschedulor?i???????j"
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007?{?^?????????f???I???B"
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007?{?^?????????f???I???B"
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 45,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 46,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 48,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 49,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473708,
+      "name": "King of Wands",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473709,
+      "name": "King of Swords",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473710,
+      "name": "King of Cups",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473711,
+      "name": "King of Batons",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473712,
+      "name": "Queen of Wands",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473713,
+      "name": "Queen of Swords",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473714,
+      "name": "Queen of Cups",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473715,
+      "name": "Queen of Batons",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473716,
+      "name": "01",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473717,
+      "name": "02",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473718,
+      "name": "03",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473719,
+      "name": "04",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473720,
+      "name": "05",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473721,
+      "name": "06",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473722,
+      "name": "07",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473723,
+      "name": "08",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473724,
+      "name": "10",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473725,
+      "name": "11",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473726,
+      "name": "12",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473727,
+      "name": "13",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473728,
+      "name": "14",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473729,
+      "name": "15",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473730,
+      "name": "20",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473731,
+      "name": "21",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473732,
+      "name": "22",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473733,
+      "name": "23",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473734,
+      "name": "25",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473735,
+      "name": "26",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473736,
+      "name": "Ace of Wands",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473737,
+      "name": "Ace of Swords",
+      "events": [
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473738,
+      "name": "Ace of Cups",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473739,
+      "name": "Ace of Batons",
+      "events": [
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473749,
+      "name": "Fenrir",
+      "events": [
+        {
+          "id": 60,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473750,
+      "name": "Carbuncle",
+      "events": [
+        {
+          "id": 60,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473751,
+      "name": "???",
+      "events": [
+        {
+          "id": 65,
+          "dialogue": [
+            {
+              "id": 7855,
+              "string": "l!\u0000\u0007You see a yellowing sheet of parchment on the ground.\u0007The following words are hastily scrawled onto it:"
+            },
+            {
+              "id": 7856,
+              "string": "1\u0000\u0007??Sap crystals from the Great Star Tree not permitted within.\u0007Those who disregard this rule shall be made paper-thin!??"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473752,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 55,
+          "dialogue": [
+            {
+              "id": 7776,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7777,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7778,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7786,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Full Moon Fountain.\u0007Doll of the Dead.\u0007Moon Reading(pt.1).\u0007Moon Reading(pt.2).\u0007Moon Reading(pt.3).\u0007The Moonlit Path(pt.1).\u0007The Moonlit Path(pt.2).\u0007Waking the Beast(pt.1).\u0007Waking the Beast(pt.2).\u0007Battaru Royale.\u0007Romancing the Clone."
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7788,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7779,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473754,
+      "name": "Shiva",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473755,
+      "name": "Ifrit",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473756,
+      "name": "Ramuh",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473757,
+      "name": "Garuda",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473758,
+      "name": "Titan",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473759,
+      "name": "Leviathan",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473760,
+      "name": "Carbuncle",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473761,
+      "name": "Carbuncle",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473762,
+      "name": "Carbuncle",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473763,
+      "name": "Carbuncle",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473764,
+      "name": "",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007Greetings, \b, 'tis splendid to see you kicking and well.\u0007Though whether you stay that way for long, only time will tell."
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473765,
+      "name": "???",
+      "events": [
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473766,
+      "name": "",
+      "events": [
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473767,
+      "name": "Shantotto",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007Greetings, \b, 'tis splendid to see you kicking and well.\u0007Though whether you stay that way for long, only time will tell."
+            },
+            {
+              "id": 7832,
+              "string": "1\u0000\u0007With the coffers running dry, we set you a mission to keep us afloat.\u0007But instead of coin, you return with whetted knives at our throat."
+            },
+            {
+              "id": 7833,
+              "string": "1\u0000\u0007That you have sided with the rebels is as plain as day.\u0007For this grievous crime against your liege, have you nothing to say?"
+            },
+            {
+              "id": 7834,
+              "string": "1\u0000\u0007But a single traitorous adventurer is of no consequence to our ambition.\u0007You are dishonorably discharged from the Empire--this is our final decision."
+            },
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007Sour grapes and military might?\u0007Your uneducated comments are a royal slight!"
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007That we would resort to brute force to subjugate all of Vana'diel,\u0007is a most ridiculous notion that should be discarded like a pamama peel."
+            },
+            {
+              "id": 7839,
+              "string": "1\u0000\u0007By shedding light on facts with which you have no familiarity,\u0007we shall relieve you of some ignorance--consider it a form of charity."
+            },
+            {
+              "id": 7840,
+              "string": "1\u0000\u0007When you still served the Empire, \b, and stood at our beck and call,\u0007we entrusted you with enchanted seals, this part you surely recall?"
+            },
+            {
+              "id": 7841,
+              "string": "1\u0000\u0007But truth be told, the seals' true function is not to amplify\u0007the power of the protocrystals like we said--that was an outright lie."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007The crystals lend their strength to the seals and not the other way 'round."
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007All living things will succumb to our will--golly, we love the way that sounds!"
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007In this way and by our hand, a perfect world order shall arise:\u0007a Vana'diel that exists solely for our pleasure, all the way to the skies!"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007So sound the horns and beat the drums!\u0007The everlasting Shantotto Empire is come!"
+            },
+            {
+              "id": 7849,
+              "string": "1\u0000\u0007Lost our mind, you dare suggest?\u0007Why, this is us at our brilliant best!"
+            },
+            {
+              "id": 7850,
+              "string": "1\u0000\u0007And just so you know and waste not a trip,"
+            },
+            {
+              "id": 7851,
+              "string": "1\u0000\u0007The crystals would have fully absorbed the curse by now--right down to the last slip."
+            },
+            {
+              "id": 7852,
+              "string": "1\u0000\u0007But now the time is come for the rebellion to be quashed.\u0007Of all independent thinking, Vana'diel must be washed!"
+            },
+            {
+              "id": 7853,
+              "string": "1\u0000\u0007We have taken the liberty of raising an army of clones.\u0007They shall rid the world of our enemies, leaving nothing but bones."
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            {
+              "id": 7857,
+              "string": "1\u0000\u0007My, oh my, we feel obliged to say\u0007truly that was an inspiring display!"
+            },
+            {
+              "id": 7858,
+              "string": "1\u0000\u0007Be warned, though, against us you stand not a chance\u0007even under the most auspicious circumstance."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007It would appear that you have gone and found\u0007our soft-spoken other half, and brought her here to these grounds."
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007But be warned once more not to raise your hopes high,\u0007for they will surely end up plummeting from the sky."
+            },
+            {
+              "id": 7868,
+              "string": "1\u0000\u0007Now that of your personal plans we have been made aware,\u0007a proposal we put forth, hear us out if you should care."
+            },
+            {
+              "id": 7869,
+              "string": "1\u0000\u0007Should we two Shantottos come together and form a team,\u0007nothing could oppose us--we would surely realize our dream!"
+            },
+            {
+              "id": 7870,
+              "string": "1\u0000\u0007Nation after nation, we shall subjugate and subdue.\u0007Once the world is ours, we can split the spoils in two."
+            },
+            {
+              "id": 7871,
+              "string": "1\u0000\u0007And in the likelihood that we grow weary of each other's face,\u0007the solution would be simple: a final showdown to end the race."
+            },
+            {
+              "id": 7878,
+              "string": "1\u0000\u0007Even as we stand here chatting and trading pleasantries,\u0007the curse's power draws ever near to its upper boundaries."
+            },
+            {
+              "id": 7879,
+              "string": "1\u0000\u0007Prepare yourself, then, to experience the ultimate bliss.\u0007Our ??Shantottofication?? spell is guaranteed to never miss."
+            },
+            {
+              "id": 7880,
+              "string": "1\u0000\u0007Not a soul in Vana'diel can hope to escape\u0007the delightful fate of taking on our luscious shape."
+            },
+            {
+              "id": 7882,
+              "string": "1\u0000\u0007With our two Shantotto hearts beating as one..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473768,
+      "name": "Shantotto",
+      "events": [
+        {
+          "id": 64,
+          "dialogue": [
+            {
+              "id": 7863,
+              "string": "1\u0000\u0007So long as I exist, your plan for world domination\u0007shall never take root, there'll be no such gratification."
+            },
+            {
+              "id": 7864,
+              "string": "1\u0000\u0007For the only new nation that is set to emerge\u0007is my Holy Shantotto Empire--yours must settle for a dirge."
+            },
+            {
+              "id": 7866,
+              "string": "1\u0000\u0007I had obviously neglected to make clear my intent\u0007to make the world a better place by virtue of my advent."
+            },
+            {
+              "id": 7873,
+              "string": "1\u0000\u0007Your proposal is worthy of consideration.\u0007Pray allow me to ponder my decision."
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007Well do I see the merits of working with one accord."
+            },
+            {
+              "id": 7876,
+              "string": "1\u0000\u0007As such, you have my cooperation--as much as I can afford."
+            },
+            {
+              "id": 7883,
+              "string": "1\u0000\u0007From here on out, the journey will be twice as fun!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473769,
+      "name": "Aldo",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            {
+              "id": 7835,
+              "string": "1\u0000\u0007That's an acute case of sour grapes you have there, Domina Shantotto.\u0007You won't ever fulfill your twisted ambition with such a childish attitude."
+            },
+            {
+              "id": 7836,
+              "string": "1\u0000\u0007And if you think that harnessing the power of the protocrystals alone is enough to conquer the world, you're gravely mistaken.\u0007You need manpower and raw military might, not to mention--"
+            },
+            {
+              "id": 7843,
+              "string": "e!\u0000\u0007What!?"
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            {
+              "id": 7859,
+              "string": "1\u0000\u0007And I warn you not to underestimate us, Domina.\u0007We have the power of Original Shantotto on our side!"
+            },
+            {
+              "id": 7860,
+              "string": "1\u0000\u0007Your twisted ambitions end here and now!"
+            },
+            {
+              "id": 7865,
+              "string": "1\u0000\u0007Th-the Holy Shantotto Empire?\u0007What in Altana's name are you saying!?"
+            },
+            {
+              "id": 7872,
+              "string": "1\u0000\u0007Nice try, Domina, but you of all people should know better.\u0007No Doctor Shantotto worth her salt would ever dream of sharing power with another."
+            },
+            {
+              "id": 7874,
+              "string": "1\u0000\u0007Wh-what!? I can't believe I'm hearing this!"
+            },
+            {
+              "id": 7881,
+              "string": "1\u0000\u0007You'd dare transform everyone in Vana'diel into...yourself!?"
+            },
+            {
+              "id": 7888,
+              "string": "-!\u0000\u0007Unbelievable!"
+            },
+            {
+              "id": 7889,
+              "string": "1\u0000\u0007Grrr! A right fool I was not to have seen this coming!"
+            },
+            {
+              "id": 7895,
+              "string": "1\u0000\u0007Understood, Professor. We pray for your success."
+            },
+            {
+              "id": 7896,
+              "string": "1\u0000\u0007I'd sooner rot in the abyss than be a slave to those deranged doctors.\u0007But then again, I like Vana'diel the way it is, and I'm sure I speak for everyone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473770,
+      "name": "Yoran-Oran",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007H-have you lost your mind-ethy!?"
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            {
+              "id": 7867,
+              "string": "1\u0000\u0007It...would appear we've misjudged grievously-ethy. It matters not a smidgen-ethy how many incarnations of Doctor Shantotto there are--they will all harbor the same evil inclination that is at the very core-ethy of the doctor's being."
+            },
+            {
+              "id": 7877,
+              "string": "1\u0000\u0007Oh, the Goddess be good-ethy...\u0007I don't like the way the situation-ethy is unfolding."
+            },
+            {
+              "id": 7890,
+              "string": "1\u0000\u0007We placed our trust-ethy where it wasn't due, and are now paying the price-ethy."
+            },
+            {
+              "id": 7891,
+              "string": "1\u0000\u0007In dealing with the likes of Doctor Shantotto, one must be ever ready-ethy for the unexpected."
+            },
+            {
+              "id": 7892,
+              "string": "1\u0000\u0007In any case, there's small use now brooding over-ethy our ill judgment.\u0007We must find out where the two Shantottos have gone-ethy."
+            },
+            {
+              "id": 7893,
+              "string": "1\u0000\u0007I will return to the Federation for a time-ethy in order to scour for leads."
+            },
+            {
+              "id": 7894,
+              "string": "1\u0000\u0007In the meantime, please return to Jeuno and be on standby. I will join you as soon as possible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473771,
+      "name": "1",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473772,
+      "name": "2",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473773,
+      "name": "3",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473774,
+      "name": "4",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473775,
+      "name": "5",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473776,
+      "name": "6",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473777,
+      "name": "7",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473778,
+      "name": "8",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473779,
+      "name": "9",
+      "events": [
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17473780,
+      "name": "10",
+      "events": [
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7750,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007The Moonlit Path.\u0007Moon Reading.\u0007Waking the Beast.\u0007Battaru Royale.\u0007??The Moonlit Path.\u0007??Waking the Beast.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007"
+            },
+            {
+              "id": 7669,
+              "string": "\u0000!\u0000\u0007Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave."
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7318,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7668,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7748,
+              "string": "].\u0000\u0007The current battlefield clear time record for ??\f\u0001[The Moonlit Path\/Moon Reading\/Waking the Beast\/Battaru Royale\/??The Moonlit Path\/??Waking the Beast]?? is \n\u0003 minute?\u0003[\/s] \n\u0002 second?\u0002[\/s"
+            },
+            {
+              "id": 7747,
+              "string": "?!\u0000\u0007The current battlefield clear time record for ??\f\u0001[The Moonlit Path\/Moon Reading\/Waking the Beast\/Battaru Royale\/??The Moonlit Path\/??Waking the Beast]?? is \n\u0003 second?\u0003[\/s"
+            },
+            {
+              "id": 7668,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32005,
+          "dialogue": [
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483633,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 2147483634,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 2147483635,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 2147483636,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 2147483637,
+      "name": "",
+      "events": [
+        
+      ]
+    }
+  ]
+}

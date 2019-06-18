@@ -1,0 +1,1723 @@
+{
+  "id": 222,
+  "name": "Provenance",
+  "actors": [
+    {
+      "id": 17686585,
+      "name": "Provenance Crystal",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7334,
+              "string": "s.\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007Beguiling Radiance.\u0007Seductive Radiance.\u0007Maddening Radiance.\u0007Provenance Watcher."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter using \u0001\u00055????.\u0007Enter.\u0007Decline."
+            },
+            {
+              "id": 7487,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
+            },
+            {
+              "id": 7318,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "dialogue": [
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007\u001f{You have not claimed all of your battle reward"
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007Relinquish your claim to the battle spoils?\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007Items will be lost. Are you certain?\u0007\u000bYes, relinquish.\u0007No, retain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686586,
+      "name": "Provenance Protocrystal",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7334,
+              "string": "s.\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007Beguiling Radiance.\u0007Seductive Radiance.\u0007Maddening Radiance.\u0007Provenance Watcher."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter using \u0001\u00055????.\u0007Enter.\u0007Decline."
+            },
+            {
+              "id": 7487,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
+            },
+            {
+              "id": 7318,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "dialogue": [
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007\u001f{You have not claimed all of your battle reward"
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007Relinquish your claim to the battle spoils?\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007Items will be lost. Are you certain?\u0007\u000bYes, relinquish.\u0007No, retain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686587,
+      "name": "Provenance Crystal",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Leave the battlefield?\u0007\u000bRun away.\u0007Stay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686588,
+      "name": "Provenance Crystal",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Leave the battlefield?\u0007\u000bRun away.\u0007Stay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686589,
+      "name": "Provenance Crystal",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Leave the battlefield?\u0007\u000bRun away.\u0007Stay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686590,
+      "name": "Provenance Crystal",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Leave the battlefield?\u0007\u000bRun away.\u0007Stay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686591,
+      "name": "Provenance Crystal",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Leave the battlefield?\u0007\u000bRun away.\u0007Stay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686592,
+      "name": "Provenance Crystal",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Leave the battlefield?\u0007\u000bRun away.\u0007Stay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686593,
+      "name": "Provenance Protocrystal",
+      "events": [
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Leave the battlefield?\u0007\u000bRun away.\u0007Stay."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686594,
+      "name": "Provenance Protocrystal",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Leave the battlefield?\u0007\u000bRun away.\u0007Stay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686595,
+      "name": "Provenance Protocrystal",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Leave the battlefield?\u0007\u000bRun away.\u0007Stay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686619,
+      "name": "Grumblix",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007I travel......hear lots...\u0007Hear...stories... Can tell...if..."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007Would you like to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007Which story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Provenance(pt.1).\u0007Provenance(pt.2).\u0007Provenance(pt.3).\u0007Provenance(pt.4).\u0007Crystal Guardian(pt.1).\u0007Crystal Guardian(pt.2).\u0007Crystal Guardian(pt.3).\u0007Endings and Beginnings."
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7508,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7509,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007.........listen......"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686621,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17686622,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17686623,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7524,
+              "string": "1\u0000\u0007What shall you ask?\u0007\u000bThere are...ten of you?\u0007Have you shrunk?\u0007Where in Vana'diel am I?\u0007I need ask nothing."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686624,
+      "name": "",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686625,
+      "name": "",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686626,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7510,
+              "string": "1\u0000\u0007?[He\/She] made it through without being ground to kibble! Avoided a ghastly death!"
+            },
+            {
+              "id": 7511,
+              "string": "1\u0000\u0007Could ?[he\/she] be?\u0007?[He\/She] must be! \b!"
+            },
+            {
+              "id": 7522,
+              "string": "1\u0000\u0007I suppose.\u0007?[He\/She] does seem awfully perplexed. Mightily muddled."
+            },
+            {
+              "id": 7523,
+              "string": "1\u0000\u0007Keep in mind I know not all--only what I know.\u0007Now, where shall we begin?"
+            },
+            {
+              "id": 7525,
+              "string": "1\u0000\u0007An astute observation, indeed. Sagacity manifest."
+            },
+            {
+              "id": 7526,
+              "string": "1\u0000\u0007While we now number in the double digits, originally we were one. A single soul."
+            },
+            {
+              "id": 7527,
+              "string": "1\u0000\u0007Were we complete, you question? Whole, you ask?"
+            },
+            {
+              "id": 7530,
+              "string": "1\u0000\u0007You speak not only with passion, but reason as well. Prudence and force."
+            },
+            {
+              "id": 7531,
+              "string": "1\u0000\u0007...<Cough>\u0007We ran the gamut of emotions from grief to joy. Played all the parts.\u0007We laughed, we cried, we witnessed our brethren die."
+            },
+            {
+              "id": 7532,
+              "string": "1\u0000\u0007In summation, it was a trying time for us. The pinnacle of drama."
+            },
+            {
+              "id": 7533,
+              "string": "1\u0000\u0007Did my explanation not shed enough light on the matter? Paint a full picture?"
+            },
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Oh well, it matters not. \u0007There is no need to lick each strand of fur into place. Obsess over particulars.\u0007We have more important issues to address."
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Silence! May a cait take your tongue!"
+            },
+            {
+              "id": 7537,
+              "string": "1\u0000\u0007...<Ahem> Moving on."
+            },
+            {
+              "id": 7538,
+              "string": "1\u0000\u0007I trust that magniloquent moogle favored you with facts on the details of our disappearance?\u0007Well, that journey is the reason behind our sudden split. Sweet emancipation."
+            },
+            {
+              "id": 7539,
+              "string": "1\u0000\u0007If three is company, ten is trauma.\u0007At any rate, we should never even have been able to assume our current form. Shocking revelation."
+            },
+            {
+              "id": 7540,
+              "string": "1\u0000\u0007Once we coalesced at the spiritual level, it should have been impossible to separate us. Together forever."
+            },
+            {
+              "id": 7542,
+              "string": "1\u0000\u0007Yet here we are, in the fur...our original bodies reclaimed.\u0007Even those of us who perished have been revived. A fairy-tale ending?"
+            },
+            {
+              "id": 7543,
+              "string": "1\u0000\u0007So it seems.\u0007Why we assumed a diminutive stature--and why we still know most nothing about the Voidwalkers--remains a mystery to us.\u0007Perhaps a greater entity diverted some of our life force for its own benefit. Baseless conjecture."
+            },
+            {
+              "id": 7544,
+              "string": "1\u0000\u0007Disbelief clouds your gaze. You assume we no longer possess the power to assist you.\u0007I assure you that we remain as we always have, however. Our powers fully intact.\u0007Why do you snicker so, \b?"
+            },
+            {
+              "id": 7545,
+              "string": "1\u0000\u0007To wit, the shock of separation left us unable to perform even the simplest tasks. Weak as kittens.\u0007Hence our delay in contacting Kupofried."
+            },
+            {
+              "id": 7546,
+              "string": "1\u0000\u0007Yet, since arriving here, we now exert ten thousand jigocaits of energy...or only a fraction of what a veteran adventurer can muster. A deceptive number."
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007My point is that one cannot judge a kitten by its whiskers.\u0007A cait by any other form would still smell as fishy. Warrant investigation."
+            },
+            {
+              "id": 7549,
+              "string": "1\u0000\u0007A question for the ages, that.\u0007This is where all life ultimately trickles back toward. Dilutes within the transient river of time."
+            },
+            {
+              "id": 7550,
+              "string": "1\u0000\u0007...Vana'diel's provenance."
+            },
+            {
+              "id": 7551,
+              "string": "1\u0000\u0007As an adventurer, you must surely remember one of the most canonic verses ever uttered. Hallowed words.\u0007??It all began with a stone...??"
+            },
+            {
+              "id": 7552,
+              "string": "1\u0000\u0007And whence did that stone cast its first rays of purifying light? Banish the darkness?"
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007In Navukgo Execution Chamber.6\u0001\u0007No, of course it was here. The origin."
+            },
+            {
+              "id": 7554,
+              "string": "1\u0000\u0007Life shines forth from this crystalline domain in a prismatic display of brilliance, only to return as a dim reflection.\u0007And so the cycle repeats, light dispersing darkness and darkness consuming light. Perpetual flux."
+            },
+            {
+              "id": 7555,
+              "string": "1\u0000\u0007While this is both the birthplace and resting place for life, most living beings are unable to lay eyes upon these lands. It remains recondite."
+            },
+            {
+              "id": 7556,
+              "string": "1\u0000\u0007We caits, however, are born of Altana.\u0007Her spirit resides in us all, and connects us to all the world's locales. Sets us apart."
+            },
+            {
+              "id": 7557,
+              "string": "1\u0000\u0007Yet we were most likely led here by the souls of our fallen brethren. "
+            },
+            {
+              "id": 7558,
+              "string": "1\u0000\u0007How else could we have stumbled upon this place?\u0007Their ethereal cries must have traversed dimensions to resonate in our hearts and bid us unite. Beckon us."
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007This whole phenomenon is nothing short of a miracle."
+            },
+            {
+              "id": 7561,
+              "string": "1\u0000\u0007So they say...\u0007Now, let us return to the matter at hand."
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007According to the ancient verse, these crystals should no longer emit any light. Illuminate the realm no more.\u0007However, we are not shrouded in complete darkness."
+            },
+            {
+              "id": 7563,
+              "string": "1\u0000\u0007While only vestiges of light may remain in this bleak and lifeless shell, it continues to bestow Vana'diel with life. Make it prosper."
+            },
+            {
+              "id": 7564,
+              "string": "1\u0000\u0007...You look as if I just gave a twenty-hour lecture on gauging the ripeness of pamamas. Intricate drivel.\u0007If something this elementary causes you to lose your wits, then--"
+            },
+            {
+              "id": 7565,
+              "string": "1\u0000\u0007Oho, I almost released the proverbial cait from its bag.\u0007I certainly wouldn't want to overburden your mind with unnecessary details. Vex with minutiae."
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007Indubitably."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007Something knows we are here, and it is none too pleased by our presence. Wants us gone."
+            },
+            {
+              "id": 7573,
+              "string": "1\u0000\u0007I see doubt has cast its shadow upon your countenance, but not even the most capable of adventurers possess our finely tuned sense of danger. Our ability to smell trouble.\u0007Rest assured, this threat is no fabrication."
+            },
+            {
+              "id": 7574,
+              "string": "1\u0000\u0007Moreover, the timing and location of these disturbances is quite coincidental. A fortuitous occurrence.\u0007They could very well be related to Vana'diel's interdimensional invaders."
+            },
+            {
+              "id": 7575,
+              "string": "1\u0000\u0007That crystal!\u0007The source--or should we say sources--would seem to emanate from beyond that crystal.\u0007What seemed an isolated phenomenon at first exposure has become the collective ire of a bloodthirsty horde. A maddening fury."
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007You have truly been blessed by the Goddess if you evaded this terrorizing and oppressive force.\u0007As much as we yearn to play a role in your heroic production, we can barely hold ourselves upright. Cannot take the stage."
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Even if we could, however, there is little guarantee we would prove useful.\u0007Our separation made us no weaker, but neither did it make us strong. A double-edged sword."
+            },
+            {
+              "id": 7578,
+              "string": "1\u0000\u0007Though we cannot assist you on the battlefield, we can provision you with this. A trick of the trade."
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007This lustrous insect is called \u0001\u00056????.\u0007We raise these ourselves on a diet of sheer will and determination. Noble virtues."
+            },
+            {
+              "id": 7580,
+              "string": "1\u0000\u0007With this \u0001\u00053????, we will be granted insight wherever you may go and whatever you may do on your journey. Convenience incarnate."
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007...Hm? No, that is the only task it performs.\u0007What more could one expect from a mere bug? A lowly insect?"
+            },
+            {
+              "id": 7582,
+              "string": "1\u0000\u0007Mreowr?\u0007Whoa, whoa, whoa. Leave not so soon.\u0007May I see that stone of yours?"
+            },
+            {
+              "id": 7583,
+              "string": "1\u0000\u0007Yes, that crystal with the ghostly white glow. Cadaverous pallor."
+            },
+            {
+              "id": 7584,
+              "string": "1\u0000\u0007Nothing remotely similar has ever crossed my eyes.\u0007This crystal appears to harbor some uncanny power from a bygone era. Primitive puissance."
+            },
+            {
+              "id": 7585,
+              "string": "1\u0000\u0007So this is plunder gained from a Voidwalker battle? Interdimensional fisticuffs?"
+            },
+            {
+              "id": 7586,
+              "string": "1\u0000\u0007The way it resonates with these surroundings...\u0007This is no normal hunk of rock. No common tabby cait."
+            },
+            {
+              "id": 7587,
+              "string": "1\u0000\u0007I suppose returning it to you would do no harm.\u0007Whatever you do, you must not relinquish it. Let it slip through your paws."
+            },
+            {
+              "id": 7588,
+              "string": "1\u0000\u0007Something this peculiar must surely have a use--we need only find out what that is.\u0007In the meantime, maybe it will serve as a lucky charm in your travels. Invite felicity."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7582,
+              "string": "1\u0000\u0007Mreowr?\u0007Whoa, whoa, whoa. Leave not so soon.\u0007May I see that stone of yours?"
+            },
+            {
+              "id": 7583,
+              "string": "1\u0000\u0007Yes, that crystal with the ghostly white glow. Cadaverous pallor."
+            },
+            {
+              "id": 7584,
+              "string": "1\u0000\u0007Nothing remotely similar has ever crossed my eyes.\u0007This crystal appears to harbor some uncanny power from a bygone era. Primitive puissance."
+            },
+            {
+              "id": 7585,
+              "string": "1\u0000\u0007So this is plunder gained from a Voidwalker battle? Interdimensional fisticuffs?"
+            },
+            {
+              "id": 7586,
+              "string": "1\u0000\u0007The way it resonates with these surroundings...\u0007This is no normal hunk of rock. No common tabby cait."
+            },
+            {
+              "id": 7587,
+              "string": "1\u0000\u0007I suppose returning it to you would do no harm.\u0007Whatever you do, you must not relinquish it. Let it slip through your paws."
+            },
+            {
+              "id": 7588,
+              "string": "1\u0000\u0007Something this peculiar must surely have a use--we need only find out what that is.\u0007In the meantime, maybe it will serve as a lucky charm in your travels. Invite felicity."
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7589,
+              "string": "1\u0000\u0007I see you have another of those peculiar crystals for me. Enigmatic gift."
+            },
+            {
+              "id": 7590,
+              "string": "1\u0000\u0007At first glance, this one appears identical to the last.\u0007Upon closer inspection, however, its luster is of a slightly different variety. Upended expectations."
+            },
+            {
+              "id": 7597,
+              "string": "1\u0000\u0007Then we have a consensus. Unanimous agreement."
+            },
+            {
+              "id": 7598,
+              "string": "1\u0000\u0007\b, we cannot guarantee that any more of these crystals exist. Make no promises.\u0007If you do stumble upon some, however, we ask that you bring them here to us."
+            },
+            {
+              "id": 7599,
+              "string": "1\u0000\u0007With more of these in our paws, there exists a not-negligible chance that potential possibilities might probably unfold. Presumably."
+            },
+            {
+              "id": 7600,
+              "string": "1\u0000\u0007Even if you do not believe in the power of the crystals, \b, believe in us who believe in them!\u0007Now put yourself in harm's way so we can study those crystals! Selfish motivation!"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7604,
+              "string": "1\u0000\u0007It appears as though our shot in the dark has paid off with flying colors. A smashing success."
+            },
+            {
+              "id": 7605,
+              "string": "1\u0000\u0007But now is not the time for giddiness. Enthusiasm must be tempered."
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            {
+              "id": 7611,
+              "string": "1\u0000\u0007I remember hearing that the fabled stone which rid Vana'diel of its darkness long ago had, in the days of the gods, a guardian. A deific deterrent.\u0007I would not have believed it still stalked this, its former demesne, until today."
+            },
+            {
+              "id": 7612,
+              "string": "1\u0000\u0007Although vanquishing this primeval protector was undeniably a heroic deed, I fear the dragon will not go so quietly into the night.\u0007You may have set it to slumber for now, but as something seems to have angered this drused sentinel, it will likely stir again soon. Reawaken with a vengeance."
+            },
+            {
+              "id": 7613,
+              "string": "1\u0000\u0007I realize this thought is rather discouraging. Destroys the mood.\u0007However, such is the reality of this surreal situation."
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007Yet this guardian's absence does not correspond to Provenance's destruction.\u0007That much we gathered from using \u0001\u00056????. Beneficial bug."
+            },
+            {
+              "id": 7615,
+              "string": "1\u0000\u0007Were time and space to collapse around us...perish the thought. Forget it even crossed my mind."
+            },
+            {
+              "id": 7616,
+              "string": "1\u0000\u0007As I hope you recall, this is the origin of all Vana'diel.\u0007Should this place cease to exist, it would be the end of the whole realm as we know it. None too pleasing."
+            },
+            {
+              "id": 7617,
+              "string": "1\u0000\u0007Oh, the chills that petrify my spine... Freeze me in fear."
+            },
+            {
+              "id": 7618,
+              "string": "1\u0000\u0007Sorry, but if we continue on this morbid topic, I will be reduced to a shivering mass of frazzled fur. A scaredy cait."
+            },
+            {
+              "id": 7619,
+              "string": "1\u0000\u0007I see no apocalypses on the immediate horizon. All clear.\u0007It may be best to leave hypotheticals for another day."
+            },
+            {
+              "id": 7620,
+              "string": "1\u0000\u0007I believe the old adage is ??Let sleeping caits lie.??"
+            },
+            {
+              "id": 7621,
+              "string": "1\u0000\u0007I need to stop being a prisoner of my own imagination. A cellmate to insanity.\u0007Moving on..."
+            },
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007What do you plan to do about the crystal sentry, that mineral marauder?"
+            },
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007It may be impossible to completely quell the fires of its rage, but we can at least snuff them into somnolence. From flame to flicker.\u0007Each occasion this foul-tempered fiend is put to bed should buy the realm time to recover...even if those halcyon days will be fleeting."
+            },
+            {
+              "id": 7624,
+              "string": "1\u0000\u0007On second thought..."
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007Let us assume the dragon can be slain. Cleaved and shattered.\u0007Because Provenance is intricately intertwined with the rest of Vana'diel, a deft change here could positively realign the fabric of the realm!"
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007Oh, how interdimensional travel has addled my mind. Dispatched my sanity.\u0007No one has ever witnessed something of that magnitude...and probably never will. There is no reason to entertain such--"
+            },
+            {
+              "id": 7627,
+              "string": "1\u0000\u0007Ah, how I loathe the sound of serpents. It rings of...futility."
+            },
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007Let us depart, \b.\u0007I see no need to go charging back into battle so soon. Once bitten, twice shy."
+            },
+            {
+              "id": 7629,
+              "string": "1\u0000\u0007There is one last scrap of information I must report before you journey off into the sunset. Disappear from our sight."
+            },
+            {
+              "id": 7630,
+              "string": "1\u0000\u0007We must remain behind. Cannot accompany you."
+            },
+            {
+              "id": 7631,
+              "string": "1\u0000\u0007Why?\u0007Did we not discuss the reason earlier? Explain it at length?\u0007This dragon will not slither away on its own. For that, we need you."
+            },
+            {
+              "id": 7632,
+              "string": "1\u0000\u0007Kupofried knows of our intentions as well. Well informed.\u0007He should prove helpful...if not a little loquacious."
+            },
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007At any rate, the depth of your altruism knows no bounds. Breaks all limits.\u0007This is the least we can do to repay you."
+            },
+            {
+              "id": 7634,
+              "string": "1\u0000\u0007Ultimately, the decision to return or not is yours.\u0007Especially because we have already entrusted the fate of the realm to you once. Made you do our bidding."
+            },
+            {
+              "id": 7635,
+              "string": "1\u0000\u0007...Oh my. Do not misunderstand.\u0007You are more to us than a simple dupe. No mere cait's-paw.\u0007Please forget you ever heard that remark."
+            },
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007Phew."
+            },
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007This is where it all began...\u0007Where all light, all life, first shines..."
+            },
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007Perhaps one day you--the one from our plane of existence--will spread ?[his\/her] wings here alongside that lass. Your partner in flight."
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007Of course you will. Myriad realities emanate from this single location, and to it they all return. Reflected back."
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007It is likely you two could convene even before death. As with the realm itself, Vana'diel's inhabitants lead as many possible lives as there are sunrises.\u0007One pair could be on their way even as we speak. Engage in idle chit-chat."
+            },
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007Surely you have experienced life on one of these variant planes of existence before. If not, you most certainly will.\u0007Then again, should you be putting your trust in a cunning feline such as myself?"
+            },
+            {
+              "id": 7642,
+              "string": "1\u0000\u0007However, you can trust the world to change. Paths to diverge.\u0007Provenance may be both the beginning and the end of life in Vana'diel, but the possibilities that lie in between are endless. Be true to yourself and you can grab the world by the scruff of its neck, never again needing to worry about which path you tread."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686627,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7518,
+              "string": "1\u0000\u0007Presence or absence of memory is not the issue at hand. The point in question.\u0007Rather, we must devote our full attention to normalizing this interdimensional aberration."
+            },
+            {
+              "id": 7519,
+              "string": "1\u0000\u0007My sentiments exactly.\u0007Even if the cait dragged ?[his\/her] forgetful hide in from somewhen else, we all want the realm back to normal. Great minds think alike."
+            },
+            {
+              "id": 7528,
+              "string": "1\u0000\u0007Hardly.\u0007Such expressions are of no more use than a cait's idle mewings. Naught but noise."
+            },
+            {
+              "id": 7569,
+              "string": "1\u0000\u0007The forgotten shards of shattered crystals may be all the eye can see, but be not deceived. Pay close attention.\u0007The whole world is out to exact revenge upon us!"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7593,
+              "string": "1\u0000\u0007Dha is suggesting that these crystals could guide us to whatever lurks amidst these shadows. A beacon of light in the darkness."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7606,
+              "string": "1\u0000\u0007Much like we were guided here by the souls of our lost brethren, this artifact should guide you through the deepest, darkest crag here. The most abysmal depths.\u0007Though no records exist to confirm how deep it truly is..."
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686628,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7570,
+              "string": "1\u0000\u0007That sounds a little bombastic for me. Overdramatic.\u0007Still, I can definitely feel something pulsating over this desolate landscape."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007There are more where those came from, correct?\u0007Then, it is possible that they could be...!"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686629,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7513,
+              "string": "1\u0000\u0007G-g-good morning?\u0007No, ??Good afternoon??...?"
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Nyahahaha!\u0007Our Champion of the Dawn seems more like the Champion of the Doze today. Sleeping on the job."
+            },
+            {
+              "id": 7515,
+              "string": "1\u0000\u0007Do you recall our visages? Recognize our faces?"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686630,
+      "name": "Cait Sith Ceithir",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Nyahahaha!\u0007Looks like you went astray with your description there, Naoi! Flopped and floundered!"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7594,
+              "string": "1\u0000\u0007Nyahahaha!\u0007Like the Goddess herself will just descend from the clouds and lead us to some final battle with an evil mastermind. Deus ex nebula."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7603,
+              "string": "1\u0000\u0007Huh. Maybe I was wrong."
+            },
+            {
+              "id": 7609,
+              "string": "1\u0000\u0007Just take care not to have your own light snuffed out, Champion of the Dawn."
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686631,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7512,
+              "string": "1\u0000\u0007You have arisen from unconsciousness, I see. Awake at last!"
+            },
+            {
+              "id": 7529,
+              "string": "1\u0000\u0007Never a truer word has been spoken, Aon!\u0007I had already passed on at the time! Scratched my last post!\u0007How could anyone call that ??complete??!?"
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007Bravo! Well said!"
+            },
+            {
+              "id": 7566,
+              "string": "1\u0000\u0007Is it just me, or has the air become thick with ominous portent of late? Fantastical foreshadowing."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7596,
+              "string": "1\u0000\u0007I concur!\u0007Also, our Champion of the Dawn says there are only a few places to search. Easy pickings.\u0007We should at least give it a try!"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7601,
+              "string": "1\u0000\u0007This is exactly the reaction we desired!"
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686632,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7517,
+              "string": "1\u0000\u0007The callousness of it all...\u0007I'm thrown into paroxysms of sorrow. Bouts of bleakness.\u0007How could anyone be so cruel!?"
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007Caits have nine lives!"
+            },
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007Could there truly be some primeval entity stalking the plains of this wasteland? A predator searching for prey?"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7592,
+              "string": "1\u0000\u0007No more caesuras! Cough it up!"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7602,
+              "string": "1\u0000\u0007They seem to be resonating..."
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686633,
+      "name": "Cait Sith Seachd",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7541,
+              "string": "1\u0000\u0007Separation could very well have meant death for us, and we were ready to accept our fate. A plea and a paw."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686634,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7516,
+              "string": "1\u0000\u0007I doubt ?[he\/she] does.\u0007Like Naoi said, ?[he\/she] comes from another point in time. A different breed of cait.\u0007I would be more surprised if ?[he\/she] did."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686635,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7520,
+              "string": "1\u0000\u0007Our minds may indeed be great, Dha, but Aon is only stating the obvious.\u0007Without this champion's help, we cannot even begin to wish for success. Achievement eludes us."
+            },
+            {
+              "id": 7521,
+              "string": "1\u0000\u0007Naoi, you hold the firmest grasp on our predicament.\u0007Would you care to enlighten this adventurer as well? Apprise this person?"
+            },
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007I have also noticed a certain anger pervading the land. Blood boiling over.\u0007This place seems to possess eyes of its own, their ferocious glare able to peel back every layer of resolve like a sharp claw through hare hide. My fur stands on end just contemplating it."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7595,
+              "string": "1\u0000\u0007Still, this world seems to imbue them with some ethereal power.\u0007How can we understand this phenomenon unless we collect more crystals for observation? Gather and learn."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7607,
+              "string": "1\u0000\u0007This crystal apparently responds to whatever holds us caits in check. Keeps us at bay.\u0007That force should act as a beacon for the stone and guide you to your destination."
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007May you be blessed with the light of Altana. Doused in her protective glow."
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686636,
+      "name": "Glimmering Trove",
+      "events": [
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007All reward items have been relinquishe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686637,
+      "name": "Glimmering Trove",
+      "events": [
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007All reward items have been relinquishe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686638,
+      "name": "Glimmering Trove",
+      "events": [
+        {
+          "id": 18,
+          "dialogue": [
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007All reward items have been relinquishe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686639,
+      "name": "Glimmering Trove",
+      "events": [
+        {
+          "id": 19,
+          "dialogue": [
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007All reward items have been relinquishe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686640,
+      "name": "Glimmering Trove",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007All reward items have been relinquishe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686641,
+      "name": "Regal Pawprints",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing for now.\u0007Infused: \u0001\u00053???? (lv.\n\u0001)\u0007Infused: \u0001\u00053???? (lv.\n\u0003)\u0007Infused: \u0001\u00053???? (lv.\n\u0005)\u0007Purge atmacite.\u0007Infuse atmacite.\u0007Enrich atmacite."
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007The \u0001\u00053???? (lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007The \u0001\u00053???? (lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007The \u0001\u00053???? (lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (lv.\n\u0006)"
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007The \u0001\u00053???? (lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007The \u0001\u00053???? (lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007The \u0001\u00053???? (lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (lv.\n\t)\u0007?\u0001\u0001\u00053???? (lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (lv.\n\r)\u0007?\u0001\u0001\u00053???? (lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007The \u0001\u00053???? (lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007You do not possess any atmacite capable of enrichment."
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007Enrich which atmacite? (Cruor: \n$)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (lv.\n\u0001): \n\u0002\u0007?\u0001\u0001\u00053???? (lv.\n\u0004): \n\u0005\u0007?\u0001\u0001\u00053???? (lv.\n\u0007): \n\b\u0007?\u0001\u0001\u00053???? (lv.\n\n): \n\u000b\u0007?\u0001\u0001\u00053???? (lv.\n\r): \n\u000e\u0007?\u0001\u0001\u00053???? (lv.\n\u0010): \n\u0011\u0007?\u0001\u0001\u00053???? (lv.\n\u0013): \n\u0014\u0007?\u0001\u0001\u00053???? (lv.\n\u0016): \n\u0017\u0007?\u0001\u0001\u00053???? (lv.\n\u0019): \n\u001a\u0007?\u0001\u0001\u00053???? (lv.\n\u001c): \n\u001d\u0007?\u0001\u0001\u00053???? (lv.\n\u001f): \n \u0007?\u0001\u0001\u00053???? (lv.\n\"): \n#\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007The \u0001\u00053???? (lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? will produce the following:"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? from level \n\u0001 to level \n\u0002 requires \n\u0003 cruor."
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007Enrich \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (lv.\n\t)\u0007?\u0001\u0001\u00053???? (lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (lv.\n\r)\u0007?\u0001\u0001\u00053???? (lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007The \u0001\u00053???? (lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17686642,
+      "name": "Planar Rift",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7665,
+              "string": "1\u0000\u0007The threads of space and time warp and bend before your eyes..."
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Travel to the Walk of Echoes?\u0007\u000bYes, venture forth.\u0007No, remain behind."
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "dialogue": [
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007\u001f{You have not claimed all of your battle reward"
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007Relinquish your claim to the battle spoils?\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007Items will be lost. Are you certain?\u0007\u000bYes, relinquish.\u0007No, retain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

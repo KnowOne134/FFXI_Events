@@ -1,0 +1,1534 @@
+{
+  "id": 285,
+  "name": "Feretory",
+  "actors": [
+    {
+      "id": 17944587,
+      "name": "Grumblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007I travel......hear lots...\u0007Hear...stories... Can tell...if..."
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007Would you like to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Which story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Monstrosity."
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u00071\u0000\u0007\u0000\u0000"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007.........listen......"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944589,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7245,
+              "string": "1\u0000\u0007What will you ask about?\u0007\u000bMonstrosity in general.\u0007Possible opponents.\u0007Customization.\u0007Ranks.\u0007Infamy.\u0007Rewards.\u0007Nothing."
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Ask about what?\u0007\u000bSpecies.\u0007Naming.\u0007Instincts.\u0007Nothing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944590,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944591,
+      "name": "Odyssean Passage",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7301,
+              "string": "1\u0000\u0007Images of various locales flutter through your mind upon peering into the haze."
+            },
+            {
+              "id": 7302,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bStalk prey as a monipulator.\u0007Participate in Domination.\u0007Leave Monstrosity's clutches.\u0007Quit."
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Endeavor to \u0001\u00058???? fitted with the shackles of being level \n\u0001?"
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007The celestial defenders of justice shall strip you of any instincts that exceed the cost limit should you continue."
+            },
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007Proceed to \u0001\u00058?????"
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007Proceed?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007\u0001\u00058?????????????????H\u0007Where in \u0001\u00058?????\u0007\u000bPoint One.\u0007Point Two.\u0007Point Three.\u0007Point Four.\u0007Point Five.\u0007Nowhere."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Stop participating in Monstrosity?"
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Stop participating?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944592,
+      "name": "Odyssean Passage",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7301,
+              "string": "1\u0000\u0007Images of various locales flutter through your mind upon peering into the haze."
+            },
+            {
+              "id": 7302,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bStalk prey as a monipulator.\u0007Participate in Domination.\u0007Leave Monstrosity's clutches.\u0007Quit."
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Endeavor to \u0001\u00058???? fitted with the shackles of being level \n\u0001?"
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007The celestial defenders of justice shall strip you of any instincts that exceed the cost limit should you continue."
+            },
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007Proceed to \u0001\u00058?????"
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007Proceed?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007\u0001\u00058?????????????????H\u0007Where in \u0001\u00058?????\u0007\u000bPoint One.\u0007Point Two.\u0007Point Three.\u0007Point Four.\u0007Point Five.\u0007Nowhere."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Stop participating in Monstrosity?"
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Stop participating?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944593,
+      "name": "Maccus",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007Welcome to the Feretory.\u0007Is it not surprisingly soothing?"
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007Thy soul now resides within the frame of a \f\u0000[rabbit\/lizard\/mandragora]."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007Thy body, while a conduit to the tangible, was beforetime fetters that chained thine essence to a singular lump of flesh."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007What if, though, we could cleave this carnal prison in twain? Metamorphose it into an abstract concept from bygone eons?"
+            },
+            {
+              "id": 7226,
+              "string": "1\u0000\u0007It is this thought process and years of research that delivered unto us our revelation."
+            },
+            {
+              "id": 7227,
+              "string": "1\u0000\u0007...Forsooth.\u0007The phenomenon thou hast undergone is the manifestation of our epitome...."
+            },
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007And the name of this phenomenon is..."
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007(...Very well, then. How dost thou propose to reconcile the situation?)"
+            },
+            {
+              "id": 7233,
+              "string": "1\u0000\u0007(Hmmm...)"
+            },
+            {
+              "id": 7234,
+              "string": "1\u0000\u0007Goddess be damned!\u0007This phenomenon shall hereafter be known as ??Monstrosity??!"
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007Alas, I was so inly absorbed with our conflict that I forgot to mention that the figures thou seest afore thee are our actual forms."
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007What those outside the Feretory lay eyne upon are but puppets we have possessed, much as thou hast done with that monster."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007The reasoning behind our possession varies from thine, but that is for another day."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007(...So it shall be.)"
+            },
+            {
+              "id": 7241,
+              "string": "1\u0000\u0007Let it be known that those whose souls hath entered the flesh of beasts shall henceforth be referred to as ??monipulators.??"
+            },
+            {
+              "id": 7242,
+              "string": "1\u0000\u0007I assume thou hast yet to adjust to the host within which thou sojournest?"
+            },
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007No one feels perfectly comfortable their first time. I assure thee, however, that thy next attempt will go a great deal more smoothly."
+            },
+            {
+              "id": 7244,
+              "string": "1\u0000\u0007Moreover, the same tactics we employed upon thee will not work with other vessels. It is my burden to impart to thee all my knowledge of our research, so reserve nothing and ask plenty."
+            },
+            {
+              "id": 7246,
+              "string": "1\u0000\u0007Monstrosity is the phenomenon by which adventurers take control of monsters and expand their souls inside their new bodies."
+            },
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007What becometh of the beings possessed?\u0007There exist some things that are simply best not to know. Make not such inquisitions eft."
+            },
+            {
+              "id": 7248,
+              "string": "1\u0000\u0007Ifsoever thou findest any of my teachings detestable, I recommend thee slink off into the night and return to whencesoever thou camest."
+            },
+            {
+              "id": 7249,
+              "string": "1\u0000\u0007...Allow me to begin anew."
+            },
+            {
+              "id": 7250,
+              "string": "1\u0000\u0007Possession of any monsters shall take place within the confines of the Feretory."
+            },
+            {
+              "id": 7251,
+              "string": "1\u0000\u0007Thou mayest wish to jump twixt vessels at thine own whim, but such action is wrought with danger. The soul is a delicate entity."
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Lest thou art willing to render thyself as vulnerable as a babe before beasts, the Feretory is the only place where thy safety is assured."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007One may enter from the Pashhow Marshlands, Northern San d'Oria, Port Bastok, and Port Windurst. Pass through any and all the gateways at thine own behest."
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007Nor is there need to fear for thy original frame."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007Adventurers such as thee are a coveted commodity to our maegister. We shall ensure that nary a scratch appeareth upon its skin while it doth lie within our care."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Once the transition is complete, make haste to the odyssean passage and depart for the location of thy choice, in which thou mayest battle to thy heart's content."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Hark!\u0007Once thou departest for a land yonder, it is impossible to move to another. Thereon, I ask thee to think long and hard afore making thy decision."
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Whenas thou growest weary of thy monstrous flesh and wish to return to thy original form, rescind control of thy host with ??Relinquish.??"
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007Howbeit, receiving blows from foes and moving in even the slightest manner shall countermand the directive."
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007It would not do for an important personage such as thee to have thy soul bared to the elements."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Those who do shed their mortal frame for another body in Monstrosity may engage adventurers and commonplace monsters alike."
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007Alas and alack, thou art forbidden from attacking adventurers who give not their permission to do battle."
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007Maugre their contrary form, monipulators are of the same ilk as adventurers, and thus may do their brethren no harm."
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007This is both a rule and physical impossibility. In the event that a monipulator should raise its claws to a defenseless adventurer, metaphorical shackles shall restrain the offender and prevent any aggression."
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007Were this measure not in place, thy soul would gradually erode, causing the complete destruction of thy psyche."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007Yet the rub is that exchanging blows with adventurers doth strengthen the soul and helpeth it develop."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007Luckily, granting permission to engage in belligerency quelleth the stimuli that beget psychic erosion."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007In the event that thou yearnest to cull ferocious monipulators and release thyself from the protective veil that doth cover adventurers, seek out Aengus, whose charge it is to oversee belligerency permission."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007Beware that certain areas do not welcome the weak of soul, that a sufficiently mature essence is required to partake in the bloodshed."
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007Lastly, though monipulators may not brawl in tandem, adventurers may tackle their foes in parties of like-minded individuals."
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007Inside the Feretory, thy very choices in this realm will be warped and transmogrified.\u0007(The ??Equipment?? menu will become ??Customization.??)"
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007It is here that monipulators decide upon the monster they wish to control, its epithet, and the instincts it shall possess."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007Thy bestiary doth be the gateway through which thou stridest when possessing fiends.\u0007(Choose the monster you wish to possess from the ??Species?? menu.)"
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007The number of monsters thou mayest harbor will be small at first, but the higher thy level riseth, the more thou canst hoard."
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007As a rule, thou shalt only be able to select new monsters of the same species which thou hast leveled."
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007Exceptions do exist, however, and there shall be times when it is possible to unleash thy soul upon different types."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007Every monipulator, both accomplished and naif, may dub their ferocious vessel with an alias.\u0007(Choose a name for your monstrous conduit from the ??Naming?? menu.)"
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007An alias doth consist of two descriptors added to the species name of thy host."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007The name itself exerteth not an iota of influence on thy battles or others. Thus, it behooveth thee to change thy name to coincide with thy whims."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Spreading terror as a monipulator and raising thy level increaseth thy familiarity with that species, theron mastering ??instincts.??"
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007Though they may be traits innately imbedded within the creature thou commandest, they must be imprinted via the proper menu to have their powers released."
+            },
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Mastered instincts can be imprinted upon any monstrous frame thou possessest, regardless of the species from which thou obtained it."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007Thou cannot simply imprint every instinct learned swoopstake, however. Each comes with its own cost, and we cannot allow thee to exceed the limit."
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007As old a guideline as time itself, the more puissant the instinct, the higher its cost shall be. The choice is yours whether thy arsenal shall consist of myriad weaker weapons or few strong ones."
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007The monipulator hierarchy resembleth those of normal monsters to a striking degree. Monipulators may evolve from monsters (Mon) to notorious monsters (NM), and once more to high notorious monsters (HNM)."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007Thy rank may rise in correlation with thy infamy, but shall never reach thresholds greater than ??Mon?? if thou art not engaged in belligerency with adventurers."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007Once thou attainest the rank of NM and HNM, thy fetters doth loosen further. The maximum amount of points thou mayest allocate for instincts burgeons, enabling thee to imprint more and stronger ones."
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Infamy is similar to the mortal concept adventurers like thee dub fame."
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007The caveat is that while monipulators accrue infamy from emerging victorious in battle, the converse doth ring true as well. Defeat depleteth thy hard-earned stocks."
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007The more ferocious the beast, the higher the stakes, for HNM and NM monipulators lose more infamy than those inhabiting normal monsters."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007Each rank also has a corresponding maximum amount of infamy, and thou mayest view both thy infamy and rank under the status menu."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007Finally, thou canst bequeath thy infamy to my kinsman Teyrnon in exchange for rewards that doth give thy rampages their spice."
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007Adventurers who are willing to combat monipulators are termed ??gladiators.??"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Gladiators possess their own hierarchy, and slaughtering either champion gladiators or high champion gladiators occasionally earns thee spoils of war."
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007Thy soul pineth for more than thou canst conceive. Set it free and embark upon monstrous exploits the likes of which Vana'diel hath never witnessed."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7244,
+              "string": "1\u0000\u0007Moreover, the same tactics we employed upon thee will not work with other vessels. It is my burden to impart to thee all my knowledge of our research, so reserve nothing and ask plenty."
+            },
+            {
+              "id": 7299,
+              "string": "1\u0000\u0007What do you wish to do?\u0007\u000bHear an explanation.\u0007Engage in friendly banter.\u0007Nothing."
+            },
+            {
+              "id": 7245,
+              "string": "1\u0000\u0007What will you ask about?\u0007\u000bMonstrosity in general.\u0007Possible opponents.\u0007Customization.\u0007Ranks.\u0007Infamy.\u0007Rewards.\u0007Nothing."
+            },
+            {
+              "id": 7246,
+              "string": "1\u0000\u0007Monstrosity is the phenomenon by which adventurers take control of monsters and expand their souls inside their new bodies."
+            },
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007What becometh of the beings possessed?\u0007There exist some things that are simply best not to know. Make not such inquisitions eft."
+            },
+            {
+              "id": 7248,
+              "string": "1\u0000\u0007Ifsoever thou findest any of my teachings detestable, I recommend thee slink off into the night and return to whencesoever thou camest."
+            },
+            {
+              "id": 7249,
+              "string": "1\u0000\u0007...Allow me to begin anew."
+            },
+            {
+              "id": 7250,
+              "string": "1\u0000\u0007Possession of any monsters shall take place within the confines of the Feretory."
+            },
+            {
+              "id": 7251,
+              "string": "1\u0000\u0007Thou mayest wish to jump twixt vessels at thine own whim, but such action is wrought with danger. The soul is a delicate entity."
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Lest thou art willing to render thyself as vulnerable as a babe before beasts, the Feretory is the only place where thy safety is assured."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007One may enter from the Pashhow Marshlands, Northern San d'Oria, Port Bastok, and Port Windurst. Pass through any and all the gateways at thine own behest."
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007Nor is there need to fear for thy original frame."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007Adventurers such as thee are a coveted commodity to our maegister. We shall ensure that nary a scratch appeareth upon its skin while it doth lie within our care."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Once the transition is complete, make haste to the odyssean passage and depart for the location of thy choice, in which thou mayest battle to thy heart's content."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Hark!\u0007Once thou departest for a land yonder, it is impossible to move to another. Thereon, I ask thee to think long and hard afore making thy decision."
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Whenas thou growest weary of thy monstrous flesh and wish to return to thy original form, rescind control of thy host with ??Relinquish.??"
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007Howbeit, receiving blows from foes and moving in even the slightest manner shall countermand the directive."
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007It would not do for an important personage such as thee to have thy soul bared to the elements."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Those who do shed their mortal frame for another body in Monstrosity may engage adventurers and commonplace monsters alike."
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007Alas and alack, thou art forbidden from attacking adventurers who give not their permission to do battle."
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007Maugre their contrary form, monipulators are of the same ilk as adventurers, and thus may do their brethren no harm."
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007This is both a rule and physical impossibility. In the event that a monipulator should raise its claws to a defenseless adventurer, metaphorical shackles shall restrain the offender and prevent any aggression."
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007Were this measure not in place, thy soul would gradually erode, causing the complete destruction of thy psyche."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007Yet the rub is that exchanging blows with adventurers doth strengthen the soul and helpeth it develop."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007Luckily, granting permission to engage in belligerency quelleth the stimuli that beget psychic erosion."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007In the event that thou yearnest to cull ferocious monipulators and release thyself from the protective veil that doth cover adventurers, seek out Aengus, whose charge it is to oversee belligerency permission."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007Beware that certain areas do not welcome the weak of soul, that a sufficiently mature essence is required to partake in the bloodshed."
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007Lastly, though monipulators may not brawl in tandem, adventurers may tackle their foes in parties of like-minded individuals."
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007Inside the Feretory, thy very choices in this realm will be warped and transmogrified.\u0007(The ??Equipment?? menu will become ??Customization.??)"
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007It is here that monipulators decide upon the monster they wish to control, its epithet, and the instincts it shall possess."
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Ask about what?\u0007\u000bSpecies.\u0007Naming.\u0007Instincts.\u0007Nothing."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007Thy bestiary doth be the gateway through which thou stridest when possessing fiends.\u0007(Choose the monster you wish to possess from the ??Species?? menu.)"
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007The number of monsters thou mayest harbor will be small at first, but the higher thy level riseth, the more thou canst hoard."
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007As a rule, thou shalt only be able to select new monsters of the same species which thou hast leveled."
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007Exceptions do exist, however, and there shall be times when it is possible to unleash thy soul upon different types."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007Every monipulator, both accomplished and naif, may dub their ferocious vessel with an alias.\u0007(Choose a name for your monstrous conduit from the ??Naming?? menu.)"
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007An alias doth consist of two descriptors added to the species name of thy host."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007The name itself exerteth not an iota of influence on thy battles or others. Thus, it behooveth thee to change thy name to coincide with thy whims."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Spreading terror as a monipulator and raising thy level increaseth thy familiarity with that species, theron mastering ??instincts.??"
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007Though they may be traits innately imbedded within the creature thou commandest, they must be imprinted via the proper menu to have their powers released."
+            },
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Mastered instincts can be imprinted upon any monstrous frame thou possessest, regardless of the species from which thou obtained it."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007Thou cannot simply imprint every instinct learned swoopstake, however. Each comes with its own cost, and we cannot allow thee to exceed the limit."
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007As old a guideline as time itself, the more puissant the instinct, the higher its cost shall be. The choice is yours whether thy arsenal shall consist of myriad weaker weapons or few strong ones."
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007The monipulator hierarchy resembleth those of normal monsters to a striking degree. Monipulators may evolve from monsters (Mon) to notorious monsters (NM), and once more to high notorious monsters (HNM)."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007Thy rank may rise in correlation with thy infamy, but shall never reach thresholds greater than ??Mon?? if thou art not engaged in belligerency with adventurers."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007Once thou attainest the rank of NM and HNM, thy fetters doth loosen further. The maximum amount of points thou mayest allocate for instincts burgeons, enabling thee to imprint more and stronger ones."
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Infamy is similar to the mortal concept adventurers like thee dub fame."
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007The caveat is that while monipulators accrue infamy from emerging victorious in battle, the converse doth ring true as well. Defeat depleteth thy hard-earned stocks."
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007The more ferocious the beast, the higher the stakes, for HNM and NM monipulators lose more infamy than those inhabiting normal monsters."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007Each rank also has a corresponding maximum amount of infamy, and thou mayest view both thy infamy and rank under the status menu."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007Finally, thou canst bequeath thy infamy to my kinsman Teyrnon in exchange for rewards that doth give thy rampages their spice."
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007If no reward striketh thee as appropriate recompense, it is also thy prerogative to receive the support befitting a bloodthirsty monipulator."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007Beware, however, that these blessings shall float upon the winds to the four corners of Vana'diel shouldst thee discard thy current vessel or be transported avaunt after entering belligerency."
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007Adventurers who are willing to combat monipulators are termed ??gladiators.??"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Gladiators possess their own hierarchy, and slaughtering either champion gladiators or high champion gladiators occasionally earns thee spoils of war."
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007Our maegister doth appreciate ambition. If thou showest ample poise and determination, mayhap one day thou shalt lay eyes upon this most prodigious figure."
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007Thy soul pineth for more than thou canst conceive. Set it free and embark upon monstrous exploits the likes of which Vana'diel hath never witnessed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944594,
+      "name": "Maccus",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7244,
+              "string": "1\u0000\u0007Moreover, the same tactics we employed upon thee will not work with other vessels. It is my burden to impart to thee all my knowledge of our research, so reserve nothing and ask plenty."
+            },
+            {
+              "id": 7299,
+              "string": "1\u0000\u0007What do you wish to do?\u0007\u000bHear an explanation.\u0007Engage in friendly banter.\u0007Nothing."
+            },
+            {
+              "id": 7245,
+              "string": "1\u0000\u0007What will you ask about?\u0007\u000bMonstrosity in general.\u0007Possible opponents.\u0007Customization.\u0007Ranks.\u0007Infamy.\u0007Rewards.\u0007Nothing."
+            },
+            {
+              "id": 7246,
+              "string": "1\u0000\u0007Monstrosity is the phenomenon by which adventurers take control of monsters and expand their souls inside their new bodies."
+            },
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007What becometh of the beings possessed?\u0007There exist some things that are simply best not to know. Make not such inquisitions eft."
+            },
+            {
+              "id": 7248,
+              "string": "1\u0000\u0007Ifsoever thou findest any of my teachings detestable, I recommend thee slink off into the night and return to whencesoever thou camest."
+            },
+            {
+              "id": 7249,
+              "string": "1\u0000\u0007...Allow me to begin anew."
+            },
+            {
+              "id": 7250,
+              "string": "1\u0000\u0007Possession of any monsters shall take place within the confines of the Feretory."
+            },
+            {
+              "id": 7251,
+              "string": "1\u0000\u0007Thou mayest wish to jump twixt vessels at thine own whim, but such action is wrought with danger. The soul is a delicate entity."
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Lest thou art willing to render thyself as vulnerable as a babe before beasts, the Feretory is the only place where thy safety is assured."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007One may enter from the Pashhow Marshlands, Northern San d'Oria, Port Bastok, and Port Windurst. Pass through any and all the gateways at thine own behest."
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007Nor is there need to fear for thy original frame."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007Adventurers such as thee are a coveted commodity to our maegister. We shall ensure that nary a scratch appeareth upon its skin while it doth lie within our care."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Once the transition is complete, make haste to the odyssean passage and depart for the location of thy choice, in which thou mayest battle to thy heart's content."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Hark!\u0007Once thou departest for a land yonder, it is impossible to move to another. Thereon, I ask thee to think long and hard afore making thy decision."
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Whenas thou growest weary of thy monstrous flesh and wish to return to thy original form, rescind control of thy host with ??Relinquish.??"
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007Howbeit, receiving blows from foes and moving in even the slightest manner shall countermand the directive."
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007It would not do for an important personage such as thee to have thy soul bared to the elements."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Those who do shed their mortal frame for another body in Monstrosity may engage adventurers and commonplace monsters alike."
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007Alas and alack, thou art forbidden from attacking adventurers who give not their permission to do battle."
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007Maugre their contrary form, monipulators are of the same ilk as adventurers, and thus may do their brethren no harm."
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007This is both a rule and physical impossibility. In the event that a monipulator should raise its claws to a defenseless adventurer, metaphorical shackles shall restrain the offender and prevent any aggression."
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007Were this measure not in place, thy soul would gradually erode, causing the complete destruction of thy psyche."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007Yet the rub is that exchanging blows with adventurers doth strengthen the soul and helpeth it develop."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007Luckily, granting permission to engage in belligerency quelleth the stimuli that beget psychic erosion."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007In the event that thou yearnest to cull ferocious monipulators and release thyself from the protective veil that doth cover adventurers, seek out Aengus, whose charge it is to oversee belligerency permission."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007Beware that certain areas do not welcome the weak of soul, that a sufficiently mature essence is required to partake in the bloodshed."
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007Lastly, though monipulators may not brawl in tandem, adventurers may tackle their foes in parties of like-minded individuals."
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007Inside the Feretory, thy very choices in this realm will be warped and transmogrified.\u0007(The ??Equipment?? menu will become ??Customization.??)"
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007It is here that monipulators decide upon the monster they wish to control, its epithet, and the instincts it shall possess."
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Ask about what?\u0007\u000bSpecies.\u0007Naming.\u0007Instincts.\u0007Nothing."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007Thy bestiary doth be the gateway through which thou stridest when possessing fiends.\u0007(Choose the monster you wish to possess from the ??Species?? menu.)"
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007The number of monsters thou mayest harbor will be small at first, but the higher thy level riseth, the more thou canst hoard."
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007As a rule, thou shalt only be able to select new monsters of the same species which thou hast leveled."
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007Exceptions do exist, however, and there shall be times when it is possible to unleash thy soul upon different types."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007Every monipulator, both accomplished and naif, may dub their ferocious vessel with an alias.\u0007(Choose a name for your monstrous conduit from the ??Naming?? menu.)"
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007An alias doth consist of two descriptors added to the species name of thy host."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007The name itself exerteth not an iota of influence on thy battles or others. Thus, it behooveth thee to change thy name to coincide with thy whims."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Spreading terror as a monipulator and raising thy level increaseth thy familiarity with that species, theron mastering ??instincts.??"
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007Though they may be traits innately imbedded within the creature thou commandest, they must be imprinted via the proper menu to have their powers released."
+            },
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Mastered instincts can be imprinted upon any monstrous frame thou possessest, regardless of the species from which thou obtained it."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007Thou cannot simply imprint every instinct learned swoopstake, however. Each comes with its own cost, and we cannot allow thee to exceed the limit."
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007As old a guideline as time itself, the more puissant the instinct, the higher its cost shall be. The choice is yours whether thy arsenal shall consist of myriad weaker weapons or few strong ones."
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007The monipulator hierarchy resembleth those of normal monsters to a striking degree. Monipulators may evolve from monsters (Mon) to notorious monsters (NM), and once more to high notorious monsters (HNM)."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007Thy rank may rise in correlation with thy infamy, but shall never reach thresholds greater than ??Mon?? if thou art not engaged in belligerency with adventurers."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007Once thou attainest the rank of NM and HNM, thy fetters doth loosen further. The maximum amount of points thou mayest allocate for instincts burgeons, enabling thee to imprint more and stronger ones."
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Infamy is similar to the mortal concept adventurers like thee dub fame."
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007The caveat is that while monipulators accrue infamy from emerging victorious in battle, the converse doth ring true as well. Defeat depleteth thy hard-earned stocks."
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007The more ferocious the beast, the higher the stakes, for HNM and NM monipulators lose more infamy than those inhabiting normal monsters."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007Each rank also has a corresponding maximum amount of infamy, and thou mayest view both thy infamy and rank under the status menu."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007Finally, thou canst bequeath thy infamy to my kinsman Teyrnon in exchange for rewards that doth give thy rampages their spice."
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007If no reward striketh thee as appropriate recompense, it is also thy prerogative to receive the support befitting a bloodthirsty monipulator."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007Beware, however, that these blessings shall float upon the winds to the four corners of Vana'diel shouldst thee discard thy current vessel or be transported avaunt after entering belligerency."
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007Adventurers who are willing to combat monipulators are termed ??gladiators.??"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Gladiators possess their own hierarchy, and slaughtering either champion gladiators or high champion gladiators occasionally earns thee spoils of war."
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007Our maegister doth appreciate ambition. If thou showest ample poise and determination, mayhap one day thou shalt lay eyes upon this most prodigious figure."
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007Thy soul pineth for more than thou canst conceive. Set it free and embark upon monstrous exploits the likes of which Vana'diel hath never witnessed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944595,
+      "name": "Teyrnon",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7230,
+              "string": "1\u0000\u0007(Our maegister cares not a whit for fustian epithets. Such blatherskite serveth only to distract from our work's true purpose.)"
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007(Certes.\u0007It is oft said that Vana'diel's inhabitants cling to names as a child to the mother's skirts.)"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007What is your business?\u0007\u000bExchanging infamy.\u0007Chatting idly.\u0007Nothing."
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007For what rewards?\u0007\u000bMonsters.\u0007Instincts.\u0007Support.\u0007Nothing. Go back."
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007What type?\u0007\u000bBeasts.\u0007Plantoids.\u0007Vermin.\u0007Lizards.\u0007Amorphs.\u0007Aquans.\u0007Birds.\u0007No type. Go back."
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007What monster? (Infamy: \n\u0000)\u0007\u000bLapinion. (\n\u0001 needed)\u0007Sheep. (\n\u0002 needed)\u0007Behemoth. (\n\u0003 needed)\u0007Elasmoth. (\n\u0004 needed)\u0007Cerberus. (\n\u0005 needed)\u0007Orthrus. (\n\u0006 needed)\u0007None. Go back."
+            },
+            {
+              "id": 7318,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[lapinions\/sheep\/behemoths\/elasmoths\/cerebruses\/orthruses]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007What monster? (Infamy: \n\u0000)\u0007\u000bPygmy Mandragora. (\n\u0001 needed)\u0007Treant. (\n\u0002 needed)\u0007Pygmy Morbol. (\n\u0003 needed)\u0007Purbol. (\n\u0004 needed)\u0007None. Go back."
+            },
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[pygmy mandragoras\/treants\/pygmy morbols\/purbols]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7323,
+              "string": "1\u0000\u0007What monster? (Infamy: \n\u0000)\u0007\u000bGold Ladybug. (\n\u0001 needed)\u0007Beetle. (\n\u0002 needed)\u0007Unusual Scolopendrid. (\n\u0003 needed)\u0007Antlion. (\n\u0004 needed)\u0007Formiceros. (\n\u0005 needed)\u0007Pygmy Emerald Crawler. (\n\u0006 needed)\u0007Coral Wamoura. (\n\u0007 needed)\u0007Gnat. (\n\b needed)\u0007None. Go back."
+            },
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[gold ladybugs\/beetles\/unusual scolopendrids\/antlions\/formiceroses\/pygmy emerald crawlers\/coral wamouras\/gnats]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007What monster? (Infamy: \n\u0000)\u0007\u000bUnusual Wivre. (\n\u0001 needed)\u0007Adamantoise. (\n\u0002 needed)\u0007Ferromantoise. (\n\u0003 needed)\u0007Raptor. (\n\u0004 needed)\u0007Peiste. (\n\u0005 needed)\u0007Sibilus. (\n\u0006 needed)\u0007None. Go Back."
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[unusual wivres\/adamantoises\/ferrotoises\/raptors\/peistes\/sibiluses]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Which family? (Infamy: \n\u0000)\u0007\u000bSlime. (\n\u0001 needed)\u0007Boil. (\n\u0002 needed)\u0007Pygmy Sandworm. (\n\u0003 needed)\u0007Gigaworm. (\n\u0004 needed)\u0007Leech. (\n\u0005 needed)\u0007None. Go Back."
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[slimes\/boils\/pygmy sandworms\/gigaworms\/leeches]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007Which family? (Infamy: \n\u0000)\u0007\u000bCrab. (\n\u0001 needed)\u0007Hermitage Crab. (\n\u0002 needed)\u0007Vermilion Hermitage Crab. (\n\u0003 needed)\u0007Porter Crab. (\n\u0004 needed)\u0007Pugil. (\n\u0005 needed)\u0007Limascabra. (\n\u0006 needed)\u0007Pygmy Orobon. (\n\u0007 needed)\u0007Ogrebon. (\n\b needed)\u0007Ruszor. (\n\t needed)\u0007None. Go Back."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[crabs\/hermitage crabs\/vermilion hermitage crabs\/porter crabs\/pugils\/limascabra\/pygmy orobons\/ogrebons\/ruszors]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007Which family? (Infamy: \n\u0000)\u0007\u000bCockatrice. (\n\u0001 needed)\u0007Gagana. (\n\u0002 needed)\u0007Bat. (\n\u0003 needed)\u0007Inguza. (\n\u0004 needed)\u0007Colibri. (\n\u0005 needed)\u0007Toucalibri. (\n\u0006 needed)\u0007Amphiptere. (\n\u0007 needed)\u0007Sanguiptere. (\n\b needed)\u0007None. Go Back."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[cockatrices\/gagana\/bats\/inguzas\/colibris\/toucalibri\/amphiptere\/sanguiptere]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Which instinct? (Infamy: \n\u0014)\u0007\u000b?\u0001\u0001\u0005#????. (\n\n needed)\u0007?\u0001\u0001\u0005#????. (\n\u000b needed)\u0007?\u0001\u0001\u0005#????. (\n\f needed)\u0007?\u0001\u0001\u0005#????. (\n\r needed)\u0007?\u0001\u0001\u0005#????. (\n\u000e needed)\u0007?\u0001\u0001\u0005#????. (\n\u000f needed)\u0007?\u0001\u0001\u0005#????. (\n\u0010 needed)\u0007?\u0001\u0001\u0005#????. (\n\u0011 needed)\u0007?\u0001\u0001\u0005#????. (\n\u0012 needed)\u0007?\u0001\u0001\u0005#????. (\n\u0013 needed)\u0007Previous page.\u0007Next page.\u0007None."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to learn \u0001\u0005#?????"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007What effect would you like? (Infamy: \n\u0000)\u0007\u000bDedication 1. (Cost: \n\u0001)\u0007Dedication 2. (Cost: \n\u0002)\u0007Regen. (Cost: \n\u0003)\u0007Refresh. (Cost: \n\u0004)\u0007Protect. (Cost: \n\u0005)\u0007Shell. (Cost: \n\u0006)\u0007Haste. (Cost: \n\u0007)\u0007None of these."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007\f\u0000[Dedication 1\/Dedication 2] doth provide thee with an experience bonus of +\f\u0000[50%\/100%] for a maximum bonus of \f\u0000[10,000\/2,000]."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007\f\u0000[Dedication 1\/Dedication 2] doth provide thee with an experience bonus of +\f\u0000[50%\/100%] for a maximum bonus of \f\u0000[10,000\/2,000]."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007The \f\u0001[Dedication 1\/Dedication 2\/Regen\/Refresh\/Protect\/Shell\/Haste] benediction doth require \n\u0000 infamy. Art thou certain?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007Come to cavil anent the rewards I provide? The nerve of some people.\u0007Stay thy tongue for the nonce and return when thy infamy hath increased."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944596,
+      "name": "Teyrnon",
+      "events": [
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007What is your business?\u0007\u000bExchanging infamy.\u0007Chatting idly.\u0007Nothing."
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007For what rewards?\u0007\u000bMonsters.\u0007Instincts.\u0007Support.\u0007Nothing. Go back."
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007What type?\u0007\u000bBeasts.\u0007Plantoids.\u0007Vermin.\u0007Lizards.\u0007Amorphs.\u0007Aquans.\u0007Birds.\u0007No type. Go back."
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007What monster? (Infamy: \n\u0000)\u0007\u000bLapinion. (\n\u0001 needed)\u0007Sheep. (\n\u0002 needed)\u0007Behemoth. (\n\u0003 needed)\u0007Elasmoth. (\n\u0004 needed)\u0007Cerberus. (\n\u0005 needed)\u0007Orthrus. (\n\u0006 needed)\u0007None. Go back."
+            },
+            {
+              "id": 7318,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[lapinions\/sheep\/behemoths\/elasmoths\/cerebruses\/orthruses]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007What monster? (Infamy: \n\u0000)\u0007\u000bPygmy Mandragora. (\n\u0001 needed)\u0007Treant. (\n\u0002 needed)\u0007Pygmy Morbol. (\n\u0003 needed)\u0007Purbol. (\n\u0004 needed)\u0007None. Go back."
+            },
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[pygmy mandragoras\/treants\/pygmy morbols\/purbols]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7323,
+              "string": "1\u0000\u0007What monster? (Infamy: \n\u0000)\u0007\u000bGold Ladybug. (\n\u0001 needed)\u0007Beetle. (\n\u0002 needed)\u0007Unusual Scolopendrid. (\n\u0003 needed)\u0007Antlion. (\n\u0004 needed)\u0007Formiceros. (\n\u0005 needed)\u0007Pygmy Emerald Crawler. (\n\u0006 needed)\u0007Coral Wamoura. (\n\u0007 needed)\u0007Gnat. (\n\b needed)\u0007None. Go back."
+            },
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[gold ladybugs\/beetles\/unusual scolopendrids\/antlions\/formiceroses\/pygmy emerald crawlers\/coral wamouras\/gnats]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007What monster? (Infamy: \n\u0000)\u0007\u000bUnusual Wivre. (\n\u0001 needed)\u0007Adamantoise. (\n\u0002 needed)\u0007Ferromantoise. (\n\u0003 needed)\u0007Raptor. (\n\u0004 needed)\u0007Peiste. (\n\u0005 needed)\u0007Sibilus. (\n\u0006 needed)\u0007None. Go Back."
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[unusual wivres\/adamantoises\/ferrotoises\/raptors\/peistes\/sibiluses]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Which family? (Infamy: \n\u0000)\u0007\u000bSlime. (\n\u0001 needed)\u0007Boil. (\n\u0002 needed)\u0007Pygmy Sandworm. (\n\u0003 needed)\u0007Gigaworm. (\n\u0004 needed)\u0007Leech. (\n\u0005 needed)\u0007None. Go Back."
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[slimes\/boils\/pygmy sandworms\/gigaworms\/leeches]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007Which family? (Infamy: \n\u0000)\u0007\u000bCrab. (\n\u0001 needed)\u0007Hermitage Crab. (\n\u0002 needed)\u0007Vermilion Hermitage Crab. (\n\u0003 needed)\u0007Porter Crab. (\n\u0004 needed)\u0007Pugil. (\n\u0005 needed)\u0007Limascabra. (\n\u0006 needed)\u0007Pygmy Orobon. (\n\u0007 needed)\u0007Ogrebon. (\n\b needed)\u0007Ruszor. (\n\t needed)\u0007None. Go Back."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[crabs\/hermitage crabs\/vermilion hermitage crabs\/porter crabs\/pugils\/limascabra\/pygmy orobons\/ogrebons\/ruszors]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007Which family? (Infamy: \n\u0000)\u0007\u000bCockatrice. (\n\u0001 needed)\u0007Gagana. (\n\u0002 needed)\u0007Bat. (\n\u0003 needed)\u0007Inguza. (\n\u0004 needed)\u0007Colibri. (\n\u0005 needed)\u0007Toucalibri. (\n\u0006 needed)\u0007Amphiptere. (\n\u0007 needed)\u0007Sanguiptere. (\n\b needed)\u0007None. Go Back."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to begin possessing \f\u0001[cockatrices\/gagana\/bats\/inguzas\/colibris\/toucalibri\/amphiptere\/sanguiptere]?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Get not ahead of thyself, whelp.\u0007I am not in the position to make such an exchange at this juncture."
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Which instinct? (Infamy: \n\u0014)\u0007\u000b?\u0001\u0001\u0005#????. (\n\n needed)\u0007?\u0001\u0001\u0005#????. (\n\u000b needed)\u0007?\u0001\u0001\u0005#????. (\n\f needed)\u0007?\u0001\u0001\u0005#????. (\n\r needed)\u0007?\u0001\u0001\u0005#????. (\n\u000e needed)\u0007?\u0001\u0001\u0005#????. (\n\u000f needed)\u0007?\u0001\u0001\u0005#????. (\n\u0010 needed)\u0007?\u0001\u0001\u0005#????. (\n\u0011 needed)\u0007?\u0001\u0001\u0005#????. (\n\u0012 needed)\u0007?\u0001\u0001\u0005#????. (\n\u0013 needed)\u0007Previous page.\u0007Next page.\u0007None."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Canst thou thole to part with \n\u0000 point?\u0000[\/s] of infamy to learn \u0001\u0005#?????"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007What effect would you like? (Infamy: \n\u0000)\u0007\u000bDedication 1. (Cost: \n\u0001)\u0007Dedication 2. (Cost: \n\u0002)\u0007Regen. (Cost: \n\u0003)\u0007Refresh. (Cost: \n\u0004)\u0007Protect. (Cost: \n\u0005)\u0007Shell. (Cost: \n\u0006)\u0007Haste. (Cost: \n\u0007)\u0007None of these."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007\f\u0000[Dedication 1\/Dedication 2] doth provide thee with an experience bonus of +\f\u0000[50%\/100%] for a maximum bonus of \f\u0000[10,000\/2,000]."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007\f\u0000[Dedication 1\/Dedication 2] doth provide thee with an experience bonus of +\f\u0000[50%\/100%] for a maximum bonus of \f\u0000[10,000\/2,000]."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007The \f\u0001[Dedication 1\/Dedication 2\/Regen\/Refresh\/Protect\/Shell\/Haste] benediction doth require \n\u0000 infamy. Art thou certain?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Proceed with the exchange? (Infamy: \n\u0000)\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007Come to cavil anent the rewards I provide? The nerve of some people.\u0007Stay thy tongue for the nonce and return when thy infamy hath increased."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944597,
+      "name": "Suibhne",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007(I see no reason to forego its entitling. Think of the convenience!)"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007What do you wish to do?\u0007\u000bAim for higher heights.\u0007Engage in friendly banter.\u0007Nothing."
+            },
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007Prithee shed thy corporeal shackles and drift closer to the true essence of a monipulator?"
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Shed your shackles?\u0007\u000bYes, get them off me!\u0007No, they feel fine!"
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007On to question number \n\u0000, then!"
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Which one of us roams \u0001\u00058?????"
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007Who is there?\u0007\u000bWhat was the question again?\u0007Aengus.\u0007Maccus.\u0007Suibhne.\u0007Teyrnon."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007Verily!"
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007Avaunt!\u0007Thy wrong answer doth put me in ill humor. Returnest on the morrow when my disappointment in thee hath abated."
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007Thou hast obtained a perfect score!\u0007In recognition of thine achievement, allow me to impart this symbol of spiritual enlightenment upon thee."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Ho? Thou covetest our species for thy arsenal?\u0007Pshhh. Mayhap some day."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Ah, the \n\u0001 \u0001\t)???????? for which I asked. Very well, then..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944598,
+      "name": "Suibhne",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007What do you wish to do?\u0007\u000bAim for higher heights.\u0007Engage in friendly banter.\u0007Nothing."
+            },
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007Prithee shed thy corporeal shackles and drift closer to the true essence of a monipulator?"
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Shed your shackles?\u0007\u000bYes, get them off me!\u0007No, they feel fine!"
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007On to question number \n\u0000, then!"
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Which one of us roams \u0001\u00058?????"
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007Who is there?\u0007\u000bWhat was the question again?\u0007Aengus.\u0007Maccus.\u0007Suibhne.\u0007Teyrnon."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007Verily!"
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007Avaunt!\u0007Thy wrong answer doth put me in ill humor. Returnest on the morrow when my disappointment in thee hath abated."
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007Thou hast obtained a perfect score!\u0007In recognition of thine achievement, allow me to impart this symbol of spiritual enlightenment upon thee."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Ho? Thou covetest our species for thy arsenal?\u0007Pshhh. Mayhap some day."
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Ah, the \n\u0001 \u0001\t)???????? for which I asked. Very well, then..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944599,
+      "name": "Aengus",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7229,
+              "string": "1\u0000\u0007(Gramercy! I do not recall cleping it with any sort of moniker.)"
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007(Methinks it would behoove us to also decide on an appellation for adventurers who hath possessed monsters.)"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007One's soul can only mature to a certain degree by slaying commonplace fiends. I command thee to seek out more capable foes."
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007Doing so enablest thee to enter combat with adventurers. Dost thou assent?"
+            },
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007Thou hast no longer the fortitude to eviscerate thy foes? Lackaday, what a pathetic display of cowardice. However, I shall respect thy wishes."
+            },
+            {
+              "id": 7355,
+              "string": "1\u0000\u0007There is a level limit for each locale while in belligerency, and each species hath levels at which their strengths are at their peak. Experiment with a cornucopia of different vessels in diverse areas to enjoy thy freedom to the fullest."
+            },
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007Beware that shouldst thou come under a level restriction, certain effects placed upon thee will be removed."
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007Dost thou grow weary of culling inconsequential critters? Fear not, for I shall offer something erelong that will iwis quench thy thirst for gore."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17944600,
+      "name": "Aengus",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007One's soul can only mature to a certain degree by slaying commonplace fiends. I command thee to seek out more capable foes."
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007Doing so enablest thee to enter combat with adventurers. Dost thou assent?"
+            },
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007Thou hast no longer the fortitude to eviscerate thy foes? Lackaday, what a pathetic display of cowardice. However, I shall respect thy wishes."
+            },
+            {
+              "id": 7355,
+              "string": "1\u0000\u0007There is a level limit for each locale while in belligerency, and each species hath levels at which their strengths are at their peak. Experiment with a cornucopia of different vessels in diverse areas to enjoy thy freedom to the fullest."
+            },
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007Beware that shouldst thou come under a level restriction, certain effects placed upon thee will be removed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        
+      ]
+    }
+  ]
+}

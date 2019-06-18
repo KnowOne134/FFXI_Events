@@ -1,0 +1,163 @@
+{
+  "id": 40,
+  "name": "Dynamis - Buburimu",
+  "actors": [
+    {
+      "id": 16941672,
+      "name": "",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16941675,
+      "name": "Somnial Threshold",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007You see a way out of the shrouded land...\u0007\f\u0001[\/Furthermore, you feel as if you could regain abilities that have been lost to you.]"
+            },
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave Dynamis.\u0007Unlock support jobs.\u0007Nothing."
+            },
+            {
+              "id": 7322,
+              "string": "1\u0000\u0007Proceed out of Dynamis?\u0007\u000bYes, leave.\u0007No, remain."
+            },
+            {
+              "id": 7323,
+              "string": "1\u0000\u0007Proceed in unlocking support jobs?\u0007\u000bYes, unlock.\u0007No, retain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16941676,
+      "name": "???",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007You sense an aura of boundless rage..."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????..."
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007Or perhaps..."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????..."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????..."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????..."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????..."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????..."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007You sense that something might happen if you possessed one of these..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

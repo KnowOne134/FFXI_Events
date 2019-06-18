@@ -1,0 +1,81 @@
+{
+  "id": 228,
+  "name": "Ship bound for Mhaura",
+  "actors": [
+    {
+      "id": 17711131,
+      "name": "Sahn",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17711132,
+      "name": "Chhaya",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17711133,
+      "name": "Lokhong",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17711135,
+      "name": "Map",
+      "events": [
+        {
+          "id": 1024,
+          "dialogue": [
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007This is the ship route from Selbina to Mhaura."
+            }
+          ]
+        },
+        {
+          "id": 2049,
+          "dialogue": [
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007This is the ship route from Selbina to Mhaura."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007You have entered the ship route by unauthorized means.\u0007Zoning you to Selbina."
+            }
+          ]
+        },
+        {
+          "id": 512,
+          "dialogue": [
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007We are now docking in Mhaura."
+            }
+          ]
+        },
+        {
+          "id": 2048,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

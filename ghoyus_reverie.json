@@ -1,0 +1,590 @@
+{
+  "id": 129,
+  "name": "Ghoyu's Reverie",
+  "actors": [
+    {
+      "id": 17305764,
+      "name": "Student Salvemixer I",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7227,
+              "string": "s!\u0000\u0007Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders."
+            },
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305765,
+      "name": "Student Salvemixer II",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7227,
+              "string": "s!\u0000\u0007Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders."
+            },
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305766,
+      "name": "Student Salvemixer III",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7227,
+              "string": "s!\u0000\u0007Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders."
+            },
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305843,
+      "name": "Dawn Aureola",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7214,
+              "string": "1\u0000\u0007Leave the area?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305844,
+      "name": "Twilight Aureola",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7214,
+              "string": "1\u0000\u0007Leave the area?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305845,
+      "name": "Lacuna Whorl",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7214,
+              "string": "1\u0000\u0007Leave the area?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305855,
+      "name": "Pesoso",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Ah, you must be the volunteer that Master Caster Kayeel-Payeel mentioned.\u0007Thank you oh-so-much for helping-welping us out!"
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007You see, the mission is sooo fraughtaru with danger, no one wanted to take part.\u0007But then you haplessly showed up at the most opportune timing!"
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007Our objective is as straightaru-forward as a road without turns, wurns, bends, or wends.\u0007These caverns are thick with beastarumen, you see, and your task is to eliminate them! Biff! Bash! Kapowy-wowie!"
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007But as we don'taru have all the time in the world, do keepy-weep an eye on the clock.\u0007As the saying goes, ??haste makes for great taste??! No, wait..."
+            },
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Ah, never-wever mind.\u0007I'll be following closely-wosely behind, so just give me a holler when you finish clearing the caverns of monstarus."
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007And without further ado, let the extermination-wation begin!\u0007Do well, clobber a tonz of monstarus, and a juicy reward might just be waiting for you!"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007Hm? I don't thinky-wink we're quite done yet.\u0007Bettaru get a move on, 'cause the clock's tick-tocking, wick-wocking away!"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007Wowsers-trousers! The caverns are squeaky-weaky clean of enemy presence!"
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007Master Caster Kayeel-Payeel will surely hear of your splendifer-wiferous performance."
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007The objective isn't over until you reportaru back to base camp, so stay alerty-wert. Okay?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305856,
+      "name": "Antje",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007Ho there, soldier. You must be the extra pair of hands Chief Sturm sent word about."
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007No time for pleasantries, I'm afraid, so perk them ears up and pay attention to the briefing."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007The Republic's task is the strategic blastin' of key locations in these caverns, and you're gonna be helpin' us out."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007An assortment of our scout and engineer operatives--twenty-four in all--have already assumed positions and planted the explosive charges."
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007By detonatin' these charges, we weaken the structural integrity of the entire passageway, primin' it for the big one that'll send them filthy beastmen scurryin' back to their den. That is, if they don't get buried alive first. Hra hra hra!"
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007But here's the rub. Simultaneously detonatin' all the charges would draw the enemy's attention and blow our cover.\u0007That's why we'll be doin' it bit by bit, one explosion after the next."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007And this is where you come in, soldier. You'll be the fuse, so to speak.\u0007Huh? What's that supposed to mean, you ask? I was just gettin' to that."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007First, I'll administer you with a special stimulant that'll boost your movement speed.\u0007But that's not its only function, mind you."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Approach an operative while the stimulant's still in effect.\u0007That's their cue to detonate their charge and then leave the caverns."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Report back to me when all twenty-four charges have been detonated and all operatives have safely evacuated."
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007There's one detail you oughta keep in mind. As a countermeasure against espionage, the stimulant's effect is designed to fade out after a time. But the benefits'll remain so long as you keep movin' and settin' off the charges."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007If the stimulant wears off halfway, come back here by either talkin' to an operative or by usin' one of them ensigns."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Of course this means you'll have to start the mission over from the top."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007What the hell's an ??ensign,?? you ask? See that thing behind you?\u0007That's an ensign. One of Republican persuasion, to be precise."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007Six of these've been placed throughout the caverns to expedite our operatives' movement.\u0007They should come in handy if you're plannin' on doin' the mission as a group, as well as in emergencies."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Now, here's one last tip before I send you off.\u0007The instant a charge is detonated, run towards the blast. Beyond the explosion, you'll find your next man."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Now then, I'm gonna administer the stimulant.\u0007Report back to me after all twenty-four charges've been detonated and the operatives safely evacuated. The same goes for if you fail."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Are we good to go?"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Good to go?\u0007\u000bLet's get it on!\u0007I wasn't paying attention..."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007The mission is commenced!\u0007Move it, move it, move it!"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007So...you failed. What will you do, soldier?"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007What would you like to do?\u0007\u000bI want wings to fly!\u0007Listen to briefing.\u0007Give up and go home."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007The mission is commenced!\u0007Move it, move it, move it!"
+            },
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007\u001fyYou will be transported from the area. Do you wish to procee"
+            },
+            {
+              "id": 7354,
+              "string": "d?\u0000\u0007Give up and leave the area?\u0007\u000bNot yet.\u0007Right away."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007The Republic's task is the strategic blastin' of key locations in these caverns, and you're gonna be helpin' us out."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007An assortment of our scout and engineer operatives--twenty-four in all--have already assumed positions and planted the explosive charges."
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007By detonatin' these charges, we weaken the structural integrity of the entire passageway, primin' it for the big one that'll send them filthy beastmen scurryin' back to their den. That is, if they don't get buried alive first. Hra hra hra!"
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007But here's the rub. Simultaneously detonatin' all the charges would draw the enemy's attention and blow our cover.\u0007That's why we'll be doin' it bit by bit, one explosion after the next."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007And this is where you come in, soldier. You'll be the fuse, so to speak.\u0007Huh? What's that supposed to mean, you ask? I was just gettin' to that."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007First, I'll administer you with a special stimulant that'll boost your movement speed.\u0007But that's not its only function, mind you."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Approach an operative while the stimulant's still in effect.\u0007That's their cue to detonate their charge and then leave the caverns."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Report back to me when all twenty-four charges have been detonated and all operatives have safely evacuated."
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007There's one detail you oughta keep in mind. As a countermeasure against espionage, the stimulant's effect is designed to fade out after a time. But the benefits'll remain so long as you keep movin' and settin' off the charges."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007If the stimulant wears off halfway, come back here by either talkin' to an operative or by usin' one of them ensigns."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Of course this means you'll have to start the mission over from the top."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007What the hell's an ??ensign,?? you ask? See that thing behind you?\u0007That's an ensign. One of Republican persuasion, to be precise."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007Six of these've been placed throughout the caverns to expedite our operatives' movement.\u0007They should come in handy if you're plannin' on doin' the mission as a group, as well as in emergencies."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Now, here's one last tip before I send you off.\u0007The instant a charge is detonated, run towards the blast. Beyond the explosion, you'll find your next man."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Now then, I'm gonna administer the stimulant.\u0007Report back to me after all twenty-four charges've been detonated and the operatives safely evacuated. The same goes for if you fail."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Are we good to go?"
+            },
+            {
+              "id": 7355,
+              "string": "1\u0000\u0007Are we good to go?\u0007\u000bLet's get it on!\u0007Listen to briefing.\u0007Give up and go home."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007The mission is commenced!\u0007Move it, move it, move it!"
+            },
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007\u001fyYou will be transported from the area. Do you wish to procee"
+            },
+            {
+              "id": 7354,
+              "string": "d?\u0000\u0007Give up and leave the area?\u0007\u000bNot yet.\u0007Right away."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007Welcome back, soldier. The mission was a great success, thanks to you.\u0007Now all that's left to do is wait for the command to send everything crumblin' down."
+            },
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007Chief Sturm herself will be sure to hear of your exploits from me. You can count on it, soldier."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007Be transported where?\u0007\u000bRepublic Ensign I.\u0007Republic Ensign II.\u0007Republic Ensign III.\u0007Republic Ensign IV.\u0007Republic Ensign V.\u0007Republic Ensign VI.\u0007Nowhere.1\u0000\u0007\u0000\u0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305857,
+      "name": "Republic Ensign I",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305865,
+      "name": "2nd Legion Scout",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305866,
+      "name": "7th Cohors Engineer",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305867,
+      "name": "7th Cohors Engineer",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17305915,
+      "name": "",
+      "events": [
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

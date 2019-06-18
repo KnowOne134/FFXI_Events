@@ -1,0 +1,590 @@
+{
+  "id": 144,
+  "name": "Waughroon Shrine",
+  "actors": [
+    {
+      "id": 17367769,
+      "name": "",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367771,
+      "name": "Burning Circle",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367772,
+      "name": "Burning Circle",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367773,
+      "name": "Burning Circle",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367774,
+      "name": "Burning Circle",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367779,
+      "name": "Seeker",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367780,
+      "name": "Dark Dragon",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367781,
+      "name": "Lion",
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367782,
+      "name": "Ayame",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367783,
+      "name": "Ayame",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367784,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367794,
+      "name": "Hani",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367795,
+      "name": "Ren",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007I-it's you..."
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007We're too...late. He's already...passed through the...portal. The seal...on the helmet...won't hold much...longer."
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Unless you want to end up...like me, don't...touch the burning circle. It's protected...by a powerful curse."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007Hurry...back to Norg and tell...them what's happened. Get something to...break the curse...keep the demon...from escaping..."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007........."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367796,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367797,
+      "name": "Gaki",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367798,
+      "name": "Rasetsu",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367799,
+      "name": "Onki",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367800,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007He has lost consciousness."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367801,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7685,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7686,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7695,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Rank 2 Final Mission(pt.1).\u0007The Rank 2 Final Mission(pt.2).\u0007On My Way(pt.1).\u0007On My Way(pt.2).\u0007A Thief in Norg!?(pt.1).\u0007A Thief in Norg!?(pt.2).\u0007A Thief in Norg!?(pt.3).\u0007Beyond Infinity(pt.1).\u0007Beyond Infinity(pt.2).\u0007?@"
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7688,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367803,
+      "name": "Atori-Tutori",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367804,
+      "name": "Atori-Tutori",
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17367805,
+      "name": "",
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7584,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007The Rank 2 Final Mission.\u0007The Worm's Turn.\u0007Grimshell Shocktroopers.\u0007On My Way.\u0007A Thief in Norg!?\u00073, 2, 1...\u0007Shattering Stars (RDM).\u0007Shattering Stars (THF).\u0007Shattering Stars (BST).\u0007Birds of a Feather.\u0007Crustacean Conundrum.\u0007Grove Guardians.\u0007The Hills are Alive.\u0007Royal Jelly.\u0007The Final Bout.\u0007Up in Arms.\u0007Copycat.\u0007Operation Desert Swarm.\u0007Prehistoric Pigeons.\u0007The Palborough Project.\u0007Shell Shocked.\u0007Beyond Infinity.\u0007??The Worm's Tail\u0007??Grimshell Shocktroopers\u0007A Feast Most Dire.\u0007A.M.A.N. Trove (Mars).\u0007A.M.A.N. Trove (Venus).\u0007.\u0007.\u0007.\u0007.\u0007.\u0007"
+            },
+            {
+              "id": 7573,
+              "string": "\u0000!\u0000\u0007Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave."
+            },
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7572,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7582,
+              "string": "].\u0000\u0007The current battlefield clear time record for ??\f\u0001[The Rank 2 Final Mission\/The Worm's Turn\/Grimshell Shocktroopers\/On My Way\/A Thief in Norg!?\/3, 2, 1...\/Shattering Stars (RDM)\/Shattering Stars (THF)\/Shattering Stars (BST)\/Birds of a Feather\/Crustacean Conundrum\/Grove Guardians\/The Hills are Alive\/Royal Jelly\/The Final Bout\/Up in Arms\/Copycat\/Operation Desert Swarm\/Prehistoric Pigeons\/The Palborough Project\/Shell Shocked\/Beyond Infinity\/??The Worm's Tail\/??Grimshell Shocktroopers\/A Feast Most Dire\/A.M.A.N. Trove (Mars)\/A.M.A.N. Trove (Venus)]?? is \n\u0003 minute?\u0003[\/s] \n\u0002 second?\u0002[\/s"
+            },
+            {
+              "id": 7581,
+              "string": "]!\u0000\u0007The current battlefield clear time record for ??\f\u0001[The Rank 2 Final Mission\/The Worm's Turn\/Grimshell Shocktroopers\/On My Way\/A Thief in Norg!?\/3, 2, 1...\/Shattering Stars (RDM)\/Shattering Stars (THF)\/Shattering Stars (BST)\/Birds of a Feather\/Crustacean Conundrum\/Grove Guardians\/The Hills are Alive\/Royal Jelly\/The Final Bout\/Up in Arms\/Copycat\/Operation Desert Swarm\/Prehistoric Pigeons\/The Palborough Project\/Shell Shocked\/Beyond Infinity\/??The Worm's Tail\/??Grimshell Shocktroopers\/A Feast Most Dire\/A.M.A.N. Trove (Mars)\/A.M.A.N. Trove (Venus)]?? is \n\u0003 second?\u0003[\/s"
+            },
+            {
+              "id": 7572,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7211,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

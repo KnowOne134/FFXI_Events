@@ -1,0 +1,1249 @@
+{
+  "id": 77,
+  "name": "Nyzul Isle",
+  "actors": [
+    {
+      "id": 17093330,
+      "name": "Rune of Transfer",
+      "events": [
+        {
+          "id": 200,
+          "dialogue": [
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Travel to the next floor?\u0007\u000bNot yet.\u0007Exit the Assault area.\u0007Travel to the next floor.\u0007Travel to the floor on the right.\u0007Travel to the floor on the left.\u0007Travel to Floor \n\u0001.\u0007Travel to Floor ???."
+            },
+            {
+              "id": 7430,
+              "string": "1\u0000\u0007Do you really want to exit?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093331,
+      "name": "Rune of Transfer",
+      "events": [
+        {
+          "id": 201,
+          "dialogue": [
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Travel to the next floor?\u0007\u000bNot yet.\u0007Exit the Assault area.\u0007Travel to the next floor.\u0007Travel to the floor on the right.\u0007Travel to the floor on the left.\u0007Travel to Floor \n\u0001.\u0007Travel to Floor ???."
+            },
+            {
+              "id": 7430,
+              "string": "1\u0000\u0007Do you really want to exit?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093341,
+      "name": "",
+      "events": [
+        {
+          "id": 205,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093423,
+      "name": "Weather",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 92,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 93,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093424,
+      "name": "GOAL",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093426,
+      "name": "START",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093429,
+      "name": "Rune of Transfer",
+      "events": [
+        {
+          "id": 94,
+          "dialogue": [
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007?\u0001\u0001\u00053???? confirmed.\u0007Please select a floor number."
+            },
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007Select a floor.\u0007\u000bNone.\u00071.\u00076.\u000711.\u000716.\u000721.\u000726.\u000731.\u000736.\u000741.\u000746.\u000751.\u000756.\u000761.\u000766.\u000771.\u000776.\u000781.\u000786.\u000791.\u000796."
+            },
+            {
+              "id": 7477,
+              "string": "1\u0000\u0007Commencing transfer to Floor 1."
+            },
+            {
+              "id": 7478,
+              "string": "1\u0000\u0007Travel to Floor 1?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007Transfer to Floor \n\u0000 requires \n\u0001 ?\u0001[token\/tokens]."
+            },
+            {
+              "id": 7476,
+              "string": "1\u0000\u0007Use \n\u0001 ?\u0001[token\/tokens] to travel to Floor \n\u0000?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 96,
+          "dialogue": [
+            {
+              "id": 7463,
+              "string": "1\u0000\u0007?\u0001\u0001\u00053???? confirmed.\u0007Please select your destination floor."
+            },
+            {
+              "id": 7473,
+              "string": "1\u0000\u0007Select a floor.\u0007\u000bNone.\u000720.\u000740.\u000760.\u000780.\u0007100."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007Final destination set to Floor \n\u0000.\u0007Travel to Floor 1?"
+            },
+            {
+              "id": 7478,
+              "string": "1\u0000\u0007Travel to Floor 1?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093430,
+      "name": "Vending Box",
+      "events": [
+        {
+          "id": 202,
+          "dialogue": [
+            {
+              "id": 7465,
+              "string": "1\u0000\u0007There is a treasure chest here.\u0007It appears to create temporary items in exchange for tokens."
+            },
+            {
+              "id": 7466,
+              "string": "1\u0000\u0007Obtain a temporary item?\u0007\u000bPreferred items.\u0007Low-grade items (\n# tokens).\u0007Medium-grade items (\n$ tokens).\u0007High-grade items (\n% tokens).\u0007All items.\u0007Not now."
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007Obtain an item? (Tokens: \n')\u0007\u000bAll of them. (\n& token?&[\/s])\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n#.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n$.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????: \n%.\u0007None of them."
+            },
+            {
+              "id": 7552,
+              "string": "1\u0000\u0007You currently have \n' token?'[\/s].\u0007Exchange \n\u0000 token?\u0000[\/s] for all \f\u0001[low-grade temporary items\/medium-grade temporary items\/high-grade temporary items\/preferred temporary items] not already in your possession?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007You currently have \n' token?'[\/s].\u0007Obtaining all \f\u0001[low-grade\/medium-grade\/\/preferred] temporary items not already in your possession would require \n\u0000 token?\u0000[\/s]."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007There are no items available in this category."
+            },
+            {
+              "id": 7555,
+              "string": "1\u0000\u0007You have not set any temporary item preferences."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Obtain an item? (Tokens: \n')\u0007\u000bAll of them. (\n& token?&[\/s])\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007None of them."
+            },
+            {
+              "id": 7552,
+              "string": "1\u0000\u0007You currently have \n' token?'[\/s].\u0007Exchange \n\u0000 token?\u0000[\/s] for all \f\u0001[low-grade temporary items\/medium-grade temporary items\/high-grade temporary items\/preferred temporary items] not already in your possession?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007You currently have \n' token?'[\/s].\u0007Obtaining all \f\u0001[low-grade\/medium-grade\/\/preferred] temporary items not already in your possession would require \n\u0000 token?\u0000[\/s]."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007There are no items available in this category."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Obtain an item? (Tokens: \n')\u0007\u000bAll of them. (\n& token?&[\/s])\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007None of them."
+            },
+            {
+              "id": 7552,
+              "string": "1\u0000\u0007You currently have \n' token?'[\/s].\u0007Exchange \n\u0000 token?\u0000[\/s] for all \f\u0001[low-grade temporary items\/medium-grade temporary items\/high-grade temporary items\/preferred temporary items] not already in your possession?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007You currently have \n' token?'[\/s].\u0007Obtaining all \f\u0001[low-grade\/medium-grade\/\/preferred] temporary items not already in your possession would require \n\u0000 token?\u0000[\/s]."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007There are no items available in this category."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007There are no items available in this category."
+            },
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007Obtain an item? (Tokens: \n')\u0007\u000b?\u0001\u0001\u0005#????.\u0007Not now."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007You currently possess \n' token?'[\/s].\u0007Do you wish to exchange tokens for this temporary item?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Insufficient tokens."
+            },
+            {
+              "id": 7552,
+              "string": "1\u0000\u0007You currently have \n' token?'[\/s].\u0007Exchange \n\u0000 token?\u0000[\/s] for all \f\u0001[low-grade temporary items\/medium-grade temporary items\/high-grade temporary items\/preferred temporary items] not already in your possession?"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007You currently have \n' token?'[\/s].\u0007Obtaining all \f\u0001[low-grade\/medium-grade\/\/preferred] temporary items not already in your possession would require \n\u0000 token?\u0000[\/s]."
+            },
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007There are no items available in this category."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093431,
+      "name": "Rune of Transfer #1",
+      "events": [
+        {
+          "id": 301,
+          "dialogue": [
+            {
+              "id": 7566,
+              "string": "1\u0000\u0007Warp to Floor \n\u0000? (Difficulty: \f\u0001[??\/????\/??????\/????????\/??????????])\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093432,
+      "name": "Rune of Transfer #2",
+      "events": [
+        {
+          "id": 302,
+          "dialogue": [
+            {
+              "id": 7566,
+              "string": "1\u0000\u0007Warp to Floor \n\u0000? (Difficulty: \f\u0001[??\/????\/??????\/????????\/??????????])\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093433,
+      "name": "Rune of Transfer #3",
+      "events": [
+        {
+          "id": 303,
+          "dialogue": [
+            {
+              "id": 7566,
+              "string": "1\u0000\u0007Warp to Floor \n\u0000? (Difficulty: \f\u0001[??\/????\/??????\/????????\/??????????])\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093434,
+      "name": "Rune of Transfer #4",
+      "events": [
+        {
+          "id": 304,
+          "dialogue": [
+            {
+              "id": 7566,
+              "string": "1\u0000\u0007Warp to Floor \n\u0000? (Difficulty: \f\u0001[??\/????\/??????\/????????\/??????????])\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093435,
+      "name": "Rune of Transfer #5",
+      "events": [
+        {
+          "id": 305,
+          "dialogue": [
+            {
+              "id": 7566,
+              "string": "1\u0000\u0007Warp to Floor \n\u0000? (Difficulty: \f\u0001[??\/????\/??????\/????????\/??????????])\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093436,
+      "name": "Rune of Transfer ???",
+      "events": [
+        {
+          "id": 306,
+          "dialogue": [
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007Warp to the heroine's chamber?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093437,
+      "name": "Rune of Transfer ???",
+      "events": [
+        {
+          "id": 307,
+          "dialogue": [
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007Warp to the heroine's chamber?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093438,
+      "name": "Rune of Transfer ???",
+      "events": [
+        {
+          "id": 308,
+          "dialogue": [
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007Warp to the heroine's chamber?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093439,
+      "name": "Rune of Transfer ???",
+      "events": [
+        {
+          "id": 309,
+          "dialogue": [
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007Warp to the heroine's chamber?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093440,
+      "name": "Rune of Transfer ???",
+      "events": [
+        {
+          "id": 310,
+          "dialogue": [
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007Warp to the heroine's chamber?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093441,
+      "name": "Rune of Transfer ???",
+      "events": [
+        {
+          "id": 311,
+          "dialogue": [
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007Warp to the heroines' chamber?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093472,
+      "name": "???",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093473,
+      "name": "",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093474,
+      "name": "",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093475,
+      "name": "",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093476,
+      "name": "Nashmeira",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093477,
+      "name": "Nashmeira",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093478,
+      "name": "Razfahd",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093479,
+      "name": "Raubahn",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093480,
+      "name": "Ghatsad",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093481,
+      "name": "Alexander",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17093482,
+      "name": "",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007What do you take?\u0007\u000bNothing.\u0007?\u0001\u0001\u0005#???? (\n\u0002 remaining)\u0007?\u0001\u0001\u0005#???? (\n\u0004 remaining)\u0007?\u0001\u0001\u0005#???? (\n\u0006 remaining)\u0007?\u0001\u0001\u0005#???? (\n\b remaining)\u0007?\u0001\u0001\u0005#???? (\n\n remaining)\u0007?\u0001\u0001\u0005#???? (\n\f remaining)\u0007?\u0001\u0001\u0005#???? (\n\u000e remaining)\u0007?\u0001\u0001\u0005#???? (\n\u0010 remaining)"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Activate the lamp?\u0007\u000bYes.\u0007Yes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 90,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 91,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 95,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 204,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 300,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

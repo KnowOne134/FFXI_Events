@@ -1,0 +1,3206 @@
+{
+  "id": 138,
+  "name": "Castle Zvahl Baileys [S]",
+  "actors": [
+    {
+      "id": 17343088,
+      "name": "",
+      "events": [
+        {
+          "id": 460,
+          "dialogue": [
+            {
+              "id": 7554,
+              "string": "1\u0000\u0007Register for a union?\u0007\u000bNo.\u0007Yes."
+            },
+            {
+              "id": 7555,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Transfer to another union.\u0007Resign union membership."
+            },
+            {
+              "id": 7556,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 7557,
+              "string": "1\u0000\u0007\f\u0000[Transfer unions\/Resign from your current union]?\u0007\u000bNo.\u0007Yes."
+            },
+            {
+              "id": 7556,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 7557,
+              "string": "1\u0000\u0007\f\u0000[Transfer unions\/Resign from your current union]?\u0007\u000bNo.\u0007Yes."
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits.\u0007For better or for worse, though, I suspect it shall not be long before we are in need of some new blood.\u0007Such is the nature of war..."
+            },
+            {
+              "id": 7558,
+              "string": "1\u0000\u0007Register for which union?\u0007\u000bNone.\u0007Adder Union (\n\u0000 ?\u0000[member\/members]).\u0007Bison Union (\n\u0001 ?\u0001[member\/members]).\u0007Coyote Union (\n\u0002 ?\u0002[member\/members]).\u0007Dhole Union (\n\u0003 ?\u0003[member\/members]).\u0007Eland Union (\n\u0004 ?\u0004[member\/members])."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343116,
+      "name": "",
+      "events": [
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343119,
+      "name": "Aymeric, T.K.",
+      "events": [
+        {
+          "id": 450,
+          "dialogue": [
+            {
+              "id": 7054,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 454,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343120,
+      "name": "Holger, I.M.",
+      "events": [
+        {
+          "id": 451,
+          "dialogue": [
+            {
+              "id": 7054,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 455,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343121,
+      "name": "Mikra-Lekra, C.C.",
+      "events": [
+        {
+          "id": 452,
+          "dialogue": [
+            {
+              "id": 7054,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 456,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343126,
+      "name": "Saunders, C.A.",
+      "events": [
+        {
+          "id": 453,
+          "dialogue": [
+            {
+              "id": 7054,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 457,
+          "dialogue": [
+            {
+              "id": 7067,
+              "string": "1\u0000\u0007Greetings. I am \t of the San d'Orian Provincial Knights."
+            },
+            {
+              "id": 7068,
+              "string": "1\u0000\u0007Greetings. I am \t of the Bastokan Legion."
+            },
+            {
+              "id": 7069,
+              "string": "1\u0000\u0007Greetings. I am \t of the Federation of Windurst."
+            },
+            {
+              "id": 7070,
+              "string": "1\u0000\u0007Greetings. I am \t, Campaign Arbiter for the Allied Forces."
+            },
+            {
+              "id": 7071,
+              "string": "1\u0000\u0007What can I help you with?\u0007\u000bNothing.\u0007Performance assessment.\u0007New Allied Tags.\u0007Temporary items.\u0007Union registration.\u0007Teleportation.\u0007Information on the Allied Campaign."
+            },
+            {
+              "id": 7077,
+              "string": "1\u0000\u0007You've already undergone an evaluation for this battle, or had you forgotten?\u0007As much as I'd like to, I'm forbidden from providing you with a new set of Allied Taegs until the next battle begins."
+            },
+            {
+              "id": 7117,
+              "string": "\u0000!\u0000\u0007I am sorry, \b, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official."
+            },
+            {
+              "id": 7117,
+              "string": "\u0000!\u0000\u0007I am sorry, \b, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official."
+            },
+            {
+              "id": 7074,
+              "string": "1\u0000\u0007Understood. I shall now judge your performance and award the proper remuneration."
+            },
+            {
+              "id": 7076,
+              "string": "1\u0000\u0007Understood. I shall prepare a new set of tags for you now."
+            },
+            {
+              "id": 7106,
+              "string": "1\u0000\u0007Let me show you the list of items currently available to you."
+            },
+            {
+              "id": 7107,
+              "string": "1\u0000\u0007Select a category:\u0007\u000bQuit.\u0007\n\u0000-Note Items.\u0007\n\u0001-Note Items.\u0007\n\u0002-Note Items."
+            },
+            {
+              "id": 7108,
+              "string": "1\u0000\u0007Which item would you like to see?\u0007\u000bQuit.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????"
+            },
+            {
+              "id": 7109,
+              "string": "1\u0000\u0007You currently possess \n' Allied Note?'[\/s]."
+            },
+            {
+              "id": 7110,
+              "string": "1\u0000\u0007Proceed with the transaction?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7124,
+              "string": "y.\u0000\u0007Register for a union?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7555,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Transfer to another union.\u0007Resign union membership."
+            },
+            {
+              "id": 7556,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 7125,
+              "string": "1\u0000\u0007\f\u0000[Transfer\/Resign] from your current union?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7556,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 7125,
+              "string": "1\u0000\u0007\f\u0000[Transfer\/Resign] from your current union?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits.\u0007For better or for worse, though, I suspect it shall not be long before we are in need of some new blood.\u0007Such is the nature of war..."
+            },
+            {
+              "id": 7558,
+              "string": "1\u0000\u0007Register for which union?\u0007\u000bNone.\u0007Adder Union (\n\u0000 ?\u0000[member\/members]).\u0007Bison Union (\n\u0001 ?\u0001[member\/members]).\u0007Coyote Union (\n\u0002 ?\u0002[member\/members]).\u0007Dhole Union (\n\u0003 ?\u0003[member\/members]).\u0007Eland Union (\n\u0004 ?\u0004[member\/members])."
+            },
+            {
+              "id": 7092,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 7062,
+              "string": "d.\u0000\u0007I am sorry. You do not have enough Allied Notes."
+            },
+            {
+              "id": 7092,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 7062,
+              "string": "d.\u0000\u0007I am sorry. You do not have enough Allied Notes."
+            },
+            {
+              "id": 7092,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 7062,
+              "string": "d.\u0000\u0007I am sorry. You do not have enough Allied Notes."
+            },
+            {
+              "id": 7092,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 7093,
+              "string": "1\u0000\u0007Complete transaction and return to capital?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7072,
+              "string": "1\u0000\u0007What would you like to know?\u0007\u000bNothing. I'm sorry.\u0007About performance assessment.\u0007About Allied Tags.\u0007About temporary items.\u0007About Unions."
+            },
+            {
+              "id": 7078,
+              "string": "1\u0000\u0007Anyone wearing Allied Tags while participating in a campaign battle will be judged on their overall performance."
+            },
+            {
+              "id": 7079,
+              "string": "1\u0000\u0007Soldiers will be evaluated not only on their fighting skills, but also on how much they contribute to the efforts of their allies through means such as healing and enhancing."
+            },
+            {
+              "id": 7080,
+              "string": "1\u0000\u0007However, beware that if you leave the area before being assessed, you will be deemed a deserter and will forfeit all rewards earned that day."
+            },
+            {
+              "id": 7081,
+              "string": "1\u0000\u0007Also, while there are no immediate penalties for being knocked out, falling in battle will significantly lower the score given to you."
+            },
+            {
+              "id": 7082,
+              "string": "1\u0000\u0007When you are ready to receive compensation for your work on the field, return to me and I shall assess your performance and provide you with your payment."
+            },
+            {
+              "id": 7091,
+              "string": "1\u0000\u0007That is all."
+            },
+            {
+              "id": 7083,
+              "string": "1\u0000\u0007Allied Tags are a special type of identification given to all participants of Allied Campaign battles."
+            },
+            {
+              "id": 7084,
+              "string": "1\u0000\u0007There are benefits, as well as drawbacks, to wearing the tags. One of the benefits is that in the case you are knocked out on the battlefield, you will not lose any experience points."
+            },
+            {
+              "id": 7085,
+              "string": "1\u0000\u0007However, some of the drawbacks include the inability to improve skills and earn experience points for individual kills, as well as the right to loot fallen enemies."
+            },
+            {
+              "id": 7091,
+              "string": "1\u0000\u0007That is all."
+            },
+            {
+              "id": 7086,
+              "string": "1\u0000\u0007Temporary items can be purchased in exchange for Allied Notes."
+            },
+            {
+              "id": 7087,
+              "string": "1\u0000\u0007There are several different varieties of items, but they all have one thing in common--they can only be used on the battlefield they were issued."
+            },
+            {
+              "id": 7088,
+              "string": "1\u0000\u0007It is highly recommended that you first survey a battle's conditions and then select the supplies that you believe will benefit you most."
+            },
+            {
+              "id": 7089,
+              "string": "1\u0000\u0007Please remember that all temporary items you carry on your person will be confiscated in the event that you leave the area."
+            },
+            {
+              "id": 7091,
+              "string": "1\u0000\u0007That is all."
+            },
+            {
+              "id": 7118,
+              "string": "1\u0000\u0007Oh ho! Keen to join a Union, are we?\u0007Very well. Listen up and I shall tell you all you need to know."
+            },
+            {
+              "id": 7119,
+              "string": "1\u0000\u0007In order to better coordinate Allied efforts against the beastman menace, we have instituted a system of ad hoc tactical regiments called ??Unions.?? With five units to a battlefield, union registration is open to any proven soldier in possession of Allied Tags."
+            },
+            {
+              "id": 7120,
+              "string": "1\u0000\u0007In return for their aid in advancing the war effort, union registrants will be eligible to earn a share of the spoils of war."
+            },
+            {
+              "id": 7121,
+              "string": "1\u0000\u0007Needless to say, the choicest rewards will be reserved for those unions which make the greatest contributions in combat.\u0007Prove your mettle on the field of battle, and you will earn glory for your union, as well as a sizable bounty of your own."
+            },
+            {
+              "id": 7122,
+              "string": "1\u0000\u0007Be forewarned that your commitment to your union comes first and foremost.\u0007In the aftermath of battle, you will not be permitted to reap rewards from your individual exploits until your union has distributed its plunder."
+            },
+            {
+              "id": 7091,
+              "string": "1\u0000\u0007That is all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343127,
+      "name": "Iron Bar Gate",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343128,
+      "name": "Iron Bar Gate",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343130,
+      "name": "Iron Bar Gate",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343132,
+      "name": "Iron Bar Gate",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343146,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7573,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7574,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7575,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7583,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7584,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Into the Beast's Maw(pt.1).\u0007Into the Beast's Maw(pt.2).\u0007Into the Beast's Maw(pt.3).\u0007Into the Beast's Maw(pt.4).\u0007The Hunter Ensnared.\u0007Darkness Descends.\u0007The Truth Lies Hid.\u0007Bonds of Mythril."
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7585,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7586,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7587,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343149,
+      "name": "",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343150,
+      "name": "Lilisette",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7619,
+              "string": "1\u0000\u0007Sir Ragelise! There's something you should see!"
+            },
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007Wh-what was that?"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7674,
+              "string": "1\u0000\u0007Portia! Sir Ragelise!"
+            },
+            {
+              "id": 7675,
+              "string": "1\u0000\u0007Wh-what should we do?"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7650,
+              "string": "t.\u0000\u0007<Gasp>! Th-this is--!?"
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007Sir Ragelise! Be careful!"
+            },
+            {
+              "id": 7659,
+              "string": "1\u0000\u0007Sir Ragelise!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343151,
+      "name": "Ragelise",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007This is the strike force. Do you copy?"
+            },
+            {
+              "id": 7594,
+              "string": "1\u0000\u0007Make it so."
+            },
+            {
+              "id": 7606,
+              "string": "!!\u0000\u0007So it begins..."
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007The enemy is preoccupied with the frontal assault! Now's our chance!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7620,
+              "string": "1\u0000\u0007...?"
+            },
+            {
+              "id": 7627,
+              "string": "1\u0000\u0007I've come to reclaim my woman, demon.\u0007If you've a grievance, you may take it up with my blade."
+            },
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007...!?"
+            },
+            {
+              "id": 7632,
+              "string": "1\u0000\u0007!?"
+            },
+            {
+              "id": 7634,
+              "string": "1\u0000\u0007It couldn't be..."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7672,
+              "string": "1\u0000\u0007M-my wish? I... I..."
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007P-Portia, no... You mustn't..."
+            },
+            {
+              "id": 7713,
+              "string": "1\u0000\u0007I'm in your debt..."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7738,
+              "string": "1\u0000\u0007...?"
+            },
+            {
+              "id": 7740,
+              "string": "1\u0000\u0007Forgive me my forthrightness, but we haven't the time to listen to your happy reminiscences."
+            },
+            {
+              "id": 7741,
+              "string": "1\u0000\u0007We came here for no other purpose than to learn the identity of that mysterious entity...the source of its power.\u0007What can you tell us?"
+            },
+            {
+              "id": 7743,
+              "string": "1\u0000\u0007I have naught left to lose."
+            },
+            {
+              "id": 7748,
+              "string": "1\u0000\u0007A prophecy...?"
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007...?"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007The entire keep, deserted?\u0007Curses! We've played right into their hands!"
+            },
+            {
+              "id": 7642,
+              "string": "1\u0000\u0007With the bulk of our manpower allocated to the strike force, the Ironcrest Hawks don't stand a chance!"
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007Understood!"
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007What...in the name...of the Goddess?"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007Those flames...forbidding and cold..."
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007What...is this...sensation?"
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056????...\u0007Use it...to tell those stationed without...of our plight!"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007With any luck...reinforcements will be dispatched!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343152,
+      "name": "Portia",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007But...why?"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007Don't hurt them! Leave them be!"
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007I surrendered myself in exchange for the promise that everyone would be spared. Was that but a lie?"
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007Then I have no other choice..."
+            },
+            {
+              "id": 7693,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7695,
+              "string": "1\u0000\u0007Lilisette... \b..."
+            },
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007Sir Ragelise..."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007Thank you...for everything..."
+            },
+            {
+              "id": 7715,
+              "string": "1\u0000\u0007Thank you..."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7734,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007You spoke of a way we could live still, and continue fighting in spite of the curse."
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007I beg you. If there truly is a way, please share it with him...with us."
+            },
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007Familiar, yet unlike the one I heard growing up."
+            },
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007When the Harbinger cometh,\u0007The Champions of the Dawn shall descend.\u0007With wings divine in radiance blessed,\u0007The eternal night is end."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343153,
+      "name": "Vestillet",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7630,
+              "string": "1\u0000\u0007Ragelise! We've conducted a full sweep of the keep, but the place is utterly devoid of enemies."
+            },
+            {
+              "id": 7631,
+              "string": "1\u0000\u0007There's not a trace of the Shadow Lord."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343154,
+      "name": "Noillurie",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7714,
+              "string": "1\u0000\u0007Once outside, rejoin the San d'Orian forces! They should yet be near!"
+            },
+            {
+              "id": 7716,
+              "string": "1\u0000\u0007No thanks are required. I merely perform my duty."
+            },
+            {
+              "id": 7722,
+              "string": "1\u0000\u0007Coward..."
+            },
+            {
+              "id": 7724,
+              "string": "1\u0000\u0007Very good. Let us quit this place and bolster the rearguard."
+            },
+            {
+              "id": 7725,
+              "string": "1\u0000\u0007Fall in!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343155,
+      "name": "Mayakov",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007All unith in the thtrike forthe have withdrawn! You're the only oneth left!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343156,
+      "name": "Haudrale",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7678,
+              "string": "!?\u0000\u0007You have entertained our guests well, Count Bifrons."
+            },
+            {
+              "id": 7679,
+              "string": "1\u0000\u0007I am here to collect the bait."
+            },
+            {
+              "id": 7683,
+              "string": "1\u0000\u0007Your spirit far exceeds your ailing flesh."
+            },
+            {
+              "id": 7690,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7692,
+              "string": "1\u0000\u0007You would end your own life?"
+            },
+            {
+              "id": 7700,
+              "string": "!?\u0000\u0007What is it now?"
+            },
+            {
+              "id": 7717,
+              "string": "1\u0000\u0007Nobody leaves!"
+            },
+            {
+              "id": 7720,
+              "string": "1\u0000\u0007I shall gift you your lives for now. You would be imprudent to appear before me again."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343157,
+      "name": "Bartholomaus",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7592,
+              "string": "1\u0000\u0007Why, Sir Ragelise! I had been under the impression you were partaking in the diversion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343158,
+      "name": "Adelheid",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343159,
+      "name": "Ukai01",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343160,
+      "name": "Ukai02",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343161,
+      "name": "Ukai03",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343162,
+      "name": "Ukai04",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343163,
+      "name": "Ukai05",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343164,
+      "name": "Ukai06",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343165,
+      "name": "Cousseraux",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007All units, withdraw! I repeat! Withdraw!"
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007Such unholy strength!"
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007Th-this is the true power of the Shadow Lord!?"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Ragelise, do you read?\u0007We're being overwhelmed! Withdraw at once!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343166,
+      "name": "Ethelbert",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7602,
+              "string": "1\u0000\u0007They come!"
+            },
+            {
+              "id": 7604,
+              "string": "s!\u0000\u0007Fire at will!!!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343167,
+      "name": "Count Bifrons",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7609,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7611,
+              "string": "1\u0000\u0007The commotion out front feels all too contrived. I smell a plot."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007A commendable performance."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007There is nary a truer saying. Do you not agree?"
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007You two have overindulged in our hospitality."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343168,
+      "name": "Shadow Lord",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343169,
+      "name": "Cait Sith",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7731,
+              "string": "1\u0000\u0007If I might hazard a guess, the Throne Room would be a probable location. A likely candidate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343170,
+      "name": "Lady Lilith",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7737,
+              "string": "1\u0000\u0007When I assumed the mantle of being Vana'diel's custodian."
+            },
+            {
+              "id": 7739,
+              "string": "1\u0000\u0007The hair ornament you gave to me, Mother. Ever since that day I have always kept it close, that I might never lose sight of my purpose nor let dwindle my inner rage."
+            },
+            {
+              "id": 7742,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7746,
+              "string": "1\u0000\u0007When the Harbinger cometh,\u0007The Maiden of the Dusk shall descend."
+            },
+            {
+              "id": 7747,
+              "string": "1\u0000\u0007With wings to bear in crimson steeped,\u0007On high the world she tends."
+            },
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007Naturally. For the prophecy I recited is not of your future, but mine."
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007The time has come for me to reveal all."
+            },
+            {
+              "id": 7754,
+              "string": "1\u0000\u0007The tale of two futures, and those who would arise to champion the survival of each."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343171,
+      "name": "Aquila",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343172,
+      "name": "Larzos",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343173,
+      "name": "???",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343174,
+      "name": "",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343175,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7589,
+              "string": "1\u0000\u0007?@?@ "
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343176,
+      "name": "???",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343177,
+      "name": "Volker",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7755,
+              "string": "1\u0000\u0007Ah, there you are, \b.\u0007I was starting to get worried about you."
+            },
+            {
+              "id": 7757,
+              "string": "1\u0000\u0007Seems we're not the only cloak-and-dagger outfit in these parts.\u0007Perhaps they have some information to share."
+            },
+            {
+              "id": 7765,
+              "string": "1\u0000\u0007Tall, with auburn hair...and imposingly armed when last we saw her."
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007<Ahem>\u0007I'll warn you but once: concealing information from us may prove hazardous to your health."
+            },
+            {
+              "id": 7785,
+              "string": "1\u0000\u0007What's this? There are others of your ilk here?"
+            },
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007The castle keep is fraught with dangers.\u0007Should you find the opposition to be more than you can handle, return to the baileys and regroup."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007\b! Thank the Goddess you're safe."
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007If you can make any sense of what happened back in that chamber, you've a better head on your shoulders than I."
+            },
+            {
+              "id": 7802,
+              "string": "r.\u0000\u0007What dark forces are at play here? Whatever have they done with our Captain Klara?"
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007What!? Have you taken leave of your senses, Zeid?"
+            },
+            {
+              "id": 7808,
+              "string": "1\u0000\u0007Zeid...there's something you haven't told us, isn't there?"
+            },
+            {
+              "id": 7810,
+              "string": "1\u0000\u0007Whatever burden it is you bear, why not share it?"
+            },
+            {
+              "id": 7874,
+              "string": "1\u0000\u0007So this is the bond that you and the captain share..."
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007And light is shed on the identity of our netherworldly friend as well."
+            },
+            {
+              "id": 7876,
+              "string": "1\u0000\u0007Marquis Amon... Six years ago, he sought to lure Zeid to the path of shadow.\u0007What foulness could he be plotting this time?"
+            },
+            {
+              "id": 7877,
+              "string": "1\u0000\u0007And that gem..."
+            },
+            {
+              "id": 7878,
+              "string": "1\u0000\u0007The captain was caught in its unholy radiance.\u0007Could this be how she fell under the monster's spell?"
+            },
+            {
+              "id": 7879,
+              "string": "1\u0000\u0007In any event, we won't be finding our answers here."
+            },
+            {
+              "id": 7880,
+              "string": "1\u0000\u0007Come, \b, Zeid, we must return to that chamber!\u0007Whatever secrets are to be had, they await us there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343178,
+      "name": "Zeid",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7805,
+              "string": "1\u0000\u0007The danger is too great, and the matter a personal one.\u0007You need not involve yourselves any further."
+            },
+            {
+              "id": 7809,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7812,
+              "string": "1\u0000\u0007\b..."
+            },
+            {
+              "id": 7813,
+              "string": "1\u0000\u0007You have fought at our side through many a battle.\u0007Time after time, you have come to our aid."
+            },
+            {
+              "id": 7814,
+              "string": "1\u0000\u0007Now I ask you: why?\u0007What is it that drives you to make the sacrifice you do, with no promise of reward?"
+            },
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007I see...\u0007So we are not the only ones who've reaped the benefits of your aid."
+            },
+            {
+              "id": 7817,
+              "string": "1\u0000\u0007I see...\u0007To come this far without faltering in your step, your dedication to seeking the truth must be strong indeed."
+            },
+            {
+              "id": 7818,
+              "string": "1\u0000\u0007I see...\u0007So it is an unwavering desire to see peace restored to this war-torn realm that's brought you this far."
+            },
+            {
+              "id": 7819,
+              "string": "1\u0000\u0007There's a strength, a passion in your words.\u0007I am reminded of..."
+            },
+            {
+              "id": 7821,
+              "string": "1\u0000\u0007It was some six years ago.\u0007Sent into a mindless rage by the loss of my comrades in the Thirteenth Brigade, I had transformed into little more than a wanton killing machine."
+            },
+            {
+              "id": 7822,
+              "string": "1\u0000\u0007Vengeance.\u0007Only through vengeance could the pride of my fallen Galkan brothers be restored."
+            },
+            {
+              "id": 7825,
+              "string": "1\u0000\u0007I will not lie to you, friends.\u0007By that time, Darksteel Hurricane knew not for what end he wielded his grisly blade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343179,
+      "name": "Nicolaus",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7776,
+              "string": "t.\u0000\u0007Very well, then.\u0007Let us see what the shifty little devil knows."
+            },
+            {
+              "id": 7778,
+              "string": "1\u0000\u0007Why, it would be my pleasure, my vertically challenged friend...\u0007Right after you tell us what we need to know, that is."
+            },
+            {
+              "id": 7788,
+              "string": "a!\u0000\u0007I suspect he's telling the truth...for once.\u0007It seems we've no recourse but to seek out his cronies."
+            },
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007Ah, right you are.\u0007Here, I've just the spell for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343180,
+      "name": "Five Moons",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7783,
+              "string": "1\u0000\u0007Let's not write him off so quickly, Nicolaus.\u0007I'm sure he just needs the proper...encouragement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343181,
+      "name": "Leki Shameene",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7758,
+              "string": "1\u0000\u0007Grrrrrr... I swear, no sooner ya kill one o' these fiends than one o' their buddies slitherrrs in t' take its place."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343182,
+      "name": "",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343183,
+      "name": "Premas-Lamas",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343184,
+      "name": "Allenberge",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7759,
+              "string": "1\u0000\u0007We can ill afford to engage the grunts one by one.\u0007Incapacitate them quickly and falter not in your advance!"
+            },
+            {
+              "id": 7762,
+              "string": "e?\u0000\u0007Stay your advance, foul--!\u0007Wait...you are not foes. Who are you, and what brings you to these disagreeable environs?"
+            },
+            {
+              "id": 7773,
+              "string": "1\u0000\u0007A passage, you say?"
+            },
+            {
+              "id": 7774,
+              "string": "1\u0000\u0007Is this the entrance we seek, or merely a snare laid by our foe?\u0007The game is afoot..."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343185,
+      "name": "Hippolite",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7772,
+              "string": "1\u0000\u0007Captain Allenberge, sir! We've come upon a hidden passage above!\u0007Behind the stone structure in the northeast chamber!"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343186,
+      "name": "",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343187,
+      "name": "Flap",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7779,
+              "string": "1\u0000\u0007Oh, so we gots ourselves a wise guy, eh? Well, I ain't seen no red-headed Hume broad.\u0007So if you ain't gonna unbind me, why don't you just make like a treant and leave?"
+            },
+            {
+              "id": 7781,
+              "string": "1\u0000\u0007Wh-whoa there, Mister Bandana Man!\u0007Flap can't talk about what Flap ain't seen, y'know?"
+            },
+            {
+              "id": 7786,
+              "string": "1\u0000\u0007Yeah, that's right. Maybe ya've seen 'em around?\u0007Like me, only a bit more pallid and sickly-like. The boss don't let 'em outside much, ya see..."
+            },
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007Now ya done did it, Flap.\u0007Sold out yer buddies without even a single lousy beastcoin t' show fer it."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343188,
+      "name": "",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343189,
+      "name": "",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343190,
+      "name": "",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343191,
+      "name": "Zeid",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7869,
+              "string": "1\u0000\u0007...?"
+            },
+            {
+              "id": 7809,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343192,
+      "name": "Klara",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007I am Captain Klara Bester of the Republic of Bastok's Mythril Musketeers...and I have come to bring this man to justice."
+            },
+            {
+              "id": 7840,
+              "string": "1\u0000\u0007I think not, monster."
+            },
+            {
+              "id": 7841,
+              "string": "1\u0000\u0007Marquis Amon... So you're the one who lured the brave soldiers of the Thirteenth to their destruction, deceiving their sole survivor and twisting his heart for your own nefarious ends."
+            },
+            {
+              "id": 7842,
+              "string": "1\u0000\u0007You're every bit the coward I expected, ??Your Excellency.??"
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Enough! I came for my countryman, not your empty bluster."
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Wh-what the!?"
+            },
+            {
+              "id": 7851,
+              "string": "1\u0000\u0007Listen to me! It isn't too late to redeem yourself!\u0007You need not torture yourself any longer!"
+            },
+            {
+              "id": 7854,
+              "string": "1\u0000\u0007Open your eyes, Zeid!!!\u0007Remember who you once were! Remember those who believed in you!"
+            },
+            {
+              "id": 7856,
+              "string": "1\u0000\u0007He lies..."
+            },
+            {
+              "id": 7860,
+              "string": "1\u0000\u0007Trust me...trust yourself!\u0007Take my hand!"
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Take my hand, Zeid!"
+            },
+            {
+              "id": 7866,
+              "string": "1\u0000\u0007...Thank you. I am fine."
+            },
+            {
+              "id": 7867,
+              "string": "1\u0000\u0007I thought we were finished for certain.\u0007You have my gratitude."
+            },
+            {
+              "id": 7868,
+              "string": "1\u0000\u0007Now, Zeid, I return to the Republic...and you shall come with me.\u0007I hereby place you under my personal protection."
+            },
+            {
+              "id": 7870,
+              "string": "1\u0000\u0007The crimes you have committed are heinous.\u0007Were I to arrest you here, you would see the headsman's block before the week is through."
+            },
+            {
+              "id": 7871,
+              "string": "1\u0000\u0007But I have no intention of granting you the sweet release of death."
+            },
+            {
+              "id": 7872,
+              "string": "1\u0000\u0007No, Zeid, you will live.\u0007You will face your countrymen, your former comrades, and think long and hard about the irreparable wounds you inflicted upon them...and upon yourself."
+            },
+            {
+              "id": 7873,
+              "string": "1\u0000\u0007Whether you find solace or despair at the end of your journey, that depends on you alone.\u0007This is my justice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343193,
+      "name": "Marquis Amon",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7828,
+              "string": "1\u0000\u0007I knew it was only a matter of time...War Cloud."
+            },
+            {
+              "id": 7829,
+              "string": "1\u0000\u0007Or shall I call you Zeid?\u0007I do so hate to stand on formalities with a brother in arms. Heh heh heh..."
+            },
+            {
+              "id": 7830,
+              "string": "1\u0000\u0007Not very social today, are we?\u0007Or has the beast lived in the wild so long that he no longer speaks the mortal tongue?"
+            },
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007You disappoint me, Zeid. Where has your rage gone?\u0007Have you so soon forgotten your vow of vengeance against the wretched Humes who consigned your comrades to their doom?"
+            },
+            {
+              "id": 7832,
+              "string": "1\u0000\u0007Yes...you are disillusioned with yourself.\u0007You could never have foreseen the anger and hatred that fueled you would fade so quickly."
+            },
+            {
+              "id": 7833,
+              "string": "1\u0000\u0007But it matters little.\u0007In the end, you are naught but a puppet on this grand stage--one that has already performed his role quite admirably."
+            },
+            {
+              "id": 7834,
+              "string": "1\u0000\u0007O, wretched child of Altana.\u0007This world holds nothing more for you."
+            },
+            {
+              "id": 7835,
+              "string": "1\u0000\u0007Your path from here is the path of darkness.\u0007Swear allegiance to the Shadow Lord, and you will know power beyond your wildest dreams...and most terrible nightmares."
+            },
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007...A woman?\u0007Begone, peon. This does not concern you."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007Oho. The mortal is sharp of mind and tongue...a worthier foe than we gave her credit for.\u0007All the more satisfying it will be to crush you--"
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007The peasant woman would dare give orders to nobility?\u0007Perhaps she is not nearly as wise as we gave her credit for..."
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007I have neither the time nor interest to entertain you any further.\u0007Stand aside and be silent, as befits your station."
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007The flames of the underworld.\u0007I'd suggest you keep a wide berth if you care to prolong your worthless life."
+            },
+            {
+              "id": 7850,
+              "string": "1\u0000\u0007This woman cares nothing for you! She seeks only to see a noose tied around your neck.\u0007Pay no heed to her deceitful words."
+            },
+            {
+              "id": 7852,
+              "string": "1\u0000\u0007The Hume speaks in lies and platitudes, as do all her kind.\u0007Place your trust in her, and she will repay you with betrayal in a heartbeat.\u0007You know this all too well--don't you, Zeid?"
+            },
+            {
+              "id": 7853,
+              "string": "1\u0000\u0007Come with me to a world where power--and only power--rules.\u0007It is clear where you belong!"
+            },
+            {
+              "id": 7855,
+              "string": "1\u0000\u0007Be not deceived! The man you once were is lost forever!\u0007You are a brutal killer, and nothing more! Nobody cares for you...nobody believes in you...\u0007And so it will be for the rest of your miserable life!"
+            },
+            {
+              "id": 7859,
+              "string": "1\u0000\u0007So quick to throw your life away, woman?\u0007Gwahahahahahaha!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343194,
+      "name": "",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343195,
+      "name": "",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343196,
+      "name": "",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343197,
+      "name": "",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343198,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17343199,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17343200,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343201,
+      "name": "Tetu01",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343202,
+      "name": "Tetu02",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343203,
+      "name": "Tetu03",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343204,
+      "name": "Tetu04",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343205,
+      "name": "Tetu05",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343206,
+      "name": "Tetu06",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343207,
+      "name": "Tetu07",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343208,
+      "name": "Tetu08",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343209,
+      "name": "Tetu09",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343210,
+      "name": "Tetu10",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343211,
+      "name": "Chimene",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007Sir Noillurie, the perimeter is secure.\u0007All our troops have been confirmed evacuated."
+            },
+            {
+              "id": 7726,
+              "string": "1\u0000\u0007Yes, ma'a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343212,
+      "name": "bara02",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343213,
+      "name": "bara03",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343214,
+      "name": "Bukadaemon1",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343215,
+      "name": "Demon Suppressor",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343216,
+      "name": "Demon Befouler",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7601,
+              "string": "1\u0000\u0007What was that!?"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343217,
+      "name": "Bukadaemon4",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343218,
+      "name": "Bukadaemon5",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343219,
+      "name": "Bukadaemon6",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343220,
+      "name": "???",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343221,
+      "name": "02",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343222,
+      "name": "03",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343223,
+      "name": "04",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343224,
+      "name": "05",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343225,
+      "name": "06",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343226,
+      "name": "07",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343227,
+      "name": "08",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343228,
+      "name": "09",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343229,
+      "name": "10",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343230,
+      "name": "thubu01",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343231,
+      "name": "thubu02",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343232,
+      "name": "baku01",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343233,
+      "name": "baku02",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343234,
+      "name": "baku03",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343235,
+      "name": "baku04",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343236,
+      "name": "baku05",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343237,
+      "name": "baku06",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343238,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343239,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343240,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343241,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17343242,
+      "name": "Peculiar Glint",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7884,
+              "string": "1\u0000\u0007Attempt which objective?\u0007\u000bNone.\u0007\u0001\b????????.\u0007\u0001\b????????.\u0007\u0001\b????????.\u0007\u0001\b????????.\u0007\u0001\b????????.\u0007\u0001\b????????.\u0007\u0001\b????????.\u0007\u0001\b????????."
+            },
+            {
+              "id": 7885,
+              "string": "1\u0000\u0007Only party members present with you in this area will be transported to \f\u0000[Everbloom Hollow\/the Ruhotz Silvermines\/Ghoyu's Reverie]."
+            },
+            {
+              "id": 7886,
+              "string": "1\u0000\u0007Proceed?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7893,
+              "string": "g.\u0000\u0007Your request for entry is being considered."
+            },
+            {
+              "id": 7887,
+              "string": "1\u0000\u0007Now entering \f\u0000[Everbloom Hollow\/the Ruhotz Silvermines\/Ghoyu's Reverie"
+            },
+            {
+              "id": 7888,
+              "string": "].\u0000\u0007You have chosen not to enter \f\u0000[Everbloom Hollow\/the Ruhotz Silvermines\/Ghoyu's Reverie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17343243,
+      "name": "Allied Commissary",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17343244,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17343245,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17343246,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17343247,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17343248,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17343249,
+      "name": "Survival Guide",
+      "events": [
+        {
+          "id": 8500,
+          "dialogue": [
+            {
+              "id": 7940,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7938,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7941,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            }
+          ]
+        },
+        {
+          "id": 8501,
+          "dialogue": [
+            {
+              "id": 7940,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7938,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7941,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            },
+            {
+              "id": 7954,
+              "string": "1\u0000\u0007You may change the way you select areas listed in ??Teleportation Assistance."
+            },
+            {
+              "id": 7955,
+              "string": "??\u0000\u0007Any changes to make?\u0007\u000bKeep course.\u0007Select by region.\u0007Select by content."
+            },
+            {
+              "id": 7956,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 7956,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 7950,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 7951,
+              "string": "1\u0000\u0007At the bottom of the page is a reminder. It perfunctorily states that you may receive \u0001\u0001\u0001 \u0001\u0005$???? once you have logged a total of \n\u0002 hours."
+            },
+            {
+              "id": 7950,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 7952,
+              "string": "1\u0000\u0007As per the custom noted within, you are eligible to receive \u0001\u0001\u0001 \u0001\u0005$???? for the \n\u0002 hour?\u0002[\/s] of fighting you've accrued."
+            },
+            {
+              "id": 7953,
+              "string": "1\u0000\u0007Accept the reward?\u0007\u000bYes, please.\u0007No, thanks."
+            },
+            {
+              "id": 6388,
+              "string": "1\u0000\u0007Obtained: ?\u0001\u0001\u0005#????."
+            },
+            {
+              "id": 6382,
+              "string": "1\u0000\u0007You cannot obtain the \u0001\u0005#????.\u0007Come back after sorting your inventory."
+            },
+            {
+              "id": 7942,
+              "string": "1\u0000\u0007The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
+            },
+            {
+              "id": 7943,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 7958,
+              "string": "1\u0000\u0007Travel to which region?\u0007\u000bOn second thought, none.\u0007Select from amongst favorites.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7943,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 7957,
+              "string": "].\u0000\u0007\u000bNowhere for now.\u0007Select from amongst favorites.\u0007Original release areas.\u0007Rise of the Zilart areas.\u0007Chains of Promathia areas.\u0007Treasures of Aht Urhgan areas.\u0007Wings of the Goddess areas.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007Seekers of Adoulin areas."
+            },
+            {
+              "id": 7946,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 7947,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 7948,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7949,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 7960,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7960,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7961,
+              "string": "].\u0000\u0007Your list of favorites is full. You must remove an existing entry to add new one"
+            },
+            {
+              "id": 7960,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7946,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 7947,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 7948,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7949,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7949,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7894,
+              "string": "..\u0000\u0007The order has been given by your party leader to enter \f\u0000[Everbloom Hollow\/the Ruhotz Silvermines\/Ghoyu's Reverie"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

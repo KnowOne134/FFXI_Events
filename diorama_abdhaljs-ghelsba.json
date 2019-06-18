@@ -1,0 +1,628 @@
+{
+  "id": 43,
+  "name": "Diorama Abdhaljs-Ghelsba",
+  "actors": [
+    {
+      "id": 16953354,
+      "name": "Hut Door",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953355,
+      "name": "???",
+      "events": [
+        {
+          "id": 21,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953356,
+      "name": "Rook",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953357,
+      "name": "Rook",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953358,
+      "name": "Rook",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953359,
+      "name": "Rook",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953360,
+      "name": "Item_box",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7761,
+              "string": "1\u0000\u0007Which will it be?\u0007\u000b\u0001\u0005#????\u0007\u0001\u0005#????\u0007\u0001\u0005#????\u0007\u0001\u0005#????\u0007\u0001\u0005#????\u0007\u0001\u0005#????\u0007No thanks."
+            },
+            {
+              "id": 7762,
+              "string": "1\u0000\u0007???x?????????H\u0007\u000b????\u000760\u000750\u000740\u000730\u000720\u000710\u0007??????????"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953361,
+      "name": "Pursuivant",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7926,
+              "string": "1\u0000\u0007\f\u0000[ \/Currently, match rules are being set\/Currently, I am accepting match entries\/Currently, we are in the briefing period for the next match\/Currently, a match is in progress\/The next match has been cancelled due to a lack of participants\/Currently, a match has just ended].\u0007The Herald can be found at \f\u0001[G-6\/F-7\/G-10\/I-11]."
+            },
+            {
+              "id": 7927,
+              "string": "1\u0000\u0007What can I do for you?\u0007\u000bTeleport to the Herald.\u0007Teleport back to Jeuno.\u0007Nothing at this time."
+            },
+            {
+              "id": 7928,
+              "string": "1\u0000\u0007Understood.\u0007I will have you there right away."
+            },
+            {
+              "id": 7929,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7930,
+              "string": "1\u0000\u0007Understood.\u0007Please hold on to your ?[wallet\/purse].1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953362,
+      "name": "Pursuivant",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7926,
+              "string": "1\u0000\u0007\f\u0000[ \/Currently, match rules are being set\/Currently, I am accepting match entries\/Currently, we are in the briefing period for the next match\/Currently, a match is in progress\/The next match has been cancelled due to a lack of participants\/Currently, a match has just ended].\u0007The Herald can be found at \f\u0001[G-6\/F-7\/G-10\/I-11]."
+            },
+            {
+              "id": 7927,
+              "string": "1\u0000\u0007What can I do for you?\u0007\u000bTeleport to the Herald.\u0007Teleport back to Jeuno.\u0007Nothing at this time."
+            },
+            {
+              "id": 7928,
+              "string": "1\u0000\u0007Understood.\u0007I will have you there right away."
+            },
+            {
+              "id": 7929,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7930,
+              "string": "1\u0000\u0007Understood.\u0007Please hold on to your ?[wallet\/purse].1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953363,
+      "name": "Pursuivant",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7926,
+              "string": "1\u0000\u0007\f\u0000[ \/Currently, match rules are being set\/Currently, I am accepting match entries\/Currently, we are in the briefing period for the next match\/Currently, a match is in progress\/The next match has been cancelled due to a lack of participants\/Currently, a match has just ended].\u0007The Herald can be found at \f\u0001[G-6\/F-7\/G-10\/I-11]."
+            },
+            {
+              "id": 7927,
+              "string": "1\u0000\u0007What can I do for you?\u0007\u000bTeleport to the Herald.\u0007Teleport back to Jeuno.\u0007Nothing at this time."
+            },
+            {
+              "id": 7928,
+              "string": "1\u0000\u0007Understood.\u0007I will have you there right away."
+            },
+            {
+              "id": 7929,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7930,
+              "string": "1\u0000\u0007Understood.\u0007Please hold on to your ?[wallet\/purse].1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953364,
+      "name": "Pursuivant",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7926,
+              "string": "1\u0000\u0007\f\u0000[ \/Currently, match rules are being set\/Currently, I am accepting match entries\/Currently, we are in the briefing period for the next match\/Currently, a match is in progress\/The next match has been cancelled due to a lack of participants\/Currently, a match has just ended].\u0007The Herald can be found at \f\u0001[G-6\/F-7\/G-10\/I-11]."
+            },
+            {
+              "id": 7927,
+              "string": "1\u0000\u0007What can I do for you?\u0007\u000bTeleport to the Herald.\u0007Teleport back to Jeuno.\u0007Nothing at this time."
+            },
+            {
+              "id": 7928,
+              "string": "1\u0000\u0007Understood.\u0007I will have you there right away."
+            },
+            {
+              "id": 7929,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7930,
+              "string": "1\u0000\u0007Understood.\u0007Please hold on to your ?[wallet\/purse].1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953365,
+      "name": "Herald",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007You are already a\f\u0001[ \/ temporary ]member of the \f\u0000[Wyverns\/Griffons]."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007I am now accepting applications for participation in today's match.\u0007The current entry type is ??\f\u0000[free\/open\/auto-balance\/random shuffle].??"
+            },
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007Please note that in the event both sides reach their maximum capacity, your application may not be accepted."
+            },
+            {
+              "id": 7791,
+              "string": "1\u0000\u0007Please note that depending on the number of players registered, you may not always be admitted to the side you choose."
+            },
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007Please remember that this type of entry is only temporary. Your final team is subject to change at the discretion of the acting MC."
+            },
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007Submit application?\u0007\u000bFor either side.\u0007For the Wyverns.\u0007For the Griffons.\u0007No."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007I am not accepting entries for either team at this time."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007Participant totals for both teams have reached the set limit. I'm sorry, but I cannot accept your application for entry."
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007I am sorry. Your application for entry into the \f\u0000[Wyverns\/Griffons] has been denied."
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007The minimum level requirement is currently set at \n\u0000.\u0007I'm sorry, but your entry is denied."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007You are already a\f\u0001[ \/ temporary ]member of the \f\u0000[Wyverns\/Griffons]."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7781,
+              "string": "1\u0000\u0007You are recognized as the MC for today's \f\u0000[un\/level 60-\/level 50-\/level 40-\/level 30-\/level 20-\/level 10-]restricted match.\u0007I can now help you set the various Ballista rules."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Request a discharge?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7805,
+              "string": "1\u0000\u0007By canceling your entry, you will not be allowed to return to the match."
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007Are you sure you want a discharge?\u0007\u000bYes!\u0007No, wait..."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007What would you like to do?\u0007\u000bNothing.\u0007Use Ballista Royale rules.\u0007Set entry type (\f\u0000[free\/open\/auto\/shuffle]).\u0007Set entry cancel (\f\u0001[not allowed\/allowed]).\u0007Set mid-match entry (\f\u0005[none\/OK]).\u0007Set level minimum (\f\u0003[none\/10\/20\/30\/40\/50\/60\/75]).\u0007Set support job (\f\u0013[none\/OK]).\u0007Set match location (Rook total=\n\u0004).\u0007.\u0007.\u0007.\u0007.\u0007Set briefing time (\f\f[1 min\/3 min\/5 min]).\u0007Set match length (\f\r[10 min\/15 min\/20 min\/30 min\/45 min\/1 Vana'diel day\/60 min]).\u0007Set match style (\f\u000e[all or nothing\/best of 3]).\u0007Next page."
+            },
+            {
+              "id": 7783,
+              "string": "1\u0000\u0007What would you like to do?\u0007\u000bPrevious page.\u0007Set item usage (\f\u000f[none\/OK]).\u0007Set temp. item capacity (\f\u0010[10\/15\/20]).\u0007Set temp. item selection (\f\u0018[none\/OK]).\u0007Set temp. item distribution (\f\u001a[none\/OK]).\u0007Set voucher exchange (\f\u0019[none\/OK]).\u0007Set Petra selection (\f\u0017[none\/OK]).\u0007Set quarry holes (\f\u0011[all full\/some empty]).\u0007Set scoring limit (\f\u0012[1\/2\/3\/4\/5\/10\/15\/none]).\u0007Set called game dif. (\f\u0014[none\/10\/20\/30\/40\/50\/60\/70\/80\/90\/100]).\u0007Clear entries.\u0007Reset to default settings.\u0007Finish & commence entry period.\u0007Quit."
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007What would you like to do?\u0007\u000bNothing.\u0007Start the match.\u0007Close entries & return to settings.\u0007Cancel own entry.\u0007Auto-balance temp. entries.\u0007Shuffle temp. entries.\u0007View setting menu."
+            },
+            {
+              "id": 7786,
+              "string": "1\u0000\u0007What would you like to do?\u0007\u000bNothing.\u0007Prepare for the next match.\u0007View settings menu."
+            },
+            {
+              "id": 7785,
+              "string": "1\u0000\u0007What would you like to do?\u0007\u000bNothing.\u0007Stop match.\u0007Cancel match & return to entry.\u0007Cancel own entry.\u0007View settings menu."
+            },
+            {
+              "id": 7813,
+              "string": "1\u0000\u0007Save all settings and begin the entry period?"
+            },
+            {
+              "id": 7814,
+              "string": "1\u0000\u0007Save and commence?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7815,
+              "string": "1\u0000\u0007Setting match to follow Ballista Royale rules. Please note that several settings, such as the entry type and level restrictions, will not be affected."
+            },
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007Set match to Ballista Royale rules?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7894,
+              "string": "1\u0000\u0007Are you sure you want me to move to this location?"
+            },
+            {
+              "id": 7895,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7896,
+              "string": "1\u0000\u0007Understood.\u0007Please have a Pursuivant teleport you to my new location."
+            },
+            {
+              "id": 7817,
+              "string": "1\u0000\u0007Please select the entry type:\u0007\u000bFree.\u0007Open.\u0007Auto-balance.\u0007Random shuffle.\u0007Information.\u0007Return."
+            },
+            {
+              "id": 7818,
+              "string": "1\u0000\u0007\u001e\u0005Free\u001e\u0001\u0007Players are allowed to select the team in which they wish to participate. However, if one side grows too large, further applications may be denied until the number of members on the other side has increased."
+            },
+            {
+              "id": 7819,
+              "string": "1\u0000\u0007\u001e\u0005Open\u001e\u0001\u0007Players can join the team of their choice only if the side they have chosen has the same or fewer members than the other. If the side chosen has more members, players will automatically be moved to the team with fewer."
+            },
+            {
+              "id": 7820,
+              "string": "1\u0000\u0007\u001e\u0005Auto-Balance\u001e\u0001\u0007After players have completed a temporary entry into one of the two sides, the MC can choose to redistribute the players (by main job) evenly among the teams."
+            },
+            {
+              "id": 7821,
+              "string": "1\u0000\u0007\u001e\u0005Random Shuffle\u001e\u0001\u0007After players have completed a temporary entry into one of the two sides, the MC can choose to randomly shuffle all players between the teams."
+            },
+            {
+              "id": 7822,
+              "string": "1\u0000\u0007Allow re-entry?\u0007\u000bNo.\u0007Yes.\u0007Information.\u0007Return."
+            },
+            {
+              "id": 7823,
+              "string": "1\u0000\u0007If re-entry is not allowed, a player will not be able to reapply for match participation in the event he or she requests a discharge before or during a match."
+            },
+            {
+              "id": 7824,
+              "string": "1\u0000\u0007Allow mid-match entry?\u0007\u000bNo.\u0007Yes.\u0007Information.\u0007Return."
+            },
+            {
+              "id": 7825,
+              "string": "1\u0000\u0007If mid-match entry is allowed, players not affiliated with either side may join one of the teams while the match is in progress."
+            },
+            {
+              "id": 7826,
+              "string": "1\u0000\u0007Set the minimum level restriction.\u0007\u000bNone.\u000710.\u000720.\u000730.\u000740.\u000750.\u000760.\u000775.\u0007Information.\u0007Return."
+            },
+            {
+              "id": 7827,
+              "string": "1\u0000\u0007When a minimum level restriction is set, any player under that level will not be allowed to participate in the matches."
+            },
+            {
+              "id": 7890,
+              "string": "1\u0000\u0007The current area settings are as follows:"
+            },
+            {
+              "id": 7891,
+              "string": "1\u0000\u0007What would you like to change?\u0007\u000bHerald location (\f\u0000[A\/B\/C\/D\/E]).\u0007Wyvern camp location (\f\u0001[A\/B\/C\/D\/E\/F\/G\/H]).\u0007Griffon camp location (\f\u0002[A\/B\/C\/D\/E\/F\/G\/H]).\u0007Rook A (\f\u0003[Off\/On]).\u0007Rook B (\f\u0004[Off\/On]).\u0007Rook C (\f\u0005[Off\/On]).\u0007Rook D (\f\u0006[Off\/On]).\u0007Default setting 1.\u0007Default setting 2.\u0007Default setting 3.\u0007Default setting 4.\u0007Return."
+            },
+            {
+              "id": 7892,
+              "string": "1\u0000\u0007Please choose a location from the following:"
+            },
+            {
+              "id": 7893,
+              "string": "1\u0000\u0007Move the Herald to...\u0007\u000bA.\u0007B.\u0007C.\u0007D.\u0007Current position."
+            },
+            {
+              "id": 7894,
+              "string": "1\u0000\u0007Are you sure you want me to move to this location?"
+            },
+            {
+              "id": 7895,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7896,
+              "string": "1\u0000\u0007Understood.\u0007Please have a Pursuivant teleport you to my new location."
+            },
+            {
+              "id": 7892,
+              "string": "1\u0000\u0007Please choose a location from the following:"
+            },
+            {
+              "id": 7897,
+              "string": "1\u0000\u0007Move the Wyvern camp to...\u0007\u000bA.\u0007B.\u0007C.\u0007D.\u0007E.\u0007F.\u0007G.\u0007H.\u0007Current position."
+            },
+            {
+              "id": 7892,
+              "string": "1\u0000\u0007Please choose a location from the following:"
+            },
+            {
+              "id": 7898,
+              "string": "1\u0000\u0007Move the Griffon camp to...\u0007\u000bA.\u0007B.\u0007C.\u0007D.\u0007E.\u0007F.\u0007G.\u0007H.\u0007Current position."
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007The camps have been placed according to the starting position of Rook \f\u0000[A\/B\/C\/D]."
+            },
+            {
+              "id": 7902,
+              "string": "1\u0000\u0007Does this meet with your approval?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7894,
+              "string": "1\u0000\u0007Are you sure you want me to move to this location?"
+            },
+            {
+              "id": 7895,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7896,
+              "string": "1\u0000\u0007Understood.\u0007Please have a Pursuivant teleport you to my new location."
+            },
+            {
+              "id": 7829,
+              "string": "1\u0000\u0007Set length of briefing period.\u0007\u000b1 minute.\u00073 minutes.\u00075 minutes.\u0007Information.\u0007Return."
+            },
+            {
+              "id": 7830,
+              "string": "1\u0000\u0007The briefing period is the time set aside before a match to allow the two sides to talk over their battle strategies."
+            },
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007Set the single match length.\u0007\u000b10 minutes.\u000715 minutes.\u000720 minutes.\u000730 minutes.\u000745 minutes.\u00071 Vana'diel day.\u000760 minutes.\u0007Information.\u0007Return."
+            },
+            {
+              "id": 7832,
+              "string": "1\u0000\u0007One Vana'diel day is approximately 57 minutes and 36 seconds.\u0007A match will be cancelled in the event a party's Diorama access time expires before the match has completed."
+            },
+            {
+              "id": 7894,
+              "string": "1\u0000\u0007Are you sure you want me to move to this location?"
+            },
+            {
+              "id": 7895,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7896,
+              "string": "1\u0000\u0007Understood.\u0007Please have a Pursuivant teleport you to my new location."
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Request a discharge?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7820,
+              "string": "1\u0000\u0007\u001e\u0005Auto-Balance\u001e\u0001\u0007After players have completed a temporary entry into one of the two sides, the MC can choose to redistribute the players (by main job) evenly among the teams."
+            },
+            {
+              "id": 7821,
+              "string": "1\u0000\u0007\u001e\u0005Random Shuffle\u001e\u0001\u0007After players have completed a temporary entry into one of the two sides, the MC can choose to randomly shuffle all players between the teams."
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Request a discharge?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007The Ballista Royale is underway!\u0007\f\u0000[ \/Currently, match rules are being set\/Currently, I am accepting match entries\/Currently, we are in the briefing period for the next match\/Currently, a match is in progress\/The next match has been cancelled due to a lack of participants\/Currently, a match has just ended]."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007The Ballista Royale is underway!\u0007\f\u0000[ \/Currently, match rules are being set\/Currently, I am accepting match entries\/Currently, we are in the briefing period for the next match\/Currently, a match is in progress\/The next match has been cancelled due to a lack of participants\/Currently, a match has just ended]."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007I am not accepting entries for either team at this time."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007You are already a\f\u0001[ \/ temporary ]member of the \f\u0000[Wyverns\/Griffons]."
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007The \f\u0000[Wyverns\/Griffons] are currently not accepting any more entries at this time."
+            },
+            {
+              "id": 7799,
+              "string": "1\u0000\u0007Someone with the same main job as you has already joined that side. I'm sorry, but the current rules do not allow multiple players with the same job to serve in the same forces."
+            },
+            {
+              "id": 7910,
+              "string": "1\u0000\u0007We have been waiting for you, \b.\u0007Let us begin the entry application process."
+            },
+            {
+              "id": 7911,
+              "string": "1\u0000\u0007Your match will begin on ?\u0000 and end on ?\u0001."
+            },
+            {
+              "id": 7912,
+              "string": "1\u0000\u0007Join the \f\u0000[Wyverns\/Griffons]?\u0007\u000bRight away.\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16953366,
+      "name": "Tillecoe",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7761,
+              "string": "1\u0000\u0007Which will it be?\u0007\u000b\u0001\u0005#????\u0007\u0001\u0005#????\u0007\u0001\u0005#????\u0007\u0001\u0005#????\u0007\u0001\u0005#????\u0007\u0001\u0005#????\u0007No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007You scored \n\u0004 ?\u0004[Petra\/Petras]."
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007Contributing a total of \n\u0007 ?\u0007[Petra\/Petras] for the \f\u0006[Wyverns\/Griffons], today's high scorer is \u001c\u0000!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007You find the \u001e\u0005temporary item\u001e\u0001: \u0001\u0001\u0001 \u0001\u0005$???"
+            },
+            {
+              "id": 7395,
+              "string": "?!\u0000\u0007You find \u0001\u0001\u0001 \u0001\u0005$????, but you cannot carry any more \u001e\u0005temporary items\u001e"
+            },
+            {
+              "id": 7396,
+              "string": "\u0001.\u0000\u0007You find \u0001\u0001\u0001 \u0001\u0005$????, but you cannot carry more than one of that \u001e\u0005temporary item\u001e"
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007What do you do?\u0007\u000bKeep the item.\u0007Exchange the item.\u0007Use the item.\u0007Throw the item away."
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007Exchange with which item?\u0007\u000b?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007Return."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7397,
+              "string": "\u0001.\u0000\u0007You find a Petra!\u0007\u000bKeep it.\u0007Throw it away."
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 21,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "id": 10,
+  "name": "The Shrouded Maw",
+  "actors": [
+    {
+      "id": 16818245,
+      "name": "",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818247,
+      "name": "Memento Circle",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818248,
+      "name": "Memento Circle",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818249,
+      "name": "Memento Circle",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818250,
+      "name": "Memento Circle",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818283,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7672,
+              "string": "1\u0000\u0007???l?f?o?b?O?p???j???[\u0007\u000b?L?????Z??\u0007???[?v\u0007?J????\u0007?C?x???g"
+            },
+            {
+              "id": 7674,
+              "string": "1\u0000\u0007?{?^?????????????i??????"
+            },
+            {
+              "id": 7673,
+              "string": "1\u0000\u0007?C?x???g???I??\u0007\u000b?{?X?O\u0007?{?X??\u0007???C\u0007?????p"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007Is there still hope for mankind?\u0007\u000bThere's always hope!\u0007Destiny is destiny..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818284,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16818285,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7605,
+              "string": "1\u0000\u0007So you're the one who saved me?"
+            },
+            {
+              "id": 7606,
+              "string": "1\u0000\u0007What? I'm supposed to give this to...?"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007So if Emptiness is reason, then our souls are filled with...!?"
+            },
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007Shut up, you monster!\u0007Why would anyone want to live in your prison, anyway!?"
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007How do you know we can't defeat the Emptiness!? Have you even tried?"
+            },
+            {
+              "id": 7642,
+              "string": "1\u0000\u0007Why would I be afraid of that?"
+            },
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007I've survived beastman attacks, huge explosions, and the fall of Tavnazia. People can do anything if they don't give up hope!"
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007Isn't that right, \b?"
+            },
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818286,
+      "name": "Selh'teus",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818287,
+      "name": "Tenzen",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7596,
+              "string": "1\u0000\u0007...\u0007\b!"
+            },
+            {
+              "id": 7597,
+              "string": "1\u0000\u0007Were you able to locate the fugitive boy?"
+            },
+            {
+              "id": 7598,
+              "string": "1\u0000\u0007I must have searched the entire landscape surrounding this tower; however, I was unsuccessful in uncovering any trace of him..."
+            },
+            {
+              "id": 7599,
+              "string": "1\u0000\u0007All that remains is the area that lies ahead of...\u0007...\u0007...!?"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7601,
+              "string": "r?\u0000\u0007What is the purpose of this place? What sort of dark rituals were performed here?"
+            },
+            {
+              "id": 7602,
+              "string": "1\u0000\u0007Hm? We are not alone!?"
+            },
+            {
+              "id": 7603,
+              "string": "1\u0000\u0007It cannot be! She is supposed to be resting in the infirmary in Jeuno!"
+            },
+            {
+              "id": 7604,
+              "string": "1\u0000\u0007And that boy..."
+            },
+            {
+              "id": 7609,
+              "string": "1\u0000\u0007The terrestrial avatar of dreams...Diabolos!?"
+            },
+            {
+              "id": 7610,
+              "string": "1\u0000\u0007Which can only mean...we are already inside his dream!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7615,
+              "string": "1\u0000\u0007The blazing lifeforce of the avatar flows through my blade."
+            },
+            {
+              "id": 7616,
+              "string": "1\u0000\u0007I, Tenzen, left my country in the Far East after hearing the warning of the avatars--the warning that the Keeper of the Apocalypse's return was imminent."
+            },
+            {
+              "id": 7617,
+              "string": "1\u0000\u0007I have come here to request your assistance!"
+            },
+            {
+              "id": 7618,
+              "string": "1\u0000\u0007Of the five crystals, three have been overcome by the Emptiness..."
+            },
+            {
+              "id": 7619,
+              "string": "1\u0000\u0007Is it not the duty of the five terrestrial avatars to protect the crystals? Let us join in arms and defeat the enemy of light!"
+            },
+            {
+              "id": 7630,
+              "string": "1\u0000\u0007The voice of Emptiness...!?"
+            },
+            {
+              "id": 7651,
+              "string": "..\u0000\u0007Are you all right?"
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007I was unable to stop the boy."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007But for what reason was he here?\u0007And what is the truth behind the words of Diabolos?"
+            },
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007Much is still unclear. I must return to Jeuno and find out if there is anything else that girl knows..."
+            },
+            {
+              "id": 7651,
+              "string": "..\u0000\u0007Are you all right?"
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007I was unable to stop the boy."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007But for what reason was he here?\u0007And what is the truth behind the words of Diabolos?"
+            },
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007Much is still unclear. I must return to Jeuno and find out if there is anything else that girl knows..."
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818288,
+      "name": "Diabolos",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7608,
+              "string": "!?\u0000\u0007Traitors!\u0007There is no escape!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7614,
+              "string": "s!\u0000\u0007That flame!? Phoenix!?"
+            },
+            {
+              "id": 7620,
+              "string": "1\u0000\u0007Battle the Emptiness...?"
+            },
+            {
+              "id": 7624,
+              "string": "!?\u0000\u0007Listen carefully, children of the dawn. Emptiness is not without reason. Its place is set in the eternal scheme of the universe."
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007And true reason is that which lies deep within your soul. Reason that makes you what you are."
+            },
+            {
+              "id": 7627,
+              "string": "1\u0000\u0007To defy the will of the Twilight God is to defy reason. Any attempt to escape from Emptiness is futile."
+            },
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007Now that the Emptiness encroaches on your soul, you can hear its voice...and the voice that calls back..."
+            },
+            {
+              "id": 7629,
+              "string": "1\u0000\u0007...The voice of the Emptiness within you..."
+            },
+            {
+              "id": 7631,
+              "string": "1\u0000\u0007However, there is no need for despair."
+            },
+            {
+              "id": 7632,
+              "string": "1\u0000\u0007Ten thousand years ago the Kuluu, too, lost all hope. It is then that I was born here, in the depths of their city."
+            },
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007I am the ruler of dreams, and within my dreams--within my kingdom of Dynamis--people can escape the harshness of reality."
+            },
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007Now come... Save yourselves while you still have the chance...\u0007Let go of all you know and enter my world, as have many others..."
+            },
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007The realm of dreams is a paradise, free of pain and strife."
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007Fool...\u0007You have heard the voice of the Emptiness, so you are aware of what lies beyond my dreams."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Why...?\u0007Why do you remember what you saw in my world...?"
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007It was I who led you to my realm...\u0007Or was it you who led me to yours...?"
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007If that is true, then..."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7714,
+              "string": "1\u0000\u0007Who dares approach?"
+            },
+            {
+              "id": 7715,
+              "string": "1\u0000\u0007Leave this place. My power is for me, and me alone."
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818289,
+      "name": "Diabolos",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7611,
+              "string": "1\u0000\u0007Your efforts are in vain, for this is nothing but a dream."
+            },
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007And that is why she continues to feed people false hopes, all the while forgetting the truths that lie in the battles fought ten thousand years ago..."
+            },
+            {
+              "id": 7634,
+              "string": "1\u0000\u0007Emptiness consumes the body, but the soul lives on--it lives on in my world."
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818290,
+      "name": "Diabolos",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7612,
+              "string": "1\u0000\u0007I am the ruler of the subconscious plane. What you dream becomes my dream, and what I dream becomes your world. Now sleep..."
+            },
+            {
+              "id": 7621,
+              "string": "1\u0000\u0007So, Phoenix still remains unwhole..."
+            },
+            {
+              "id": 7635,
+              "string": "1\u0000\u0007If the Keeper of the Apocalypse truly is on his way, there is nothing left on Vana'diel for the children of Altana--nothing but annihilation."
+            },
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007And even so, you tell me you do not fear what you heard?"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818291,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818301,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7659,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7668,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Darkness Named(pt.1).\u0007Darkness Named(pt.2).\u0007Darkness Named(pt.3).\u0007Waking Dreams(pt.1).\u0007Waking Dreams(pt.2).\u0007Waking Dreams(pt.3).\u0007Waking Dreams(pt.4).\u0007Waking Dreams(pt.5).\u0007Waking Dreams(pt.6).\u0007Waking Dreams(pt.7).\u0007Waking Dreams(pt.8).\u0007Waking Dreams(pt.9).\u0007Rhapsodies of Vana'diel."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818303,
+      "name": "",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16818304,
+      "name": "Volto Oscuro",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7716,
+              "string": "1\u0000\u0007Diabolos...you pathetic weakling."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7584,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007Darkness Named.\u0007Test Your Mite.\u0007Waking Dreams.\u0007??Waking Dreams.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007"
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave."
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7060,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7061,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7062,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7063,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7099,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7413,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7582,
+              "string": "].\u0000\u0007The current battlefield clear time record for ??\f\u0001[Darkness Named\/Test Your Mite\/Waking Dreams\/??Waking Dreams]?? is \n\u0003 minute?\u0003[\/s] \n\u0002 second?\u0002[\/s"
+            },
+            {
+              "id": 7581,
+              "string": "?!\u0000\u0007The current battlefield clear time record for ??\f\u0001[Darkness Named\/Test Your Mite\/Waking Dreams\/??Waking Dreams]?? is \n\u0003 second?\u0003[\/s"
+            },
+            {
+              "id": 7413,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7052,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            },
+            {
+              "id": 7585,
+              "string": "1\u0000\u0007Level limit of 40. The experience point reward for this battlefield will be reduced for parties of seven or more members."
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

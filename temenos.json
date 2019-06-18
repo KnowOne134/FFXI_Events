@@ -1,0 +1,470 @@
+{
+  "id": 37,
+  "name": "Temenos",
+  "actors": [
+    {
+      "id": 16929171,
+      "name": "Scanning Device",
+      "events": [
+        {
+          "id": 121,
+          "dialogue": [
+            {
+              "id": 7558,
+              "string": "1\u0000\u0007Check the status of which area?\u0007\u000bNone.\u0007Temenos - Northern Tower.\u0007Temenos - Eastern Tower.\u0007Temenos - Western Tower.\u0007Central Temenos - 4th Floor.\u0007Central Temenos - 3rd Floor.\u0007Central Temenos - 2nd Floor.\u0007Central Temenos - 1st Floor.\u0007Central Temenos - 1st Basement.\u0007"
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Temenos.1\u0000\u0007\u0000\u0000\u0000"
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Temenos.1\u0000\u0007\u0000\u0000\u0000"
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Temenos.1\u0000\u0007\u0000\u0000\u0000"
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Temenos.1\u0000\u0007\u0000\u0000\u0000"
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Temenos.1\u0000\u0007\u0000\u0000\u0000"
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Temenos.1\u0000\u0007\u0000\u0000\u0000"
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Temenos.1\u0000\u0007\u0000\u0000\u0000"
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Temenos.1\u0000\u0007\u0000\u0000\u0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16929176,
+      "name": "",
+      "events": [
+        {
+          "id": 122,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 109,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 113,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 114,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 115,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 116,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 117,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7539,
+              "string": "].\u0000\u0007Enter which part of Temenos?\u0007\u000bNone.\u0007Temenos - Northern Tower.\u0007Temenos - Eastern Tower.\u0007Temenos - Western Tower.\u0007Central Temenos - 4th Floor.\u0007Central Temenos - 3rd Floor.\u0007Central Temenos - 2nd Floor.\u0007Central Temenos - 1st Floor.\u0007Central Temenos - Basement.\u0007Ctr. Temenos - Basement II.\u0007Ctr. Temenos - 4th Floor II.\u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 "
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter Limbus?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter Limbus?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter Limbus?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7063,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7064,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7065,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7066,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7067,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7068,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7069,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7070,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7077,
+              "string": "1\u0000\u0007You have not fulfilled the requirements to enter Limbus."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Only \n\u0003 party members have clearance to enter Limbus. The area has reached capacity."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007You cannot enter. Your settings differ from those who have already entered."
+            },
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7052,
+              "string": "1\u0000\u0007You cannot enter Limbus at present.\u0007Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter Limbus?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7050,
+              "string": "1\u0000\u0007Exit Limbus?\u0007\u000bYes.\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

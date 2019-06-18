@@ -1,0 +1,455 @@
+{
+  "id": 76,
+  "name": "Silver Sea Remnants",
+  "actors": [
+    {
+      "id": 17089354,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 500,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089355,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 501,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089356,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 502,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089357,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 503,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089358,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 504,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089359,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 505,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089360,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 506,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089361,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 507,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089362,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 508,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089363,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 509,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089364,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 510,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089365,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 511,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089366,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 512,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089367,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 514,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089368,
+      "name": "Runic Lamp",
+      "events": [
+        {
+          "id": 513,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089372,
+      "name": "",
+      "events": [
+        {
+          "id": 52,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17089419,
+      "name": "Weather",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 207,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 208,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 209,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007What do you take?\u0007\u000bNothing.\u0007?\u0001\u0001\u0005#???? (\n\u0002 remaining)\u0007?\u0001\u0001\u0005#???? (\n\u0004 remaining)\u0007?\u0001\u0001\u0005#???? (\n\u0006 remaining)\u0007?\u0001\u0001\u0005#???? (\n\b remaining)\u0007?\u0001\u0001\u0005#???? (\n\n remaining)\u0007?\u0001\u0001\u0005#???? (\n\f remaining)\u0007?\u0001\u0001\u0005#???? (\n\u000e remaining)\u0007?\u0001\u0001\u0005#???? (\n\u0010 remaining)"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 200,
+          "dialogue": [
+            {
+              "id": 7425,
+              "string": "r.\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 201,
+          "dialogue": [
+            {
+              "id": 7425,
+              "string": "r.\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "dialogue": [
+            {
+              "id": 7425,
+              "string": "r.\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "dialogue": [
+            {
+              "id": 7425,
+              "string": "r.\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "dialogue": [
+            {
+              "id": 7425,
+              "string": "r.\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "dialogue": [
+            {
+              "id": 7425,
+              "string": "r.\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 206,
+          "dialogue": [
+            {
+              "id": 7425,
+              "string": "r.\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "dialogue": [
+            {
+              "id": 7425,
+              "string": "r.\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "dialogue": [
+            {
+              "id": 7425,
+              "string": "r.\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 209,
+          "dialogue": [
+            {
+              "id": 7425,
+              "string": "r.\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 300,
+          "dialogue": [
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007Open the door?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

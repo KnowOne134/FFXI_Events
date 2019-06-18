@@ -1,0 +1,2547 @@
+{
+  "id": 78,
+  "name": "Hazhalm Testing Grounds",
+  "actors": [
+    {
+      "id": 17097330,
+      "name": "",
+      "events": [
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097342,
+      "name": "Entry Gate",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 8023,
+              "string": "1\u0000\u0007Record time and destination on the \u0001\u0005#?????"
+            },
+            {
+              "id": 8024,
+              "string": "1\u0000\u0007Select option:\u0007\u000bConfirm destination.\u0007Cancel recording.\u0007Confirm entry conditions.\u0007Confirm re-entry conditions.\u0007Confirm battle conditions."
+            },
+            {
+              "id": 8025,
+              "string": "1\u0000\u0007Select \u0007\u000bQuit.\u0007Rossweisse's Chamber.\u0007Grimgerde's Chamber.\u0007Siegrune's Chamber.\u0007Helmwige's Chamber.\u0007Schwertleite's Chamber.\u0007Waltraute's Chamber.\u0007Ortlinde's Chamber.\u0007Gerhilde's Chamber.\u0007Brunhilde's Chamber.\u0007Odin's Chamber.\u0007Odin's Chamber II."
+            },
+            {
+              "id": 8033,
+              "string": "1\u0000\u0007Gathering data."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007When traded to the Hazhalm Testing Grounds' Entry Gate, \u0001\u0001\u0001 \u0001\u0005$???? will light and become \u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007From that moment, the owner of the \u0001\u0005#???? will reserve and gain access to one of the facility's many chambers."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007By \u001e\u0005using\u001e\u0001 the \u0001\u0005#???? it will produce a replica of itself which can be given to another, granting him or her access to the same chamber."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber."
+            },
+            {
+              "id": 8059,
+              "string": "1\u0000\u0007Once thirty-six souls have crossed the seal, all lamps outside the grounds will cease to function."
+            },
+            {
+              "id": 8060,
+              "string": "1\u0000\u0007These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates."
+            },
+            {
+              "id": 8061,
+              "string": "1\u0000\u0007To teleport to the reserved chamber, one must simply trade their \u0001\u0005#???? to the Entry Gate."
+            },
+            {
+              "id": 8062,
+              "string": "1\u0000\u0007However, please note that not everyone in possession of a lamp will be allowed into Hazhalm."
+            },
+            {
+              "id": 8063,
+              "string": "1\u0000\u0007As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid \u0001\u0005#???? will not be allowed entry if the chamber has reached its maximum capacity."
+            },
+            {
+              "id": 8064,
+              "string": "1\u0000\u0007Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry."
+            },
+            {
+              "id": 8078,
+              "string": "1\u0000\u0007After visiting the testing grounds, one must wait \n\u0003 ?\u0003[hour\/hours] (Earth time) before he is granted access again."
+            },
+            {
+              "id": 8079,
+              "string": "1\u0000\u0007This not only pertains to the chamber previously visited, but all areas within the testing grounds."
+            },
+            {
+              "id": 8080,
+              "string": "1\u0000\u0007The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate."
+            },
+            {
+              "id": 8081,
+              "string": "1\u0000\u0007All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance."
+            },
+            {
+              "id": 8082,
+              "string": "1\u0000\u0007In addition, any items dropped by a foe can be lotted on by anyone in the chamber."
+            },
+            {
+              "id": 8083,
+              "string": "1\u0000\u0007However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random."
+            },
+            {
+              "id": 8085,
+              "string": "1\u0000\u0007Also, if everyone in a chamber remains KO'd for longer than \n\u0002 ?\u0002[minute\/minutes], they will all be automatically teleported from the grounds.1\u0000\u0007\u0000\u0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097352,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7624,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7632,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Path of Blood(pt.1).\u0007Path of Blood(pt.2).\u0007The Rider Cometh(pt.1).\u0007The Rider Cometh(pt.2).\u0007Unwavering Resolve(pt.1).\u0007Unwavering Resolve(pt.2).\u0007Unwavering Resolve(pt.3).\u0007A Stygian Pact(pt.1).\u0007A Stygian Pact(pt.2)."
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7634,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7635,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097354,
+      "name": "???",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097355,
+      "name": "",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097356,
+      "name": "",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097357,
+      "name": "",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097358,
+      "name": "Mnejing",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007I...see..."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007Wh-what...what's happening?"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7764,
+              "string": "1\u0000\u0007Where do we go from here?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097359,
+      "name": "Ovjang",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007Oho.\u0007Why, it's not even hot..."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7758,
+              "string": "1\u0000\u0007Oho!\u0007\b to the rescue again!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097360,
+      "name": "Nashmeira",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007How curious...\u0007The fire burns fiercely, and yet makes no sound..."
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007Ah...didn't the Imperial Army seal off the entrance to the underworld?"
+            },
+            {
+              "id": 7659,
+              "string": "1\u0000\u0007Ngh...this wind!"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7708,
+              "string": "1\u0000\u0007Ugh..."
+            },
+            {
+              "id": 7728,
+              "string": "--\u0000\u0007!!!"
+            },
+            {
+              "id": 7733,
+              "string": "1\u0000\u0007Luzaf..."
+            },
+            {
+              "id": 7737,
+              "string": "1\u0000\u0007What...what's happening!?"
+            },
+            {
+              "id": 7747,
+              "string": "s!\u0000\u0007Luzaf...!"
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007Luzaf!"
+            },
+            {
+              "id": 7754,
+              "string": "1\u0000\u0007Your injuries!?"
+            },
+            {
+              "id": 7756,
+              "string": "1\u0000\u0007!!!"
+            },
+            {
+              "id": 7759,
+              "string": "1\u0000\u0007Thank you, \b."
+            },
+            {
+              "id": 7761,
+              "string": "1\u0000\u0007Yes.\u0007That wind blew with such a familiar melody..."
+            },
+            {
+              "id": 7762,
+              "string": "1\u0000\u0007It reminded me of the gentle breeze that always stirs the air around the Gordeus..."
+            },
+            {
+              "id": 7763,
+              "string": "1\u0000\u0007I think I'll be just fine."
+            },
+            {
+              "id": 7767,
+              "string": "1\u0000\u0007Hurry to do what?"
+            },
+            {
+              "id": 7769,
+              "string": "1\u0000\u0007Destroy it!?\u0007But, the iron giant is--"
+            },
+            {
+              "id": 7756,
+              "string": "1\u0000\u0007!!!"
+            },
+            {
+              "id": 7772,
+              "string": "1\u0000\u0007The Age of Judgment.\u0007With the victor deciding the laws of justice..."
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007Razfahd!"
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007...!"
+            },
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007Wait! We command you to release this man!"
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007Does our authority mean nothing!?"
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007You cannot!"
+            },
+            {
+              "id": 7805,
+              "string": "1\u0000\u0007Do you betray the Empress? Betray your own sister!?"
+            },
+            {
+              "id": 7808,
+              "string": "1\u0000\u0007?"
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007Who ?[he\/she] truly works for...?"
+            },
+            {
+              "id": 7812,
+              "string": "1\u0000\u0007What are you talking about?\u0007\b works for me!"
+            },
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7815,
+              "string": "1\u0000\u0007No, you are the one who is deceiving himself..."
+            },
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007You understand nothing about Luzaf's spirit...or \b's heart!"
+            },
+            {
+              "id": 7817,
+              "string": "1\u0000\u0007(Listen to me, \b...)"
+            },
+            {
+              "id": 7818,
+              "string": "1\u0000\u0007(You must take this to Salaheem's Sentinels.)"
+            },
+            {
+              "id": 7820,
+              "string": "?!\u0000\u0007We all have our masks!"
+            },
+            {
+              "id": 7821,
+              "string": "1\u0000\u0007I hid my true identity from \b..."
+            },
+            {
+              "id": 7822,
+              "string": "1\u0000\u0007But even so, ?[he\/she] still comes to my rescue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097361,
+      "name": "Luzaf",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007This blaze is not of Urhguum."
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007If there were no illumination of this world present, this conflagration would completely escape your mortal gaze..."
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007It is a flame of the underworld."
+            },
+            {
+              "id": 7642,
+              "string": "1\u0000\u0007Stay back!"
+            },
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007The flame produces no heat, but it will scorch your soul, and consume your flesh..."
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007Assuming a construct such as you had a soul...or flesh."
+            },
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007Great Odin!"
+            },
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Sovereign of darkness and battle, lord of the underworld!"
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Your humble servant Luzaf stands on the threshold of your domain."
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007Silence."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007The manifestation begins..."
+            },
+            {
+              "id": 7663,
+              "string": "u!\u0000\u0007Are you harmed!?"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Flit!6\u0001\u0007You knew this would happen!"
+            },
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7674,
+              "string": "1\u0000\u0007Yes, my lord."
+            },
+            {
+              "id": 7676,
+              "string": "1\u0000\u0007Great Odin, Devourer of Light!"
+            },
+            {
+              "id": 7677,
+              "string": "1\u0000\u0007I wish to know the time that remains to me."
+            },
+            {
+              "id": 7679,
+              "string": "1\u0000\u0007Rage? What rage is this?"
+            },
+            {
+              "id": 7682,
+              "string": "1\u0000\u0007No, not sated..."
+            },
+            {
+              "id": 7683,
+              "string": "1\u0000\u0007My rage...\u0007My rage has subsided."
+            },
+            {
+              "id": 7684,
+              "string": "1\u0000\u0007?"
+            },
+            {
+              "id": 7685,
+              "string": "1\u0000\u0007Great Odin."
+            },
+            {
+              "id": 7686,
+              "string": "1\u0000\u0007I have uncovered a purpose more deserving than simple revenge."
+            },
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007The descendants of Ephramad."
+            },
+            {
+              "id": 7688,
+              "string": "1\u0000\u0007I wish to devote the remainder of my existence to building a kingdom in which they can live without fear of persecution."
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007That is now my driving desire."
+            },
+            {
+              "id": 7690,
+              "string": "1\u0000\u0007And so I ask for time...time to act freely."
+            },
+            {
+              "id": 7692,
+              "string": "1\u0000\u0007I...I do not understand."
+            },
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007The next incarnation...?\u0007The terms of the pact--"
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007And how am I to fulfill this pact?"
+            },
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7714,
+              "string": ".!\u0000\u0007Flit. There is something I would know."
+            },
+            {
+              "id": 7715,
+              "string": "1\u0000\u0007This mercenary of Aphmau's, this...\b.\u0007You are certain ?[he\/she] oversees the security of the treasure?"
+            },
+            {
+              "id": 7718,
+              "string": "1\u0000\u0007Besides the one I entrusted to \b, the only other \u0001\u00053???? that exists in this world is the one that you hold. There are no others?"
+            },
+            {
+              "id": 7720,
+              "string": "1\u0000\u0007Then show me the one you have now."
+            },
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007So ?[he\/she] is..."
+            },
+            {
+              "id": 7724,
+              "string": "1\u0000\u0007Right where ?[he\/she] is supposed to be..."
+            },
+            {
+              "id": 7725,
+              "string": "1\u0000\u0007Traitorous imp!"
+            },
+            {
+              "id": 7729,
+              "string": "1\u0000\u0007The code of the corsair is not to be taken lightly..."
+            },
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007Great Odin, hear my words!"
+            },
+            {
+              "id": 7731,
+              "string": "1\u0000\u0007Are you even hearing my words!?"
+            },
+            {
+              "id": 7732,
+              "string": "1\u0000\u0007It appears not..."
+            },
+            {
+              "id": 7735,
+              "string": "\b.\u0000\u0007I must bring an end to this.6\u0001\u0007Aphmau is in your charge."
+            },
+            {
+              "id": 7736,
+              "string": "1\u0000\u0007She is my...no, she is Ephramad's light in the darkness."
+            },
+            {
+              "id": 7739,
+              "string": "1\u0000\u0007If this is the incarnation..."
+            },
+            {
+              "id": 7742,
+              "string": "!?\u0000\u0007No...!"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007I am...I am fine..."
+            },
+            {
+              "id": 7755,
+              "string": "1\u0000\u0007They do not pain me...6\u0002\u0007I feel no pain at all..."
+            },
+            {
+              "id": 7757,
+              "string": "1\u0000\u0007Impeccable timing, \b.\u0007Your arrival allowed me to see through Flit's deception."
+            },
+            {
+              "id": 7760,
+              "string": "1\u0000\u0007Aphmau, are you able to walk?"
+            },
+            {
+              "id": 7765,
+              "string": "1\u0000\u0007If what Flit said was true, we have a short period of grace."
+            },
+            {
+              "id": 7766,
+              "string": "1\u0000\u0007But I suggest we hurry while my will is still my own."
+            },
+            {
+              "id": 7768,
+              "string": "1\u0000\u0007To destroy the iron colossus...before your brother reactivates it."
+            },
+            {
+              "id": 7770,
+              "string": "1\u0000\u0007The savior of the Empire?\u0007It may be as you say."
+            },
+            {
+              "id": 7771,
+              "string": "1\u0000\u0007But should the fully manifested incarnation of Odin clash with the iron might of Alexander..."
+            },
+            {
+              "id": 7773,
+              "string": "1\u0000\u0007Yes.\u0007If such laws would have meaning in the desolate wasteland sure to be left in the aftermath of the conflict."
+            },
+            {
+              "id": 7774,
+              "string": "1\u0000\u0007We must prevent this battle at all costs."
+            },
+            {
+              "id": 7775,
+              "string": "1\u0000\u0007After the colossus is rendered harmless, you must then turn your attention to me..."
+            },
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007We don't have time for this..."
+            },
+            {
+              "id": 7788,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007Aphmau...\u0007Empress Nashmeira.\u0007Is this the treatment I can expect from your nation?"
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007Has nothing changed over the last two hundred years!"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7946,
+              "string": "d?\u0000\u0007So this is your doing, \b.\u0007But why...?"
+            },
+            {
+              "id": 7956,
+              "string": "1\u0000\u0007I thank you, \b.\u0007Because of you, I have discovered the one treasure I thought would elude me forever...peace."
+            },
+            {
+              "id": 7948,
+              "string": "1\u0000\u0007Battle after battle you have fought, all to protect her...?\u0007You are a ?[man\/woman] of uncommon honor indeed."
+            },
+            {
+              "id": 7950,
+              "string": "1\u0000\u0007...Forgive me."
+            },
+            {
+              "id": 7951,
+              "string": "1\u0000\u0007It is not my place to question a ?[man\/woman] who can bend the very gods to ?[his\/her] will."
+            },
+            {
+              "id": 7952,
+              "string": "1\u0000\u0007If there is anyone who can ride with the Dark Divinity and emerge unscathed, surely it is you."
+            },
+            {
+              "id": 7954,
+              "string": ".?\u0000\u0007Bwahahaha. Now you're speaking a language this corsair can understand!"
+            },
+            {
+              "id": 7955,
+              "string": "1\u0000\u0007Full of pure, unchecked fury like the raging waves of the northern seas.\u0007Had you been born a century prior, I would have been proud to count you among my crew."
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097362,
+      "name": "Flit",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007The rules of time and space don't apply equally to this world and that, Miss."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007By rights, this rent in the curtain between the two worlds, this...dimensional hiccup...shouldn't even exist."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007No being, from either reality, has the art to mend such a fluke of fortune."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007Throwing a bunch of laboratory nasties in the path of potential meddlers was about the best they could do."
+            },
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007Ain't that right, Boss?"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007Boss!"
+            },
+            {
+              "id": 7665,
+              "string": "1\u0000\u0007Forget the girl.\u0007Do you want Lord Odin to arrive without the warm welcome of his servant?"
+            },
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007Great Odin, Lord of the Underworld!"
+            },
+            {
+              "id": 7668,
+              "string": "1\u0000\u0007I trust Your Malevolence is well?"
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007Look lively, Boss!"
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007We don't want to offend His Maliciousness, now, do we?"
+            },
+            {
+              "id": 7680,
+              "string": "1\u0000\u0007C'mon, Boss!\u0007Stick with the program!"
+            },
+            {
+              "id": 7681,
+              "string": "1\u0000\u0007Your rage towards the Empire!"
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007Well ain't that a sweet idea."
+            },
+            {
+              "id": 7693,
+              "string": "1\u0000\u0007Hee hee, hee hee."
+            },
+            {
+              "id": 7694,
+              "string": "1\u0000\u0007Didn't I tell you, Boss?"
+            },
+            {
+              "id": 7695,
+              "string": "1\u0000\u0007You've already made your pact.\u0007The contract is signed and sealed."
+            },
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007You will become the next incarnation of the Dark Rider--whether you're ready or not."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007Are non-negotiable."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007But I'll let you in on a secret, Boss.\u0007Before you are completely consumed by the essence of the rider..."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007...there is a period when you will retain free will."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007Well, that's simple."
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007All you gotta do is remember."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007Remember how your people suffered and perished at the merciless hands of the Empire."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007I'm sure the memories are still crystal clear for you."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007You just gotta hurl that big, venomous ball of rage..."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007...at her!"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7709,
+              "string": "1\u0000\u0007Now's your chance!\u0007Look! She's defenseless!"
+            },
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007In any case, she's taken the full force of the Astral Wind..."
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007It'd be kinder to just put an end to her--the sooner the better."
+            },
+            {
+              "id": 7712,
+              "string": "1\u0000\u0007That's right, Boss!\u0007Quick and painless!"
+            },
+            {
+              "id": 7716,
+              "string": "1\u0000\u0007What? Why does that matter at a time like this?"
+            },
+            {
+              "id": 7717,
+              "string": "1\u0000\u0007Yes, I'm certain.\u0007C'mon, Boss, I showed you the blip on the tracker, didn't I?"
+            },
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007No, Boss, just the two.\u0007Why would I lie to you?"
+            },
+            {
+              "id": 7721,
+              "string": "1\u0000\u0007I...you see...\u0007There's more important..."
+            },
+            {
+              "id": 7722,
+              "string": "1\u0000\u0007I mean, just look at the tracker. Right smack in the middle of Talacca Cove. The mercenary is right where ?[he's\/she's] supposed to be."
+            },
+            {
+              "id": 7748,
+              "string": "1\u0000\u0007Hee hee...hee..."
+            },
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007D-Dark...<cough>...Rider...\u0007Flit...<splutter>...at your...service..."
+            },
+            {
+              "id": 7751,
+              "string": "..\u0000\u0007Hee hee, hee hee, hee hee..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097363,
+      "name": "Odin",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7673,
+              "string": "e.\u0000\u0007Art thou the one who summoned me?"
+            },
+            {
+              "id": 7675,
+              "string": "1\u0000\u0007Speak thy mind."
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007Hast thou sated thy rage?"
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007Hast thou sated thy rage?"
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007Hast thou sated thy rage?"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7830,
+              "string": "u.\u0000\u0007In ages past, I oft journeyed the boundless aethyr to pay visit this emerald isle."
+            },
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007Who standeth before me? What doth bestir the soul of my knight from our nether abode?"
+            },
+            {
+              "id": 7832,
+              "string": "1\u0000\u0007Why, 'tis a fellow prisoner to the gaoler of fate.\u0007Rejoice, for tonight thy light hath guided me hither."
+            },
+            {
+              "id": 7833,
+              "string": "1\u0000\u0007Reveal unto me the wishes of thy base mortal heart.\u0007Dost thou seek boundless riches? Eternal glory? Or wouldst thou walk a darker path?"
+            },
+            {
+              "id": 7836,
+              "string": "1\u0000\u0007Serve bliss unto me with thy blade.\u0007If thy strength is true, thy plea shall be heard."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007Excellent!\u0007Thou hast done well to entertain me for the nonce."
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007Thou hast proven thyself worthy of my boon.\u0007Speak unto me thy wish."
+            },
+            {
+              "id": 7839,
+              "string": "1\u0000\u0007Thou wouldst see my knight unfettered?"
+            },
+            {
+              "id": 7841,
+              "string": "1\u0000\u0007My knight is one with me, to wander the nether plains for all eternity.\u0007Thou shalt receive a reward to meet the measure of thy deeds..."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007...That is thy true desire?"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007...That is thy true desire?"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007...That is thy true desire?"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007Very well. 'Tis but a gleed in the vast sea of hellfire that is my power, but I grant unto thee my boon."
+            },
+            {
+              "id": 7850,
+              "string": "1\u0000\u0007Is thy heart sated?"
+            },
+            {
+              "id": 7851,
+              "string": "1\u0000\u0007Nay, never shall it be, for boundless is the avarice of the sons of man."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7855,
+              "string": "1\u0000\u0007To the victor go the spoils.\u0007If thou wouldst claim what thou desirest, stand now and face my blade!"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007Excellent!\u0007Thou hast done well to entertain me for the nonce."
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007Thou hast proven thyself worthy of my boon.\u0007Speak unto me thy wish."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007...That is thy true desire?"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007...That is thy true desire?"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007...That is thy true desire?"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007Very well. 'Tis but a gleed in the vast sea of hellfire that is my power, but I grant unto thee my boon."
+            },
+            {
+              "id": 7860,
+              "string": "1\u0000\u0007I grant thee such a boon as befits thy worth.\u0007Claim it, and begone from here."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Thy covetous heart remains unsated?"
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest."
+            },
+            {
+              "id": 7863,
+              "string": "1\u0000\u0007The fool who repeateth his words is but twice the fool."
+            },
+            {
+              "id": 7864,
+              "string": "1\u0000\u0007Thou dost think to curry my favor, but I grow only wroth with thine obstinance."
+            },
+            {
+              "id": 7865,
+              "string": "1\u0000\u0007Take thy reward and begone from this place."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Thy covetous heart remains unsated?"
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest."
+            },
+            {
+              "id": 7867,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7868,
+              "string": "1\u0000\u0007Still thou wouldst persist in this futile endeavor?"
+            },
+            {
+              "id": 7869,
+              "string": "1\u0000\u0007Thou art either bold or foolish, or mayhap the twain.\u0007Not unlike another I know..."
+            },
+            {
+              "id": 7865,
+              "string": "1\u0000\u0007Take thy reward and begone from this place."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Thy covetous heart remains unsated?"
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest."
+            },
+            {
+              "id": 7872,
+              "string": "1\u0000\u0007Yet, knowing this, thy desire burns still?"
+            },
+            {
+              "id": 7873,
+              "string": "1\u0000\u0007Thou dost amuse me, mortal."
+            },
+            {
+              "id": 7865,
+              "string": "1\u0000\u0007Take thy reward and begone from this place."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Thy covetous heart remains unsated?"
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest."
+            },
+            {
+              "id": 7874,
+              "string": "1\u0000\u0007Thy blade is tempered true.\u0007Can the same be said of thy desire?"
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007Then let it consume thee whole, 'til not flesh and sinew but sheer, unbated rage guides thy blade.\u0007Then, and not before, shall thy plea find audience."
+            },
+            {
+              "id": 7876,
+              "string": "1\u0000\u0007And yet, for the momentary amusement thou hast afforded me, I would grant thee guerdon."
+            },
+            {
+              "id": 7877,
+              "string": "1\u0000\u0007Grief, rage, rancor...!\u0007Feel them surge and eddy within, threat'ning to devour thee!"
+            },
+            {
+              "id": 7878,
+              "string": "1\u0000\u0007Resist not the tempest, but give thyself over to its gales, that thy blade might sing havoc 'til Ragnarok is come!"
+            },
+            {
+              "id": 7879,
+              "string": "1\u0000\u0007Ahahahahahaha!!!\u0007With each frenzied thrust, thou givest thyself over further to thy rage!"
+            },
+            {
+              "id": 7881,
+              "string": "1\u0000\u0007Thou dost amuse me, and naught more.\u0007Accept my boon and begone."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Thy covetous heart remains unsated?"
+            },
+            {
+              "id": 7882,
+              "string": "1\u0000\u0007Extirp the last shreds of forbearance from thy heart, and stand to meet me anew."
+            },
+            {
+              "id": 7883,
+              "string": "1\u0000\u0007His kingdom lost, his name forgotten...that one's release will afford thee naught."
+            },
+            {
+              "id": 7885,
+              "string": "1\u0000\u0007...Thine is but rage for rage's sake?"
+            },
+            {
+              "id": 7886,
+              "string": "1\u0000\u0007Ahahahahahaha!!! Thou showest promise yet!"
+            },
+            {
+              "id": 7865,
+              "string": "1\u0000\u0007Take thy reward and begone from this place."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Thy covetous heart remains unsated?"
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest."
+            },
+            {
+              "id": 7888,
+              "string": "1\u0000\u0007Bestraught of wit and senses, the piteous mortal knoweth not why ?[he\/she] doth battle..."
+            },
+            {
+              "id": 7889,
+              "string": "1\u0000\u0007...I would hear ?[his\/her] name."
+            },
+            {
+              "id": 7890,
+              "string": "1\u0000\u0007\b...\u0007Mayhap I have erred in my judgement of thee."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Thy covetous heart remains unsated?"
+            },
+            {
+              "id": 7882,
+              "string": "1\u0000\u0007Extirp the last shreds of forbearance from thy heart, and stand to meet me anew."
+            },
+            {
+              "id": 7891,
+              "string": "1\u0000\u0007I know not from what fount thy frenzy upspringeth...\u0007But thou dost fight with an ardour that exceedeth mortal bounds."
+            },
+            {
+              "id": 7892,
+              "string": "1\u0000\u0007Not since he who I did claim as my own have I seen the like of thee."
+            },
+            {
+              "id": 7865,
+              "string": "1\u0000\u0007Take thy reward and begone from this place."
+            },
+            {
+              "id": 7893,
+              "string": "1\u0000\u0007For what end, for whose gain dost thou brandish thy blade?"
+            },
+            {
+              "id": 7894,
+              "string": "1\u0000\u0007Dost thou claim this thy true desire?\u0007Then forswear all ties to that which maketh thee mortal, and come unto me once more."
+            },
+            {
+              "id": 7895,
+              "string": "1\u0000\u0007Be thou worthy of the favour thou desirest of me?"
+            },
+            {
+              "id": 7896,
+              "string": "1\u0000\u0007Be thou worthy of that which I would make of thee?"
+            },
+            {
+              "id": 7897,
+              "string": "1\u0000\u0007...The hour of judgement is nigh."
+            },
+            {
+              "id": 7865,
+              "string": "1\u0000\u0007Take thy reward and begone from this place."
+            },
+            {
+              "id": 7898,
+              "string": "1\u0000\u0007Delay not in thy return. Mine ears thirst for thy blade's uplifted sword-song."
+            },
+            {
+              "id": 7899,
+              "string": "1\u0000\u0007What wouldst thou make of such knowledge?\u0007Wouldst thou reshape the future in thine own twisted image, that not a child be born, not a nation rise save by thy sanction?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest."
+            },
+            {
+              "id": 7902,
+              "string": "1\u0000\u0007Through the ages, much have I seen.\u0007Fool ?[men\/women], their eyes cast open to what has yet to pass, struck mad by the horrors they did gaze upon."
+            },
+            {
+              "id": 7903,
+              "string": "1\u0000\u0007Canst thou succeed where thy craven forbears did fail?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7905,
+              "string": "1\u0000\u0007Reflect upon the true nature of thy desire, then seek me anew."
+            },
+            {
+              "id": 7907,
+              "string": "1\u0000\u0007Seek wings to take flight, and pay me visit in my nether abode.\u0007Shouldst thou prove unworthy of my boon, thy bones shall litter the halls of Asgarth!"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007...and the power to achieve thy aims shall be thine."
+            },
+            {
+              "id": 7910,
+              "string": "1\u0000\u0007What wouldst thou make of such power?\u0007Soil the fields with the blood of thine enemies, that the rivers run crimson for summers after?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest."
+            },
+            {
+              "id": 7912,
+              "string": "1\u0000\u0007Through the ages, much have I seen.\u0007Witless monarchs, gifted authority absolute, who succeeded only in plumbing the depths of corruption and depravity."
+            },
+            {
+              "id": 7913,
+              "string": "1\u0000\u0007Canst thou succeed where thy forbears, o'ercrowed by vice, did fail?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7905,
+              "string": "1\u0000\u0007Reflect upon the true nature of thy desire, then seek me anew."
+            },
+            {
+              "id": 7915,
+              "string": "1\u0000\u0007Seek wings to take flight, and pay me visit in my nether abode.\u0007Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007...and the power to achieve thy aims shall be thine."
+            },
+            {
+              "id": 7916,
+              "string": "1\u0000\u0007What wouldst thou make of this ingenuity?\u0007Wouldst thou enslave bird and beast, bend the very laws of nature to serve thy base desires?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest."
+            },
+            {
+              "id": 7918,
+              "string": "1\u0000\u0007Through the ages, much have I seen.\u0007Foolhardy ?[men\/women], clever beyond their means, fostering only ruin where they would spur advancement."
+            },
+            {
+              "id": 7919,
+              "string": "1\u0000\u0007Canst thou succeed where thy forbears in their ignorance failed?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7905,
+              "string": "1\u0000\u0007Reflect upon the true nature of thy desire, then seek me anew."
+            },
+            {
+              "id": 7921,
+              "string": "1\u0000\u0007Seek wings to take flight, and pay me visit in my nether abode.\u0007Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007...and the power to achieve thy aims shall be thine."
+            },
+            {
+              "id": 7922,
+              "string": "1\u0000\u0007What wouldst thou make of such passion?\u0007Seize the hearts of those around thee, that they would gladly die a thousand deaths to be but graced with thy smile?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest."
+            },
+            {
+              "id": 7924,
+              "string": "1\u0000\u0007Through the ages, much have I seen.\u0007Fool ?[men\/women] who strove to be loved by all, only to die alone, despis'd by even their once-truest companions."
+            },
+            {
+              "id": 7925,
+              "string": "1\u0000\u0007Canst thou succeed where thy forbears in their covetousness failed?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7905,
+              "string": "1\u0000\u0007Reflect upon the true nature of thy desire, then seek me anew."
+            },
+            {
+              "id": 7927,
+              "string": "1\u0000\u0007Seek wings to take flight, and pay me visit in my nether abode.\u0007Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007...and the power to achieve thy aims shall be thine."
+            },
+            {
+              "id": 7928,
+              "string": "1\u0000\u0007What wouldst thou make of such glory?\u0007Wouldst thou have minstrels sing thy praises even as their throats parch with thirst, and thy subjects laud thy mercy even as they huddle starving in the streets?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest."
+            },
+            {
+              "id": 7930,
+              "string": "1\u0000\u0007Through the ages, much have I seen.\u0007?[Kings\/Queens] of ruined nations, demanding the undying devotion of their subjects who lay starving in the streets."
+            },
+            {
+              "id": 7931,
+              "string": "1\u0000\u0007Wilt thou not but repeat the mistakes of thy thrice-prideful forbears?"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7905,
+              "string": "1\u0000\u0007Reflect upon the true nature of thy desire, then seek me anew."
+            },
+            {
+              "id": 7933,
+              "string": "1\u0000\u0007Seek wings to take flight, and pay me visit in my nether abode.\u0007Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!"
+            },
+            {
+              "id": 7901,
+              "string": "1\u0000\u0007I grant such a reward as becometh thee.\u0007Accept it graciously, and begone from this place."
+            },
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007...and the power to achieve thy aims shall be thine."
+            },
+            {
+              "id": 7935,
+              "string": "1\u0000\u0007Thy appeal is heard."
+            },
+            {
+              "id": 7936,
+              "string": "1\u0000\u0007In all things, there is order.\u0007One star from the heavens falls, and another is birthed in its stead."
+            },
+            {
+              "id": 7937,
+              "string": "1\u0000\u0007Such is my bargain.\u0007In return for that one's soul, I would claim thine."
+            },
+            {
+              "id": 7941,
+              "string": "l.\u0000\u0007Rise, my knight!\u0007Thou shalt serve me well, lest the bonds of thy successor be wrought from thine entrails."
+            },
+            {
+              "id": 7943,
+              "string": "1\u0000\u0007Thy coveted prize sits on a pedestal before thee.\u0007Claim it or turn away, it matters not to me."
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007Thou hast proven thyself worthy of my boon.\u0007Speak unto me thy wish."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7855,
+              "string": "1\u0000\u0007To the victor go the spoils.\u0007If thou wouldst claim what thou desirest, stand now and face my blade!"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007Excellent!\u0007Thou hast done well to entertain me for the nonce."
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007Thou hast proven thyself worthy of my boon.\u0007Speak unto me thy wish."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007...That is thy true desire?"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007...That is thy true desire?"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007...That is thy true desire?"
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Very well.\u0007Rejoice, for I grant unto thee thy desire."
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007Very well. 'Tis but a gleed in the vast sea of hellfire that is my power, but I grant unto thee my boon."
+            },
+            {
+              "id": 7958,
+              "string": "\b!\u0000\u0007Thy thirst for power is nigh unquenchable.\u0007'Twould seem I have chosen my champion well."
+            },
+            {
+              "id": 7959,
+              "string": "1\u0000\u0007Shouldst ever thou tire of mere amusement, seek out wings to fly, and pay me visit in my nether abode.\u0007There I shall meet you in the flesh, that our blades may sing destruction 'til the coming of Ragnarok!"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7935,
+              "string": "1\u0000\u0007Thy appeal is heard."
+            },
+            {
+              "id": 7936,
+              "string": "1\u0000\u0007In all things, there is order.\u0007One star from the heavens falls, and another is birthed in its stead."
+            },
+            {
+              "id": 7937,
+              "string": "1\u0000\u0007Such is my bargain.\u0007In return for that one's soul, I would claim thine."
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097364,
+      "name": "Odin Prime",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007Hast thou sated thy rage?"
+            },
+            {
+              "id": 7743,
+              "string": "1\u0000\u0007Ahahahahahaha!"
+            },
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Sate thy rage!"
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007Thou shalt become my knight."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7835,
+              "string": "w.\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7835,
+              "string": "w.\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7835,
+              "string": "w.\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097365,
+      "name": "Razfahd",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7779,
+              "string": "h!\u0000\u0007Most impressive, little sister."
+            },
+            {
+              "id": 7781,
+              "string": "1\u0000\u0007You have aided us in the capture of both the Dark Rider and a foreign spy all in one fell swoop."
+            },
+            {
+              "id": 7783,
+              "string": "1\u0000\u0007Have a care, Luzaf the Blackheart."
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007Or should I now call you ??Dark Rider???"
+            },
+            {
+              "id": 7785,
+              "string": "1\u0000\u0007The crew members you had hidden throughout Hazhalm are all in our custody."
+            },
+            {
+              "id": 7786,
+              "string": "1\u0000\u0007Not to mention the descendants of Ephramad that followed the rumors of your presence here."
+            },
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007I would hate to have to spill the blood of Imperial citizens...no matter how unwillingly they serve."
+            },
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007Take him away."
+            },
+            {
+              "id": 7791,
+              "string": "1\u0000\u0007Use the astral bonds we prepared. Keep on your guard."
+            },
+            {
+              "id": 7799,
+              "string": "1\u0000\u0007Ignore her.\u0007Be on your way!"
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007Listen to me, Nashmeira.\u0007You have abandoned your government, and consorted with enemies of the state."
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007As Grand Vizier, I have decreed that the Mark of Zahak, the symbol of absolute Imperial power, is no longer yours to wield."
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Your authority no longer exists."
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007Betray you?\u0007You are in no position to speak of betrayal."
+            },
+            {
+              "id": 7807,
+              "string": "1\u0000\u0007\b."
+            },
+            {
+              "id": 7809,
+              "string": "1\u0000\u0007Don't you think it's about time you told my fool of a sister the truth?"
+            },
+            {
+              "id": 7810,
+              "string": "1\u0000\u0007Told her who you truly work for?"
+            },
+            {
+              "id": 7813,
+              "string": "1\u0000\u0007You continue to deceive yourself..."
+            },
+            {
+              "id": 7814,
+              "string": "1\u0000\u0007The only reason \b stays close to you is to fulfill ?[his\/her] duties as a spy."
+            },
+            {
+              "id": 7824,
+              "string": "1\u0000\u0007Let her play her hand."
+            },
+            {
+              "id": 7825,
+              "string": "1\u0000\u0007Tell your master this, \b:"
+            },
+            {
+              "id": 7826,
+              "string": "1\u0000\u0007The game is over.\u0007It is time to submit to the power of the Empire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097366,
+      "name": "Raubahn",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097367,
+      "name": "Salabwahn",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7777,
+              "string": "!?\u0000\u0007A-Admiral.\u0007You...you must flee!\u0007The I-Immortals..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097368,
+      "name": "Amnaf",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7823,
+              "string": "1\u0000\u0007(Shall I stop the automaton from casting?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097369,
+      "name": "",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097370,
+      "name": "Wharudu",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007Sir."
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007Y-Your Magnificence..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097371,
+      "name": "Kalgahn",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7794,
+              "string": "1\u0000\u0007Move!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097372,
+      "name": "3",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097373,
+      "name": "4",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097374,
+      "name": "",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7842,
+              "string": "1\u0000\u0007Thy desire?\u0007\u000b?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007Monetary riches.\u0007A pact with Odin."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Accept \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Accept \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Accept \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007Accept a monetary reward?\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007Accept this reward?\u0007\u000bYes.\u0007On second thought..."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7858,
+              "string": "1\u0000\u0007Speak thy desire.\u0007\u000bThe release of thy knight.\u0007Absolute prescience.\u0007Boundless power.\u0007Peerless ingenuity.\u0007Consummate passion.\u0007Undying glory."
+            },
+            {
+              "id": 7842,
+              "string": "1\u0000\u0007Thy desire?\u0007\u000b?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007Monetary riches.\u0007A pact with Odin."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Accept \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Accept \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Accept \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007Accept a monetary reward?\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007Accept this reward?\u0007\u000bYes.\u0007On second thought..."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7842,
+              "string": "1\u0000\u0007Thy desire?\u0007\u000b?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007Monetary riches.\u0007A pact with Odin."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Accept \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Accept \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Accept \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007Accept a monetary reward?\u0007\u000bYes.\u0007On second thought..."
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007Accept this reward?\u0007\u000bYes.\u0007On second thought..."
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097375,
+      "name": "???",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097377,
+      "name": "Luzaf",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17097388,
+      "name": "???",
+      "events": [
+        {
+          "id": 18,
+          "dialogue": [
+            {
+              "id": 8019,
+              "string": "1\u0000\u0007A booming voice resonates from the depths of your skull..."
+            },
+            {
+              "id": 8020,
+              "string": "1\u0000\u0007The \u0001\u0005#???? in thy possession is testament to thy worth.\u0007Speak unto me my name, that thou might claimest thy reward."
+            },
+            {
+              "id": 8021,
+              "string": "1\u0000\u0007My name...\u0007\u000bI do not know.\u0007Rossweisse.\u0007Grimgerde.\u0007Siegrune.\u0007Helmwige.\u0007Schwertleite.\u0007Waltraute.\u0007Ortlinde.\u0007Gerhilde.\u0007Brunhilde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 8026,
+              "string": "1\u0000\u0007Preparing teleport to Hazhalm Testing Grounds - \f\u0000[Rossweisse's Chamber\/Grimgerde's Chamber\/Siegrune's Chamber\/Helmwige's Chamber\/Schwertleite's Chamber\/Waltraute's Chamber\/Ortlinde's Chamber\/Gerhilde's Chamber\/Brunhilde's Chamber\/Odin's Chamber\/Odin's Chamber]."
+            },
+            {
+              "id": 8027,
+              "string": "1\u0000\u0007Proceed to \f\u0000[Rossweisse's Chamber\/Grimgerde's Chamber\/Siegrune's Chamber\/Helmwige's Chamber\/Schwertleite's Chamber\/Waltraute's Chamber\/Ortlinde's Chamber\/Gerhilde's Chamber\/Brunhilde's Chamber\/Odin's Chamber\/Odin's Chamber]?\u0007\u000bYes.\u0007Not yet.\u0007Confirm entry conditions.\u0007Confirm re-entry conditions.\u0007Confirm battle conditions."
+            },
+            {
+              "id": 8042,
+              "string": "1\u0000\u0007There are too many adventurers in the chamber."
+            },
+            {
+              "id": 8028,
+              "string": "1\u0000\u0007All of the valkyrie feathers in your possession are consume"
+            },
+            {
+              "id": 8038,
+              "string": "1\u0000\u0007You do not possess the items required for entry."
+            },
+            {
+              "id": 8050,
+              "string": "1\u0000\u0007Other members currently engaged in battle. Entry denied."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007When traded to the Hazhalm Testing Grounds' Entry Gate, \u0001\u0001\u0001 \u0001\u0005$???? will light and become \u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007From that moment, the owner of the \u0001\u0005#???? will reserve and gain access to one of the facility's many chambers."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007By \u001e\u0005using\u001e\u0001 the \u0001\u0005#???? it will produce a replica of itself which can be given to another, granting him or her access to the same chamber."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber."
+            },
+            {
+              "id": 8060,
+              "string": "1\u0000\u0007These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates."
+            },
+            {
+              "id": 8061,
+              "string": "1\u0000\u0007To teleport to the reserved chamber, one must simply trade their \u0001\u0005#???? to the Entry Gate."
+            },
+            {
+              "id": 8062,
+              "string": "1\u0000\u0007However, please note that not everyone in possession of a lamp will be allowed into Hazhalm."
+            },
+            {
+              "id": 8063,
+              "string": "1\u0000\u0007As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid \u0001\u0005#???? will not be allowed entry if the chamber has reached its maximum capacity."
+            },
+            {
+              "id": 8064,
+              "string": "1\u0000\u0007Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry."
+            },
+            {
+              "id": 8078,
+              "string": "1\u0000\u0007After visiting the testing grounds, one must wait \n\u0003 ?\u0003[hour\/hours] (Earth time) before he is granted access again."
+            },
+            {
+              "id": 8079,
+              "string": "1\u0000\u0007This not only pertains to the chamber previously visited, but all areas within the testing grounds."
+            },
+            {
+              "id": 8080,
+              "string": "1\u0000\u0007The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate."
+            },
+            {
+              "id": 8081,
+              "string": "1\u0000\u0007All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance."
+            },
+            {
+              "id": 8082,
+              "string": "1\u0000\u0007In addition, any items dropped by a foe can be lotted on by anyone in the chamber."
+            },
+            {
+              "id": 8083,
+              "string": "1\u0000\u0007However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random."
+            },
+            {
+              "id": 8084,
+              "string": "1\u0000\u0007At any time, if the number of active adventurers participating in the cleansing of the testing grounds falls below six, the reservation will become void and any remaining members will be teleported from the area in approximately \n\u0001 ?\u0001[minute\/minutes] (Earth time)."
+            },
+            {
+              "id": 8085,
+              "string": "1\u0000\u0007Also, if everyone in a chamber remains KO'd for longer than \n\u0002 ?\u0002[minute\/minutes], they will all be automatically teleported from the grounds.1\u0000\u0007\u0000\u0000"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7619,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007\f\u0004[The Rider Cometh\/Unwavering Resolve\/A Stygian Pact].\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@"
+            },
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7602,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7582,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7246,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7582,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

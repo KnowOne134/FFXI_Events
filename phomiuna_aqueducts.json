@@ -1,0 +1,1035 @@
+{
+  "id": 27,
+  "name": "Phomiuna Aqueducts",
+  "actors": [
+    {
+      "id": 16888038,
+      "name": "",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888050,
+      "name": "???",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888053,
+      "name": "???",
+      "events": [
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888060,
+      "name": "???",
+      "events": [
+        {
+          "id": 52,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888062,
+      "name": "???",
+      "events": [
+        {
+          "id": 53,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888064,
+      "name": "Ornate Gate",
+      "events": [
+        {
+          "id": 36,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888066,
+      "name": "???",
+      "events": [
+        {
+          "id": 54,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888075,
+      "name": "???",
+      "events": [
+        {
+          "id": 37,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888077,
+      "name": "Ornate Gate",
+      "events": [
+        {
+          "id": 37,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888078,
+      "name": "Door_0rl",
+      "events": [
+        {
+          "id": 37,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888079,
+      "name": "???",
+      "events": [
+        {
+          "id": 55,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888093,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 21,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Climb up the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888094,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 22,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Climb up the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888095,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 23,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Climb up the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888096,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Climb up the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888097,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 25,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Climb up the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888098,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 26,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Climb up the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888099,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Climb up the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888100,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 28,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Climb up the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888101,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 29,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Climb down the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888102,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Climb up the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888103,
+      "name": "Wooden Ladder",
+      "events": [
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Climb down the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888105,
+      "name": "???",
+      "events": [
+        {
+          "id": 56,
+          "dialogue": [
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007A rolled-up piece of parchment is inside the jar."
+            },
+            {
+              "id": 7229,
+              "string": "1\u0000\u0007Unfurl the parchment?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7230,
+              "string": "1\u0000\u0007The parchment is an elemental correlation chart.\u0007Perhaps it has something to do with this facility...?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888106,
+      "name": "???",
+      "events": [
+        {
+          "id": 57,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888108,
+      "name": "Nag'molada",
+      "events": [
+        {
+          "id": 35,
+          "dialogue": [
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Oh, it's you.\u0007Have you finished your task?"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007A much easier battle than you expected, yes?"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007Fortunately for you, I had cast an additional seal upon the creature."
+            },
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007However, that task was merely a secondary objective.\u0007If my information is correct, our goal lies beyond this point..."
+            },
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007I see.\u0007I did not expect such incompetence."
+            },
+            {
+              "id": 7355,
+              "string": "1\u0000\u0007Even after I had cast an additional seal upon the creature..."
+            },
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007No matter.\u0007That was merely a secondary objective.\u0007If my information is correct, our goal lies beyond this point..."
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "dialogue": [
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007So this is the precious vessel..."
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007But what is such an important object doing in a place like this?"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007In any case, it should prove to be a valuable asset."
+            },
+            {
+              "id": 7360,
+              "string": "1\u0000\u0007My only problem is that the circumstances have changed this time."
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007What is this?\u0007You came here looking for me?"
+            },
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007Very well.\u0007Let us return to the safehold..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888109,
+      "name": "BOX",
+      "events": [
+        {
+          "id": 36,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888110,
+      "name": "Shikaree X",
+      "events": [
+        {
+          "id": 37,
+          "dialogue": [
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007This chamber..."
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007You're the adventurrrer who was with Prishe."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Who are you supposed to be?"
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007Maybe you rrremember me?\u0007I am a Mithran sin hunter."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007My orders come from beyond the southern seas, dirrrectly from the Mithran homeland."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007I am a Mithran sin hunter.\u0007I have been authorrrized to sink my fangs into anyone dumb enough to get in the way of my duty."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007After hearing the news that a town of Tavnazian survivorrrs had been discovered, I was ordered to hike my tail over herrre."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007My orrriginal task was to see if Cardinal Mildaurion was holed up somewhere in the Tavnazian Safehold..."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007I thought that Cardinal Mildaurion might have holed up in one of these rooms..."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007But things have changed.\u0007Without letting on to Prishe or Ulmia, I started investigating the mysteries connected to the cathedral."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007Looks like my instincts were on holiday this time, huh?"
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007Mysteries like this weapon case..."
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007But then I found this weapon case..."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007It's empty.\u0007What could they have been hiding in herrre, I wonder."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007Frrrom the size of it, I'm guessing...a greatsword?"
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007I don't suppose you've got any hints for me?"
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Whatever it was, it looks like it was rrremoved a long time ago. Maybe in the time of the war?"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Hmmm, there're no other clues lying arrround...\u0007Guess I'll have to give up for the moment, and go see what other stories Odeya has floating around in that old head of herrrs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888111,
+      "name": "???",
+      "events": [
+        {
+          "id": 35,
+          "dialogue": [
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007Have you finished?\u0007\u000bIt is done.\u0007Not yet."
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 37,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888121,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Distant Beliefs(pt.1).\u0007Distant Beliefs(pt.2).\u0007X Marks the Spot.\u0007Knocking on Forbidden Doors."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888124,
+      "name": "Fardimant",
+      "events": [
+        {
+          "id": 38,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Well, well, well, what have we here? Long has it been since I had any visitors...of this world."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007None other. My name is Fardimant X Boncourge, heir to the House of Boncourge, or what remains of it..."
+            },
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007Ho ho...?\u0007I sense a hint of familiarity between you and me, Sir..."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007Sir Enaremand. Yes...\u0007There is an air about you that does not quite fit in this plane of existence..."
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007But that is of no matter."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007May I inquire what has brought you to my stygian abode?"
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007I see..."
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007The feelings you harbor for your fianc?ie are so great, that you wish to perform an act that will ultimately commit your soul into the depths of the underworld. For a moment of happiness, you are willing to condemn yourself to an eternity of damnation."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007Hmph... Little do I know of these emotions that drive your heart to the brink of insanity, but little do I care."
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007I shall help you, but only because the darkness that dwells inside me resonates with the beast that has a grip on your feeble mind."
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007Remember, I cannot guarantee that the result of our undertakings shall match the outcome you envision."
+            },
+            {
+              "id": 7397,
+              "string": "1\u0000\u0007But there is nothing you need to worry of...yet."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007What I need of you now, is the procurement of an item necessary for the ceremony of rebirth."
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007There is a certain type of reed that grows near the rivers and swamps of Tavnazia. When certain natural conditions are met, this reed decays into a hard substance that resembles a type of incense. Though quite rare, without one of these reeds, I will be unable to call forth the essence of your loved one's being."
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007And again, I must warn you that nothing is certain when dealing with souls that have once crossed over into the nethers."
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007You must be prepared to compensate for your actions."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007Though ultimately you will end up paying more than you receive. But you already know this, do you not?"
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007When you have obtained the item, travel to the base of the Cascade Edellaine."
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007I shall be waiting for you there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888125,
+      "name": "Enaremand",
+      "events": [
+        {
+          "id": 38,
+          "dialogue": [
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007Are y-you the great n-necromancer of whom the people whisper?"
+            },
+            {
+              "id": 7386,
+              "string": "1\u0000\u0007Enaremand.\u0007Wh-what exactly do you m-m-m-mean...?"
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007I... Well... Eh......"
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007I... You... B-but...\u0007Oh, thank you!"
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007R-reeds? R-rivers? S-swamps?\u0007That sounds like Lufa...no, Misareaux. Yes, Misareaux..."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007I will return to the s-safehold and prepare for the ceremony."
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007When you find the reed, t-take it directly to the waterfall... Yes, g-go there at once. I will m-m-m-meet you beneath it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16888126,
+      "name": "Survival Guide",
+      "events": [
+        {
+          "id": 8500,
+          "dialogue": [
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            }
+          ]
+        },
+        {
+          "id": 8501,
+          "dialogue": [
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007You may change the way you select areas listed in ??Teleportation Assistance."
+            },
+            {
+              "id": 7426,
+              "string": "??\u0000\u0007Any changes to make?\u0007\u000bKeep course.\u0007Select by region.\u0007Select by content."
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007At the bottom of the page is a reminder. It perfunctorily states that you may receive \u0001\u0001\u0001 \u0001\u0005$???? once you have logged a total of \n\u0002 hours."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007As per the custom noted within, you are eligible to receive \u0001\u0001\u0001 \u0001\u0005$???? for the \n\u0002 hour?\u0002[\/s] of fighting you've accrued."
+            },
+            {
+              "id": 7424,
+              "string": "1\u0000\u0007Accept the reward?\u0007\u000bYes, please.\u0007No, thanks."
+            },
+            {
+              "id": 6388,
+              "string": "1\u0000\u0007Obtained: ?\u0001\u0001\u0005#????."
+            },
+            {
+              "id": 6382,
+              "string": "1\u0000\u0007You cannot obtain the \u0001\u0005#????.\u0007Come back after sorting your inventory."
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007Travel to which region?\u0007\u000bOn second thought, none.\u0007Select from amongst favorites.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 7428,
+              "string": "].\u0000\u0007\u000bNowhere for now.\u0007Select from amongst favorites.\u0007Original release areas.\u0007Rise of the Zilart areas.\u0007Chains of Promathia areas.\u0007Treasures of Aht Urhgan areas.\u0007Wings of the Goddess areas.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007Seekers of Adoulin areas."
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 7419,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7432,
+              "string": "].\u0000\u0007Your list of favorites is full. You must remove an existing entry to add new one"
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 7419,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 18,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 19,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 20,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 38,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Climb up the ladder?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 296,
+  "name": "Dynamis - Windurst [D]",
+  "actors": [
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 10000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

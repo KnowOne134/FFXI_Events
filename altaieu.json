@@ -1,0 +1,2883 @@
+{
+  "id": 33,
+  "name": "Al'Taieu",
+  "actors": [
+    {
+      "id": 16912884,
+      "name": "???",
+      "events": [
+        {
+          "id": 200,
+          "dialogue": [
+            {
+              "id": 7525,
+              "string": "1\u0000\u0007A distant voice emanates from the depths of your soul."
+            },
+            {
+              "id": 7526,
+              "string": "1\u0000\u0007??Knoweth...thou???"
+            },
+            {
+              "id": 7527,
+              "string": "1\u0000\u0007??Firs...irtue...??"
+            },
+            {
+              "id": 7528,
+              "string": "1\u0000\u0007??Deed...tranqu...ser...ity...??"
+            },
+            {
+              "id": 7529,
+              "string": "1\u0000\u0007??...receptac...from phua...??"
+            },
+            {
+              "id": 7530,
+              "string": "1\u0000\u0007??...I...cannot...deciph...them...??"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912885,
+      "name": "???",
+      "events": [
+        {
+          "id": 201,
+          "dialogue": [
+            {
+              "id": 7531,
+              "string": "1\u0000\u0007A distant voice emanates from the depths of your soul."
+            },
+            {
+              "id": 7532,
+              "string": "1\u0000\u0007??Desssireth...thou???"
+            },
+            {
+              "id": 7533,
+              "string": "1\u0000\u0007??Ssseco...irtue...??"
+            },
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007??Deed...ressstraint...willpo...er...??"
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007??...from...fallen...Xzom...??"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007??...cannot...derssstand...them...??"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912886,
+      "name": "???",
+      "events": [
+        {
+          "id": 202,
+          "dialogue": [
+            {
+              "id": 7537,
+              "string": "1\u0000\u0007A distant voice emanates from the depths of your soul."
+            },
+            {
+              "id": 7538,
+              "string": "1\u0000\u0007??Seeketh...thou???"
+            },
+            {
+              "id": 7539,
+              "string": "1\u0000\u0007??Thir...irtue...??"
+            },
+            {
+              "id": 7540,
+              "string": "1\u0000\u0007??Deed...rationa...??"
+            },
+            {
+              "id": 7541,
+              "string": "1\u0000\u0007??...receptac...from Hpem...??"
+            },
+            {
+              "id": 7542,
+              "string": "1\u0000\u0007??...cannot...omprehend...them...??"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912887,
+      "name": "???",
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            {
+              "id": 7543,
+              "string": "1\u0000\u0007A distant voice emanates from the depths of your soul."
+            },
+            {
+              "id": 7544,
+              "string": "1\u0000\u0007??Now...I...know...??"
+            },
+            {
+              "id": 7545,
+              "string": "1\u0000\u0007??Fourt...irtue...??"
+            },
+            {
+              "id": 7546,
+              "string": "1\u0000\u0007??Fif...irtue...??"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007??Sssix...irtue...??"
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007??I...desssire...??"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912895,
+      "name": "",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912898,
+      "name": "Crystalline Field",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Pass through the gate?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 163,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912899,
+      "name": "Rubious Crystal",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 163,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912900,
+      "name": "Rubious Crystal",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 163,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912901,
+      "name": "Rubious Crystal",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 163,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912902,
+      "name": "Auroral Updraft",
+      "events": [
+        {
+          "id": 150,
+          "dialogue": [
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007Return to the Sealion's Den?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912903,
+      "name": "Auroral Updraft",
+      "events": [
+        {
+          "id": 154,
+          "dialogue": [
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Return to the palace entrance?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912904,
+      "name": "Auroral Updraft",
+      "events": [
+        {
+          "id": 155,
+          "dialogue": [
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Return to the palace entrance?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912905,
+      "name": "Auroral Updraft",
+      "events": [
+        {
+          "id": 156,
+          "dialogue": [
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Return to the palace entrance?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912906,
+      "name": "Auroral Updraft",
+      "events": [
+        {
+          "id": 157,
+          "dialogue": [
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Return to the palace entrance?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912907,
+      "name": "Auroral Updraft",
+      "events": [
+        {
+          "id": 158,
+          "dialogue": [
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Return to the palace entrance?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912908,
+      "name": "Swirling Vortex",
+      "events": [
+        {
+          "id": 159,
+          "dialogue": [
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007Enter the bottomless void?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912909,
+      "name": "Swirling Vortex",
+      "events": [
+        {
+          "id": 160,
+          "dialogue": [
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007Enter the bottomless void?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912910,
+      "name": "Dimensional Portal",
+      "events": [
+        {
+          "id": 151,
+          "dialogue": [
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007Return to the Crag of Holla?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912911,
+      "name": "Dimensional Portal",
+      "events": [
+        {
+          "id": 152,
+          "dialogue": [
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007Return to the Crag of Dem?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912912,
+      "name": "Dimensional Portal",
+      "events": [
+        {
+          "id": 153,
+          "dialogue": [
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007Return to the Crag of Mea?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912914,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16912915,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16912916,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16912917,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007In other words, the crystal was losing the power it needed to sustain Al'Taieu in the other dimension."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Yep.\u0007The weakened state of this overgrown quartz is the reason that the Keeper of the Apocalypse is threatening to descend upon Vana'diel."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007I'm sure you've noticed it by now, \b.\u0007Your ability to hear the whisper of the soul..."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Passed through the medium of the amulet, the light gathered from the four crystals has changed you."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Selh'teus!\u0007If you mean to save both the world and everyone in it, then someone inhuman like you or me should be sacrificed!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007And you, Tenzen!\u0007Phoenix, the avatar of rebirth, can't have led you this far just to snuff out \b's life!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Surely she meant to resurrect the shattered pieces of \b's spirit using her own lifeforce!"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007I was the Keeper of the Apocalypse once.\u0007I know only too well the fear and horror that await us."
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007But you gotta listen to me, Selh'teus!\u0007Pour the energy of the fifth mothercrystal into \b!"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007?[His\/Her] victories against the Emptiness and everything else we've faced have not been won through the power of the four crystals alone."
+            },
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007\b has an inner strength.\u0007A spirit that loves this world and those who dwell upon it."
+            },
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007That's why I believe ?[he\/she] will prevail against the keeper!"
+            },
+            {
+              "id": 7355,
+              "string": "1\u0000\u0007Selh'teus!\u0007Open the way to Al'Taieu!"
+            }
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            {
+              "id": 7518,
+              "string": "e!\u0000\u0007Dammit...\u0007This is because of Nag'molada."
+            },
+            {
+              "id": 7519,
+              "string": "1\u0000\u0007When Naggy was absorbed, all of his knowledge poured straight into the mind of the Twilight God!"
+            },
+            {
+              "id": 7520,
+              "string": "1\u0000\u0007\b, I'm gonna need the amulet back."
+            },
+            {
+              "id": 7521,
+              "string": "1\u0000\u0007We gotta go!\u0007He's in the lowest level of the palace!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912918,
+      "name": "Selh'teus",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7323,
+              "string": ".)\u0000\u0007(But it was not a complete separation.)"
+            },
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007(After the Crystal Line was reactivated, energy was siphoned from the fifth mothercrystal...)"
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007(Drawing it and the city of Al'Taieu back to Vana'diel.)"
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007(However, I am a child of darkness. I could never be the bearer of light.)"
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007(I needed a worthy receptacle for that power. I needed you.)"
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007(Your journey has been for the sake of the crystal.)"
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007(Your adventure is now at an end.)"
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007(Return, \b. Return to the light of the crystal.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912919,
+      "name": "Ulmia",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7318,
+              "string": "1\u0000\u0007But why does only this crystal glow with such a strange incandescence...?"
+            },
+            {
+              "id": 7319,
+              "string": "1\u0000\u0007The air here is so chilly.\u0007The other crystals exuded such a sense of warmth and peace..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912920,
+      "name": "Tenzen",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007The return of Al'Taieu and the arrival of the keeper will be prevented."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007This solution was discovered by the boy Selh'teus--and by Phoenix, the fiery bird of rebirth."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007That is why he has visited each of the remaining crystals in turn:\u0007To relieve them of their light and power..."
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007And to pour that energy into the crystal that lies before us."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Phoenix referred to you as the ??Vessel of Light.??"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Fated to be smashed open before the fifth mothercrystal..."
+            },
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007Nag'molada!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912921,
+      "name": "Jabbos",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007This is...the...fifth...?"
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007So if...the power...of the crystal...is restored...!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912922,
+      "name": "Shikaree Z",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007This place...!"
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007This is the crystal that the Wyrmking spoke of?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912923,
+      "name": "Louverance",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007What happened...?"
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007Sustain Al'Taieu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912924,
+      "name": "Nag'molada",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007I, too, wish for the way to be opened."
+            },
+            {
+              "id": 7359,
+              "string": "s?\u0000\u0007??I will prevail against the deity that dwells beyond the Gate of the Gods. Open the way to Al'Taieu.??\u0007Weren't those the words you used?"
+            },
+            {
+              "id": 7360,
+              "string": "1\u0000\u0007Do you not find it unfair that only \f\u0000[she\/he] should bear the sins of people?"
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007We ancients are all responsible for these events.\u0007I shall shoulder my part of the burden."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007Incredible..."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007Al'Taieu...\u0007You were meant to be impossible to find..."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007Ahahaha!\u0007Who would have thought the plan to open the Gate of the Gods would succeed?"
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007Al'Taieu!\u0007Long have I yearned to behold your magnificent spires!"
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007Why...?\u0007Why can't I hear the voices?"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007Why do I not hear the whispers of the Zilartian people or the Dawn Maiden?"
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007Silence!"
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007Your unruly thoughts are clouding my mind!"
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007!?"
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007So, the rest of you were drawn into this world as well.\u0007How inconvenient..."
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007A visit to the Grand Palace of Hu'Xzoi should bring some interesting encounters.\u0007Perhaps the Dawn Maiden is there..."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912925,
+      "name": "Makki-Chebukki",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007There!\u0007I can see him!"
+            }
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007There!\u0007I can see him!"
+            }
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007There!\u0007I can see him!"
+            },
+            {
+              "id": 7516,
+              "string": "1\u0000\u0007He's gonna break the fifth mothercrystal and bring this entire city crashing down on the world!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912926,
+      "name": "Kukki-Chebukki",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            {
+              "id": 7511,
+              "string": "d!\u0000\u0007Wait!\u0007Take us with you!"
+            },
+            {
+              "id": 7515,
+              "string": "1\u0000\u0007The great Promathia realized why his children have not come to greet him!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912927,
+      "name": "Cherukiki",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            {
+              "id": 7512,
+              "string": "1\u0000\u0007Take us with you to Vana'diel!"
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007That's right!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912928,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7496,
+              "string": "1\u0000\u0007  "
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007(Your death is the only way to save both Vana'diel and her people...)"
+            },
+            {
+              "id": 7496,
+              "string": "1\u0000\u0007  "
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912929,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912930,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912931,
+      "name": "Promathia",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007Canst thou hear me, Goddess?\u0007Thou who hast sheltered my very existence."
+            },
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007I will be reborn.\u0007It is time to surrender to thine abhorred ??death,?? to the embrace of perpetual darkness."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007An eternity of silence awaits."
+            },
+            {
+              "id": 7508,
+              "string": "1\u0000\u0007Our farewell this time shall be forever."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912932,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            {
+              "id": 7500,
+              "string": "1\u0000\u0007Hey, did you guys see where Promathia went!?"
+            }
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            {
+              "id": 7500,
+              "string": "1\u0000\u0007Hey, did you guys see where Promathia went!?"
+            }
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            {
+              "id": 7500,
+              "string": "1\u0000\u0007Hey, did you guys see where Promathia went!?"
+            },
+            {
+              "id": 7509,
+              "string": "1\u0000\u0007The Goddess...is crying?"
+            },
+            {
+              "id": 7513,
+              "string": "1\u0000\u0007What was that!?\u0007The dusty old divinity is headed for Vana'diel!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912933,
+      "name": "Quasilumin",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            {
+              "id": 7501,
+              "string": "1\u0000\u0007All have become one..."
+            }
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            {
+              "id": 7501,
+              "string": "1\u0000\u0007All have become one..."
+            }
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            {
+              "id": 7501,
+              "string": "1\u0000\u0007All have become one..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912934,
+      "name": "Quasilumin",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007My master, his lady, their friends, everyone..."
+            }
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007My master, his lady, their friends, everyone..."
+            }
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007My master, his lady, their friends, everyone..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912935,
+      "name": "Quasilumin",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007All have coalesced into a single deity..."
+            }
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007All have coalesced into a single deity..."
+            }
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007All have coalesced into a single deity..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912936,
+      "name": "Quasilumin",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912937,
+      "name": "Quasilumin",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912938,
+      "name": "Quasilumin",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912939,
+      "name": "Quasilumin",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912940,
+      "name": "Quasilumin",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912941,
+      "name": "Quasilumin",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 165,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 167,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912942,
+      "name": "Ulmia",
+      "events": [
+        {
+          "id": 164,
+          "dialogue": [
+            {
+              "id": 7419,
+              "string": "1\u0000\u0007You were brought to this peculiar realm as well?"
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007However, I cannot believe this is the Paradise of peace and love spoken of in legend.\u0007We have already been set upon by vicious beasts."
+            },
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007If Prishe was so intent on gaining entry to the palace, then the keeper will most likely be found inside..."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Are you certain?\u0007I feel that the light has not abandoned us."
+            },
+            {
+              "id": 7439,
+              "string": "1\u0000\u0007If we all stand together in body and spirit, there may still be a chance..."
+            },
+            {
+              "id": 7440,
+              "string": "1\u0000\u0007You mean to say that the light has not left us completely?"
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007Then if we all stand together in body and spirit, perhaps there is a way..."
+            },
+            {
+              "id": 7444,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912943,
+      "name": "Makki-Chebukki",
+      "events": [
+        {
+          "id": 161,
+          "dialogue": [
+            {
+              "id": 7447,
+              "string": "1\u0000\u0007You!\u0007Have you come to punish us!?"
+            },
+            {
+              "id": 7449,
+              "string": "1\u0000\u0007H-h-hold on a second!\u0007Time out! Time out!"
+            },
+            {
+              "id": 7450,
+              "string": "1\u0000\u0007It's not our fault!\u0007Lord Tenzen lied to us!"
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007And if you don't follow your samurai master's orders, you have to commit ritual suicide.\u0007It's true! I read it in a book somewhere!"
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007So..."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007I suppose you want to get into the palace, huh?"
+            },
+            {
+              "id": 7454,
+              "string": "1\u0000\u0007Well, we want to get in there, too.\u0007This voice in my head is driving me crazy!"
+            },
+            {
+              "id": 7455,
+              "string": "1\u0000\u0007Let's let bygones be bygones and work together, okay?\u0007We've ditched the samurai life, anyway."
+            },
+            {
+              "id": 7456,
+              "string": "1\u0000\u0007Getting past that gate is more complicated than just releasing the lock on this \f\u0000[southern\/eastern\/western] tower."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007If you really want to know how to open the gate, you better take a look at the other towers as well."
+            }
+          ]
+        },
+        {
+          "id": 163,
+          "dialogue": [
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Did we do it!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912944,
+      "name": "Kukki-Chebukki",
+      "events": [
+        {
+          "id": 162,
+          "dialogue": [
+            {
+              "id": 7459,
+              "string": "1\u0000\u0007Makki told me all about our deal!\u0007You wanna get in to see the king, right?"
+            },
+            {
+              "id": 7460,
+              "string": "1\u0000\u0007Just so's you know, the positions of princes and princess have already been filled!"
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007They've been out of the picture for ten thousand years now, so he must be feeling pretty lonely."
+            },
+            {
+              "id": 7463,
+              "string": "1\u0000\u0007After all that time, he's probably a few jewels short of a crown, too, if you know what I mean.\u0007I doubt the king'll notice if we're a little shorter than he remembers."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007We might even take you on as a servant if you're lucky!\u0007C'mon, time's a wastin'! Off to the \f\u0000[southern\/eastern\/western] tower!"
+            },
+            {
+              "id": 7465,
+              "string": "1\u0000\u0007Mind your manners around the future princess!"
+            }
+          ]
+        },
+        {
+          "id": 163,
+          "dialogue": [
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007Is it open!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912945,
+      "name": "Cherukiki",
+      "events": [
+        {
+          "id": 163,
+          "dialogue": [
+            {
+              "id": 7466,
+              "string": "1\u0000\u0007I thought minced Tarutaru was back on the menu for a second there..."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007You have our royal gratitude."
+            },
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Prince Kukki has informed me of the situation, and I commend you on your wise decision."
+            },
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007We shall be sure to put in a good word for you with His Majesty."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007I have my brothers on standby.\u0007Once I give the word, we'll hit all the buttons at the same time!"
+            },
+            {
+              "id": 7473,
+              "string": "1\u0000\u0007I think it opened!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912946,
+      "name": "Jabbos",
+      "events": [
+        {
+          "id": 164,
+          "dialogue": [
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007It seems...to be coming...from beyond...the gate..."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007What...do you mean...?"
+            },
+            {
+              "id": 7442,
+              "string": "1\u0000\u0007I have...no intention...of joining forces...with Nag'molada..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912947,
+      "name": "Shikaree Z",
+      "events": [
+        {
+          "id": 164,
+          "dialogue": [
+            {
+              "id": 7428,
+              "string": "1\u0000\u0007And if what Bahamut says is true, the Keeper of the Apocalypse lurks somewhere in this rrrealm."
+            },
+            {
+              "id": 7445,
+              "string": "1\u0000\u0007First we have to find a way to open this gate.\u0007Let's get moving."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912948,
+      "name": "Louverance",
+      "events": [
+        {
+          "id": 164,
+          "dialogue": [
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007I hear a voice calling to me..."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007The portal appears to be locked.\u0007If we are to believe the talk of those beings, this path leads to the palace of the Zilartian king."
+            },
+            {
+              "id": 7424,
+              "string": "1\u0000\u0007One of the inhabitants here spoke of a girl matching Prishe's description heading this way.\u0007If we can gain an audience with the king, we should learn exactly what's going on here."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007!?\u0007This place lies beyond the Gate of the Gods?\u0007Did the ancients truly cross that legendary border!?"
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007I worry that the Keeper of the Apocalypse will be beyond our ability."
+            },
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007\b.\u0007The four sources of light you acquired..."
+            },
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007Were they not all taken from you by that blackheart, Nag'molada?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912949,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16912950,
+      "name": "Yve'noile",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007The people of this world have evolved into five unique species, each harboring a distinctive darkness."
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007Crystal warriors.\u0007Thou wert created to destroy those evils."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007Yet even thy strength canst not prevail against this darkness."
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007Emptiness.\u0007'Tis the ever-present shadow of blessed light."
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007If this phenomenon represents complete death, then one could argue its presence was inevitable in a complete world."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007Thus thou split the crystal for thy children's sake..."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Is this not so, Great Goddess Altana...?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912951,
+      "name": "???",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7392,
+              "string": "..\u0000\u0007But this paradise did not last forever."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007The enormous jewel was split into five parts, and this perfect realm degraded into an incomplete world..."
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007We were reduced from the superior life forms of a higher plane into these flawed and insignificant forms."
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007Thus, we must gather and focus the energy of the crystals into opening a gate to that lost dimension."
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007We are both well aware of this predicament."
+            },
+            {
+              "id": 7397,
+              "string": "1\u0000\u0007And yet, there is one thing I simply cannot understand:"
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007How did this tragedy occur in the first place?"
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007Why was the original stone shattered into five parts?\u0007Who is responsible for this incomprehensible act?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912952,
+      "name": "???",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7386,
+              "string": "1\u0000\u0007It all began with a stone..."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007In ages past, the five crystals existed as one enormous jewel that bathed the world in holy light."
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007This mystical light banished the Emptiness and brought forth mighty gods..."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007These gods cultivated their power and concentrated their energies."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007They created a balance between the eight elements of the world without, and a harmony for the myriad senses of the world within."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007And so, an eternal paradise blessed in all ways was born."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912953,
+      "name": "mithra",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912954,
+      "name": "elv",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912955,
+      "name": "hume",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912956,
+      "name": "taru",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912957,
+      "name": "garu",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912958,
+      "name": "Esha'ntarl",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912959,
+      "name": "KODAI01",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912960,
+      "name": "KODAI02",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912961,
+      "name": "KODAI03",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912962,
+      "name": "KODAI04",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912963,
+      "name": "KODAI05",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912964,
+      "name": "Selh'teus",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912985,
+      "name": "Trailmix",
+      "events": [
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7487,
+              "string": "1\u0000\u0007I travel......hear lots...\u0007Hear...stories... Can tell...if..."
+            },
+            {
+              "id": 7490,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7491,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Warrior's Path(pt.1).\u0007The Warrior's Path(pt.2).\u0007Garden of Antiquity(pt.1).\u0007Garden of Antiquity(pt.2).\u0007Garden of Antiquity(pt.3).\u0007Garden of Antiquity(pt.4).\u0007Garden of Antiquity(pt.5).\u0007Dawn(pt.1).\u0007Dawn(pt.2).\u0007Dawn(pt.3)."
+            },
+            {
+              "id": 7489,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7492,
+              "string": "1\u0000\u0007Dummy"
+            },
+            {
+              "id": 7489,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7493,
+              "string": "1\u0000\u0007Dummy"
+            },
+            {
+              "id": 7489,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7494,
+              "string": "1\u0000\u0007Dummy"
+            },
+            {
+              "id": 7489,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7489,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7488,
+              "string": "1\u0000\u0007.........listen......"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912996,
+      "name": "Home Point #1",
+      "events": [
+        {
+          "id": 8700,
+          "dialogue": [
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7565,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7566,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7578,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7563,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7575,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7573,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7574,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7582,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7569,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7569,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7573,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7574,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912997,
+      "name": "Home Point #2",
+      "events": [
+        {
+          "id": 8701,
+          "dialogue": [
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7565,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7566,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7578,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7563,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7575,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7573,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7574,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7582,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7569,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7569,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7573,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7574,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912998,
+      "name": "Home Point #3",
+      "events": [
+        {
+          "id": 8702,
+          "dialogue": [
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7565,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7566,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7578,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7563,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7575,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7573,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7574,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7582,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7569,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7569,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7573,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7574,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16912999,
+      "name": "Home Point #4",
+      "events": [
+        {
+          "id": 8703,
+          "dialogue": [
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7565,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7566,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7578,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7563,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7575,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7573,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7574,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7582,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7569,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7569,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7573,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7574,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16913000,
+      "name": "Home Point #5",
+      "events": [
+        {
+          "id": 8704,
+          "dialogue": [
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7565,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7566,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7578,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7563,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7575,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7573,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7574,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7582,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7569,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7569,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7573,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7574,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 60,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 161,
+          "dialogue": [
+            {
+              "id": 7448,
+              "string": "1\u0000\u0007Mete out some punishment?\u0007\u000bTime for payback...\u0007Let's be civilized..."
+            }
+          ]
+        },
+        {
+          "id": 162,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 163,
+          "dialogue": [
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007Here we come, Royal Daddy!"
+            }
+          ]
+        },
+        {
+          "id": 164,
+          "dialogue": [
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Was the light taken from you?\u0007\u000bYes, it is gone.\u0007No, the light remains."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

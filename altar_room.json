@@ -1,0 +1,908 @@
+{
+  "id": 152,
+  "name": "Altar Room",
+  "actors": [
+    {
+      "id": 17399823,
+      "name": "",
+      "events": [
+        {
+          "id": 52,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399825,
+      "name": "Fickblix",
+      "events": [
+        {
+          "id": 10000,
+          "dialogue": [
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Ungh..."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007Oh... Verena..."
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007Nobody... Verena... Don't hate...them..."
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Verena... Don't cry..."
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Yeah..."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007Something else..."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007Thank...you..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399826,
+      "name": "Verena",
+      "events": [
+        {
+          "id": 10000,
+          "dialogue": [
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Fickblix?\u0007What happened? Are you all right?"
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007What has happened here?\u0007Who did this to you? Tell me who!"
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007I know! I know! Hate will get us nowhere."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007I understand how you feel. If only we all could. Then...then there'd be no more fighting."
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007It's okay, Fickblix. You don't have to worry. I'll be...I'll be all right."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007Shhh. Your courage needs no words. Even now I can feel the warmth of your heart. Just...just hang in there."
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007Yes, Fickie, what is it?"
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007No, Fickie. Thank you. You've shown us our mistakes."
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Fickblix always told us that someday people and beastmen would get along."
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007I suppose you'll keep on hating them. No, not just hating, actually fighting them."
+            },
+            {
+              "id": 7299,
+              "string": "1\u0000\u0007But just remember this one thing. Some beastmen think like Fickblix did."
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007There's more to life than what you see in front of you. We are all flowing on the river of life, not just watching from the banks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399827,
+      "name": "DIRECTOR",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7071,
+              "string": "1\u0000\u0007What now?\u0007\u000b(Empty)\u0007Event\u0007(Empty)\u0007Warp\u0007Went out of Zone\u0007Flag Reset"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399828,
+      "name": "Star Sibyl",
+      "events": [
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399829,
+      "name": "Karaha-Baruha",
+      "events": [
+        {
+          "id": 44,
+          "dialogue": [
+            {
+              "id": 7080,
+              "string": "1\u0000\u0007Are you uneasy, Your Holiness?"
+            },
+            {
+              "id": 7084,
+              "string": "1\u0000\u0007Place your trust in me, Your Holiness. Windurst shall escape its fate of ruin."
+            },
+            {
+              "id": 7085,
+              "string": "1\u0000\u0007The Book of the Gods has taught me everything."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399830,
+      "name": "Yagudo Avatar",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399831,
+      "name": "Yagudo Templar",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399832,
+      "name": "Yagudo Templar",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399833,
+      "name": "Yagudo High Priest",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399834,
+      "name": "Yagudo High Priest",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399835,
+      "name": "Yagudo High Priest",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399836,
+      "name": "Yagudo High Priest",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399837,
+      "name": "Ajido-Marujido",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399838,
+      "name": "",
+      "events": [
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399839,
+      "name": "Magicite",
+      "events": [
+        {
+          "id": 42,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399840,
+      "name": "Lion",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 42,
+          "dialogue": [
+            {
+              "id": 7089,
+              "string": "1\u0000\u0007What happened? Are you all right?"
+            },
+            {
+              "id": 7091,
+              "string": "1\u0000\u0007What could they possibly want with it?"
+            },
+            {
+              "id": 7092,
+              "string": "1\u0000\u0007What the..."
+            },
+            {
+              "id": 7100,
+              "string": "1\u0000\u0007Then it is true.\u0007The beastmen are trying to bring the Shadow Lord back."
+            },
+            {
+              "id": 7101,
+              "string": "1\u0000\u0007You be careful, too."
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399841,
+      "name": "Shadow of Darkness",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 42,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399851,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 45,
+          "dialogue": [
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Magicite(pt.1).\u0007Magicite(pt.2).\u0007Magicite(pt.3).\u0007A Moral Manifest?(pt.1).\u0007A Moral Manifest?(pt.2).\u0007A Moral Manifest?(pt.3).\u0007A Moral Manifest?(pt.4).\u0007A Moral Manifest?(pt.5).\u0007A Moral Manifest?(pt.6)."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399853,
+      "name": "Hooknox",
+      "events": [
+        {
+          "id": 46,
+          "dialogue": [
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007........."
+            },
+            {
+              "id": 7319,
+              "string": "1\u0000\u0007Ahhh! Adventurer!\u0007How long have you been standing there!? You heard nothing, right? You hear something, Hooknox cut out your tongue and feed it to pet coeurl, Miffie."
+            },
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007Hah hah hah! Just kidding! Coeurl's name is Brutus, not Miffie.\u0007Hah hah hah! Just kidding! Hooknox won't hurt you."
+            },
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007I'm adventurer, just like you...only lot cuter! You can call me Nox if Hooknox is too hard to pronounce with that funny-shaped mouth of yours."
+            },
+            {
+              "id": 7322,
+              "string": "1\u0000\u0007Eh? What is Hooknox doing here?\u0007Well, I guess I can tell you... Just last week, yours truly got her hands on some juicy info about huge shipment of riches sent to head honcho of this place from some bigwig in East."
+            },
+            {
+              "id": 7323,
+              "string": "1\u0000\u0007Hey, we've all heard stories of Eastern Empire's solid jade futons, ruby chandeliers, and gold-laden chamber pots. And I'd bet my baby Brutus's collar that this Yagudo treasure is just as tasty!"
+            },
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007So, I rushed down to local auction house and bought all Yagudo feathers on sale. Then I use Old Muckvix's world-famous super-adhesive animal glue (now safe for children!) to stick all feathers to Hooknox's pretty figure. I looked just like one of those overgrown crows...or is that undergrown chocobos?"
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007Anyway, Hooknox made it in here, no sweat. But once I got in...that's when I started to sweat. And that's when Yagudo disguise started getting all itchy and scratchy. Hooknox couldn't take it anymore, so I ripped off feathers and...and that's when adventurer walked in."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007So, what do you say? Feel like teaming up with cute Gobbie on quest for fame and riches?\u0007What? You don't feel good about stealing from crazy Yagudo? But just think of consequences. If Yagudo sell treasure, they get gil to buy sharp knives and pointy swords--then they take knives and swords and use them to poke out your eyes while you sleep!"
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007Hmph...\u0007Then I guess I'll just have to spend all those riches myself!"
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Heh heh... Spoken like true sucker...\u0007Huh? You didn't hear that, right? Brutus! Brutus!"
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007Ahem! Here's plan...\u0007You sneak into Yagudo head honcho treasure vault. Then, you steal treasure."
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007Get all that?\u0007Oh yeah, there's tricky lock on giant stone coffer, but yours truly already swiped key!\u0007Hm? How'd Hooknox manage that? Well, after I scaled 5000-yalm cliff and fought off army of bloodsucking..."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007Wait! First things first.\u0007Now, once you get treasure, you come straight back here. If treasure is gold and jewels, Hooknox keep and give you half its value in gil. If treasure is super weapon, you keep and give me half its value in gil."
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007Oh well, I'll send you postcard from summer home I buy on Purgonorgo Isle! Adios!"
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007Alright! Now let's get mov...\u0007Ummm... You're not thinking of waltzing into head honcho's private quarters looking like that, are you?"
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007You need disguise, just like Hooknox's (only maybe not as scratchy)."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007I know! Why not ask funny Tarutaru lady at Weavemeister Guild in Windurst?"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Hooknox will wait for you here, but hurry up! We wouldn't want some other Gobbie putting her grimy hands on my...our treasure!"
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "dialogue": [
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007It's about time! Didn't your mother tell you it's rude to keep lady waiting?"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007?[.........?\/Wait, you're lady, too! Hooknox couldn't tell with that thing on your.........]"
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Wah hah hah hah! Nice hat! Hooknox loves funny jokes. Let Hooknox tell next one.\u0007Moblin, Orc, and gigantobugard walk into Steaming Sheep Restaurant..."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007I know it doesn't look much like key, but trust me, it'll work!"
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007Now get going!\u0007I'll be guarding entrance to make sure Yagudo don't try to sneak treasure out."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007What? It could happen!"
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007That took long enough! What were you doing in there, having cup of San d'Orian tea with Manifest?\u0007Anyway, where's riches?"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007........."
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007Eh? Eh? I didn't catch that.\u0007.........\u0007Eh? Eh? I didn't catch th..."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007No riches!?\u0007No riches!?\u0007You're pulling Hooknox's ear now, aren't you?\u0007You're not... Oh..."
+            },
+            {
+              "id": 7381,
+              "string": "1\u0000\u0007Thanks for holding up your end of bargain."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007What are you so surprised at? We Gobbies believe in stuff like honor, justice...even ?[love\/friendship]... Sometimes..."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007But if we do meet up in some dungeon somewhere...do you think you'd want to team up again? For old times' sake?\u0007Think about it!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399854,
+      "name": "???",
+      "events": [
+        {
+          "id": 48,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 49,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399855,
+      "name": "Yagudo Avatar",
+      "events": [
+        {
+          "id": 48,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 49,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399856,
+      "name": "Tzee Xicu the Manifest",
+      "events": [
+        {
+          "id": 49,
+          "dialogue": [
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007Ah, one of Altana's children...\u0007You come into my sacred abode, steal my treasures, fell my loyal servants...\u0007Now here you stand, a quivering fool in the presence of the almighty. Is there something you wish to say before I tear your heart from your chest and drink the blood from its chambers?"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007........."
+            },
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007An amusing tale...\u0007I see you know little of the grave situation that currently faces the heretics of the East."
+            },
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007However, I cannot have foolish rumors staining the reputation of the Theomilitary. While my instincts advise against it, I will enlighten you unto our current state of affairs so you may rightfully inform those who may doubt the motives of Tzee Xicu the almighty."
+            },
+            {
+              "id": 7355,
+              "string": "1\u0000\u0007For many generations, the Yagudo have had peaceful relations with the Empire of the East. There have even been men among our ranks who crossed the vast oceans and have chosen to serve under the foreign emperor."
+            },
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007It was one of these men, now a messenger for the Empire, who sought my audience not more than a few moons ago. He bore an urgent missive--a request for help, signed by the emperor himself."
+            },
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007It seems that the Empire is under attack. A recent decaying of the land caused by an unknown phenomenon has left the nation in ruin and devastated the spirits of its people. The hostile tribes that make their homes on the Empire's borders have sensed this weakness, and have chosen to take advantage of it by launching a series of offensives."
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007After reading forth the message, my Yagudo son presented me with an ornate blade forged by the Empire's finest craftsman and begged that I send reinforcements to aid the emperor in his current predicament."
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007While it pains me to turn my back on one of my children, the Theomilitary's situation on Mindartia prevented me from providing the service of any more than a handful of loyal men. This most certainly did not warrant the acceptance of such a fine offering, so I sent the messenger back to his leader carrying the blade he brought with him...and my deepest apologies."
+            },
+            {
+              "id": 7360,
+              "string": "1\u0000\u0007So now do you see? There is no treasure in my vaults. There never was."
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007However, I must commend you on your stealth and ingenuity for making it this deep into my lair. You are a fine warrior, and for that I will spare your insignificant life."
+            },
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007I shall even offer you a token of admiration. Place that headpiece you carry on the stone tile and I will grant it my blessing."
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007Trust in thine enemy... You children of Altana do not cease to amaze me. You would make a fine member of the Theomilitary."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Tsoo Haja the Umbra. From this day forth, you are to serve this adventurer as you would serve me."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007Do you defy my will, Tsoo Haja!? Or perhaps you think you are more powerful than the almighty Tzee Xicu!?"
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007If ?[he\/she] were to order you to attack me?\u0007Insolent fool! I am Tzee Xicu the Manifest! Even if my blood were to spill upon the red sands of Aragoneu, the flame of my immortal soul would only burn brighter."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Let me return your headpiece."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007You may use it to call forth Tsoo Haja.\u0007While quite stubborn at times, he is one of my most skilled ninjas. He will serve you loyally for as long as I request it."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Now begone from my citadel, child of Altana."
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007Inform the world that there is no hidden treasure in my vaults, but tell no one of our meeting. And remember that Tzee Xicu the Manifest will not be so forgiving the next time a heretic sets foot on this holy soil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17399857,
+      "name": "Tsoo Haja the Umbra",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007You called, my lord."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007Kwakwah! But my lord, ?[he\/she] is a filthy heretic..."
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007No, my lord! My apologies...\u0007However, what if ?[he\/she] were to ask me to..."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007Yes, my lord!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 46,
+          "dialogue": [
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007Come on, it'll be fun!\u0007\u000bAlright! I'm in!\u0007I'll wear goggles to bed."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007Sound fair?\u0007\u000bFair enough!\u0007I need to talk to my manager."
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 48,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 49,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": 1,
+  "name": "Phanauet Channel",
+  "actors": [
+    {
+      "id": 16781339,
+      "name": "Laiteconce",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007We are nearing \f\u0002[South Landing\/Central Landing\/North Landing\/Central Landing].1\u0000\u0007\u0000\u0000\u0000"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007This barge is currently en route to \f\u0002[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal]."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007We should arrive there in \f\u0001[less than an hour\/about 1 hour\/about 2 hours\/about 3 hours\/about 4 hours\/about 5 hours\/about 6 hours\/about 7 hours\/about 8 hours\/about 9 hours\/about 10 hours] (\n\u0000 ?\u0000[minute\/minutes] in Earth time)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16781340,
+      "name": "Luquillaue",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007We are nearing \f\u0002[South Landing\/Central Landing\/North Landing\/Central Landing].1\u0000\u0007\u0000\u0000\u0000"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007This barge is currently en route to \f\u0002[South Landing via Newtpool\/Central Landing via the Emfea Waterway\/North Landing via the main canal\/Central Landing via the main canal]."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007We should arrive there in \f\u0001[less than an hour\/about 1 hour\/about 2 hours\/about 3 hours\/about 4 hours\/about 5 hours\/about 6 hours\/about 7 hours\/about 8 hours\/about 9 hours\/about 10 hours] (\n\u0000 ?\u0000[minute\/minutes] in Earth time)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16781342,
+      "name": "Riche",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007The Tonberry is poised to begin writing!"
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007What do you ask?\u0007\u000bWhat kind of person is Count Teulomme?\u0007Is someone threatening Count Teulomme?\u0007Have you been asked to do something?\u0007What have you been asked to do?\u0007To where?"
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007Bad person."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007Don't know."
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007Yes."
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007Bring \u0001\u0005#????."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007Davoi. Waterfall."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007The \u0001\u00053???? is taken from you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16781345,
+      "name": "Ineuteniace",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7323,
+              "string": "1\u0000\u0007Time: \n\u0000\u0007Route: \n\u0001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

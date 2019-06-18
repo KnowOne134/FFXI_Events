@@ -1,0 +1,1470 @@
+{
+  "id": 14,
+  "name": "Hall of Transference",
+  "actors": [
+    {
+      "id": 16834563,
+      "name": "",
+      "events": [
+        {
+          "id": 172,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834566,
+      "name": "Cermet Gate",
+      "events": [
+        {
+          "id": 150,
+          "dialogue": [
+            {
+              "id": 7051,
+              "string": "1\u0000\u0007Proceed onward?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 151,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 152,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 153,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 154,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 160,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834567,
+      "name": "Cermet Gate",
+      "events": [
+        {
+          "id": 151,
+          "dialogue": [
+            {
+              "id": 7051,
+              "string": "1\u0000\u0007Proceed onward?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834568,
+      "name": "Cermet Gate",
+      "events": [
+        {
+          "id": 152,
+          "dialogue": [
+            {
+              "id": 7051,
+              "string": "1\u0000\u0007Proceed onward?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834569,
+      "name": "Large Apparatus",
+      "events": [
+        {
+          "id": 120,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 121,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 122,
+          "dialogue": [
+            {
+              "id": 7279,
+              "string": "!!\u0000\u0007By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007This will allow you to return to the entrance of the crag, having forgotten all events regarding this place."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Seal off your memories?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bAbsolutely.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 160,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834570,
+      "name": "Large Apparatus",
+      "events": [
+        {
+          "id": 163,
+          "dialogue": [
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007You see a honeycomb-like sheet made up of tiny clear hexagonal chips arranged here. One appears to be missing."
+            }
+          ]
+        },
+        {
+          "id": 164,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834571,
+      "name": "Large Apparatus",
+      "events": [
+        {
+          "id": 123,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 124,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 125,
+          "dialogue": [
+            {
+              "id": 7279,
+              "string": "!!\u0000\u0007By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007This will allow you to return to the entrance of the crag, having forgotten all events regarding this place."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Seal off your memories?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bAbsolutely.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 160,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834572,
+      "name": "Large Apparatus",
+      "events": [
+        {
+          "id": 165,
+          "dialogue": [
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007You see a honeycomb-like sheet made up of tiny clear hexagonal chips arranged here. One appears to be missing."
+            }
+          ]
+        },
+        {
+          "id": 166,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834573,
+      "name": "Large Apparatus",
+      "events": [
+        {
+          "id": 126,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 127,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 128,
+          "dialogue": [
+            {
+              "id": 7279,
+              "string": "!!\u0000\u0007By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007This will allow you to return to the entrance of the crag, having forgotten all events regarding this place."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Seal off your memories?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007Are you sure?\u0007\u000bAbsolutely.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834574,
+      "name": "Large Apparatus",
+      "events": [
+        {
+          "id": 167,
+          "dialogue": [
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007You see a honeycomb-like sheet made up of tiny clear hexagonal chips arranged here. One appears to be missing."
+            }
+          ]
+        },
+        {
+          "id": 168,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834575,
+      "name": "FXTEST",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7230,
+              "string": "1\u0000\u0007?N???X?^???????G?t?F?N?g?e?X?g????\u0007\u000b?z???E?f???E???A?????`?????`????\u0007???@?Y?????`?????`????\u0007?T?????????`?j??\u0007?N???X?^?????????i3?i?K?j\u0007???????????????i4?i?K?j\u0007?^???E?????????i2?i?K?j\u0007??????"
+            },
+            {
+              "id": 7233,
+              "string": "1\u0000\u0007?{?^???????????N???X?^?????????????????B\u0007?i5???????N???X?^?????????????????????j"
+            },
+            {
+              "id": 7234,
+              "string": "1\u0000\u0007?{?^???????????N???X?^?????????????????????B"
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007?{?^???????????R???\\?[?????_?E?????????B"
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007?{?^???????????e?X?g?I?????????B"
+            },
+            {
+              "id": 7233,
+              "string": "1\u0000\u0007?{?^???????????N???X?^?????????????????B\u0007?i5???????N???X?^?????????????????????j"
+            },
+            {
+              "id": 7234,
+              "string": "1\u0000\u0007?{?^???????????N???X?^?????????????????????B"
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007?{?^???????????R???\\?[?????_?E?????????B"
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007?{?^???????????e?X?g?I?????????B"
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007?{?^???????????R???\\?[?????_?E?????????B"
+            },
+            {
+              "id": 7233,
+              "string": "1\u0000\u0007?{?^???????????N???X?^?????????????????B\u0007?i5???????N???X?^?????????????????????j"
+            },
+            {
+              "id": 7234,
+              "string": "1\u0000\u0007?{?^???????????N???X?^?????????????????????B"
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007?{?^???????????R???\\?[?????_?E?????????B"
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007?{?^???????????e?X?g?I?????????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007?{?^???????????e?X?g?I?????????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007?{?^???????????e?X?g?I?????????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007?{?^???????????????i?K???i???????B"
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007?{?^???????????e?X?g?I?????????B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834576,
+      "name": "Wolfgang",
+      "events": [
+        {
+          "id": 155,
+          "dialogue": [
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007But sir...\u0007While ?[he\/she] was seen with the boy, our research on ?[him\/her] has turned up no evidence of any other connections. I do not feel that \b's crimes warrant ?[his\/her] death."
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007B-but...what of proof?"
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007He... He didn't fight back?\u0007Why...?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834577,
+      "name": "???",
+      "events": [
+        {
+          "id": 155,
+          "dialogue": [
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834578,
+      "name": "Nag'molada",
+      "events": [
+        {
+          "id": 155,
+          "dialogue": [
+            {
+              "id": 7254,
+              "string": "s!\u0000\u0007Hah, so you've finally arrived.\u0007I heard that you were poking your nose into matters at the second crag, so I naturally assumed that this would be the next place you'd visit."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007Hm? Alone, are we?\u0007Well, I see you are not as foolish as I thought. You may think you have the upper hand now, but I, too, have a few tricks up my sleeve."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007The only thing I care about is that boy. One less adventurer in my way would only be a benefit to me."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Wolfgang. Kill ?[him\/her]."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007Wolfgang, you asked what the purpose behind this place was, and I'm certain I explained matters clearly."
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007It is a citadel, built to protect the mother of all life on Vana'diel--the crystal."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Only we know that secret--and as the secret's keepers, we are eternally bound to this place as her protectors."
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007However, darkness has already befallen the crystals within two of the crags. The boy was present at both, and it was \b who led him."
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007Proof? What more proof do we need? Where \b is, the boy is sure to follow."
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007And here he is now."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007You, boy without a name, you know the darkness of which I speak.\u0007The darkness that the Dawnmaidens have feared for thousands of years."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007The darkness that eats away at the very soul of Vana'diel.\u0007The darkness known as the ??Emptiness.??"
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007And you.\u0007You were born with the Emptiness. You brought it with you into our world.\u0007From where did you bring it?"
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007Not going to answer, are we?\u0007Wolfgang, do you need any more proof?"
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007Do not forget your duty as the captain of the Ducal Guard. Any more hesitation in your decision-making and you'll end up like your father..."
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007You. Does the specimen need to be alive for us to collect sufficient data?"
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834579,
+      "name": "???",
+      "events": [
+        {
+          "id": 155,
+          "dialogue": [
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Of course not, sir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834580,
+      "name": "???",
+      "events": [
+        {
+          "id": 155,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834581,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 109,
+          "dialogue": [
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Below the Arks.\u0007The Mothercrystal.\u0007Visions of Dread(pt.1).\u0007Visions of Dread(pt.2).\u0007To the Skies(pt.1).\u0007To the Skies(pt.2).\u0007To the Skies(pt.3)."
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7299,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        },
+        {
+          "id": 160,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834583,
+      "name": "???",
+      "events": [
+        {
+          "id": 160,
+          "dialogue": [
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007Wha...? Aaaggh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834584,
+      "name": "???",
+      "events": [
+        {
+          "id": 160,
+          "dialogue": [
+            {
+              "id": 7278,
+              "string": "h!\u0000\u0007Nooo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834596,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7045,
+              "string": "1\u0000\u0007\u001f?You are unable to make further progress in Rhapsodies of Vana'diel due to an event occurring in the \f\u0001[Chains of Promathia\/Treasures of Aht Urhgan\/Wings of the Goddess\/Seekers of Adoulin\/Rise of the Zilart] mission"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834597,
+      "name": "Iroha",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007Master, what is this place?"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007The ambassador...that mask..."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007Does he truly mean to call forth an endless void...?"
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007The ambassador...I must stop him.1\u0000\u0007\u0000"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834598,
+      "name": "Tenzen",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007There were rice balls everywhere, dividing and multiplying. All around me was a sea of compacted rice, ever growing and all-consuming..."
+            },
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007?[Lord\/Lady] \b, what sort of experience did you have?"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007Siren? Siren being able to vanquish the ambassador?"
+            },
+            {
+              "id": 7360,
+              "string": "1\u0000\u0007Never have I exchanged any words with Siren, but Phoenix often spoke to me about her, saying that she was an entity with dominion over nature."
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007Yet no matter how grand and vast the power of nature is, she was manipulated by the ambassador once. Who is to say it cannot happen again?"
+            },
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007And with all we have experienced, it is clear that the ??ambassador?? is not just one entity--there are three we have crossed paths with thus far. Who knows what the limit is?"
+            },
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007Selh'teus."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007But the way you describe him is nothing like the Selh'teus with whom I am familiar. Could it be that the recent temporal anomalies have altered him somehow?"
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007Folly indeed would it be to trust him wholesale, but I know not where else to turn."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007A bunch of spirits...and I presume a fair number were malefic."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007Then we both witnessed things we wish we had not seen."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007What interests me most is that Siren was of a mind to challenge the ambassador."
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007Balamor. An unfamiliar name, but one which sends shivers up my spine nonetheless."
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007And his displaying more than a passing interest in the ambassador bodes ill."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007If he intends to join hands with that foul beast, then who knows how many other similar entities would be willing to do the same?"
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007I can only hope to be overthinking the matter..."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007<Sigh> This leaves us with more questions than answers."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Despite your meeting with Selh'teus, the ambassador got in the way and sowed yet more seeds of confusion."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007And ominous premonitions aside, we are no closer to meeting Altana than we were before."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007Hm? You think the answer may lie somewhere with Siren?"
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007I cannot fathom why, but perhaps there is some merit to it. We are running out of places to turn."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Though upon further thought...\u0007If she intends to clash with the ambassador, then she may know something we do not."
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007I propose that we first return to Norg to gather our thoughts."
+            },
+            {
+              "id": 7381,
+              "string": "1\u0000\u0007Iroha, we shall meet with you there."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834599,
+      "name": "Selh'teus",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7303,
+              "string": "..\u0000\u0007The whispers of the Goddess come to me..."
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007...No. It is something from far in the future."
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007\b...? Is that \b's voice I hear?"
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007I am Selh'teus, a man destined to walk with you in a future already known to me."
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007I am Selh'teus, a man who was to remain in Al'Taieu."
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Thus I must ask--are you a dream? A vision?"
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007The threads of time are becoming more tangled with each passing day."
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007The future...is interfering with the past."
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007Diabolos, is this dream your doing?"
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007And as these threads begin to tangle, order is spiraling into chaos?"
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007Odin, are you certain?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007And Al'Taieu's demise will be all but engraved in stone."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You can't--!\u0007What if he does something terrible?"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834600,
+      "name": "Diabolos",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Ah, would that time were the only victim. Nature...magic...spirit...all are converging into an increasingly inextricable knot."
+            },
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007Nay. The catalyst is \b."
+            },
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007But lest you be mistaken, this is not the \b whom you know. It is one from a time beyond 884."
+            },
+            {
+              "id": 7318,
+              "string": "1\u0000\u0007Unfathomable!"
+            },
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Atomos, your ramblings remain as incoherent as ever. Is there no one who can understand him?"
+            },
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007I could think of no stranger stranger to be in our midst."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Then this dream is his!?"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834601,
+      "name": "Atomos",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007The power...of the gods...\u0007Has started to..."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007Braaaaaah...\u0007Light gathers...with one...\u0007Darkness gathers...with one..."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007Such darkness...is fated to..."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834602,
+      "name": "Fenrir",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007\b desires to meet Altana..."
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007Siren's communions...the moon reading..."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007But were the natural order of things to falter...all would come to naught."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Atomos, do you mean to say that his presence in this time is an unavoidable destiny?"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834603,
+      "name": "Balamor",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7328,
+              "string": "e.\u0000\u0007??The powers of light are slowly gathering in one direction, while those of darkness head elsewhere.??"
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Oh, how I do love a good riddle. Is this a sign of what is to come?"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Bwehehe! This is quite the fun game going on here!"
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Did you see the looks on their faces? Ah, now I understand the mortal desire to pay good coin for such spectacles."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834604,
+      "name": "Odin",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007He cometh from a future where the void hath enveloped all."
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007The lot of you know naught."
+            },
+            {
+              "id": 7319,
+              "string": "1\u0000\u0007The void disrupteth the very nature of things. It is not merely causing things to cease to be, but rather cease to have ever been."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007Then the situation demandeth that we act swiftly and decisively."
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007Siren doth intend to challenge the ambassador head-on."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007Yet her victory is far from a foregone conclusion. His power doth stand on even footing with our own."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007Will Siren fall under his thrall?\u0007Or will she be utterly obliterated?"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007In the end, the result doth not matter. \b will lose the protection of the Goddess."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Thou art...thou art the ambassador!"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834605,
+      "name": "Volto Oscuro",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Your gathering here together...makes my life much easier."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834606,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834607,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16834608,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16834609,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16834610,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 70,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 71,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 155,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 161,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 162,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7251,
+              "string": "1\u0000\u0007You have no registered data."
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Register your data in order to use the device."
+            }
+          ]
+        },
+        {
+          "id": 169,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007The \u0001\u0005#???? shatter"
+            }
+          ]
+        },
+        {
+          "id": 170,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007The \u0001\u0005#???? shatter"
+            }
+          ]
+        },
+        {
+          "id": 171,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Use the device?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007The \u0001\u0005#???? shatter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

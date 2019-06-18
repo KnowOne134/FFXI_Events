@@ -1,0 +1,3469 @@
+{
+  "id": 167,
+  "name": "Bostaunieux Oubliette",
+  "actors": [
+    {
+      "id": 17461487,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1001,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1002,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1048,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461488,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1004,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1005,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1049,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461489,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1006,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1007,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1008,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1050,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461490,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1009,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1010,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1011,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1051,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461491,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1012,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1013,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1014,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1052,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461492,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1015,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1016,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1017,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1053,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461493,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1018,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1019,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1020,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1054,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461494,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1021,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1022,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1023,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1055,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461495,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1024,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1025,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1026,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1056,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461496,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1027,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1028,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1029,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1057,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461497,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1030,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1031,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1032,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1058,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461498,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1033,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1034,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1035,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1059,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461499,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1036,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1037,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1038,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1060,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461500,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1039,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1040,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1041,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1061,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461501,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1042,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1043,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1044,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1062,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461502,
+      "name": "Treasure Casket",
+      "events": [
+        {
+          "id": 1045,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1046,
+          "dialogue": [
+            {
+              "id": 10581,
+              "string": "1\u0000\u0007Which temporary item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10583,
+              "string": "1\u0000\u0007Obtain this temporary item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 1047,
+          "dialogue": [
+            {
+              "id": 10588,
+              "string": "1\u0000\u0007The chest is locked."
+            },
+            {
+              "id": 10589,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it."
+            },
+            {
+              "id": 10590,
+              "string": "1\u0000\u0007What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock."
+            },
+            {
+              "id": 10591,
+              "string": "1\u0000\u0007It appears that you can enter a two-digit combination between 10 and 99."
+            }
+          ]
+        },
+        {
+          "id": 1063,
+          "dialogue": [
+            {
+              "id": 10580,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 10606,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 10582,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461507,
+      "name": "",
+      "events": [
+        {
+          "id": 113,
+          "dialogue": [
+            {
+              "id": 6514,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6515,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6520,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6530,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6527,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6524,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6521,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6531,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6528,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6525,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6522,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6532,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6529,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6526,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6523,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461509,
+      "name": "Novalmauge",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007You are also a wielder of the scythe? And quite a skilled one, I dare say. Though it may not appear likely, I, too, have some small ability with that weapon. I actually have quite a collection of scythes."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007One of the scythes I possess has a decidedly ominous aura. ??Cursed?? is the only way I can describe it. A perfectly sane person who takes up this scythe begins to act in the most unusual manner..."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007It is said, however, that if the curse on the scythe can be overcome by the heat of many battles, the wielder gains the knowledge of a new weapon technique. What say you? Are you up to the challenge?"
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007Excellent. Here is the weapon.\u0007When the curse has been lifted, the scythe will lose its power. Bring it back to me when this happens and I will see if the blight has truly been cleansed."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007Take care not to lose yourself to the curse..."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007If that's the case, perhaps it would be better if you forgot we ever had this conversation..."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007You have done splendidly. However, there is still one thing that remains to be done."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007Ugh..."
+            },
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007You must excuse me. My supply of medicine has run dry and I'm not in the best of shape these days."
+            },
+            {
+              "id": 7386,
+              "string": "1\u0000\u0007What caused my condition, you ask?"
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007I was once forced to undergo battle training in a certain place. It was there I was given a potion to drink that reduced me to this pitiful state..."
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007I spent days on end in blackness, on the brink of losing my very sense of self. I finally managed to crawl out of that darkness with my sanity intact, but my companions are still..."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007Enough of this talk. Your final trial awaits you. If this test is not completed, your effort until this point will have been for naught."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007Journey to the Den of Rancor with this \u0001\u00053???? and obtain the \u0001\u00053????. When you have bound the evil in the scythe, your exertions will be at an end."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007I will hold the \u0001\u0005#???? here for your return. My prayers go with you..."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007You still need to cleanse the scythe in several more battles before the curse's influence is removed. Be sure the curse does not find a new home in you."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Was there something else?\u0007\u000bI lost the \u0001\u0005#????...\u0007This curse has bested me.\u0007No, sorry to disturb you."
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007What is your decision?\u0007\u000bI can go no further.\u0007I will persevere."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007How goes it? If you wish to know if the curse has been removed, then let me see the \u0001\u0005#????. Or perhaps there was something else you wished to discuss?"
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007Strangely enough, I just came into possession of another such scythe. I would advise against handing these weapons around to your compatriots, though. They are not toys to be played with, my friend."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Naturally, you must begin the process of removing the curse anew. A lack of focus can cost you dearly. Please do be careful this time."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007I agree that this is a dangerous feat to attempt, but I believe that you have the strength of spirit to prevail. If you persevere until the end, your reward will be great. Do you still wish to give up?"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007If you feel your resolve crumbling, then you are right to end your attempt here."
+            },
+            {
+              "id": 7381,
+              "string": "1\u0000\u0007I advise you to rest for a time to cleanse your spirit of evil influences. Dispose of the scythe and do not pass it on to anyone else."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007That is good. But do not let your focus waver, or the curse will gain hold of you. Take care, my friend."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007Journey to the Den of Rancor with this \u0001\u00053???? and obtain the \u0001\u00053????. When you have bound the evil in the scythe, your exertions will be at an end."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007I knew you would return victorious. Another soul...ah, another scythe has been freed from its curse. You have my gratitude."
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007Thank you, Brugaire. Here is your usual fee."
+            },
+            {
+              "id": 7397,
+              "string": "1\u0000\u0007I was under the impression that the Brugaire Consortium respected the privacy of its customers. Was I mistaken?"
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007I feel I can tell you the truth of my situation."
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007Do you remember how I spoke of being forced to undergo battle training at a certain place?"
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007The ones that captured me were shadows. Surely you have seen them? Those undead creatures that resemble Elvaan?"
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007They kidnap young children, who are made to drink a vile potion while learning the arts of war. Eventually the children become shadows themselves. That is how they increase their numbers."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Have you heard the tales of Elvaan children disappearing from the Kingdom? This is the work of the shadows."
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007Hard to believe? I know it to be true, for I was one of those children..."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007The shadows that roam the darkness today were once my friends, abducted as I was. When the transformation into shadow is complete, all sense of self is lost. My companions no longer recognize me."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007To release their souls from damnation, I shun the sun's rays and hunt shadows in this perpetual night. This scythe is their salvation."
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007I escaped that blackest night once, only to find a deeper kind of darkness waiting for me in the form of despair. Perhaps this is my penance for being the sole survivor."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007I cannot blame people for thinking I am some kind of vampire. I see my own actions as monstrous."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007But I care not for other people's opinions; I merely do what I must. To grant their souls peace by my own hand...I owe my companions that, at least."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007My entire existence is here in the darkness."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Whenever you release the soul of a shadow, I ask that you whisper a prayer for them:"
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007??May your next life be bathed in bless?hd light...??"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007Cyranuce? No, you'll not find him here. He is dead. His cellmate was a beastmaster, who somehow called forth a terrible creature and fled."
+            },
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007If you wish to learn of dragons, ask the archeologist, Oiheaurese, in the cathedral. He should know well their lore."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007If you wish to learn of dragons, ask the archeologist, Oiheaurese, in the cathedral. He should know well their lore."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007Those without business here should be on their way. That means you."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007So you will bring me \u0001\u0001\u0001 \u0001\u0005$????? Please then, make haste."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007Do you believe the rumors?\u0007\u000bYes, I do.\u0007Never!"
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007You do me a great service. It is hard to find such a helper. I thank you."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007You've...heard about me? That I am some sort of blood-sucker...a freak of nature? And of course, you'd believe them...everyone does."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007Never mind... You seem to be a kind soul, so I will tell you. I have a disease."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007Whenever the light of the sun touches my skin, it burns me in a horrible fashion."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007I was poisoned, long ago... That is how I became this way. And I have been trying to find a cure, some kind of serum, ever since."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007After many experiments, I found that these \u0001\u0005%???? are the only things that ease my pain."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Yes, I've become quite knowledgeable in the ways of poisons. People still shun me, but I do not blame them."
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007The people of San d'Oria can see only with their own eyes, never another's. They think their own view superior to all."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007But you, my friend, are different. If there is anything I can do, you need but ask me."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Here, take this. It is not much, but it is all I have. I give you my thanks."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007Accept Novalmauge's request?\u0007\u000bAccept.\u0007Turn him down."
+            },
+            {
+              "id": 7323,
+              "string": "1\u0000\u0007Listen to him?\u0007\u000bHear what he has to say.\u0007No way."
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007Accept Novalmauge's request?\u0007\u000bAccept.\u0007Turn him down."
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007Eh? What? You'll take my request?"
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007That is good news, indeed. I want you to bring me \u0001\u0001\u0001 \u0001\u0005$????, and as fast as you can."
+            },
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007Ah. I see. Don't mind me, then."
+            },
+            {
+              "id": 7322,
+              "string": "1\u0000\u0007If you have a moment, will you hear my request?"
+            },
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007Ah. I see. Don't mind me, then."
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007I want you to bring me \u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007Just...don't ask me why. How about it?\u0007Will you do this for me?"
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007Ah...ah-hah. That is to be expected, I guess. Sorry to ask such a ludicrous favor! Don't worry yourself about it."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007That is good news, indeed. Please hurry, I beg you."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007This dungeon has a dark past, especially the deepest room. There are many strange tales about it, yes..."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I wouldn't be surprised if you were the one to uncover the truth."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007Eh? Someone threw poison in the water by the sluice gate? You want me to make a neutralizer, then?"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007I prefer to avoid goings-on of this sort, but I cannot refuse a request from you after what you have done for me. All right, I will see what I can do!"
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bring me \u0001\u0001\u0001 \u0001\u0005$????. We can use it to make a neutralizer that should put things to rights...I hope."
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Bring me \u0001\u0001\u0001 \u0001\u0005$????. We can use it to make a neutralizer that should put things to rights...I hope."
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007You've brought me \u0001\u0001\u0001 \u0001\u0005$????? Excellent! Now, I need a little time."
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007There! With this all will be well. Of course, it saddens me to hear this sort of thing still goes on up there. After all this time, they haven't changed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461510,
+      "name": "Chumia",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007His beast knocked a gaping hole in the wall, so he was home free. But Cyranuce's body was found underneath the creature. It's too bad... We could've saved him if we got here sooner!"
+            },
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007What!? Lies, all of it!"
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007No, it can't be!"
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007Why, you--!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461513,
+      "name": "Couchatorage",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007In past times, it was said that nobles accused of treason were thrown down there.\u0007They would wander for days through the maze of sewer tunnels, until they would finally collapse from starvation."
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007Now terrible beasts prowl through the darkness. If you have the courage, you may enter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461514,
+      "name": "Sewer Lid",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461526,
+      "name": "Cell Door",
+      "events": [
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 18,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461558,
+      "name": "Brugaire",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007As long as I get my money I don't much care, but what the hell are you doing with this thing? I've never seen anyone blunt a blade so quickly."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007Good grief, man. I'm not trying to grill you, I was just curious."
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007Well, I don't want to invade your privacy any longer, so I'll just get out of here, shall I? You oughta give a little thought to your reputation outside of your little world here. You're not exactly Mister Popular up in town."
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007I'll be seeing you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461559,
+      "name": "Jurgenclaus",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007Yeah, I know."
+            },
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007Rahal was jealous of his friend Cyranuce for becoming a dragoon. He set a trap for him, and saw him thrown into this very dungeon."
+            },
+            {
+              "id": 7355,
+              "string": "1\u0000\u0007That is how Rahal, the dragonslayer tainted with drakes' blood, seized the office of general. You knights were left in the dark."
+            },
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007Lies? Well then, why was Rahal always coming to check on him? He was waiting for Cyranuce to kick the bucket, wasn't he?"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007Hmph. The only people who can become dragonslayers are those who truly hate them. They're not after treasure or jewels; they just want to exterminate them!"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007What do ya think you're lookin' at?\u0007You don't know nothing about what's really going on under this hellhole do ya?\u0007Compared to the sewers, my cell is a palace!"
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Oh yeah, I think I heard about some scientists who ran off into the sewers during the war. They say only one got out, but that he was messed up in the head for the rest of his life."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007Rumor has it that there's a way out of there. Maybe the old guy got lucky."
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "dialogue": [
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007What do ya think you're lookin' at?\u0007You don't know nothing about what's really going on under this hellhole do ya?\u0007Compared to the sewers, my cell is a palace!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461570,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7424,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Rumor(pt.1).\u0007The Rumor(pt.2).\u0007Trouble at the Sluice.\u0007The Holy Crest.\u0007Souls in Shadow(pt.1).\u0007Souls in Shadow(pt.2).\u0007Souls in Shadow(pt.3)."
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461572,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461573,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461574,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461575,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461576,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 109,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461577,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 111,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 112,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461578,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7473,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7476,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461579,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7473,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7476,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461580,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 105,
+          "dialogue": [
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7473,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7476,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461581,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 107,
+          "dialogue": [
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7473,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7476,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461582,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 109,
+          "dialogue": [
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7473,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7476,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461583,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "dialogue": [
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7473,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7476,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461584,
+      "name": "Grounds Tome",
+      "events": [
+        {
+          "id": 114,
+          "dialogue": [
+            {
+              "id": 7478,
+              "string": "1\u0000\u0007A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages."
+            },
+            {
+              "id": 7479,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Read about individual training.\u0007Review current training regime.\u0007Cancel current training regime.\u0007Read about field support.\u0007Read about prowesses.\u0007Review active prowesses."
+            },
+            {
+              "id": 10571,
+              "string": "1\u0000\u0007You cannot undertake a training regime while a hunt is active."
+            },
+            {
+              "id": 10572,
+              "string": "1\u0000\u0007Cancel hunt?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 10564,
+              "string": "1\u0000\u0007Are you certain?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 10574,
+              "string": "1\u0000\u0007\u001f?The requisite time has not yet elapsed since the completion of your last regime.\u0007You may be ineligible to receive gil and tab reward"
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Which page?\u0007\u000bI've changed my mind.\u0007Page 1.\u0007Page 2.\u0007Page 3.\u0007Page 4.\u0007Page 5.\u0007Page 6.\u0007Page 7.\u0007Page 8.\u0007Page 9.\u0007Page 10."
+            },
+            {
+              "id": 7481,
+              "string": "1\u0000\u0007The information on this page instructs you to defeat the following:"
+            },
+            {
+              "id": 9530,
+              "string": "1\u0000\u0007Target level range: \n\u0005?`\n\u0006."
+            },
+            {
+              "id": 9531,
+              "string": "1\u0000\u0007Undertake this training regime?\u0007\u000bBring it on!\u0007No, wait..."
+            },
+            {
+              "id": 10578,
+              "string": "1\u0000\u0007Set training regime to automatically repeat upon completio"
+            },
+            {
+              "id": 10579,
+              "string": "n?\u0000\u0007Set training regime to repeat?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 9530,
+              "string": "1\u0000\u0007Target level range: \n\u0005?`\n\u0006."
+            },
+            {
+              "id": 10559,
+              "string": "1\u0000\u0007(End of list.)"
+            },
+            {
+              "id": 10564,
+              "string": "1\u0000\u0007Are you certain?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 10560,
+              "string": "1\u0000\u0007The tabs you acquire can be spent on field support."
+            },
+            {
+              "id": 10561,
+              "string": "1\u0000\u0007Which one? (You have \n\b ?\b[tab\/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b)."
+            },
+            {
+              "id": 10561,
+              "string": "1\u0000\u0007Which one? (You have \n\b ?\b[tab\/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b)."
+            },
+            {
+              "id": 10568,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 10575,
+              "string": "s.\u0000\u0007Prowesses are unique enhancement effects, the benefits of which can be unlocked and strengthened through sustained training."
+            },
+            {
+              "id": 10576,
+              "string": "1\u0000\u0007Please note, however, that their effects are temporary and will be lost should you venture into a different area."
+            },
+            {
+              "id": 10577,
+              "string": "1\u0000\u0007No prowesses are active at present."
+            },
+            {
+              "id": 10562,
+              "string": "1\u0000\u0007Active prowess list.\u0007\u000bGo back.\u0007Increased treasure casket discovery.\u0007Increased combat and magic skill gain.\u0007Increased crystal yield.\u0007Treasure Hunter bonus.\u0007Increased attack speed.\u0007Increased HP and MP.\u0007Enhanced accuracy and ranged accuracy.\u0007Enhanced attack and ranged attack.\u0007Enhanced magic acc. and magic atk.\u0007Enhanced \"Cure\" potency.\u0007Increased weapon skill damage.\u0007\"Killer\" effects bonus.\u0007Ability X.\u0007Ability X.\u0007Ability X.\u0007Ability X."
+            },
+            {
+              "id": 10563,
+              "string": "1\u0000\u0007\f\u0000[Increased treasure casket discovery\/Increased combat and magic skill gain\/Increased crystal yield\/Treasure Hunter bonus\/Increased attack speed\/Increased HP and MP\/Enhanced accuracy and ranged accuracy\/Enhanced attack and ranged attack\/Enhanced magic accuracy and magic attack\/Enhanced \"Cure\" potency\/Increased weapon skill damage\/\"Killer\" effects bonus\/Effect X\/Effect X\/Effect X\/Effect X] prowess stands at level \n\u0001."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461585,
+      "name": "Grounds Tome",
+      "events": [
+        {
+          "id": 115,
+          "dialogue": [
+            {
+              "id": 7478,
+              "string": "1\u0000\u0007A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages."
+            },
+            {
+              "id": 7479,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Read about individual training.\u0007Review current training regime.\u0007Cancel current training regime.\u0007Read about field support.\u0007Read about prowesses.\u0007Review active prowesses."
+            },
+            {
+              "id": 10571,
+              "string": "1\u0000\u0007You cannot undertake a training regime while a hunt is active."
+            },
+            {
+              "id": 10572,
+              "string": "1\u0000\u0007Cancel hunt?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 10564,
+              "string": "1\u0000\u0007Are you certain?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 10574,
+              "string": "1\u0000\u0007\u001f?The requisite time has not yet elapsed since the completion of your last regime.\u0007You may be ineligible to receive gil and tab reward"
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Which page?\u0007\u000bI've changed my mind.\u0007Page 1.\u0007Page 2.\u0007Page 3.\u0007Page 4.\u0007Page 5.\u0007Page 6.\u0007Page 7.\u0007Page 8.\u0007Page 9.\u0007Page 10."
+            },
+            {
+              "id": 7481,
+              "string": "1\u0000\u0007The information on this page instructs you to defeat the following:"
+            },
+            {
+              "id": 9530,
+              "string": "1\u0000\u0007Target level range: \n\u0005?`\n\u0006."
+            },
+            {
+              "id": 9531,
+              "string": "1\u0000\u0007Undertake this training regime?\u0007\u000bBring it on!\u0007No, wait..."
+            },
+            {
+              "id": 10578,
+              "string": "1\u0000\u0007Set training regime to automatically repeat upon completio"
+            },
+            {
+              "id": 10579,
+              "string": "n?\u0000\u0007Set training regime to repeat?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 9530,
+              "string": "1\u0000\u0007Target level range: \n\u0005?`\n\u0006."
+            },
+            {
+              "id": 10559,
+              "string": "1\u0000\u0007(End of list.)"
+            },
+            {
+              "id": 10564,
+              "string": "1\u0000\u0007Are you certain?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 10560,
+              "string": "1\u0000\u0007The tabs you acquire can be spent on field support."
+            },
+            {
+              "id": 10561,
+              "string": "1\u0000\u0007Which one? (You have \n\b ?\b[tab\/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b)."
+            },
+            {
+              "id": 10561,
+              "string": "1\u0000\u0007Which one? (You have \n\b ?\b[tab\/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b)."
+            },
+            {
+              "id": 10568,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 10575,
+              "string": "s.\u0000\u0007Prowesses are unique enhancement effects, the benefits of which can be unlocked and strengthened through sustained training."
+            },
+            {
+              "id": 10576,
+              "string": "1\u0000\u0007Please note, however, that their effects are temporary and will be lost should you venture into a different area."
+            },
+            {
+              "id": 10577,
+              "string": "1\u0000\u0007No prowesses are active at present."
+            },
+            {
+              "id": 10562,
+              "string": "1\u0000\u0007Active prowess list.\u0007\u000bGo back.\u0007Increased treasure casket discovery.\u0007Increased combat and magic skill gain.\u0007Increased crystal yield.\u0007Treasure Hunter bonus.\u0007Increased attack speed.\u0007Increased HP and MP.\u0007Enhanced accuracy and ranged accuracy.\u0007Enhanced attack and ranged attack.\u0007Enhanced magic acc. and magic atk.\u0007Enhanced \"Cure\" potency.\u0007Increased weapon skill damage.\u0007\"Killer\" effects bonus.\u0007Ability X.\u0007Ability X.\u0007Ability X.\u0007Ability X."
+            },
+            {
+              "id": 10563,
+              "string": "1\u0000\u0007\f\u0000[Increased treasure casket discovery\/Increased combat and magic skill gain\/Increased crystal yield\/Treasure Hunter bonus\/Increased attack speed\/Increased HP and MP\/Enhanced accuracy and ranged accuracy\/Enhanced attack and ranged attack\/Enhanced magic accuracy and magic attack\/Enhanced \"Cure\" potency\/Increased weapon skill damage\/\"Killer\" effects bonus\/Effect X\/Effect X\/Effect X\/Effect X] prowess stands at level \n\u0001."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461586,
+      "name": "Grounds Tome",
+      "events": [
+        {
+          "id": 116,
+          "dialogue": [
+            {
+              "id": 7478,
+              "string": "1\u0000\u0007A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages."
+            },
+            {
+              "id": 7479,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Read about individual training.\u0007Review current training regime.\u0007Cancel current training regime.\u0007Read about field support.\u0007Read about prowesses.\u0007Review active prowesses."
+            },
+            {
+              "id": 10571,
+              "string": "1\u0000\u0007You cannot undertake a training regime while a hunt is active."
+            },
+            {
+              "id": 10572,
+              "string": "1\u0000\u0007Cancel hunt?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 10564,
+              "string": "1\u0000\u0007Are you certain?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 10574,
+              "string": "1\u0000\u0007\u001f?The requisite time has not yet elapsed since the completion of your last regime.\u0007You may be ineligible to receive gil and tab reward"
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Which page?\u0007\u000bI've changed my mind.\u0007Page 1.\u0007Page 2.\u0007Page 3.\u0007Page 4.\u0007Page 5.\u0007Page 6.\u0007Page 7.\u0007Page 8.\u0007Page 9.\u0007Page 10."
+            },
+            {
+              "id": 7481,
+              "string": "1\u0000\u0007The information on this page instructs you to defeat the following:"
+            },
+            {
+              "id": 9530,
+              "string": "1\u0000\u0007Target level range: \n\u0005?`\n\u0006."
+            },
+            {
+              "id": 9531,
+              "string": "1\u0000\u0007Undertake this training regime?\u0007\u000bBring it on!\u0007No, wait..."
+            },
+            {
+              "id": 10578,
+              "string": "1\u0000\u0007Set training regime to automatically repeat upon completio"
+            },
+            {
+              "id": 10579,
+              "string": "n?\u0000\u0007Set training regime to repeat?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 9530,
+              "string": "1\u0000\u0007Target level range: \n\u0005?`\n\u0006."
+            },
+            {
+              "id": 10559,
+              "string": "1\u0000\u0007(End of list.)"
+            },
+            {
+              "id": 10564,
+              "string": "1\u0000\u0007Are you certain?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 10560,
+              "string": "1\u0000\u0007The tabs you acquire can be spent on field support."
+            },
+            {
+              "id": 10561,
+              "string": "1\u0000\u0007Which one? (You have \n\b ?\b[tab\/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b)."
+            },
+            {
+              "id": 10561,
+              "string": "1\u0000\u0007Which one? (You have \n\b ?\b[tab\/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b)."
+            },
+            {
+              "id": 10568,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 10575,
+              "string": "s.\u0000\u0007Prowesses are unique enhancement effects, the benefits of which can be unlocked and strengthened through sustained training."
+            },
+            {
+              "id": 10576,
+              "string": "1\u0000\u0007Please note, however, that their effects are temporary and will be lost should you venture into a different area."
+            },
+            {
+              "id": 10577,
+              "string": "1\u0000\u0007No prowesses are active at present."
+            },
+            {
+              "id": 10562,
+              "string": "1\u0000\u0007Active prowess list.\u0007\u000bGo back.\u0007Increased treasure casket discovery.\u0007Increased combat and magic skill gain.\u0007Increased crystal yield.\u0007Treasure Hunter bonus.\u0007Increased attack speed.\u0007Increased HP and MP.\u0007Enhanced accuracy and ranged accuracy.\u0007Enhanced attack and ranged attack.\u0007Enhanced magic acc. and magic atk.\u0007Enhanced \"Cure\" potency.\u0007Increased weapon skill damage.\u0007\"Killer\" effects bonus.\u0007Ability X.\u0007Ability X.\u0007Ability X.\u0007Ability X."
+            },
+            {
+              "id": 10563,
+              "string": "1\u0000\u0007\f\u0000[Increased treasure casket discovery\/Increased combat and magic skill gain\/Increased crystal yield\/Treasure Hunter bonus\/Increased attack speed\/Increased HP and MP\/Enhanced accuracy and ranged accuracy\/Enhanced attack and ranged attack\/Enhanced magic accuracy and magic attack\/Enhanced \"Cure\" potency\/Increased weapon skill damage\/\"Killer\" effects bonus\/Effect X\/Effect X\/Effect X\/Effect X] prowess stands at level \n\u0001."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461587,
+      "name": "Geomantic Reservoir",
+      "events": [
+        {
+          "id": 15000,
+          "dialogue": [
+            {
+              "id": 10618,
+              "string": "1\u0000\u0007You are assaulted by an uncanny sensation."
+            },
+            {
+              "id": 10619,
+              "string": "1\u0000\u0007The arcane energies begin to course within your veins."
+            },
+            {
+              "id": 10617,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 10620,
+              "string": "1\u0000\u0007You feel a mystical warmth welling up inside you!"
+            }
+          ]
+        },
+        {
+          "id": 15002,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461588,
+      "name": "",
+      "events": [
+        {
+          "id": 15000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461589,
+      "name": "",
+      "events": [
+        {
+          "id": 15000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461590,
+      "name": "Survival Guide",
+      "events": [
+        {
+          "id": 8500,
+          "dialogue": [
+            {
+              "id": 10625,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 10623,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 10626,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            }
+          ]
+        },
+        {
+          "id": 8501,
+          "dialogue": [
+            {
+              "id": 10625,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 10623,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 10626,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            },
+            {
+              "id": 10639,
+              "string": "1\u0000\u0007You may change the way you select areas listed in ??Teleportation Assistance."
+            },
+            {
+              "id": 10640,
+              "string": "??\u0000\u0007Any changes to make?\u0007\u000bKeep course.\u0007Select by region.\u0007Select by content."
+            },
+            {
+              "id": 10641,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 10641,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 10635,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 10636,
+              "string": "1\u0000\u0007At the bottom of the page is a reminder. It perfunctorily states that you may receive \u0001\u0001\u0001 \u0001\u0005$???? once you have logged a total of \n\u0002 hours."
+            },
+            {
+              "id": 10635,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 10637,
+              "string": "1\u0000\u0007As per the custom noted within, you are eligible to receive \u0001\u0001\u0001 \u0001\u0005$???? for the \n\u0002 hour?\u0002[\/s] of fighting you've accrued."
+            },
+            {
+              "id": 10638,
+              "string": "1\u0000\u0007Accept the reward?\u0007\u000bYes, please.\u0007No, thanks."
+            },
+            {
+              "id": 6547,
+              "string": "1\u0000\u0007Obtained: ?\u0001\u0001\u0005#????."
+            },
+            {
+              "id": 6541,
+              "string": "1\u0000\u0007You cannot obtain the \u0001\u0005#????.\u0007Come back after sorting your inventory."
+            },
+            {
+              "id": 10627,
+              "string": "1\u0000\u0007The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
+            },
+            {
+              "id": 10628,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 10643,
+              "string": "1\u0000\u0007Travel to which region?\u0007\u000bOn second thought, none.\u0007Select from amongst favorites.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 10628,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 10642,
+              "string": "].\u0000\u0007\u000bNowhere for now.\u0007Select from amongst favorites.\u0007Original release areas.\u0007Rise of the Zilart areas.\u0007Chains of Promathia areas.\u0007Treasures of Aht Urhgan areas.\u0007Wings of the Goddess areas.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007Seekers of Adoulin areas."
+            },
+            {
+              "id": 10631,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 10632,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 10633,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 10634,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 10645,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 10645,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 10646,
+              "string": "].\u0000\u0007Your list of favorites is full. You must remove an existing entry to add new one"
+            },
+            {
+              "id": 10645,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 10631,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 10632,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 10633,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 10634,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 10634,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461591,
+      "name": "Linkshell Concierge",
+      "events": [
+        {
+          "id": 6100,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6103,
+          "dialogue": [
+            {
+              "id": 10648,
+              "string": "1\u0000\u0007Fair greetings to you, wanderer. I am a linkshell concierge, charged with uniting lone explorers of Vana'diel with linkshells of similar goals."
+            },
+            {
+              "id": 10649,
+              "string": "1\u0000\u0007I am personally involved with matching adventurers with linkshells interested in \f\u0000[everything\/hard-core battle content\/casual battle content\/HNM vanquishing\/meeting other new players\/assisting each other\/synthesis and trading\/nothing]. How may I help you today?"
+            },
+            {
+              "id": 10650,
+              "string": "1\u0000\u0007What do you desire?\u0007\u000bNothing for now.\u0007Show me recruiting linkshells.\u0007I'd like to hand out \u0001\u0005%????.\u0007Tell me more.\u0007Open up the linkshell window."
+            },
+            {
+              "id": 10651,
+              "string": "1\u0000\u0007It was my pleasure to meet with you this fine day. May you encounter many friendly faces throughout your travels."
+            },
+            {
+              "id": 10724,
+              "string": "1\u0000\u0007The linkshell concierge opens up a tiny notebook."
+            },
+            {
+              "id": 10660,
+              "string": "1\u0000\u0007Though it pains me to say this, I have no \u0001\u0005%???? that meet your requirements at this time."
+            },
+            {
+              "id": 10652,
+              "string": "1\u0000\u0007Excellent. Please select which linkshell you are interested in contacting."
+            },
+            {
+              "id": 7191,
+              "string": "1\u0000\u0007\n\u0000 \n\u0001 \n\u0002 "
+            },
+            {
+              "id": 10679,
+              "string": "1\u0000\u0007?\u0001, correct?"
+            },
+            {
+              "id": 10695,
+              "string": "1\u0000\u0007Style: \f\u0000[Do everything\/Engage in hard-core battle content\/Engage in casual battle content\/Vanquish HNMs\/Meet other new players\/Assist each other\/Engage in synthesis and trading\/Nothing"
+            },
+            {
+              "id": 10696,
+              "string": "].\u0000\u0007Language: \f\u0001[\/Japanese\/English\/Other"
+            },
+            {
+              "id": 10700,
+              "string": "].\u0000\u0007Looking for \n\u0004 more member?\u0004[\/s"
+            },
+            {
+              "id": 10697,
+              "string": "].\u0000\u0007Most active: \f\u0002[Every day\/Weekends\/Weekdays\/Mondays\/Tuesdays\/Wednesdays\/Thursdays\/Fridays\/Saturdays\/Sundays] \f\u0003[at no time in particular\/in the morning (JST)\/in the afternoon (JST)\/in the evening (JST)\/at night (JST)\/in the wee hours of the morning (JST)"
+            },
+            {
+              "id": 10697,
+              "string": "].\u0000\u0007Most active: \f\u0002[Every day\/Weekends\/Weekdays\/Mondays\/Tuesdays\/Wednesdays\/Thursdays\/Fridays\/Saturdays\/Sundays] \f\u0003[at no time in particular\/in the morning (JST)\/in the afternoon (JST)\/in the evening (JST)\/at night (JST)\/in the wee hours of the morning (JST)"
+            },
+            {
+              "id": 10698,
+              "string": "].\u0000\u0007Most active: \f\u0002[Every day\/Weekends\/Weekdays\/Mondays\/Tuesdays\/Wednesdays\/Thursdays\/Fridays\/Saturdays\/Sundays] \f\u0003[at no time in particular\/in the morning (PST|PDT)\/in the afternoon (PST|PDT)\/in the evening (PST|PDT)\/at night (PST|PDT)\/in the wee hours of the morning (PST|PDT)"
+            },
+            {
+              "id": 10699,
+              "string": "].\u0000\u0007Most active: \f\u0002[Every day\/Weekends\/Weekdays\/Mondays\/Tuesdays\/Wednesdays\/Thursdays\/Fridays\/Saturdays\/Sundays] \f\u0003[at no time in particular\/in the morning (GMT)\/in the afternoon (GMT)\/in the evening (GMT)\/at night (GMT)\/in the wee hours of the morning (GMT)"
+            },
+            {
+              "id": 10661,
+              "string": "1\u0000\u0007Should you desire, I can cancel your registration."
+            },
+            {
+              "id": 10662,
+              "string": "1\u0000\u0007Cancel registration?\u0007\u000bYes, please.\u0007Not at this time."
+            },
+            {
+              "id": 10653,
+              "string": "1\u0000\u0007Are you certain?"
+            },
+            {
+              "id": 10654,
+              "string": "1\u0000\u0007Really receive the linkpearl?\u0007\u000bOf course.\u0007No, thank you."
+            },
+            {
+              "id": 10656,
+              "string": "1\u0000\u0007It is my sincere pleasure to bestow this upon you."
+            },
+            {
+              "id": 10657,
+              "string": "1\u0000\u0007Your new linkshell is beyond doubt filled with many looking for new companions. Be sure to say a few words of greeting."
+            },
+            {
+              "id": 10659,
+              "string": "1\u0000\u0007May your new linkshell provide you with fond memories that will last a lifetime."
+            },
+            {
+              "id": 10667,
+              "string": "1\u0000\u0007Unfortunately, only those equipped with \u0001\u0001\u0001 \u0001\u0005$???? or \u0001\u0001\u0001 \u0001\u0005$???? are able to distribute \u0001\u0005%????."
+            },
+            {
+              "id": 10678,
+              "string": "e.\u0000\u0007Thank you for taking the time to use our service. Let me confirm the information contained within."
+            },
+            {
+              "id": 10684,
+              "string": ").\u0000\u0007Shall I start looking for new members who are interested in \f\u0000[doing everything\/engaging in hard-core battle content\/engaging in casual battle content\/vanquishing HNMs\/meeting other new players\/assisting each other\/engaging in synthesis and trading\/nothing] for a fee of \n\u0001 gil?"
+            },
+            {
+              "id": 10685,
+              "string": "1\u0000\u0007Look for new members? (\n\u0000 gil)\u0007\u000bThat sounds wonderful.\u0007I'd rather not."
+            },
+            {
+              "id": 6554,
+              "string": "1\u0000\u0007You do not have enough gi"
+            },
+            {
+              "id": 10686,
+              "string": "1\u0000\u0007I'm quite sorry to hear you decline. Please let me know if you change your mind."
+            },
+            {
+              "id": 10687,
+              "string": "1\u0000\u0007I will now ask you a series of questions about your preferences. Be sure to answer truthfully so that you can find new members that match your style."
+            },
+            {
+              "id": 10688,
+              "string": "1\u0000\u0007What is your language preference?\u0007\u000bJapanese.\u0007English.\u0007Other.\u0007Return to previous selection."
+            },
+            {
+              "id": 10694,
+              "string": "1\u0000\u0007How many members are you looking for?\u0007\u000b1.\u00072.\u00073.\u00074.\u00075.\u00076.\u00077.\u00078.\u00079.\u000710.\u0007Return to previous selection."
+            },
+            {
+              "id": 10689,
+              "string": "1\u0000\u0007What days are you most active?\u0007\u000bEvery day.\u0007Weekends and holidays.\u0007Weekdays.\u0007Monday.\u0007Tuesday.\u0007Wednesday.\u0007Thursday.\u0007Friday.\u0007Saturday.\u0007Sunday.\u0007Return to previous selection."
+            },
+            {
+              "id": 10690,
+              "string": "1\u0000\u0007Designate a time zone.\u0007\u000bNo designation.\u0007Japanese Standard Time (JST).\u0007Pacific Time (PST|PDT).\u0007Greenwich Mean Time (GMT).\u0007Return to previous selection."
+            },
+            {
+              "id": 10691,
+              "string": "1\u0000\u0007What time are you active? (JST)\u0007\u000bIn the morning.\u0007In the afternoon.\u0007In the evening.\u0007At night.\u0007In the wee hours of the morning.\u0007Return to previous selection."
+            },
+            {
+              "id": 10692,
+              "string": "1\u0000\u0007What time are you active? (PST|PDT)\u0007\u000bIn the morning.\u0007In the afternoon.\u0007In the evening.\u0007At night.\u0007In the wee hours of the morning.\u0007Return to previous selection."
+            },
+            {
+              "id": 10693,
+              "string": "1\u0000\u0007What time are you active? (GMT)\u0007\u000bIn the morning.\u0007In the afternoon.\u0007In the evening.\u0007At night.\u0007In the wee hours of the morning.\u0007Return to previous selection."
+            },
+            {
+              "id": 10695,
+              "string": "1\u0000\u0007Style: \f\u0000[Do everything\/Engage in hard-core battle content\/Engage in casual battle content\/Vanquish HNMs\/Meet other new players\/Assist each other\/Engage in synthesis and trading\/Nothing"
+            },
+            {
+              "id": 10696,
+              "string": "].\u0000\u0007Language: \f\u0001[\/Japanese\/English\/Other"
+            },
+            {
+              "id": 10700,
+              "string": "].\u0000\u0007Looking for \n\u0004 more member?\u0004[\/s"
+            },
+            {
+              "id": 10697,
+              "string": "].\u0000\u0007Most active: \f\u0002[Every day\/Weekends\/Weekdays\/Mondays\/Tuesdays\/Wednesdays\/Thursdays\/Fridays\/Saturdays\/Sundays] \f\u0003[at no time in particular\/in the morning (JST)\/in the afternoon (JST)\/in the evening (JST)\/at night (JST)\/in the wee hours of the morning (JST)"
+            },
+            {
+              "id": 10697,
+              "string": "].\u0000\u0007Most active: \f\u0002[Every day\/Weekends\/Weekdays\/Mondays\/Tuesdays\/Wednesdays\/Thursdays\/Fridays\/Saturdays\/Sundays] \f\u0003[at no time in particular\/in the morning (JST)\/in the afternoon (JST)\/in the evening (JST)\/at night (JST)\/in the wee hours of the morning (JST)"
+            },
+            {
+              "id": 10698,
+              "string": "].\u0000\u0007Most active: \f\u0002[Every day\/Weekends\/Weekdays\/Mondays\/Tuesdays\/Wednesdays\/Thursdays\/Fridays\/Saturdays\/Sundays] \f\u0003[at no time in particular\/in the morning (PST|PDT)\/in the afternoon (PST|PDT)\/in the evening (PST|PDT)\/at night (PST|PDT)\/in the wee hours of the morning (PST|PDT)"
+            },
+            {
+              "id": 10699,
+              "string": "].\u0000\u0007Most active: \f\u0002[Every day\/Weekends\/Weekdays\/Mondays\/Tuesdays\/Wednesdays\/Thursdays\/Fridays\/Saturdays\/Sundays] \f\u0003[at no time in particular\/in the morning (GMT)\/in the afternoon (GMT)\/in the evening (GMT)\/at night (GMT)\/in the wee hours of the morning (GMT)"
+            },
+            {
+              "id": 10701,
+              "string": "].\u0000\u0007I can start looking for new members immediately. Is this information correct?"
+            },
+            {
+              "id": 10702,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bStart looking for members.\u0007Stop the process."
+            },
+            {
+              "id": 10668,
+              "string": "1\u0000\u0007Once-in-a-lifetime meetings make for wonderful stories, but no treasure can compare to being part of a group of friends you can call home."
+            },
+            {
+              "id": 10669,
+              "string": "1\u0000\u0007Linkshell concierges such as myself bring together adventurers of similar interests."
+            },
+            {
+              "id": 10670,
+              "string": "1\u0000\u0007In a word, we match adventurers looking for linkshells with those linkshells interested in taking in new members."
+            },
+            {
+              "id": 10671,
+              "string": "1\u0000\u0007I accept \u0001\u0005%???? from linkshells the world over and distribute them to appropriate adventurers."
+            },
+            {
+              "id": 10672,
+              "string": "1\u0000\u0007This service is provided by the Adventurers' Mutual Aid Network, and as such, anyone working for Vana'diel's greater good is eligible to participate."
+            },
+            {
+              "id": 10673,
+              "string": "1\u0000\u0007Additionally, please be aware that I am only able to offer you one \u0001\u0005#???? per day."
+            },
+            {
+              "id": 10675,
+              "string": "1\u0000\u0007It is worth noting that each concierge may only register a maximum of \n\u0000 linkshells."
+            },
+            {
+              "id": 10676,
+              "string": "1\u0000\u0007Once the number of registrations has hit the limit, existing registrations will be canceled in order of oldest to newest."
+            },
+            {
+              "id": 10677,
+              "string": "1\u0000\u0007\u001f?Server maintenances will also immediately cancel all registrations, so be sure to keep your information up-to-dat"
+            },
+            {
+              "id": 7191,
+              "string": "1\u0000\u0007\n\u0000 \n\u0001 \n\u0002 "
+            },
+            {
+              "id": 10681,
+              "string": "1\u0000\u0007LS1: ?\u0001."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461592,
+      "name": "Chat Manual",
+      "events": [
+        {
+          "id": 6106,
+          "dialogue": [
+            {
+              "id": 10706,
+              "string": "1\u0000\u0007A manual describing proper chat manners floats in front of you."
+            },
+            {
+              "id": 10707,
+              "string": "1\u0000\u0007Read up on which topic?\u0007\u000bNone for now.\u0007I don't know what to talk about.\u0007How can I get people to like me?\u0007What shouldn't I do?\u0007What happens if we don't mesh?"
+            },
+            {
+              "id": 10708,
+              "string": "1\u0000\u0007Perhaps consider starting with a simple greeting. Something like..."
+            },
+            {
+              "id": 10709,
+              "string": "1\u0000\u0007??Hello, everyone. My name's \b. Nice to meet you!??"
+            },
+            {
+              "id": 10710,
+              "string": "1\u0000\u0007Of course, injecting your own personal flavor may act as a conversation starter and help people to remember you."
+            },
+            {
+              "id": 10711,
+              "string": "1\u0000\u0007No matter which route you choose, make sure to always remain polite. There is no better way to start a friendship off on the right foot."
+            },
+            {
+              "id": 10712,
+              "string": "1\u0000\u0007When speaking with others, it's critical to listen and be mindful of what they say."
+            },
+            {
+              "id": 10713,
+              "string": "1\u0000\u0007Always talking and never listening may come across as rude."
+            },
+            {
+              "id": 10714,
+              "string": "1\u0000\u0007Another important point is to always be mindful of the listener. How would you feel if someone said that to you? Think carefully before sending someone a message."
+            },
+            {
+              "id": 10715,
+              "string": "1\u0000\u0007It also helps to be clear and concise."
+            },
+            {
+              "id": 10716,
+              "string": "1\u0000\u0007Being vague might cause others to get the wrong impression."
+            },
+            {
+              "id": 10717,
+              "string": "1\u0000\u0007Be extremely careful when giving out personal information such as your address or telephone number."
+            },
+            {
+              "id": 10718,
+              "string": "1\u0000\u0007Furthermore, refrain from making disparaging or aggressive remarks."
+            },
+            {
+              "id": 10719,
+              "string": "1\u0000\u0007Once you are close to someone, you may be more comfortable letting your hair down, but it is strongly recommended that you refrain from any actions that may be construed as harassment."
+            },
+            {
+              "id": 10720,
+              "string": "1\u0000\u0007After joining a linkshell, you may find that you have difficulty participating in conversation or that your personality is too different from the other members."
+            },
+            {
+              "id": 10721,
+              "string": "1\u0000\u0007One of your options in such a situation is to inform the linkshell leader and then leave."
+            },
+            {
+              "id": 10722,
+              "string": "1\u0000\u0007Finding a linkshell that is the perfect fit might not always be easy, but there is certainly a group out there that will match your feelings and goals."
+            },
+            {
+              "id": 10723,
+              "string": "1\u0000\u0007Once you find those kinds of friends, hold them fast and value them as much as they value you. There is no better way to enjoy life in Vana'diel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461593,
+      "name": "Ethereal Junction",
+      "events": [
+        {
+          "id": 9000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9003,
+          "dialogue": [
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10781,
+              "string": "1\u0000\u0007You currently have multiple Wanted battle objectives set. Select which one you would like to undertake."
+            },
+            {
+              "id": 10782,
+              "string": "1\u0000\u0007Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461594,
+      "name": "Ethereal Junction",
+      "events": [
+        {
+          "id": 9001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9004,
+          "dialogue": [
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10781,
+              "string": "1\u0000\u0007You currently have multiple Wanted battle objectives set. Select which one you would like to undertake."
+            },
+            {
+              "id": 10782,
+              "string": "1\u0000\u0007Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17461595,
+      "name": "Ethereal Junction",
+      "events": [
+        {
+          "id": 9002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9005,
+          "dialogue": [
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10781,
+              "string": "1\u0000\u0007You currently have multiple Wanted battle objectives set. Select which one you would like to undertake."
+            },
+            {
+              "id": 10782,
+              "string": "1\u0000\u0007Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 10763,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 10764,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007What say you?\u0007\u000bI'll take a swing at it.\u0007I haven't the time right now."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bOpen the lid and enter.\u0007Stay up here for now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

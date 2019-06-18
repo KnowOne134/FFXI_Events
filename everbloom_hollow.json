@@ -1,0 +1,768 @@
+{
+  "id": 86,
+  "name": "Everbloom Hollow",
+  "actors": [
+    {
+      "id": 17129548,
+      "name": "Pupil Palliator I",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7327,
+              "string": "l!\u0000\u0007Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129549,
+      "name": "Pupil Palliator II",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7327,
+              "string": "l!\u0000\u0007Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129550,
+      "name": "Pupil Palliator III",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7327,
+              "string": "l!\u0000\u0007Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129624,
+      "name": "Dawn Aureola",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007Leave the area?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129625,
+      "name": "Twilight Aureola",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007Leave the area?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129626,
+      "name": "Lacuna Whorl",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007Leave the area?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129630,
+      "name": "???",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave.\u0007Take (\n\u0000 remaining)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129631,
+      "name": "???",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bLeave.\u0007Take (\n\u0000 remaining)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129636,
+      "name": "",
+      "events": [
+        {
+          "id": 40,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129717,
+      "name": "???",
+      "events": [
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007A \f\u0000[red\/green\/blue] fuse extends from here.\u0007Attach \u0001\u0001\u0001 \u0001\u0005$???? to it?"
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007Attach to the fuse?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129718,
+      "name": "???",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129719,
+      "name": "???",
+      "events": [
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129720,
+      "name": "???",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129721,
+      "name": "???",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129722,
+      "name": "???",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129723,
+      "name": "???",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129724,
+      "name": "???",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129725,
+      "name": "???",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129726,
+      "name": "???",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129727,
+      "name": "???",
+      "events": [
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129728,
+      "name": "???",
+      "events": [
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129729,
+      "name": "???",
+      "events": [
+        {
+          "id": 18,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129730,
+      "name": "???",
+      "events": [
+        {
+          "id": 19,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129731,
+      "name": "???",
+      "events": [
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007A \f\u0000[red\/green\/blue] fuse extends from here.\u0007Attach \u0001\u0001\u0001 \u0001\u0005$???? to it?"
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007Attach to the fuse?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129732,
+      "name": "???",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129733,
+      "name": "???",
+      "events": [
+        {
+          "id": 21,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129734,
+      "name": "???",
+      "events": [
+        {
+          "id": 22,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129735,
+      "name": "???",
+      "events": [
+        {
+          "id": 23,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129736,
+      "name": "???",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129737,
+      "name": "???",
+      "events": [
+        {
+          "id": 25,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129738,
+      "name": "???",
+      "events": [
+        {
+          "id": 26,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129739,
+      "name": "???",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129740,
+      "name": "???",
+      "events": [
+        {
+          "id": 28,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129741,
+      "name": "???",
+      "events": [
+        {
+          "id": 34,
+          "dialogue": [
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007A \f\u0000[red\/green\/blue] fuse extends from here.\u0007Attach \u0001\u0001\u0001 \u0001\u0005$???? to it?"
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007Attach to the fuse?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129742,
+      "name": "???",
+      "events": [
+        {
+          "id": 29,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129743,
+      "name": "???",
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Use \u0001\u0001\u0001 \u0001\u0005$?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129744,
+      "name": "Switch",
+      "events": [
+        {
+          "id": 35,
+          "dialogue": [
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007A \f\u0000[red\/green\/blue] fuse extends from what appears to be an ignition switch.\u0007Will you press the switch?"
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Press the switch?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129745,
+      "name": "Switch",
+      "events": [
+        {
+          "id": 36,
+          "dialogue": [
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007A \f\u0000[red\/green\/blue] fuse extends from what appears to be an ignition switch.\u0007Will you press the switch?"
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Press the switch?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129746,
+      "name": "Switch",
+      "events": [
+        {
+          "id": 37,
+          "dialogue": [
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007A \f\u0000[red\/green\/blue] fuse extends from what appears to be an ignition switch.\u0007Will you press the switch?"
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Press the switch?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129764,
+      "name": "",
+      "events": [
+        {
+          "id": 38,
+          "dialogue": [
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007Leave the area?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129765,
+      "name": "Cait Sith Naoi",
+      "events": [
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007Ack! Just when it seemed nothing would stop us!\u0007Even a dozen \u0001\u0005%???? detonated in unison wouldn't so much as leave a soot stain on the surface. Barely cause a scratch."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007But, hrmmm? What have we here?\u0007Looks to be some kind of contraption for housing...\u0001\u0005%?????"
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007Ah! A memory returns to me! A recollection!\u0007Tales of abandoned quarries brimming with Goblin mining technology of ages past! I shan't bother you with the details, though it would make for good telling at a campfire."
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007Hmmm, a fuse extends from the contraption to a place beyond the wall.\u0007What would happen, I wonder, if we were to place \u0001\u0001\u0001 \u0001\u0005$???? in it. Set us up a bomb."
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007Could it be that the fuse is connected to yet another detonation switch somewhere over yonder...?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17129766,
+      "name": "",
+      "events": [
+        {
+          "id": 31,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007An extremely sturdy wall of rock blocks your path..."
+            }
+          ]
+        },
+        {
+          "id": 10000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

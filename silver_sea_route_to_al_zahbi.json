@@ -1,0 +1,45 @@
+{
+  "id": 59,
+  "name": "Silver Sea route to Al Zahbi",
+  "actors": [
+    {
+      "id": 17018919,
+      "name": "Map",
+      "events": [
+        {
+          "id": 1024,
+          "dialogue": [
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007This is the ship route from Nashmau to Al Zahbi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 1025,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1027,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1028,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

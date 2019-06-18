@@ -1,0 +1,45 @@
+{
+  "id": 60,
+  "name": "The Ashu Talif",
+  "actors": [
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7578,
+              "string": "1\u0000\u0007Leave the Ashu Talif?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

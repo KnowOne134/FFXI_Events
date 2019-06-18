@@ -1,0 +1,386 @@
+{
+  "id": 44,
+  "name": "Abdhaljs Isle-Purgonorgo",
+  "actors": [
+    {
+      "id": 16957465,
+      "name": "Herald",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007What would you like to do?\u0007\u000bNothing.\u0007Start the match.\u0007Close entries & return to settings.\u0007Cancel own entry.\u0007Auto-balance temp. entries.\u0007Shuffle temp. entries.\u0007View setting menu."
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007With the current settings, the area reservation will end before the match is over."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Do you wish to start the match?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007Both linkshell leaders have yet to signal their agreement to start the match."
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007Close entries & return to settings?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007Auto-balance temporary entries?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007Shuffle temporary entries?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007LS Liga matches cannot be halted by the MC."
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007What do you wish to do?\u0007\u000bNothing.\u0007Stop match.\u0007Cancel match & return to entry.\u0007Cancel own entry.\u0007View settings menu."
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007Do you wish to halt the match?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007Halt the match and return to entries?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007What would you like to do?\u0007\u000bNothing.\u0007Prepare for the next match.\u0007Cancel own entry.\u0007View settings menu."
+            },
+            {
+              "id": 7477,
+              "string": "1\u0000\u0007Prepare for the next match?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007This official match requires \n\u0001 gil to enter."
+            },
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007Submit \f\u0000[a temporary entry\/a temporary entry\/an entry for your preferred side\/an entry for your LS team\/]?\u0007\u000bYes.\u0007Wyverns.\u0007Griffons.\u0007\u001c\u0003 team.\u0007Not right now."
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007The \f\u0000[\/Wyverns\/Griffons] currently outnumber the opposing side. Please wait until the opposing side has more members before submitting an entry application."
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007The maximum number of participants for this match has been reached. Please wait for an entry to be cancelled and try again."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007Entries are not currently being accepted.\u0007Please confirm the match status."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007You do not have enough gil to submit an entry application."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Cancel your entry?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7501,
+              "string": "1\u0000\u0007Current settings.\u0007\u000bQuit.\u0007Entry type \f\u0001[\/(fixed)]: \f\u000b[auto\/shuffle\/free\/linkshell]\u0007Re-entry \f\u0002[\/(fixed)]: \f\f[none\/OK]\u0007Mid-match entry \f\u0003[\/(fixed)]: \f\r[none\/OK]\u0007?@\u0007Allowable margin \f\u0005[\/(fixed)]: \f\u000f[up to 1 member\/none]\u0007Main job \f\u0006[\/(fixed)]: \f\u0010[duplicates OK\/no duplicates]\u0007Support job \f\u0007[\/(fixed)]: \f\u0011[OK\/none]\u0007Min. level \f\b[\/(fixed)]: \f\u0012[none\/10\/20\/30\/40\/50\/60\/75] (Max. Level: \f\u001c[\/10\/20\/30\/40\/50\/60\/none])\u0007Layout \f\t[\/(fixed)]: \f\u0013[pattern A\/pattern B\/pattern C\/pattern D]\u0007Next page."
+            },
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007Current settings.\u0007\u000b?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007Previous page.\u0007Briefing \f\u0001[\/(fixed)]: \f\u000b[30 sec.\/1 min.\/3 min.\/5 min.]\u0007Match length \f\u0002[\/(fixed)]: \f\f[5\/10\/15\/20\/30] min.\f\u0000[\/ (1 set)]\u0007No. of sets \f\u0003[\/(fixed)]: \n\r ?\r[set\/sets]\u0007Match style \f\u0004[\/(fixed)]?F\f\u000e[1 set, 20 min.\/2 sets, 10 min. each\/1 set, 30 min.\/2 sets, 15 min. each\/3 sets, 10 min. each]\u0007Other time settings.\u0007?@\u0007?@\u0007?@\u0007Item use \f\u0005[\/(fixed)]: \f\u000f[OK\/none]\u0007Temporary item settings.\u0007?@\u0007?@\u0007?@\u0007Sleep effects removed \f\u0006[\/(fixed)]: \f\u0010[none\/OK]\u0007Repair by Petra \f\u0007[\/(fixed)]: \f\u0011[none\/OK]\u0007KO penalty \f\b[\/(fixed)]: \f\u0012[Level 1\/Level 2]\u0007Clear entry data.\u0007Reset to default settings.\u0007Finish & commence entry period.\u0007Quit."
+            },
+            {
+              "id": 7510,
+              "string": "1\u0000\u0007Please select the entry type:\u0007\u000bReturn.\u0007Information.\u0007Auto-balance.\u0007Random shuffle.\u0007Free.\u0007Linkshell (LS Liga)."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007Select settings for team member distribution."
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007\u001e\u0005Auto-Balance\u001e\u0001\u0007After players have completed a temporary entry for one of the two sides, the players will be redistributed (by main job) evenly among the teams at the beginning of the briefing."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007\u001e\u0005Auto-Balance\u001e\u0001\u0007After players have completed a temporary entry for one of the two sides, the MC can choose to redistribute the players (by main job) evenly among the teams."
+            },
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007\u001e\u0005Random Shuffle\u001e\u0001\u0007After players have completed a temporary entry for one of the two sides, the MC can choose to randomly shuffle all players between the teams."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007\u001e\u0005Free\u001e\u0001\u0007Players are allowed to select the team in which they wish to participate. However, if one side grows too large, further applications may be denied until the number of members on the other side has increased."
+            },
+            {
+              "id": 7508,
+              "string": "1\u0000\u0007\u001e\u0005Linkshell\u001e\u0001\u0007This option can be chosen to conduct LS Liga matches and pits linkshell groups against one another. Once the linkshell leader has submitted an entry application, other linkshell members can then submit their own entries."
+            },
+            {
+              "id": 7509,
+              "string": "1\u0000\u0007If both linkshell group leaders do not agree to the rules set by the MC, the match will not begin. Also, leaders must signal their agreement again if any changes are made to the decided settings."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Allow re-entry?\u0007\u000bReturn.\u0007Information.\u0007No.\u0007Yes."
+            },
+            {
+              "id": 7513,
+              "string": "1\u0000\u0007If re-entry is not allowed, a player will not be able to reapply for match participation in the event he or she requests a discharge before or during a match. Selecting this option may result in unbalanced sides when players cancel their entries."
+            },
+            {
+              "id": 7517,
+              "string": "1\u0000\u0007Allow mid-match entry?\u0007\u000bReturn.\u0007Information.\u0007No.\u0007Yes."
+            },
+            {
+              "id": 7516,
+              "string": "1\u0000\u0007If mid-match entry is allowed, players may join the team with fewer members while the match is in progress."
+            },
+            {
+              "id": 7520,
+              "string": "1\u0000\u0007Allow a margin?\u0007\u000bReturn.\u0007Information.\u0007Up to 1 member.\u0007No."
+            },
+            {
+              "id": 7518,
+              "string": "1\u0000\u0007This option selects the size of the allowable margin between team numbers. A margin of zero is suggested in the interests of conducting an equal match."
+            },
+            {
+              "id": 7519,
+              "string": "1\u0000\u0007In the case where no margin is allowed, the match will not begin until both sides have an equal number of entries."
+            },
+            {
+              "id": 7523,
+              "string": "1\u0000\u0007Allow multiple main jobs?\u0007\u000bReturn.\u0007Information.\u0007Duplicates OK.\u0007No duplicates."
+            },
+            {
+              "id": 7522,
+              "string": "1\u0000\u0007This option decides whether or not multiples of the same main job are allowed on a single team. In the case where ??no duplicates?? has been chosen, all members of the same job except for one will have their entries cancelled."
+            },
+            {
+              "id": 7527,
+              "string": "1\u0000\u0007Allow support jobs?\u0007\u000bReturn.\u0007Information.\u0007Yes.\u0007No."
+            },
+            {
+              "id": 7526,
+              "string": "1\u0000\u0007This option selects whether or not support jobs will be allowed."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Please present \u0001\u0001\u0001 \u0001\u0005$???? or \u0001\u0001\u0001 \u0001\u0005$???? to be eligible for the entry process."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007What would you like to do?\u0007\u000bNothing.\u0007Submit an entry.\u0007Cancel an entry.\u0007View settings."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007Please note that if you cancel an entry during an official match, you will be unable to resubmit your entry application."
+            },
+            {
+              "id": 7481,
+              "string": "1\u0000\u0007Participants who have completed the entry process can change the match settings by paying a fee of \n\u0000 gil.\u0007Setting changes are limited to one change per person per match. Settings that have been changed once are fixed for that match."
+            },
+            {
+              "id": 7482,
+              "string": "1\u0000\u0007You have already changed the settings for this match."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Official match scheduled to end on ?"
+            },
+            {
+              "id": 7344,
+              "string": "\u0000.\u0000\u0007Area reservation to end on ?"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Enter the LS Liga match?\u0007\u000bEnter \u001c\u0003.\u0007Not right now."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007If all participating linkshell members have concluded entry procedures, please confirm the match settings and signal your agreement to start the match."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007The match will commence once both linkshell leaders have shown their agreement. Furthermore, any changes made to the settings by the MC will void this agreement."
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007Agree to start the match?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Previous \f\u0004[\/Training ]match (\n\u0003 ?\u0003[set\/sets]) results:\u0007Wyverns \n\u0000 vs \n\u0001 Griffons\u0007\f\u0002[Draw\/Wyverns win\/Griffons win]\f\u0005[\/ (with bonus)]"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7466,
+              "string": "1\u0000\u0007Unfortunately, today's match has been cancelled.\u0007We thank you for your interest and apologize for the inconvenience."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007The entry application fee \f\u0000[\/and the charge for changing settings ]will be reimbursed."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007You are now the MC for this match.\u0007The area is reserved until ?\u0001, and the maximum level for this match is \f\u0000[\/10\/20\/30\/40\/50\/60\/unrestricted].\u0007Please set the match rules and begin proceedings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16957466,
+      "name": "Pursuivant",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007Teleport to \f\u0000[Upper Jeuno\/Aht Urhgan Whitegate\/Northern San d'Oria\/3\/Port Bastok\/5\/Windurst Waters]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16957467,
+      "name": "Pursuivant",
+      "events": [
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Back into the breach, "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16957468,
+      "name": "Pursuivant",
+      "events": [
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Back into the breach, "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007You find the \u001e\u0005temporary item\u001e\u0001: \u0001\u0001\u0001 \u0001\u0005$???"
+            },
+            {
+              "id": 7424,
+              "string": "?!\u0000\u0007You find \u0001\u0001\u0001 \u0001\u0005$????, but you cannot carry any more \u001e\u0005temporary items\u001e"
+            },
+            {
+              "id": 7425,
+              "string": "\u0001.\u0000\u0007You find \u0001\u0001\u0001 \u0001\u0005$????, but you cannot carry more than one of that \u001e\u0005temporary item\u001e"
+            },
+            {
+              "id": 7426,
+              "string": "\u0001.\u0000\u0007What do you do?\u0007\u000bKeep the item.\u0007Exchange the item.\u0007Use the item.\u0007Throw the item away."
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007Exchange with which item?\u0007\u000b?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007Return."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007You find a Petra!\u0007\u000bKeep it.\u0007Throw it away."
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2492 @@
+{
+  "id": 282,
+  "name": "Mount Kamihr",
+  "actors": [
+    {
+      "id": 17932294,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7055,
+              "string": "1\u0000\u0007Show your \u0001\u00053?????\u0007\u000bSounds like a plan.\u0007No can do."
+            },
+            {
+              "id": 7059,
+              "string": "1\u0000\u0007Did you leave it behind?\u0007\u000bYes, silly me.\u0007No, I've got it right here."
+            },
+            {
+              "id": 7056,
+              "string": "1\u0000\u0007\u001f\u000fYou bring forth the \u0001\u00053???? before the Winged Scourg"
+            },
+            {
+              "id": 7063,
+              "string": "1\u0000\u0007\u001f\u000fThe Winged Scourge casts a burning stare in your directio"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932295,
+      "name": "Arciela",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7054,
+              "string": "1\u0000\u0007\b, can you show him the proof of your bonds to this forest, too?"
+            },
+            {
+              "id": 7057,
+              "string": "e.\u0000\u0007\b! Do you want to get us burned to a crisp!?"
+            },
+            {
+              "id": 7058,
+              "string": "1\u0000\u0007...Or are you saying that because you <gasp> left it back in Adoulin?"
+            },
+            {
+              "id": 7060,
+              "string": "1\u0000\u0007How could you!?"
+            },
+            {
+              "id": 7061,
+              "string": "1\u0000\u0007Wait a minute..."
+            },
+            {
+              "id": 7062,
+              "string": "1\u0000\u0007Ugh!\u0007This better be the last time you try to pull my leg like that, \b! I don't think my heart can take much more."
+            },
+            {
+              "id": 7066,
+              "string": "1\u0000\u0007You refer to the founder king by his first name? So...you knew him personally?"
+            },
+            {
+              "id": 7067,
+              "string": "1\u0000\u0007But he lived centuries upon centuries ago! You couldn't possibly--"
+            },
+            {
+              "id": 7079,
+              "string": "1\u0000\u0007Well, I..."
+            },
+            {
+              "id": 7082,
+              "string": "1\u0000\u0007Yes, I am. They're the Naakuals, right?"
+            },
+            {
+              "id": 7086,
+              "string": "1\u0000\u0007That must be Terrcualn."
+            },
+            {
+              "id": 7087,
+              "string": "1\u0000\u0007I recall reading about him during one of my trips to the library. What was the title of the book, though...?"
+            },
+            {
+              "id": 7088,
+              "string": "1\u0000\u0007Aha, ??His Majesty and the Golden Beast??! That's it!"
+            },
+            {
+              "id": 7091,
+              "string": "1\u0000\u0007Umm... Where they fought, you say? Well...that would be..."
+            },
+            {
+              "id": 7092,
+              "string": "1\u0000\u0007\b, what do we do? I don't remember that detail at all."
+            },
+            {
+              "id": 7093,
+              "string": "1\u0000\u0007...Aha, it's a trick question! The story makes no mention of where they fought!"
+            },
+            {
+              "id": 7101,
+              "string": "1\u0000\u0007I'm so embarrassed, \b... I don't want to admit it, but maybe he's right after all."
+            },
+            {
+              "id": 7102,
+              "string": "1\u0000\u0007It was silly of me to come here knowing so little."
+            },
+            {
+              "id": 7103,
+              "string": "1\u0000\u0007If I'm to make amends, there's only one thing left to do."
+            },
+            {
+              "id": 7104,
+              "string": "1\u0000\u0007\b, let's burrow deep into Adoulin's vault of knowledge, leaving no page unturned in our wake!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7140,
+              "string": "1\u0000\u0007\b, I'm always glad to have you by my side. I don't know what I would've done..."
+            },
+            {
+              "id": 7142,
+              "string": "1\u0000\u0007Then you know details hidden from our eyes and ears?"
+            },
+            {
+              "id": 7144,
+              "string": "1\u0000\u0007Sajj'aka, you mentioned that it was August--the founder king--who released you."
+            },
+            {
+              "id": 7163,
+              "string": "1\u0000\u0007Sajj'aka..."
+            },
+            {
+              "id": 7164,
+              "string": "1\u0000\u0007As pioneers whose charge is to open up the jungle, clashes with the Naakuals are inevitable. We knew it from the very beginning."
+            },
+            {
+              "id": 7182,
+              "string": "1\u0000\u0007Sajj'aka! Let me interject."
+            },
+            {
+              "id": 7183,
+              "string": "1\u0000\u0007You said that the Naakuals are to guard the six entrances to the Serpentine Labyrinth."
+            },
+            {
+              "id": 7185,
+              "string": "1\u0000\u0007Our annals state that there are seven Naakuals, but you mention only six entrances."
+            },
+            {
+              "id": 7189,
+              "string": "1\u0000\u0007You mean...August's sworn enemies?"
+            },
+            {
+              "id": 7195,
+              "string": "1\u0000\u0007August's sword--Ortharsyne--led me here to this very spot."
+            },
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007Before I began private tutelage, my father often read to us a poem, and one verse sticks out to me to this day:\u0007??When disaster is nigh and evil has descended, brandish the sword to the heavens, and all shall be mended.??"
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007The light that pierced the sky signaled the top of this peak. I know the founder king left something--or someone--very important with you."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007But Ortharsyne was not our only beacon."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007The twinned World Tree, whose power wanes even as we speak, gave \u0001\u00056???? to \b...as it gave something to you."
+            },
+            {
+              "id": 7200,
+              "string": "1\u0000\u0007The winds of change are sweeping Ulbuka, threatening to blow away all she embraces."
+            },
+            {
+              "id": 7201,
+              "string": "1\u0000\u0007And this change bodes ill for all of us. Horrific beasts of unforeseen origin are appearing in greater numbers by the day. Landshivers threaten to knock over even the stoutest building in Adoulin. Trees wither and die, and the water runs foul."
+            },
+            {
+              "id": 7202,
+              "string": "1\u0000\u0007Tell me, Sajj'aka--why? Why is this happening? Isn't there anything we can do to stop it?"
+            },
+            {
+              "id": 7203,
+              "string": "1\u0000\u0007Please. If you know anything, share it with us!"
+            },
+            {
+              "id": 7206,
+              "string": "1\u0000\u0007The spirits of the past...do you mean those who commanded the Cimmerian Adherents?"
+            },
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007It can't be...\u0007Sajj'aka, you stared into the Serpentine Labyrinth and lived. You must know something--!"
+            },
+            {
+              "id": 7244,
+              "string": "1\u0000\u0007\b! Wh-whatever has gotten into you!?"
+            },
+            {
+              "id": 7248,
+              "string": "1\u0000\u0007But, surely there must be something? Maybe if there was some way to save the World Tree..."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007So if we were to find a similar branch..."
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007Rhazowa...we only know it as a land wrapped in the flames of war."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007If it's as simple as going there, then--"
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007Where could his scales possibly...?"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007Please, mighty dragon! We need your aid!"
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007But this is the will of the king himself!"
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007I've been trying to say that the whole time! Don't you agree, \b?"
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007See? We both think so!"
+            },
+            {
+              "id": 7315,
+              "string": "t.\u0000\u0007\b, you don't either, do you? Because if you do..."
+            },
+            {
+              "id": 7322,
+              "string": "1\u0000\u0007A huge seal?"
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007And the landshivers...are those caused by the founder king, too?"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Help him understand? I don't follow."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Wait...is that why he said that the curse must never be lifted?"
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007No, I'm not sure that's the case."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007\b, do you remember the first time we met?"
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007It was outside the forest, when a young girl no older than eight went outside the city walls to find some herbs to help her grandfather."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007\b, isn't that a stroke too cruel? How could you forget about Tiana?"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007For Tiana, it was her grandfather. For my brother, it is the people of Adoulin."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Where are you thinking, Morimar?"
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007So if we could find a way in..."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007We would need more than their permission?"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007I'll come with you, \b!"
+            },
+            {
+              "id": 7419,
+              "string": "1\u0000\u0007...You're right. I'm needed in the city."
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007\b, I know you can do this without me. There are things in Adoulin that only I can handle."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007Among them, gathering information. And I am sure you'll do the same, though in a different way."
+            },
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007I know searching for those scales will be dangerous, and it may mean your life--but there's no one I would trust more."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007After all...we each have our role to play."
+            },
+            {
+              "id": 7424,
+              "string": "1\u0000\u0007And Darrcuiln...I know that you talk to \b telepathically."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007Could you...could you do the same with me?"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7450,
+              "string": "1\u0000\u0007Is this...\u0001\u00056????? Like the one August brought back from Rhazowa?"
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007\b, you have traveled through Vana'diel. There is a certain song that you perhaps may have heard of."
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007It shelters us in times of need."
+            },
+            {
+              "id": 7481,
+              "string": "1\u0000\u0007It has been around longer than Adoulin, and some scholars assert that it was originally sung in a tongue not known to the people of Vana'diel."
+            },
+            {
+              "id": 7482,
+              "string": "1\u0000\u0007And the section we know is but one part of a greater whole."
+            },
+            {
+              "id": 7483,
+              "string": "1\u0000\u0007Our interpretation may be wrong, but nonetheless, it is a beacon that guides Adoulinians in dark times."
+            },
+            {
+              "id": 7484,
+              "string": "1\u0000\u0007The Goddess of the Dawn has served as our eternal protector, and we cannot help but think these words spilled forth from her lips."
+            },
+            {
+              "id": 7485,
+              "string": "1\u0000\u0007Hearing this song now, I feel like all hope is not lost. That tomorrow will be a brighter day."
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007As Sajj'aka said, maybe we do not have the three forces that sealed Hades away so long ago...but we have something now that they did not."
+            },
+            {
+              "id": 7487,
+              "string": "1\u0000\u0007Just like a holy dragon rising valiantly from the peaks...\u0007Just like a young tree stretching defiantly towards the heavens..."
+            },
+            {
+              "id": 7497,
+              "string": "1\u0000\u0007Ask the World Tree? How would we go about doing that?"
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007An apology? For what?"
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007But if you know about him now, then does that mean...?"
+            },
+            {
+              "id": 7525,
+              "string": "1\u0000\u0007That's the reason why we've come. To seek your wisdom and experience against your old foes."
+            },
+            {
+              "id": 7529,
+              "string": "1\u0000\u0007Just forget about him?"
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007How would he go about doing that?"
+            },
+            {
+              "id": 7564,
+              "string": "1\u0000\u0007You mean..."
+            },
+            {
+              "id": 7566,
+              "string": "1\u0000\u0007Blood sigils?"
+            },
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007I don't understand."
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007<Gulp>"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007Teodor, why do you know all this? Please, tell me!"
+            },
+            {
+              "id": 7584,
+              "string": "1\u0000\u0007No, you can't mean--!"
+            },
+            {
+              "id": 7589,
+              "string": "1\u0000\u0007No!"
+            },
+            {
+              "id": 7600,
+              "string": "1\u0000\u0007But how? Why!?"
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007Oh, no..."
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007I understand."
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007But I have one request. Though I cannot take part, I would like to be present--as one of August's heirs."
+            },
+            {
+              "id": 7630,
+              "string": "1\u0000\u0007Teodor had always struck me as being more than he let on..."
+            },
+            {
+              "id": 7631,
+              "string": "1\u0000\u0007But never would I have imagined he lived during the time of the founder king."
+            },
+            {
+              "id": 7634,
+              "string": "1\u0000\u0007It was he who suggested that I register at the Pioneers' Coalition so I could leave for the jungle more...formally."
+            },
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007But given that pioneers always spread rumors about him drowning in drink and gambling at the Mummers' Coalition, I can't fault you for thinking that."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932296,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Begone from here. You frail mortals should have thought twice before assscending this peak."
+            },
+            {
+              "id": 7050,
+              "string": "1\u0000\u0007I have no patience for those who desssecrate the forest. Depart at once."
+            },
+            {
+              "id": 7053,
+              "string": "1\u0000\u0007That blade..."
+            },
+            {
+              "id": 7064,
+              "string": "n.\u0000\u0007Hmmm... Ortharsssyne and \u0001\u00056????..."
+            },
+            {
+              "id": 7065,
+              "string": "1\u0000\u0007You mean to tell me that you are not like the rest of those pillagers, but ssstaunch believers in August and his desire to preserve the forest?"
+            },
+            {
+              "id": 7068,
+              "string": "1\u0000\u0007Of courssse I knew him, for I am Sajj'aka."
+            },
+            {
+              "id": 7069,
+              "string": "1\u0000\u0007Not only did I know the first Adoulin king, I ssswore my allegiance to him."
+            },
+            {
+              "id": 7070,
+              "string": "1\u0000\u0007Was it centuries ago? Millennia? Time flows for many thingsss, but upon Sajj'aka it touchesss not."
+            },
+            {
+              "id": 7071,
+              "string": "1\u0000\u0007Seasss change. Landsss change. Even should the starsss fade from existence, the covenant made with Augussst shall not break."
+            },
+            {
+              "id": 7072,
+              "string": "1\u0000\u0007In my eyes, the lives of your kind are as delicate and transient as bubbles in a ssstream, your moments of glory mere sssparks from flint."
+            },
+            {
+              "id": 7073,
+              "string": "1\u0000\u0007Inconsssequential, insssignificant, insssubstantial--such is how I came to conceive of your peoples."
+            },
+            {
+              "id": 7074,
+              "string": "1\u0000\u0007Augussst has been the only exception."
+            },
+            {
+              "id": 7075,
+              "string": "1\u0000\u0007His aura shone brighter than my refulgent scales, and his resolve was ssstrong enough to wrest me from the realm of shadows."
+            },
+            {
+              "id": 7076,
+              "string": "1\u0000\u0007That is not the lone justification for why my memory of him will persissst until the end of time, but it is an important one."
+            },
+            {
+              "id": 7077,
+              "string": "1\u0000\u0007And what of you, ssspindly-legged foal?"
+            },
+            {
+              "id": 7078,
+              "string": "1\u0000\u0007Does the ressspect for the king you claim to harbor within that miniscule bosom of yours amount to even a drop in the sea compared to what I showed him while he was alive?"
+            },
+            {
+              "id": 7080,
+              "string": "1\u0000\u0007<Snort>\u0007Hopefully you can at least answer this sssimple question."
+            },
+            {
+              "id": 7081,
+              "string": "1\u0000\u0007As a preface...you are aware of the ssseven guardians that protect the Ulbukan hinterland, are you not?"
+            },
+            {
+              "id": 7083,
+              "string": "1\u0000\u0007Is that the ephemeral sssobriquet they have been given by your kind? Very well."
+            },
+            {
+              "id": 7084,
+              "string": "1\u0000\u0007I shall not waste my breath explaining the ressst."
+            },
+            {
+              "id": 7085,
+              "string": "1\u0000\u0007However, there was one more guardian who fought alongside August...a worthy tiger whose fur shone a lussstrous gold."
+            },
+            {
+              "id": 7089,
+              "string": "1\u0000\u0007Ah, booksss. An inconvenient form of immortality, but perhapsss the best your ephemeral kind can hope for. If you are truly learned, you should have no qualms about a simple tessst."
+            },
+            {
+              "id": 7090,
+              "string": "1\u0000\u0007Pray tell me, where did August meet Terrcualn in combat?"
+            },
+            {
+              "id": 7094,
+              "string": "1\u0000\u0007Confidence conceals ignorance only when the other party is ignorant as well, you misssguided fool."
+            },
+            {
+              "id": 7095,
+              "string": "1\u0000\u0007In the end, you care as little for August as I care for dissemblers."
+            },
+            {
+              "id": 7096,
+              "string": "1\u0000\u0007The one who saved me from that place where even the faintest hint of light is ssswallowed whole...nestlingsss such as you could never hope to fathom his greatnesss. I was foolish to believe otherwise."
+            },
+            {
+              "id": 7097,
+              "string": "1\u0000\u0007I will not ssstand for this a moment longer."
+            },
+            {
+              "id": 7098,
+              "string": "1\u0000\u0007I know not why you tressspassed upon this land, and I no longer care."
+            },
+            {
+              "id": 7099,
+              "string": "1\u0000\u0007There is nothing left to dissscuss, for you have proven beyond a doubt that you are incapable of understanding August's will."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7105,
+              "string": "1\u0000\u0007Petulant children. Did I not ask you to be gone from my sssight?"
+            },
+            {
+              "id": 7107,
+              "string": "1\u0000\u0007Then it is my sssworn duty as a protector of this land to confirm if your intent matches your words."
+            },
+            {
+              "id": 7108,
+              "string": "1\u0000\u0007It matters little which of you engages in this tessst I am to put forth. But anger me further, and your life is forfeit."
+            },
+            {
+              "id": 7111,
+              "string": "1\u0000\u0007Well, how unexpected! The ?[boy\/girl] is putting on airs!"
+            },
+            {
+              "id": 7112,
+              "string": "1\u0000\u0007Yet pride always comes before a fall. Let us hope that the fire in your eyesss does not become quenched by the avalanche of failure."
+            },
+            {
+              "id": 7113,
+              "string": "1\u0000\u0007And an avalanche it shall be, ssshould you make even one misstep. Let the first trial begin."
+            },
+            {
+              "id": 7114,
+              "string": "1\u0000\u0007The king of legends was sssaved by a tiger whose mane looked to be woven from golden threads. Where was the site of their struggle?"
+            },
+            {
+              "id": 7117,
+              "string": "1\u0000\u0007Dare the two of you mock me!?"
+            },
+            {
+              "id": 7118,
+              "string": "1\u0000\u0007It has been many years since I have conversssed with your kind. Perhaps you merely...misspoke. I shall grant you a reprieve."
+            },
+            {
+              "id": 7117,
+              "string": "1\u0000\u0007Dare the two of you mock me!?"
+            },
+            {
+              "id": 7118,
+              "string": "1\u0000\u0007It has been many years since I have conversssed with your kind. Perhaps you merely...misspoke. I shall grant you a reprieve."
+            },
+            {
+              "id": 7119,
+              "string": "1\u0000\u0007The truth is never a low-hanging fruit, free for all to pluck. It comes only to those willing to snatch it from the heavens."
+            },
+            {
+              "id": 7120,
+              "string": "1\u0000\u0007Though I did not bear witness to this truth, Terrcualn and August incessantly regaled me with every lassst detail, and I could recite the story by heart."
+            },
+            {
+              "id": 7121,
+              "string": "1\u0000\u0007Beyond doubt, the two ssstruggled valiantly, with August staring straight into the abyss and dragging forth victory from its gaping maw."
+            },
+            {
+              "id": 7122,
+              "string": "1\u0000\u0007Terrcualn thus chose to ssserve the fabled one, learning to love him much as I did."
+            },
+            {
+              "id": 7123,
+              "string": "1\u0000\u0007Now, for the second test."
+            },
+            {
+              "id": 7124,
+              "string": "1\u0000\u0007Terrcualn's cub was entrusted to one of August's most trusted generals. I assume you came across this fact in your studies."
+            },
+            {
+              "id": 7125,
+              "string": "1\u0000\u0007Who was this man?"
+            },
+            {
+              "id": 7127,
+              "string": "1\u0000\u0007Do you make a mockery of August's sssacrifice? Are you such a buffoon that you cannot answer so much as the name of the man who fought by his side?"
+            },
+            {
+              "id": 7128,
+              "string": "1\u0000\u0007If only he knew that...\u0007No. I must have misheard."
+            },
+            {
+              "id": 7129,
+              "string": "1\u0000\u0007Come, tell me your anssswer once more."
+            },
+            {
+              "id": 7127,
+              "string": "1\u0000\u0007Do you make a mockery of August's sssacrifice? Are you such a buffoon that you cannot answer so much as the name of the man who fought by his side?"
+            },
+            {
+              "id": 7128,
+              "string": "1\u0000\u0007If only he knew that...\u0007No. I must have misheard."
+            },
+            {
+              "id": 7129,
+              "string": "1\u0000\u0007Come, tell me your anssswer once more."
+            },
+            {
+              "id": 7130,
+              "string": "1\u0000\u0007Yes, that is correct. A truly powerful individual indeed, though his ssstar did not shine as brightly as his lord's."
+            },
+            {
+              "id": 7131,
+              "string": "1\u0000\u0007August's eleven generals were the only men and women to ever move my heart. That remainsss true to this day."
+            },
+            {
+              "id": 7132,
+              "string": "1\u0000\u0007Let us move to the final quessstion."
+            },
+            {
+              "id": 7133,
+              "string": "1\u0000\u0007When all seemed lost and the king made his last ssstand, where was it that he fought tooth and claw?"
+            },
+            {
+              "id": 7135,
+              "string": "1\u0000\u0007Never have I heard tales of such a location, but its name alone sends shivers up my ssspine."
+            },
+            {
+              "id": 7136,
+              "string": "1\u0000\u0007I deign to give you one more chance."
+            },
+            {
+              "id": 7135,
+              "string": "1\u0000\u0007Never have I heard tales of such a location, but its name alone sends shivers up my ssspine."
+            },
+            {
+              "id": 7136,
+              "string": "1\u0000\u0007I deign to give you one more chance."
+            },
+            {
+              "id": 7137,
+              "string": "1\u0000\u0007That is correct. Young one, you have prepared well for this encounter."
+            },
+            {
+              "id": 7138,
+              "string": "1\u0000\u0007I recognize you as heritors to August's will, and will grant you one brief audience."
+            },
+            {
+              "id": 7141,
+              "string": "1\u0000\u0007There are limitsss to that which man has recorded in his annals, but as I said before--truth is a fruit found only by the intellectually ravenous."
+            },
+            {
+              "id": 7143,
+              "string": "1\u0000\u0007Beyond doubt."
+            },
+            {
+              "id": 7145,
+              "string": "1\u0000\u0007Your memory is sssharp as a fresh blade, young one.\u0007And what about you, ?[son\/daughter] of man?"
+            },
+            {
+              "id": 7146,
+              "string": "1\u0000\u0007Do you recall this tale?"
+            },
+            {
+              "id": 7148,
+              "string": "1\u0000\u0007Hmm...\u0007I had taken you both for fools, but now I sssee that you are worthy."
+            },
+            {
+              "id": 7149,
+              "string": "1\u0000\u0007Ha...hahaha!"
+            },
+            {
+              "id": 7150,
+              "string": "1\u0000\u0007Quite the show you've put on for me!\u0007But your honesssty and candor are refreshing."
+            },
+            {
+              "id": 7151,
+              "string": "1\u0000\u0007Be thankful that your friend is both meticulousss and sound of mind."
+            },
+            {
+              "id": 7152,
+              "string": "1\u0000\u0007Yes, that tale is yet another in this series of truthsss. I am not of Ulbukan origin."
+            },
+            {
+              "id": 7153,
+              "string": "1\u0000\u0007The time is not right for me to explain the ssstory in its entirety, but suffice to say..."
+            },
+            {
+              "id": 7154,
+              "string": "1\u0000\u0007I was long chained down in a terrible domain, and it was the king who releasssed me from my prison."
+            },
+            {
+              "id": 7155,
+              "string": "1\u0000\u0007Never again will I return there. Nor will they..."
+            },
+            {
+              "id": 7157,
+              "string": "1\u0000\u0007??Homeland.?? Quite the pretty phrase, washing away reality with a thin veneer of nossstalgia. No, my ??homeland?? is not a place to which I desire to return."
+            },
+            {
+              "id": 7158,
+              "string": "1\u0000\u0007And I will take no further questionsss on the matter."
+            },
+            {
+              "id": 7159,
+              "string": "1\u0000\u0007You mentioned earlier the beings you know as the ??Naakuals.??"
+            },
+            {
+              "id": 7160,
+              "string": "1\u0000\u0007So...you have vanquished them."
+            },
+            {
+              "id": 7161,
+              "string": "1\u0000\u0007Perhaps it is as he said...I should not look down on the ?[sssons\/daughtersss] of man."
+            },
+            {
+              "id": 7165,
+              "string": "1\u0000\u0007Hmm...pioneering...\u0007Unsssurprising, given that they are the guardians of Ulbuka."
+            },
+            {
+              "id": 7166,
+              "string": "1\u0000\u0007We are quite alike, the Naakualsss and I. We are all residents of a land we cannot call our own, rescued from fate by the one you call the founder king."
+            },
+            {
+              "id": 7167,
+              "string": "1\u0000\u0007They obeyed his will much like I did, and when he ordered them to guard sssix locations around Ulbuka, they were bound to obey. That is how they came to protect this land."
+            },
+            {
+              "id": 7168,
+              "string": "1\u0000\u0007The ancient pact declared that they were to remain dissstant from the affairs of mortals and shelter the jungle from harm."
+            },
+            {
+              "id": 7170,
+              "string": "1\u0000\u0007Yet countlesss years have passed since the king made his request manifest. Perhaps too many years."
+            },
+            {
+              "id": 7171,
+              "string": "1\u0000\u0007Some who witnessed those times firsthand have had their memories fade as the centuries passed, and have long forgotten the very reason for their sssworn task."
+            },
+            {
+              "id": 7172,
+              "string": "1\u0000\u0007And not jussst the ??why??...but also the ??what.??"
+            },
+            {
+              "id": 7174,
+              "string": "1\u0000\u0007It is not the jungle they pledged to protect."
+            },
+            {
+              "id": 7176,
+              "string": "1\u0000\u0007They were scattered throughout the six reaches of Ulbuka, to be sssure, but not for the reason you think."
+            },
+            {
+              "id": 7177,
+              "string": "1\u0000\u0007They were sent to guard the six entrances to what you refer to as the Serpentine Labyrinth."
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007When August made his last ssstand, he bid Morimar and I to return to the surface without him."
+            },
+            {
+              "id": 7180,
+              "string": "1\u0000\u0007Our purpose--given by the king himself--was not to guard his side. It was to deliver his orders unto..."
+            },
+            {
+              "id": 7181,
+              "string": "1\u0000\u0007...the Naakuals. They were to seal the entrances to the labyrinth and ensure that nary so much as a man's breath penetrate into its recesses."
+            },
+            {
+              "id": 7184,
+              "string": "1\u0000\u0007Correct."
+            },
+            {
+              "id": 7187,
+              "string": "1\u0000\u0007He was...different from the rest."
+            },
+            {
+              "id": 7188,
+              "string": "1\u0000\u0007In ancient times, he was referred to as ??The Deathborne Xol,?? and his purpose was to ssserve the hallowed leader of the Cimmerian Adherents."
+            },
+            {
+              "id": 7190,
+              "string": "1\u0000\u0007Indeed. He was one of the Xol Triumvirate."
+            },
+            {
+              "id": 7191,
+              "string": "1\u0000\u0007But during his fierce classshes with August, he came to see the light."
+            },
+            {
+              "id": 7192,
+              "string": "1\u0000\u0007I know not where he is or what his tasssk is.\u0007Perhaps..."
+            },
+            {
+              "id": 7193,
+              "string": "1\u0000\u0007No, ssspeculation is not my forte. He is impossible for me to read."
+            },
+            {
+              "id": 7204,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7205,
+              "string": "1\u0000\u0007The seals on the Serpentine Labyrinth wear thin. The spirits of the past are beginning to reawaken."
+            },
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007The Lord of the Serpentine Labyrinth...Hades."
+            },
+            {
+              "id": 7210,
+              "string": "1\u0000\u0007Darkness threatens to choke this land once more. He returnsss."
+            },
+            {
+              "id": 7211,
+              "string": "1\u0000\u0007The sssmell of the wind...the undulations of the land...\u0007It is now as it was then."
+            },
+            {
+              "id": 7212,
+              "string": "1\u0000\u0007Like a harsh wind chipping away at a boulder, his return is sluggish...but inevitable."
+            },
+            {
+              "id": 7214,
+              "string": "1\u0000\u0007You too, child, must sssense it. Forces antithetical to all life strengthen with each passing day."
+            },
+            {
+              "id": 7215,
+              "string": "1\u0000\u0007As they wax, the power of the World Tree wanes."
+            },
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007Having lost its twin, it coalesced all its energies into its roots and took hold deep within Ulbukan soil."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007It then ssspread throughout the land, quelling all the evil that sought to consume it."
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Countless years have passed since then, and, as the World Tree aged, it began to lose its potency."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007The landshivers are but a physical manifessstation of this phenomenon. Each shudder is the World Tree trembling in agony."
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Then all that August worked to contain will ssspill out onto the surface."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007Hades' wait is almost over, his black heart is growing stronger as we speak."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007Calamity will befall us once again."
+            },
+            {
+              "id": 7227,
+              "string": "1\u0000\u0007We cannot."
+            },
+            {
+              "id": 7229,
+              "string": "1\u0000\u0007Young child and her young friend...\u0007I am but a relic of the passst."
+            },
+            {
+              "id": 7230,
+              "string": "1\u0000\u0007Would that August were alive, things may be different. If not his body, then at least his ssspirit..."
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007But it is still chained within the Serpentine Labyrinth's most inner recessses."
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007During August's crusade, he was ruthlessly devoted to his cause, and the World Tree was at the height of its power."
+            },
+            {
+              "id": 7234,
+              "string": "1\u0000\u0007These three forces combined to seal that dark malady deep within."
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007Yet dessspite the most favorable of circumstances, we failed to eliminate the threat completely."
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007This time, we have no light of hope to guide us."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007Though I remain in this realm, I still bear the wounds I suffered during that ssstruggle."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007As I alluded to before, even if I were healthy, the founder king's ssspirit is trapped, and the World Tree has begun to crumble."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007Yet despite all this, mankind insists on working its utmost to destroy the wilds!"
+            },
+            {
+              "id": 7242,
+              "string": "1\u0000\u0007How can you possibly underssstand my pain!?"
+            },
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007How many times must we knock them down before they cease to rise up once more!?"
+            },
+            {
+              "id": 7245,
+              "string": "1\u0000\u0007Ssstop that this instant!"
+            },
+            {
+              "id": 7246,
+              "string": "1\u0000\u0007<Sigh>\u0007Forgive my sudden outburssst."
+            },
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007Whatever the case, our three lights of hope have been extinguished."
+            },
+            {
+              "id": 7249,
+              "string": "1\u0000\u0007The world is made up of one sssimple truth: if something can grow old, it can die."
+            },
+            {
+              "id": 7250,
+              "string": "1\u0000\u0007But perhaps...perhaps there is a way to reverse the process."
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Firssst, a brief lesson. The World Tree's origins lie not in Ulbuka."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007To hear August tell it, he had retrieved a young branch of the World Tree from a far-off land, and planted it here, in this continent."
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007It sprang forth from the sssoil and began to bud before one turn of the moon, its limbs stretching so high they must have touched Altana herself."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007If we were to do the same thing...\u0007...And this time, the rootsss are already here to work with."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Then the World Tree would burssst into existence much as it did then...only faster."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007A Lightsland. The World Tree grew in a sssanctified place filled with light and surrounded by serene waters."
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007In a place that was once called Rhazowa."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007There was once a Lightsssland on that frozen continent...\u0007...Nevertheless, its presence is but a memory etched onto a tattered canvas."
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007When the World Tree sssensed changes occurring here, it gifted a piece of itself, creating a new Lightsland here."
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007I can feel it. Soft vibrations in the land, calling me there."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007No. Even though you have seen the reality, there is nothing you can do."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007I, and I alone, have the power to accesss the Lightsland."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007But the trauma I have sssuffered is too great, and my constitution is too frail."
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007Those blasphemous entities ssstripped me of my scales, cursed them, and scattered them throughout the land."
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007This is why my wounds will never heal. I cannot fly as long as my ssscales are held captive. Not now, not ever."
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007Even the slightest flap of my wings sends jolts of pain down my ssspine."
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Circling the mountaintop is all I can bear before I am forced to make landfall. Arriving at the Lightsssland? Beyond question."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007I have searched many of your lifetimesss for even one, but to no avail."
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007I have no other avenues to try, and cannot disperse the evil."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007Darrcuiln...and Morimar, too.\u0007And alssso..."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007...You two. Even a caged Opo-opo knows that it cannot reach the pamama tree."
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007This was your doing, I assume?"
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007I know not what you plan, but I could have my answer engraved on a ssstone tablet and you would just claim to be illiterate."
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007No. Begone."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007What you would asssk of me cannot be done. August told us to impart one lesson to the people--never again were they to set foot in the wilds."
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Sssee, Morimar? Even an outsider such as ?[he\/she] knows the tale."
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007Do you not see your role as an accomplice in this travesssty?"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007What would you know of the truth? Morimar and I were there, while your far ancestors were doubtless still bickering over some petty land dispute."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007In any event, the king had but one wish--that none ever enter the continent."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007But the children of men are foolhardy. Their lives last but an inssstant, and thus their capacity for wisdom is lacking."
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007They knew his dying words, yet from then until this very day, they never abandoned their desire to terrorize the jungle."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007The fools are not aware that the World Tree's roots are buried deep within the Serpentine Labyrinth, shutting in the forces of darkness from the outssside world."
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007No, not only are they ignorant--they continue to harm the Tree with each breath they take."
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Numberless are the years I spent watching humanity's pernicious deeds from atop this frigid peak."
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007I am confident that the king would not have wavered in these dark times. Man is to leave this place."
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007You ssspeak truth. A storm threatens to tear us all apart."
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007The World Tree's power has begun to fade, and my wingsss will not carry me for more than a few brief moments."
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007The Naakualsss have been embroiled in conflict from dawn to dusk since the moment Morimar emerged from that cursed labyrinth, and even they have begun to forget why."
+            },
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007That is correct, child. Your sojourn was but pure misconception."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007...Conflicted?"
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007Is that so..."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007How...how could you possibly know that?"
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007And where would you suggessst?"
+            },
+            {
+              "id": 7204,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007Why would...?"
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007At lassst, I see why you brought them before me."
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007...6\u0002\u0007Morimar, my old friend and battle brother."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007And you, who bears proof of your deeds."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Ssso it is as Morimar said. My scales were sealed away in that cursed place."
+            },
+            {
+              "id": 7439,
+              "string": "1\u0000\u0007I know you can find them all.\u0007To think...all those yearsss I wasted searching in the wrong places."
+            },
+            {
+              "id": 7440,
+              "string": "1\u0000\u0007But remember--even if you find them all, I will not be at full strength, and will not be able to penetrate the Ssserpentine Labyrinth any more than you."
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007Hades, my hatred for you grows deeper with each breath I exhale!\u0007\b, I know you will sssucceed!"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7442,
+              "string": "1\u0000\u0007My scales...I can ssscarcely believe they are all here."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007My friend, these outsidersss...what did you call them?"
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007Color me impresssed, Morimar. You have certainly been busy when not under my gaze."
+            },
+            {
+              "id": 7459,
+              "string": "1\u0000\u0007??An age of adventure...??"
+            },
+            {
+              "id": 7460,
+              "string": "1\u0000\u0007Ssspeaking of powers long forgotten, back in those olden times, there were three forces that made all this possible."
+            },
+            {
+              "id": 7461,
+              "string": "1\u0000\u0007The savage yet noble hero, King August."
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007The twinned World Tree, which watches over all life."
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007I thought...I thought all had been lossst."
+            },
+            {
+              "id": 7465,
+              "string": "1\u0000\u0007We worked as hard as we could, yet it was all we could do to ssseal away Hades."
+            },
+            {
+              "id": 7466,
+              "string": "1\u0000\u0007And now, with those forces in a precipitousss decline, I thought there was no way to save this land."
+            },
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Up until this moment, I had taken these phenomena to herald the beginning of the end."
+            },
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007I thought myself irreparably shattered, yet now my woundsss are mended. This is all thanks to you."
+            },
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007With this, you should be able to ressstore the World Tree."
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007Two of the three are ready to be brought to bear. Now what about August, whose spirit is held hostage in the Serpentine Labyrinth?"
+            },
+            {
+              "id": 7472,
+              "string": "1\u0000\u0007If we only had sssomething that could compare to his valor..."
+            },
+            {
+              "id": 7492,
+              "string": "1\u0000\u0007When August recovered the sssapling from Rhazowa and brought it here, he planted it in one of the most sacred areas of Ulbuka."
+            },
+            {
+              "id": 7493,
+              "string": "1\u0000\u0007But such an area would have long since fallen to the choking miasssmas of the Serpentine Labyrinth."
+            },
+            {
+              "id": 7494,
+              "string": "1\u0000\u0007Were you able to affix it to the roots of the exisssting World Tree, you may be able to bring it back to life...but I have not the faintest notion of how."
+            },
+            {
+              "id": 7496,
+              "string": "1\u0000\u0007Unfortunately. But do not fret, young one. Should you desssire to aid the World Tree, all you need do is ask it."
+            },
+            {
+              "id": 7499,
+              "string": "1\u0000\u0007I see you are ssstarting to realize at last."
+            },
+            {
+              "id": 7500,
+              "string": "1\u0000\u0007Your first order of business is to restore the World Tree. That is the only way to bolssster Ulbuka against the evil within."
+            },
+            {
+              "id": 7517,
+              "string": "1\u0000\u0007The easssterly winds have shifted, young ones, heralding the revival of his malicious decadence."
+            },
+            {
+              "id": 7518,
+              "string": "1\u0000\u0007Calling it an ??ill portent?? would make mockery of the sssacrifices August and his generals made...that we all made."
+            },
+            {
+              "id": 7519,
+              "string": "1\u0000\u0007But we have yet to bear witness to breaches in the jungle's integrity itself, indicating that neither Hades nor his ssservants have crested in power."
+            },
+            {
+              "id": 7522,
+              "string": "1\u0000\u0007If they were to fully awaken, the land would split in twain, choking tendrils dragging pioneers into a bottomless crevasse. No, what you see now is merely a foreshadowing of what is to come."
+            },
+            {
+              "id": 7524,
+              "string": "1\u0000\u0007You speak truthfully."
+            },
+            {
+              "id": 7527,
+              "string": "1\u0000\u0007Balamor...\u0007That name is not familiar to me. And you believe he is the most recent incarnation of the undying horde'sss leader."
+            },
+            {
+              "id": 7540,
+              "string": "1\u0000\u0007And I shall lend my aid as well. Now that I have recovered--"
+            },
+            {
+              "id": 7204,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7554,
+              "string": "1\u0000\u0007Why start with more ephemeral topicsss when we can focus on someone close to our hearts: Morimar."
+            },
+            {
+              "id": 7590,
+              "string": "1\u0000\u0007Sssurely you understand now, Princess."
+            },
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007Though he once ssserved under the monster, he is now one of the seven...the Undying Naakual."
+            },
+            {
+              "id": 7592,
+              "string": "1\u0000\u0007In the flesh."
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007Right as I would forget about him, he would come bounding up the mountain with fanciful tales of the sights he saw and people he met. A youngling again, he ssseemed to be, as if the centuries of his life touched him not."
+            },
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007Remove the curse the dread lord has placed upon him."
+            },
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007\b...Teodor tells me you have besssted him."
+            },
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Last he came, he ssspoke of you in the most glowing of terms."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007It's been ages, he opined, since he fought with all his might."
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007You should have heard him prattling on like a child receiving a new toy on Ssstarlight."
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Yet I must confesss I envy his free spirit..."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007Enough. You did not come to hear me wax poetic about timesss gone by."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007You impress me more each time we meet. None other has had the resolve to vanquish each of the seven Naakuals."
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007You have resided in Adoulin for sssome time now."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007I know what the city's leaders tell all who disembark on Ulbukan soil."
+            },
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007??The Naakuals are thwarting the pioneers' best efforts??...and that your job is to remove anything that stands in the way of progresss."
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007You may deny it, but your face speaks the truth."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007In a twisted way, those words were prophetic, for your overcoming of the seventh Naakual will prove critical in sssaving this land."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007I would have expected nothing less of you."
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007Those who represent the will of the founder king are destined to sssubjugate the Naakuals."
+            },
+            {
+              "id": 7659,
+              "string": "1\u0000\u0007There is a reason I am keenly aware of that fact...for it was I who started that superstition within the city."
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007But lest you think I dessscended upon Jorius Yett and issued an edict from on high, in fact I planted seeds of the truth within their minds."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Humanity has always intrigued me. Thoughts buried in your deepest recesses always find a way to sssurface as words."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007Think back. There exist seven Naakuals in Adoulin's collective conscious, but only six had ever been ssseen. Did you not find that to be a bit queer?"
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007Seven locales, but only six Naakuals?"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007Why would people hold such legendsss close to heart when their experiences taught them otherwise?"
+            },
+            {
+              "id": 7665,
+              "string": "1\u0000\u0007All the more amusing when the seventh was in their faces the entire time."
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007You have thwarted the Naakuals, as did August before you."
+            },
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007You have earned the trussst of not only those noble beings, but of the leafkin as well."
+            },
+            {
+              "id": 7668,
+              "string": "1\u0000\u0007To sssay nothing of the faith I place in you."
+            },
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007The time is nigh. Go forth with the confidence I know you have."
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007You can succeed where August did not."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932297,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007(And for this princess...)"
+            },
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007(...it is not just the people, but all things that live on the continent.)"
+            },
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007(Would you not say so, \b?)"
+            },
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007(...)"
+            },
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007(...)"
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007(...No. We simply have different perspectives.)"
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007(<Gulp>... So you knew all along.)"
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007(I will tell you this--there are some things better left unknown.)"
+            },
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007(...I see.)"
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007(Then I shall do what I can.)"
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007(Anything I tell \b, I shall tell you as well. I trust you do not mind, \b?)"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7526,
+              "string": "1\u0000\u0007(...)"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932298,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007'Twas."
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007Come on, Sajj'aka. Yer not one to forget the oath ya swore to August--to protect the wildlands."
+            },
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Or do you mean to say ya wanted to help when it was convenient for ya, and the rest of us be damned?"
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007This isn't a question of men, nor of how long a life ya lead. Doesn't matter one bit."
+            },
+            {
+              "id": 7301,
+              "string": "1\u0000\u0007If the prince of the deeps comes back, both man and beast, both the mortal and the ageless, will be swallowed up whole."
+            },
+            {
+              "id": 7302,
+              "string": "1\u0000\u0007Ya know why--because he detests all life. Yer aware of it as much as I am."
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Sajj'aka, not for even a second have I forgotten that August gave me Ortharsyne and said ??Never again is man to set foot into the wilds.??"
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007But think--why, after all these centuries, would the blade burn bright and point these two kids here?"
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007I, too, see a reason behind all this."
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007Long ago, when August's dyin' words had begun to fade into legend, Adoulinians set out to recolonize the land."
+            },
+            {
+              "id": 7319,
+              "string": "1\u0000\u0007Is that how it came to be known? Trust me, there was nothin' ??great?? 'bout it."
+            },
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007August made a five-degree turn in his grave and they all ran howling back to the city with their tails between their legs."
+            },
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007And what'd they do when they got back? Made some excuse about needin' to respect the dead and erected that huge seal."
+            },
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007When faced with something they do not know, man has a deep-rooted need to seal it away and never think 'bout it again."
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007They cover it, put it away, and pretend that it never existed."
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007That's why his first warning came in a dream. He figured that'd be enough."
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007Would that they were."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007No, it's 'cause the World Tree is losin' her strength."
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007It's no surprise you'd misunderstand. The warnings are graver now than you'd read in any of yer books."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007First the king gets poofed into a seedling, and now landshivers?"
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007Surely people would think to stop colonization."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007And in most times, that would have been the case."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007But no, not with Ygnas. Not once has he thought to give in."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Not only does he remain resolute, but he even took that curse to be a blessing, thinking it'd help him understand the World Tree."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007I'm pretty sure."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Some people are stronger than others...but perhaps Ygnas is stronger still."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007And not just him. Arciela, \b...and all your compatriots who persist in colonizing the land."
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007To protect somethin' they love, huh? Can't say I understand it...but that may be my age showin'."
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007Shut yer trap! If I wanted yer opinion, I'd've given it to ya!"
+            },
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007Yes, that's a good boy."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Y'know what I think, Sajj'aka? August must be pretty conflicted. That's why he used the sword to call them here."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Yup. That's my opinion."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007Times have changed, and new forces are comin' to bear."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007There are so many like Arciela, and like \b, workin' for the benefit of Adoulin."
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007I've got an idea of where to find yer scales."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Hmph. Ya think all I've been doin' these long years is slingin' my axe around?"
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007I may not be as spry as I once was, but I can sneak around like the best of 'em!"
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007Ya got somethin' to say? Come now, out with it."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Sometimes you can be pretty dense, Sajj'aka."
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Didn't you just get done saying people aren't nearly as clever as you?"
+            },
+            {
+              "id": 7381,
+              "string": "1\u0000\u0007Bwahaha, nothin' beats playin' around with a fuddy-duddy like yerself!\u0007But back to the matter at hand..."
+            },
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007Deep within the recesses of the Naakuals' charges...6\u0001\u0007That's right."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007The Serpentine Labyrinth."
+            },
+            {
+              "id": 7386,
+              "string": "1\u0000\u0007Think. That place has been sealed off thanks to the pact they made with August. Some areas haven't been opened up in generations upon generations."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007The pioneers have tried to make inroads there, but've met with little success."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007Then there's a chance we can find 'em."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007But it won't be enough just to ask the Naakuals to let you in."
+            },
+            {
+              "id": 7393,
+              "string": "?.\u0000\u0007They'll need your okay too, Sajj'aka! So says the ritual."
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007Finally. As I said, August is wandering 'n confused."
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007All of us know that stopping colonization won't stem the tide of what's to come."
+            },
+            {
+              "id": 7397,
+              "string": "1\u0000\u0007The World Tree can't hold out much longer!"
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007So I got to thinkin'--ya've gotta lead them deep inside the labyrinth, even if it means lettin' colonization go on."
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007And ya care what happens to this land."
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007Ya know why he's kept silent all this time--it was to let them meet with the Naakuals and the leafkin."
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007Even since that Ygnas turned into one of those little green buggers, August hasn't made a single peep, like he did during the Great Expedition."
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007No, colonization has proceeded quite smoothly, and the pioneers have breached the reaches of the Serpentine Labyrinth. Isn't that all the proof you need?"
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007There've been no sacrifices and no saviors. Everythin's just on the edge of boilin' over."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Do ya disagree? I'm more than willin' to listen."
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007Unfortunately, dear princess, I can't allow ya to."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007Not that I don't appreciate yer valor. Far from it. But yer talents are better used elsewhere."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Darrcuiln can only protect ya so much--and there are other things ya need to be doin'."
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007Look within yerself. Is searchin' for dragon scales the best way ya can help?"
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007What 'bout Adoulin? Don't they need a shining beacon, given the state Ygnas is in?"
+            },
+            {
+              "id": 7430,
+              "string": "1\u0000\u0007Bwahaha, the girl's got a leg up on you, shaggy."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007(She is not the type of girl to give in. She will keep pressing until you submit.)"
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Suppose there's not much left for me to say. Keep your nose to the grindstone, but not so much that ya lose sight of what's important."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007So what now, Sajj'aka? You feel like humanity isn't as hopeless as you thought?"
+            },
+            {
+              "id": 7454,
+              "string": "1\u0000\u0007Adventurers. They journey the land for all sorts of purposes. Fame. Fortune. Justice. Wanderlust."
+            },
+            {
+              "id": 7455,
+              "string": "1\u0000\u0007Here, they fulfill the roles of pioneers."
+            },
+            {
+              "id": 7456,
+              "string": "1\u0000\u0007They come from the Middle Lands, but they have been all over the world. Some went to...what was it called? Aht Urhgan? Where they served as mercenaries."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007We talk of August and curses, ancient empires and forgotten kingdoms...but what Vana'diel is today, it is because of young men and women like \b."
+            },
+            {
+              "id": 7489,
+              "string": "1\u0000\u0007So the light of dawn comes from the east, hmm?"
+            },
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007Arciela and \b! We've been waitin' fer ya."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007But before we get started, I owe ya an apology."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007For the whole Hades deal. It was that bastard this whole time."
+            },
+            {
+              "id": 7508,
+              "string": "1\u0000\u0007Yeah. I found out while ya were gone."
+            },
+            {
+              "id": 7509,
+              "string": "1\u0000\u0007While dealin' with the whole Melvien incident in Leafallia, the World Tree brought forth vivid images in my mind. I can still feel 'em."
+            },
+            {
+              "id": 7510,
+              "string": "1\u0000\u0007And all this time, I had ignored what was right in front of me. Curse the lotta 'em!"
+            },
+            {
+              "id": 7511,
+              "string": "1\u0000\u0007My mind blanked out. Not fer a second, but fer minutes. Ta think..."
+            },
+            {
+              "id": 7512,
+              "string": "1\u0000\u0007Sajj'aka regained his former strength and the World Tree came back ta life. And then Hades..."
+            },
+            {
+              "id": 7513,
+              "string": "1\u0000\u0007That cursed fool came back too! I'd sooner rake my hands o'er hot coals than let it happen, but it was too late!"
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007But our problems don't stop there. No, I'm here because--"
+            },
+            {
+              "id": 7516,
+              "string": "1\u0000\u0007Then I can spare ya the long explanation, and content myself that you're aware of the disaster they bring about by servin' their foul master."
+            },
+            {
+              "id": 7523,
+              "string": "1\u0000\u0007But we're not exactly sittin' pretty here, either."
+            },
+            {
+              "id": 7528,
+              "string": "1\u0000\u0007Let's leave that one alone for now."
+            },
+            {
+              "id": 7530,
+              "string": "1\u0000\u0007If what ya said is true, he'll probably be content to sit on the sidelines and let it all play out as long as we don't make any sudden moves."
+            },
+            {
+              "id": 7531,
+              "string": "1\u0000\u0007He'll look out from his little perch, laughin' at how our actions cause the stage to revolve."
+            },
+            {
+              "id": 7532,
+              "string": "1\u0000\u0007He thinks we're puppets, dancing around fer his own pleasure...and the fewer immediate threats we've gotta deal with, the better."
+            },
+            {
+              "id": 7533,
+              "string": "1\u0000\u0007And what's this about a ??Grand Guignol??? Idiot's already writing his script when the characters have their own ideas how things'll shake out!"
+            },
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007We've got two left to deal with, assumin' they're the same as they were then. The first, Dhokmak the Brash Xol, he of the toxic miasma."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Then there's the one who commands forked lightning and blades of wind, Ashrakk, the Duskbrood Xol."
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007And if yer rumors are true, Princess, then that's exactly who we're dealin' with."
+            },
+            {
+              "id": 7537,
+              "string": "1\u0000\u0007But, then again, now that we're dealin' with this Balamor figure...I wouldn't bet my axe on it."
+            },
+            {
+              "id": 7538,
+              "string": "1\u0000\u0007Grah! Does it even matter in the end? We've gotta put them outta their misery regardless of whether they're the fiends I remember."
+            },
+            {
+              "id": 7539,
+              "string": "1\u0000\u0007I'd hoped it was my time to pass on quietly into the night, but as long as they're here, ya've got me by yer side."
+            },
+            {
+              "id": 7541,
+              "string": "1\u0000\u0007Not you, Sajj'aka. Not yet."
+            },
+            {
+              "id": 7542,
+              "string": "1\u0000\u0007We might've gotten yer scales back and ditched that ol' curse, but yer in no condition to go sharpenin' your talons on those two."
+            },
+            {
+              "id": 7543,
+              "string": "1\u0000\u0007Ya gotta get stronger, old friend. Hades is comin' back, and we'll need ya then more'n now."
+            },
+            {
+              "id": 7544,
+              "string": "1\u0000\u0007You were there; that unholy battleground where our comrades..."
+            },
+            {
+              "id": 7545,
+              "string": "1\u0000\u0007Leave the triumvirate to us and get yerself ready."
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007Okay, time to fly!"
+            },
+            {
+              "id": 7549,
+              "string": "1\u0000\u0007Oho, I guess I left that little detail out."
+            },
+            {
+              "id": 7550,
+              "string": "1\u0000\u0007??Walk?? doesn't sound as dramatic. But we've got to get there somehow. Where, you ask?"
+            },
+            {
+              "id": 7551,
+              "string": "1\u0000\u0007Leafallia--where else? The best way to understand the forest is to hear it from the queen herself."
+            },
+            {
+              "id": 7552,
+              "string": "1\u0000\u0007Forgive me for saying this, \b, but your tendency to be one step behind seems to be literal as well as figurative."
+            },
+            {
+              "id": 7555,
+              "string": "1\u0000\u0007But if we take things out of order then their heads will spin so fast they'll go tumbling right off the cliff."
+            },
+            {
+              "id": 7556,
+              "string": "1\u0000\u0007I suppose that means I must lead you toward a most uncomfortable truth."
+            },
+            {
+              "id": 7557,
+              "string": "1\u0000\u0007You cannot defeat Hades as things stand, and I need you to carefully listen to the reason."
+            },
+            {
+              "id": 7558,
+              "string": "1\u0000\u0007In his quest to keep himself from dissipating into nothingness, Hades engraved a piece of himself onto the souls of each member of the Xol Triumvirate."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007It is not as peculiar a technique as you might surmise."
+            },
+            {
+              "id": 7561,
+              "string": "1\u0000\u0007Why, it is the same technique as that used by the key to the founder king's grave, passed on from each generation of the Order of Adoulin to the next."
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007A key, Princess, whose passing you once witnessed."
+            },
+            {
+              "id": 7565,
+              "string": "1\u0000\u0007The one and same.\u0007Hades used a similar ritual to create blood sigils on the spirits of his three most trusted underlings."
+            },
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007Most sinister, no? But as long as they exist, you cannot vanquish Hades."
+            },
+            {
+              "id": 7569,
+              "string": "1\u0000\u0007The sigils are inexorably intertwined not just with the triumvirate..."
+            },
+            {
+              "id": 7570,
+              "string": "1\u0000\u0007But with Hades' soul itself."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007These sigils not only provide entry to the turris, but they are an armor stronger than the thickest mythril."
+            },
+            {
+              "id": 7573,
+              "string": "1\u0000\u0007The Xol Triumvirate are inscribed with these profane marks."
+            },
+            {
+              "id": 7574,
+              "string": "1\u0000\u0007Any harm inflicted upon Hades mars instead the flesh of those three abominations."
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007Exactly what it sounds like. Wounds do not affect him."
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007An entire retinue could slice and hack at him for days, but you may as well assault the sea with a saber."
+            },
+            {
+              "id": 7578,
+              "string": "1\u0000\u0007...Did not work, as you have doubtlessly noticed. His flesh is impervious, his organs unblemished."
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007But those sigils serve another purpose--they are symbols of the triumvirate's total fealty."
+            },
+            {
+              "id": 7580,
+              "string": "1\u0000\u0007How could they be anything less? Hades has engraved himself upon their very souls."
+            },
+            {
+              "id": 7586,
+              "string": "1\u0000\u0007As I said, they are symbols of absolute fealty..."
+            },
+            {
+              "id": 7588,
+              "string": "1\u0000\u0007His blood sigil takes hold of me once more."
+            },
+            {
+              "id": 7594,
+              "string": "1\u0000\u0007Yes."
+            },
+            {
+              "id": 7595,
+              "string": "1\u0000\u0007Sajj'aka and Morimar have long protected Ulbuka from that which sought to engulf it...and so, too, have I."
+            },
+            {
+              "id": 7596,
+              "string": "1\u0000\u0007In the age of the founder king, I had originally pledged my life to Hades, but came to embrace August and all he stood for."
+            },
+            {
+              "id": 7599,
+              "string": "1\u0000\u0007I am the reason for his actions."
+            },
+            {
+              "id": 7603,
+              "string": "1\u0000\u0007When I caught wind that he was making haste for the turris, I cut him off--and revealed the truth."
+            },
+            {
+              "id": 7604,
+              "string": "1\u0000\u0007Forgive my squawking like a colibri repeating the same phrase thrice over, but Hades cannot be vanquished as long as the sigils are manifest."
+            },
+            {
+              "id": 7605,
+              "string": "1\u0000\u0007How can you call something a battle when the enemy's victory is already assured?"
+            },
+            {
+              "id": 7606,
+              "string": "1\u0000\u0007I was naught but honest. Had you fought alongside him in that struggle, all of you would have been consumed."
+            },
+            {
+              "id": 7607,
+              "string": "1\u0000\u0007And confronted face-to-face, engaged with death itself, escape would have been utterly impossible."
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007Someone had to stay there and confront him, alone, so that the rest would survive."
+            },
+            {
+              "id": 7609,
+              "string": "1\u0000\u0007In a word, I sentenced him to death. I confided that the only way for you to survive was for him to sacrifice himself."
+            },
+            {
+              "id": 7610,
+              "string": "1\u0000\u0007And do you know how he replied?"
+            },
+            {
+              "id": 7612,
+              "string": "1\u0000\u0007How fitting."
+            },
+            {
+              "id": 7615,
+              "string": "1\u0000\u0007You surely understand the implications, having toppled both Ashrakk and Dhokmak."
+            },
+            {
+              "id": 7617,
+              "string": "1\u0000\u0007And Hades will not go quietly into the night as long as any of the marks survive."
+            },
+            {
+              "id": 7618,
+              "string": "1\u0000\u0007There is only one way. You must wrest my mark from me."
+            },
+            {
+              "id": 7619,
+              "string": "1\u0000\u0007...In the same way as the hallowed August did so many centuries ago."
+            },
+            {
+              "id": 7620,
+              "string": "1\u0000\u0007Yet here is not a place for bloodshed. We must go somewhere more appropriate."
+            },
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007I'll await you in Rala Waterways...in the Watergarden Coliseum."
+            },
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007And Princess--I forbid you from taking part."
+            },
+            {
+              "id": 7627,
+              "string": "1\u0000\u0007I fear your bravery outstrips your wisdom here, Arciela. You may not like what you see."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932299,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932300,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932301,
+      "name": "",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932302,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932303,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932304,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7673,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7674,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7675,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7683,
+              "string": "1\u0000\u0007Would you like to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7684,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bNone, thank you.\u0007(1).\u0007(2).\u0007(3).\u0007(4).\u0007(5).\u000711(1)\u000711(2)\u000711(3)"
+            },
+            {
+              "id": 7677,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7685,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7677,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7686,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7677,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7677,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7677,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7676,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932306,
+      "name": "???",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17932307,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        
+      ]
+    }
+  ]
+}

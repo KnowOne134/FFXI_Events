@@ -1,0 +1,66 @@
+{
+  "id": 292,
+  "name": "Reisenjima Henge",
+  "actors": [
+    {
+      "id": 17973581,
+      "name": "Ethereal Ingress",
+      "events": [
+        {
+          "id": 1000,
+          "dialogue": [
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bGo into the light.\u0007Go into the smaller light.\u0007Do not go into the light."
+            },
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007Go into which light?\u0007\u000bKin.\u0007Gin.\u0007Kei.\u0007Kyou.\u0007Fu.\u0007Do not go into the light."
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bEscape.\u0007Head toward Ou.\u0007Remain."
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007The light contains...something other than peace and serenit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 1001,
+          "dialogue": [
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007The light contains...something other than peace and serenit"
+            }
+          ]
+        },
+        {
+          "id": 1002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

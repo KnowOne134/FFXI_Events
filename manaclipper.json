@@ -1,0 +1,67 @@
+{
+  "id": 3,
+  "name": "Manaclipper",
+  "actors": [
+    {
+      "id": 16789529,
+      "name": "Gniyah Mischatt",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007We are nearing \f\u0002[Sunset Docks\/Sunset Docks\/Purgonorgo Isle\/Sunset Docks]."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7214,
+              "string": "1\u0000\u0007This manaclipper is currently \f\u0002[following the Dhalmel Rock course\/following the Maliyakaleya Reef course\/en route to Purgonorgo Isle\/enroute to Sunset Docks]."
+            },
+            {
+              "id": 7215,
+              "string": "1\u0000\u0007We should \f\u0002[arrive back at Sunset Docks\/arrive back at Sunset Docks\/arrive there\/arrive there] in \f\u0001[less than an hour\/about 1 hour\/about 2 hours\/about 3 hours\/about 4 hours\/about 5 hours\/about 6 hours\/about 7 hours] (\n\u0000 ?\u0000[minute\/minutes] in Earth time)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16789533,
+      "name": "Khots Chalahko",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007Time: \n\u0000\u0007Route: \n\u0001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

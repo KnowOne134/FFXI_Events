@@ -1,0 +1,4712 @@
+{
+  "id": 182,
+  "name": "Walk of Echoes",
+  "actors": [
+    {
+      "id": 17523209,
+      "name": "",
+      "events": [
+        {
+          "id": 117,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523213,
+      "name": "Ornate Door",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 125,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523216,
+      "name": "Towering Portcullis",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523217,
+      "name": "_525",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 125,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523218,
+      "name": "_526",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 125,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523219,
+      "name": "_527",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 125,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523220,
+      "name": "_528",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 125,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523224,
+      "name": "TGS_182",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007TEST: Press confirm button to start."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523225,
+      "name": "test_PT01",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523226,
+      "name": "test_PT02",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523227,
+      "name": "SUNACHI_TEST1",
+      "events": [
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007Occupy the hollow?\u0007\u000bYep.\u0007Nope."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523268,
+      "name": "Echo Disseminator",
+      "events": [
+        {
+          "id": 1600,
+          "dialogue": [
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007This echo disseminator provides information about nearby battlefields and allows visitors to obtain \u0001\u00055????."
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007Perform which action?\u0007\u000bView battlefield information.\u0007Acquire \u0001\u00055????.\u0007None of the above."
+            },
+            {
+              "id": 7993,
+              "string": "1\u0000\u0007I can provide you with \u0001\u00056????...for a fee of \n\u0000 gil."
+            },
+            {
+              "id": 7992,
+              "string": "1\u0000\u0007Hand over \n\u0000 gil?\u0007\u000bGladly!\u0007On second thought..."
+            },
+            {
+              "id": 6998,
+              "string": "].\u0000\u0007You cannot carry any more \u0001\u00055????."
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007View which? (Surge \/ Endowed)\u0007\u000bNone of the above.\u0007No. \f![1\/8]: \f\u0001[??\/??\/??\/??] \n\t% \/ \f\u0001[??\/??\/??\/??] \n\u0011%.\u0007?@\u0007No. \f![2\/9]: \f\u0002[??\/??\/??\/??] \n\n% \/ \f\u0002[??\/??\/??\/??] \n\u0012%.\u0007?@\u0007No. \f![3\/10]: \f\u0003[??\/??\/??\/??] \n\u000b% \/ \f\u0003[??\/??\/??\/??] \n\u0013%.\u0007?@\u0007No. \f![4\/11]: \f\u0004[??\/??\/??\/??] \n\f% \/ \f\u0004[??\/??\/??\/??] \n\u0014%.\u0007?@\u0007No. \f![5\/12]: \f\u0005[??\/??\/??\/??] \n\r% \/ \f\u0005[??\/??\/??\/??] \n\u0015%.\u0007?@\u0007No. \f![6\/13]: \f\u0006[??\/??\/??\/??] \n\u000e% \/ \f\u0006[??\/??\/??\/??] \n\u0016%.\u0007?@\u0007No. \f![7\/14]: \f\u0007[??\/??\/??\/??] \n\u000f% \/ \f\u0007[??\/??\/??\/??] \n\u0017%.\u0007?@\u0007No. \f![8\/15]: \f\b[??\/??\/??\/??] \n\u0010% \/ \f\b[??\/??\/??\/??] \n\u0018%.\u0007?@\u0007Switch to combat view.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007View which?\u0007\u000bNone of the above.\u0007No. \f![1\/8]: In combat: \n\t% \n\u0011 participants.\u0007No. \f![1\/8]: \f\t[Inactive\/Active].\u0007No. \f![2\/9]: In combat: \n\n% \n\u0012 participants.\u0007No. \f![2\/9]: \f\n[Inactive\/Active].\u0007No. \f![3\/10]: In combat: \n\u000b% \n\u0013 participants.\u0007No. \f![3\/10]: \f\u000b[Inactive\/Active].\u0007No. \f![4\/11]: In combat: \n\f% \n\u0014 participants.\u0007No. \f![4\/11]: \f\f[Inactive\/Active].\u0007No. \f![5\/12]: In combat: \n\r% \n\u0015 participants.\u0007No. \f![5\/12]: \f\r[Inactive\/Active].\u0007No. \f![6\/13]: In combat: \n\u000e% \n\u0016 participants.\u0007No. \f![6\/13]: \f\u000e[Inactive\/Active].\u0007No. \f![7\/14]: In combat: \n\u000f% \n\u0017 participants.\u0007No. \f![7\/14]: \f\u000f[Inactive\/Active].\u0007No. \f![8\/15]: In combat: \n\u0010% \n\u0018 participants.\u0007No. \f![8\/15]: \f\u0010[Inactive\/Active].\u0007Switch to battlefield view.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007Walk No. \n\u0000 \f\u0001[contains no foes\/contains foes\/contains other players fighting foes\/has recently been attempted, and hence contains no foes].\u0007\f\u0001[The next battle will be\/The current battle is\/The current battle is\/The next battle will be] \f\u0002[a normal walk\/a surge walk\/an endowed walk\/an endowed surge walk].\u0007The chance of a surge walk is \n\u0003% and that of an endowed walk is \n\u0004"
+            },
+            {
+              "id": 7276,
+              "string": "%.\u0000\u0007\n\u0005 minutes have passed since combat has commenced, and the battle is \n\u0006% complete. \n\u0007 adventurer?\u0007[ is\/s are] participating."
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007Teleport?\u0007\u000bYes, please.\u0007No, thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523269,
+      "name": "Treasure Coffer",
+      "events": [
+        {
+          "id": 1601,
+          "dialogue": [
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????.\u0007Destroy 'em all.\u0007All items."
+            },
+            {
+              "id": 7248,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7249,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007Relinquish your claim to the battle spoils?\u0007\u000bYes.\u0007On second thought..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523286,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7713,
+              "string": "1\u0000\u0007What will you say?\u0007\u000bIt'll be all right!\u0007Trust in me!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523287,
+      "name": "Cait Sith",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7683,
+              "string": "1\u0000\u0007L-Larzos!"
+            },
+            {
+              "id": 7684,
+              "string": "1\u0000\u0007A-and...Ringaling and Portia!"
+            },
+            {
+              "id": 7685,
+              "string": "1\u0000\u0007Shame on you for betraying Lilisette and \b's trust! Turning your coats!"
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7692,
+              "string": "1\u0000\u0007Even you, Portia..."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007What!? I won't stand for such slander! Hisss!\u0007Unlike you unsavory bunch, we fight to realize an ideal, Goddess-sanctioned world! We fight for great justice!"
+            },
+            {
+              "id": 7709,
+              "string": "..\u0000\u0007\b."
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7718,
+              "string": "1\u0000\u0007Those words are the only truth to have come out of you this whole time! The entire encounter!\u0007We're no wardens of spite, I assure you, but there'll be a more opportune time to resolve the issue of names."
+            },
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007Let's finish this once and for all! Put an end to this overlong struggle!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7729,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007You speak of Lilith. Your alternate self."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007We can triumph over you! Overcome darkness!\u0007With our own hands and paws, we'll pull up your future of death and destruction by the roots!"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Aaah!"
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007A-Atomos is devouring their memories. B-both of theirs."
+            },
+            {
+              "id": 7863,
+              "string": "1\u0000\u0007Once it completely engulfs the dark future--claims it for the void--it should fall into stasis."
+            },
+            {
+              "id": 7867,
+              "string": "1\u0000\u0007!!!"
+            },
+            {
+              "id": 7868,
+              "string": "1\u0000\u0007Noooooo!"
+            },
+            {
+              "id": 7869,
+              "string": "1\u0000\u0007Atomos, you mustn't eat ?[him\/her]! Inedible!"
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007Wh-what!? No..."
+            },
+            {
+              "id": 7878,
+              "string": "1\u0000\u0007A-Atomos!?"
+            },
+            {
+              "id": 7879,
+              "string": "1\u0000\u0007Altana preserve!\u0007It's gone and overreached itself! Over-exerted!"
+            },
+            {
+              "id": 7880,
+              "string": "1\u0000\u0007It-it must've tried to devour the memories of the Goddess and the Dark Divinity both! Swallowed more than its fill!"
+            },
+            {
+              "id": 7882,
+              "string": "!?\u0000\u0007Ah..."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7921,
+              "string": "1\u0000\u0007Oh, thank the Goddess you haven't taken harm!\u0007We must quit this place without delay! Put distance between it and ourselves!"
+            },
+            {
+              "id": 7929,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7948,
+              "string": "e!\u0000\u0007Hm? Has Atomos...stopped?"
+            },
+            {
+              "id": 7949,
+              "string": "1\u0000\u0007Should Lilisette succeed in closing the gateway, Atomos will gradually revert to a petrified state. Fall into a deep slumber."
+            },
+            {
+              "id": 7950,
+              "string": "1\u0000\u0007The process may take years--perhaps decades--but the Distorter of Time will eventually become dormant. Distort time no more."
+            },
+            {
+              "id": 7929,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7951,
+              "string": "1\u0000\u0007\b. I fear the hour of our parting, too, has come. Time to say goodbye."
+            },
+            {
+              "id": 7952,
+              "string": "1\u0000\u0007My mission here is accomplished. The purpose of my existence fulfilled."
+            },
+            {
+              "id": 7953,
+              "string": "1\u0000\u0007The Goddess needs no longer weep. No further call for sorrow.\u0007As such, I must make like a tear and dry up. Disappear."
+            },
+            {
+              "id": 7954,
+              "string": "1\u0000\u0007Thank you, \b.\u0007It's been swell fighting alongside you. Had myself a gay old time."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 8076,
+              "string": "1\u0000\u0007I forgot how I promised to be of use to you! Serve you well!"
+            },
+            {
+              "id": 8078,
+              "string": "1\u0000\u0007Yes, forgot! Failed to remember!"
+            },
+            {
+              "id": 8079,
+              "string": "1\u0000\u0007But I can help you! No, not in the way you might hope. Our world has rules, too. Ways of doing things. Must abide properly."
+            },
+            {
+              "id": 8080,
+              "string": "1\u0000\u0007Rules which go beyond the world of man. Encompass the entirety of all universes and dimensions."
+            },
+            {
+              "id": 8081,
+              "string": "1\u0000\u0007Don't ask me why! I didn't make them, I just play by them!"
+            },
+            {
+              "id": 8082,
+              "string": "1\u0000\u0007Or have you forgotten all you have learned? Had your memories consumed? Let us then wake them up with a spar! A contest of claws!"
+            },
+            {
+              "id": 8084,
+              "string": "1\u0000\u0007I'll let you decide what's best."
+            },
+            {
+              "id": 8085,
+              "string": "1\u0000\u0007I'll return these to you. If you have need of me, just use them and I'll come bounding to your side."
+            },
+            {
+              "id": 8086,
+              "string": "1\u0000\u0007Curiosity may have killed the cait, but indecision is what'll finish you. If you decide to use them, they'll be gone forever whether you triumph or fail, so you'll have to start from square one. Make a fresh beginning!"
+            },
+            {
+              "id": 8087,
+              "string": "1\u0000\u0007Imagine what a pain it would be to slink around to all those places again!"
+            },
+            {
+              "id": 8088,
+              "string": "1\u0000\u0007Don't worry your tail off. Now that I'm as good as new, one place should be enough. More than sufficient."
+            },
+            {
+              "id": 8089,
+              "string": "1\u0000\u0007I'll be here grooming myself whenever you're ready. Good to go."
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 18,
+          "dialogue": [
+            {
+              "id": 8092,
+              "string": "l!\u0000\u0007Hehehe! What more to expect from the Champion of the Dawn?"
+            },
+            {
+              "id": 8093,
+              "string": "1\u0000\u0007I...no, all the Cait Siths...will lend you our strength. All of our capabilities."
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Are you sure? Completely pawsitive?"
+            },
+            {
+              "id": 8100,
+              "string": "1\u0000\u0007Understood. Perfectly clear.\u0007Consider your wish granted."
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Are you sure? Completely pawsitive?"
+            },
+            {
+              "id": 8100,
+              "string": "1\u0000\u0007Understood. Perfectly clear.\u0007Consider your wish granted."
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Are you sure? Completely pawsitive?"
+            },
+            {
+              "id": 8100,
+              "string": "1\u0000\u0007Understood. Perfectly clear.\u0007Consider your wish granted."
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Are you sure? Completely pawsitive?"
+            },
+            {
+              "id": 8100,
+              "string": "1\u0000\u0007Understood. Perfectly clear.\u0007Consider your wish granted."
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Are you sure? Completely pawsitive?"
+            },
+            {
+              "id": 8100,
+              "string": "1\u0000\u0007Understood. Perfectly clear.\u0007Consider your wish granted."
+            },
+            {
+              "id": 8101,
+              "string": "1\u0000\u0007The contract is complete. Signed and sealed. I'll fight by your side as long as you draw breath."
+            },
+            {
+              "id": 8102,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 8103,
+              "string": "1\u0000\u0007Hehehe, what's wrong? I can't stand long speeches. Did you expect something special?"
+            },
+            {
+              "id": 8105,
+              "string": "1\u0000\u0007That's it! Show's over! Go with Altana, esteemed Champion of the Dawn!??"
+            },
+            {
+              "id": 8106,
+              "string": "1\u0000\u0007...I can't do that. It's something well beyond my powers. Physically and magically impossible."
+            },
+            {
+              "id": 8107,
+              "string": "1\u0000\u0007Besides, her departure was her own wish, in the end. When I think how she was prepared to... No, I can't..."
+            },
+            {
+              "id": 8108,
+              "string": "1\u0000\u0007But surely you don't require a thorough explanation. A total rundown. One of the Goddess's wings is too clever for that."
+            },
+            {
+              "id": 8109,
+              "string": "1\u0000\u0007I must make like a tear and dry up. Disappear."
+            },
+            {
+              "id": 8110,
+              "string": "1\u0000\u0007Do you remember those words? My soliloquy?"
+            },
+            {
+              "id": 8111,
+              "string": "1\u0000\u0007There's no sense in hiding the truth for you, so I'll let it all out. Come clean.\u0007What remains of me here is but a fragment..."
+            },
+            {
+              "id": 8112,
+              "string": "1\u0000\u0007That's right, I'm a simple ghost. An apparition."
+            },
+            {
+              "id": 8113,
+              "string": "1\u0000\u0007I cannot tell whether I shall be permitted to stay or if I shall fade. Evanesce. But I shan't give up for so long as you have need of me."
+            },
+            {
+              "id": 8115,
+              "string": "o!\u0000\u0007Hmm...nyan?"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "dialogue": [
+            {
+              "id": 8117,
+              "string": "1\u0000\u0007I'm not kitten with you. Did you already forget what I said? Your skull that empty?"
+            },
+            {
+              "id": 8118,
+              "string": "1\u0000\u0007You'll have to go to one of the places I mentioned before. A single journey."
+            },
+            {
+              "id": 8119,
+              "string": "1\u0000\u0007How can I expect to fight you when my spiritual reserve is running low? Completely out of juice? I know you'd rather not, but you'll need to do some more traveling to try again!"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 21,
+          "dialogue": [
+            {
+              "id": 8122,
+              "string": "1\u0000\u0007A promise is a promise!"
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Are you sure? Completely pawsitive?"
+            },
+            {
+              "id": 8100,
+              "string": "1\u0000\u0007Understood. Perfectly clear.\u0007Consider your wish granted."
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Are you sure? Completely pawsitive?"
+            },
+            {
+              "id": 8100,
+              "string": "1\u0000\u0007Understood. Perfectly clear.\u0007Consider your wish granted."
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Are you sure? Completely pawsitive?"
+            },
+            {
+              "id": 8100,
+              "string": "1\u0000\u0007Understood. Perfectly clear.\u0007Consider your wish granted."
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Are you sure? Completely pawsitive?"
+            },
+            {
+              "id": 8100,
+              "string": "1\u0000\u0007Understood. Perfectly clear.\u0007Consider your wish granted."
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Are you sure? Completely pawsitive?"
+            },
+            {
+              "id": 8100,
+              "string": "1\u0000\u0007Understood. Perfectly clear.\u0007Consider your wish granted."
+            },
+            {
+              "id": 8101,
+              "string": "1\u0000\u0007The contract is complete. Signed and sealed. I'll fight by your side as long as you draw breath."
+            },
+            {
+              "id": 8102,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 8103,
+              "string": "1\u0000\u0007Hehehe, what's wrong? I can't stand long speeches. Did you expect something special?"
+            },
+            {
+              "id": 8105,
+              "string": "1\u0000\u0007That's it! Show's over! Go with Altana, esteemed Champion of the Dawn!??"
+            },
+            {
+              "id": 8106,
+              "string": "1\u0000\u0007...I can't do that. It's something well beyond my powers. Physically and magically impossible."
+            },
+            {
+              "id": 8107,
+              "string": "1\u0000\u0007Besides, her departure was her own wish, in the end. When I think how she was prepared to... No, I can't..."
+            },
+            {
+              "id": 8108,
+              "string": "1\u0000\u0007But surely you don't require a thorough explanation. A total rundown. One of the Goddess's wings is too clever for that."
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 23,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 25,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            {
+              "id": 8248,
+              "string": "1\u0000\u0007Which, by the way, is what's about to happen anyway!"
+            },
+            {
+              "id": 8250,
+              "string": "1\u0000\u0007It's Atomos! It's multiplying and replicating itself!"
+            },
+            {
+              "id": 8251,
+              "string": "1\u0000\u0007Hut-tut! Don't think I'm oblivious as to what's going on here! That I am utterly without clue!"
+            },
+            {
+              "id": 8252,
+              "string": "1\u0000\u0007You're trying to wrest Atomos's power for your own nefarious ends!"
+            },
+            {
+              "id": 8269,
+              "string": "m!\u0000\u0007\b, look out!"
+            },
+            {
+              "id": 8272,
+              "string": "1\u0000\u0007You foul creature! Masked madman! I'll fight you tooth and claw!"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "dialogue": [
+            {
+              "id": 8280,
+              "string": "1\u0000\u0007\b, have you been declawed or something!? Lost all your gumption!?"
+            },
+            {
+              "id": 8281,
+              "string": "1\u0000\u0007With Atomos weakened, your ??bright future?? is naught but dust scattered before the wind!"
+            },
+            {
+              "id": 8283,
+              "string": "!?\u0000\u0007Before he was completely drained, he gobbled it all up--I saw it with these two eyes!"
+            },
+            {
+              "id": 8284,
+              "string": "1\u0000\u0007And you call yourself a savior of Vana'diel! A protector of the realm!"
+            },
+            {
+              "id": 8285,
+              "string": "1\u0000\u0007Did you actually want to save the future, or did you just want to take credit for it!?"
+            },
+            {
+              "id": 8294,
+              "string": "1\u0000\u0007Hmph."
+            },
+            {
+              "id": 8295,
+              "string": "1\u0000\u0007You think I'm full of bluster and bravado? Then let me show you what I'm made of. Demonstrate all that I can do."
+            },
+            {
+              "id": 8297,
+              "string": "s?\u0000\u0007My whiskers can tell your fortune better than any old bones."
+            },
+            {
+              "id": 8298,
+              "string": "1\u0000\u0007And right now, they're telling me that your best chance to meet Iroha is to head back to Norg."
+            },
+            {
+              "id": 8306,
+              "string": "1\u0000\u0007Oh, no...I forgot to tell them..."
+            },
+            {
+              "id": 8307,
+              "string": "1\u0000\u0007For someone who came from the future, his form here was quite solid. Wholly unyielding."
+            },
+            {
+              "id": 8308,
+              "string": "1\u0000\u0007I have a feeling that he--and his other masked companions--exist in this timeline as well."
+            },
+            {
+              "id": 8309,
+              "string": "1\u0000\u0007And then there's something else I saw for a brief moment. Laid my eyes on for a fleeting instant."
+            },
+            {
+              "id": 8310,
+              "string": "1\u0000\u0007The eyes never lie, but...it can't be..."
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 30,
+          "dialogue": [
+            {
+              "id": 8311,
+              "string": "1\u0000\u0007Well, well, if it isn't \b, come back to say hello and give ?[his\/her] regards."
+            },
+            {
+              "id": 8312,
+              "string": "1\u0000\u0007And what a most curious curio you've brought along."
+            },
+            {
+              "id": 8313,
+              "string": "1\u0000\u0007A timely compass, for a timely place. Yet who could fashion something so mysterious?"
+            },
+            {
+              "id": 8314,
+              "string": "1\u0000\u0007Is this friend of yours human?6\u0002\u0007In the end, it matters not. Makes not one iota of difference."
+            },
+            {
+              "id": 8315,
+              "string": "1\u0000\u0007Oho! You wish to use this and go to a different world. One where your god of darkness exists."
+            },
+            {
+              "id": 8316,
+              "string": "1\u0000\u0007That world was a bit less...successful than Vana'diel, and its name has been lost to the annals of history. Utterly wiped from the record."
+            },
+            {
+              "id": 8317,
+              "string": "1\u0000\u0007I've never been one to pussyfoot around a difficult situation, but even Atomos couldn't make me go in there."
+            },
+            {
+              "id": 8318,
+              "string": "1\u0000\u0007But if you really want to go through with this, I'm not about to stop you."
+            },
+            {
+              "id": 8319,
+              "string": "1\u0000\u0007A word of caution. A bit of a warning: you'll be accosted by Altana-knows-what from the moment you draw your first breath."
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 8321,
+              "string": "1\u0000\u0007A glutton for punishment, then? There's a whole buffet waiting for you just beyond."
+            },
+            {
+              "id": 8322,
+              "string": "1\u0000\u0007Forks and knives at the ready?"
+            },
+            {
+              "id": 8323,
+              "string": "1\u0000\u0007Perhaps that's for the best. Lack of forethought can only lead to failure. End in travesty.1\u0000\u0007\u0000"
+            }
+          ]
+        },
+        {
+          "id": 123,
+          "dialogue": [
+            {
+              "id": 8125,
+              "string": "1\u0000\u0007\b, I knew you would come back. Return to me."
+            },
+            {
+              "id": 8126,
+              "string": "1\u0000\u0007Things have gotten a bit hairy since you were last here. I helped you before, so now it's your turn to lend me your aid. Listen to my plight."
+            },
+            {
+              "id": 8129,
+              "string": "1\u0000\u0007You and I were supposed to be bosom buddies, but the whole time you were just one-sidedly suckling at my teat..."
+            },
+            {
+              "id": 8130,
+              "string": "1\u0000\u0007You've always been such a good friend. A friendly do-gooder. So pure of heart, in fact, that I'm sure you can hear her calling out."
+            },
+            {
+              "id": 8131,
+              "string": "1\u0000\u0007Close your eyes and open your ears..."
+            },
+            {
+              "id": 8134,
+              "string": "1\u0000\u0007So? Can you hear her calling out to you? Asking you things?"
+            },
+            {
+              "id": 8135,
+              "string": "1\u0000\u0007Only when you can feel her heart and spirit will you be able to fully comprehend. Wholly understand. Please, help her."
+            },
+            {
+              "id": 8140,
+              "string": "1\u0000\u0007You see, Lilisette is fighting tooth and claw in her world, leading the just against the profane. The ones who wish to harm our world."
+            },
+            {
+              "id": 8141,
+              "string": "1\u0000\u0007Their raids on Shadow Kindred strongholds have sowed chaos and prevented the sinister forces from making further inroads."
+            },
+            {
+              "id": 8142,
+              "string": "1\u0000\u0007But now they've set their beady little eyes on something bigger...Atomos."
+            },
+            {
+              "id": 8143,
+              "string": "1\u0000\u0007They want their foothold to turn into utter domination, and are trying to use the Walk of Echoes to return to the past. Our past."
+            },
+            {
+              "id": 8144,
+              "string": "1\u0000\u0007Lady Lilith is a magnanimous maiden compared to them, and they leave no hope in their wake. Everything shrouded in despair."
+            },
+            {
+              "id": 8151,
+              "string": "1\u0000\u0007You really did it, \b! She could hear you! Understand what you said!"
+            },
+            {
+              "id": 8152,
+              "string": "1\u0000\u0007Spoken like a true Champion of the Dawn!"
+            },
+            {
+              "id": 8153,
+              "string": "1\u0000\u0007The time's come to quit catting around and tell you what's going on."
+            },
+            {
+              "id": 8154,
+              "string": "1\u0000\u0007Everything Lilisette said was true. Fully verified. She ventured to the dark future and sealed the cavernous maws--which are being forced open by the Shadow Kindred."
+            },
+            {
+              "id": 8155,
+              "string": "1\u0000\u0007They haven't found the trump card, though--the entrance to the past here in the Walk of Echoes."
+            },
+            {
+              "id": 8156,
+              "string": "1\u0000\u0007Lilisette has trapped those few who've stumbled close, but there's limits to what she can do on her own."
+            },
+            {
+              "id": 8157,
+              "string": "1\u0000\u0007Not to say that I didn't help. Lend a hand. But everything happened so quickly..."
+            },
+            {
+              "id": 8158,
+              "string": "1\u0000\u0007...And it takes all my strength to frazzle the gates that connect this world to that one."
+            },
+            {
+              "id": 8159,
+              "string": "1\u0000\u0007The arena within is burgeoning with demons and threatens to burst. Explode into bits. They even poked their heads out a bit."
+            },
+            {
+              "id": 8160,
+              "string": "1\u0000\u0007But they realized they couldn't come barreling through the entrance like a crazed goobbue. Perhaps they're smarter than I thought..."
+            },
+            {
+              "id": 8161,
+              "string": "1\u0000\u0007But we can't sit here wringing our hands while Lilisette is holding them back in that arena!"
+            },
+            {
+              "id": 8162,
+              "string": "1\u0000\u0007You'd be proud of how strong she's become. Despite the circumstances, it will be a meeting all Vana'diel will remember!"
+            },
+            {
+              "id": 8163,
+              "string": "1\u0000\u0007I'll take the plunge and tell her you're right behind me...which I assume you will be."
+            }
+          ]
+        },
+        {
+          "id": 126,
+          "dialogue": [
+            {
+              "id": 8190,
+              "string": "r!\u0000\u0007Are your heads spinning? Twirling round and round? Never fear, the rift is stable as long as I'm here."
+            },
+            {
+              "id": 8191,
+              "string": "1\u0000\u0007Of course, holding this thing open means that I can't help you...but I'm with you in spirit!"
+            },
+            {
+              "id": 8192,
+              "string": "1\u0000\u0007With a tag team like you two, Vana'diel's got nothing to fear! Get in there and pummel them into a million itty-bitty bits!"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "dialogue": [
+            {
+              "id": 8195,
+              "string": "1\u0000\u0007Hmm...I had a feeling this would be the case. Feline intuition."
+            },
+            {
+              "id": 8196,
+              "string": "1\u0000\u0007The ability to open a cavernous maw doesn't depend on mere strength or potency."
+            },
+            {
+              "id": 8197,
+              "string": "1\u0000\u0007It's...the key."
+            },
+            {
+              "id": 8200,
+              "string": "1\u0000\u0007Atomos, the Distorter of Time, sometimes gives birth to these abnormalities. They're like little babes, cooing toward the darkness."
+            },
+            {
+              "id": 8202,
+              "string": "1\u0000\u0007Precisely. Beyond doubt. It fused with the demon's corporeal form and opened up an entrance."
+            },
+            {
+              "id": 8203,
+              "string": "1\u0000\u0007A sobering truth, indeed."
+            },
+            {
+              "id": 8204,
+              "string": "1\u0000\u0007Luckily for us, we managed to separate it...but we can't just leave it sitting here like an apple fallen from a tree. Someone will find it, and then..."
+            },
+            {
+              "id": 8205,
+              "string": "1\u0000\u0007Therefore, \b, I nominate you to squish it. Poof."
+            },
+            {
+              "id": 8207,
+              "string": "1\u0000\u0007Nyan"
+            },
+            {
+              "id": 8212,
+              "string": "1\u0000\u0007With him inside, you'll be able to call forth his powers to aid you."
+            },
+            {
+              "id": 8213,
+              "string": "1\u0000\u0007Though you may not be able to call on him now, surely the day will come when you will harness his might to serve you."
+            },
+            {
+              "id": 8214,
+              "string": "1\u0000\u0007Normally a pact is required for an avatar to bond...but this was a special case. An anomaly. Treat that newfound power like you would a helpless child."
+            },
+            {
+              "id": 8225,
+              "string": "1\u0000\u0007But for her to leave this behind means that she trusts you above all else.?[ Or do I sense something more?\/ Always value those with whom you've parted.]"
+            },
+            {
+              "id": 8226,
+              "string": "1\u0000\u0007<Sigh>\u0007She should have just given it to you herself. But that would have been unbecoming, wouldn't you say?"
+            },
+            {
+              "id": 8227,
+              "string": "1\u0000\u0007The bonds between you are unseverable. Of that I can be certain."
+            },
+            {
+              "id": 8228,
+              "string": "1\u0000\u0007Of course, that didn't prevent me from making her a similar one of you--or did I stick my paws in too far this time?"
+            },
+            {
+              "id": 8229,
+              "string": "1\u0000\u0007No matter the physical distance between you, you'll always serve as the Goddess's wings, your hearts and thoughts united as one."
+            },
+            {
+              "id": 8230,
+              "string": "1\u0000\u0007Never forget that.\u0007Ever."
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "dialogue": [
+            {
+              "id": 8227,
+              "string": "1\u0000\u0007The bonds between you are unseverable. Of that I can be certain."
+            },
+            {
+              "id": 8229,
+              "string": "1\u0000\u0007No matter the physical distance between you, you'll always serve as the Goddess's wings, your hearts and thoughts united as one."
+            },
+            {
+              "id": 8230,
+              "string": "1\u0000\u0007Never forget that.\u0007Ever."
+            }
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523288,
+      "name": "Cait Sith",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523289,
+      "name": "Larzos",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7682,
+              "string": "1\u0000\u0007Not that you need remindin', but you're all out of playin' pieces.\u0007No amount o' strugglin' will avail you now, so why don'tcha save us all some trouble and give up?"
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007You and yours seek to prevent the true future from comin' to pass.\u0007Me and mine, on the other hand, have taken up arms against Altana's will."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007Fact is, both our existences are sinful in the eyes o' the gods, and there ain't no changin' that."
+            },
+            {
+              "id": 7717,
+              "string": "1\u0000\u0007So you'd face us as the ??\f\u0000[Zero\/One\/Two\/Three\/Four\/Five\/Six] Spitewardens.??\u0007Now that I've called you that, though, most like you lot'll be bleatin' about wantin' some new, more virtuous-soundin' name."
+            },
+            {
+              "id": 7721,
+              "string": "1\u0000\u0007Whatever the outcome, the end'll see these grounds awash with the blood o' scoundrels."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7726,
+              "string": "1\u0000\u0007<Pant, pant>..."
+            },
+            {
+              "id": 7727,
+              "string": "1\u0000\u0007So this is...<gasp>...the power o' the Goddess..."
+            },
+            {
+              "id": 7728,
+              "string": "1\u0000\u0007Tempered in the blazin' forge...<wheeze>...o' her children's hopes and dreams."
+            },
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007You've proven yourself...worthy o' my respect."
+            },
+            {
+              "id": 7731,
+              "string": "1\u0000\u0007I'm gutted that my time's up...but there's no helpin' it.\u0007Victory belongs to they...who want it more."
+            },
+            {
+              "id": 7733,
+              "string": "1\u0000\u0007Have no fear. I value their lives...above my own."
+            },
+            {
+              "id": 7734,
+              "string": "1\u0000\u0007As my final act...I will see them...to safety."
+            },
+            {
+              "id": 7735,
+              "string": "1\u0000\u0007Farewell...bearers of Altana's will."
+            },
+            {
+              "id": 7736,
+              "string": "1\u0000\u0007Sir Ragelise...\u0007O' those who fought the war...none was more valorous...more honorable than you."
+            },
+            {
+              "id": 7737,
+              "string": "1\u0000\u0007The folks o' both realities...know this well."
+            },
+            {
+              "id": 7738,
+              "string": "1\u0000\u0007For the sake o' the future...it don't matter which..."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523290,
+      "name": "Ragelise",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007Hah. A creature as near a beastman as makes no difference would presume to admonish me?"
+            },
+            {
+              "id": 7688,
+              "string": "1\u0000\u0007My soul is for sale to neither god nor man."
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007There existed an enemy that wanted for vanquishing. I merely made a choice--one that granted me the power I needed to accomplish my objectives."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007I, for one, could care less for justice and utopias."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007We glaze our words with honey and put on a righteous facade, but in truth we're naught more than power-starved scoundrels."
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007Even as I stood engulfed in the cold flames of the underworld, I became awakened to my deepest, darkest desires.\u0007'Twas such an epiphany as I had never known."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007For all my gallantry and talk of honor, what truly drove my existence was the feel of hard steel in my hand as it cleaves the flesh and bone of mine enemies, spilling their lifeblood."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007I have all my life been a soldier. By the sword have I lived, and by it shall I die.\u0007I shall slay the Shadow Lord...or perish in so trying."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007I have chosen my path, as you have yours. There's naught to say nor do now but stay our resolve and see things through to the last."
+            },
+            {
+              "id": 7720,
+              "string": "1\u0000\u0007The stage is set for our decisive battle...and there is no lack for cast members."
+            },
+            {
+              "id": 7722,
+              "string": "1\u0000\u0007Let it begin. Set free your inner beast...and come at us with all your strength!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007Urgh..."
+            },
+            {
+              "id": 7724,
+              "string": "1\u0000\u0007'Twould appear...mine eyes did not deceive me.\u0007You are every ilm...the ?[man\/woman] I marked you for...\b."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523291,
+      "name": "Ragelise",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523292,
+      "name": "Portia",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7694,
+              "string": "e.\u0000\u0007But a world without Sir Ragelise is like a world bereft of light. I could not abide in such a place."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7725,
+              "string": "1\u0000\u0007Unnngh..."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523293,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523294,
+      "name": "Cavernous Maw",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7871,
+              "string": "1\u0000\u0007All futures...stand equal..."
+            },
+            {
+              "id": 7872,
+              "string": "1\u0000\u0007As a one-winged bird...knows not the skies..."
+            },
+            {
+              "id": 7873,
+              "string": "1\u0000\u0007A one-armed scale...serves not its purpose..."
+            },
+            {
+              "id": 7874,
+              "string": "1\u0000\u0007Naught is exempt...from the absolute law..."
+            },
+            {
+              "id": 7876,
+              "string": "1\u0000\u0007Atomos...chooses not..."
+            },
+            {
+              "id": 7877,
+              "string": "1\u0000\u0007GraAaAaaa...AAaaAgh..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523295,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523296,
+      "name": "Lady Lilith",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523297,
+      "name": "Lilith Ascendant",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7855,
+              "string": "1\u0000\u0007How...could this be?"
+            },
+            {
+              "id": 7856,
+              "string": "1\u0000\u0007How could I lose...?"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523298,
+      "name": "Lilith Ascendant",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523299,
+      "name": "Lilisette",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007As a child, that girl was no different from who I was.\u0007But the unending strife of the Crystal War forced her to walk a path far more grueling than my own."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007To restore a measure of peace back to the world, she chose to take on the burden of immortality.\u0007And it changed her. Irrevocably."
+            },
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007Truth be told, I envied her so."
+            },
+            {
+              "id": 7799,
+              "string": "1\u0000\u0007But above all, possessed of absolute power.\u0007Time and again I found myself yearning to have even a fraction of her strength. Then perhaps I might've made a greater difference."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7808,
+              "string": "1\u0000\u0007We've come to reclaim our future!\u0007We won't allow things to go your way any further!"
+            },
+            {
+              "id": 7810,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7821,
+              "string": "1\u0000\u0007I know of your suffering, as if it were my own.\u0007In my dream, I felt the grief and pain that engulfed you."
+            },
+            {
+              "id": 7822,
+              "string": "1\u0000\u0007I understand the burden you willingly chose to bear, all for the sake of mankind."
+            },
+            {
+              "id": 7823,
+              "string": "1\u0000\u0007We're connected right to the core of our being. You know this to be true."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7886,
+              "string": "1\u0000\u0007Tell me, Lilith. Is there no way to stop Atomos and disentangle our two realities?"
+            },
+            {
+              "id": 7887,
+              "string": "1\u0000\u0007Unless we do something, our worlds will collapse!"
+            },
+            {
+              "id": 7889,
+              "string": "1\u0000\u0007B-but, this means your future will vanish as well, and everyone with it!"
+            },
+            {
+              "id": 7890,
+              "string": "1\u0000\u0007I...I don't want that to happen.\u0007I want both our realities to continue existing, side by side. I've come to realize this now."
+            },
+            {
+              "id": 7893,
+              "string": "1\u0000\u0007The gates? You mean...Atomos?\u0007But how can that be done?"
+            },
+            {
+              "id": 7895,
+              "string": "1\u0000\u0007From both your world and mine?"
+            },
+            {
+              "id": 7899,
+              "string": "1\u0000\u0007...?"
+            },
+            {
+              "id": 7902,
+              "string": "1\u0000\u0007M-me? Replace you?"
+            },
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7910,
+              "string": "1\u0000\u0007Seems like there's no other way."
+            },
+            {
+              "id": 7911,
+              "string": "1\u0000\u0007I understand. I'll do as you ask."
+            },
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7923,
+              "string": "1\u0000\u0007I...can't leave with you. The gates...they must be closed."
+            },
+            {
+              "id": 7924,
+              "string": "1\u0000\u0007Unless somebody stops the two realities from breaching one another, there's no future for us--for anyone."
+            },
+            {
+              "id": 7926,
+              "string": "1\u0000\u0007I must cross over to the world of strife and seal off Atomos from there."
+            },
+            {
+              "id": 7930,
+              "string": "1\u0000\u0007\b. As I seal off Atomos from Lilith's world, I need you to do the same in ours."
+            },
+            {
+              "id": 7931,
+              "string": "1\u0000\u0007And then we must keep watch over it, making certain that the two realities collide no more."
+            },
+            {
+              "id": 7932,
+              "string": "1\u0000\u0007Patiently and resolutely, until the day Atomos turns to stone."
+            },
+            {
+              "id": 7938,
+              "string": "1\u0000\u0007Come what may, I won't ever forget you."
+            },
+            {
+              "id": 7940,
+              "string": "1\u0000\u0007The countless journeys we embarked upon...\u0007The battles we fought, the insurmountable odds we overcame..."
+            },
+            {
+              "id": 7941,
+              "string": "1\u0000\u0007Every single moment we spent together--even the mundane--I will treasure for all my days."
+            },
+            {
+              "id": 7944,
+              "string": "1\u0000\u0007Cait Sith. \b.\u0007From the bottom of my heart, thank you. For everything."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 26,
+          "dialogue": [
+            {
+              "id": 8241,
+              "string": "1\u0000\u0007So this is the Walk of Echoes..."
+            },
+            {
+              "id": 8242,
+              "string": "1\u0000\u0007So you mean the futures of a thousand worlds all collide here?"
+            },
+            {
+              "id": 8243,
+              "string": "1\u0000\u0007I would have expected it to be brighter and more full of hope."
+            },
+            {
+              "id": 8244,
+              "string": "1\u0000\u0007Before I found myself, I would have run away from such a dismal place."
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007But now that I've seen what the future may hold, I won't. I can't."
+            },
+            {
+              "id": 8246,
+              "string": "1\u0000\u0007I'll follow you to the ends of Vana'diel, \b! Let's go."
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            {
+              "id": 8249,
+              "string": "1\u0000\u0007I don't understand what..."
+            },
+            {
+              "id": 8256,
+              "string": "h!\u0000\u0007The future is for us to decide--not you!"
+            },
+            {
+              "id": 8257,
+              "string": "1\u0000\u0007Even if there are some things I would change, I still love this world!"
+            },
+            {
+              "id": 8258,
+              "string": "1\u0000\u0007Yes, some crosses are difficult to bear and we lash out at things we find unjust..."
+            },
+            {
+              "id": 8259,
+              "string": "1\u0000\u0007But our future is supposed to be bright and full of laughter, not wracked with despair!"
+            },
+            {
+              "id": 8260,
+              "string": "1\u0000\u0007Nothing can stop me from protecting all that Vana'diel can be. Nothing!"
+            },
+            {
+              "id": 8261,
+              "string": "1\u0000\u0007Even if there are some things we would change, we still love this world."
+            },
+            {
+              "id": 8262,
+              "string": "1\u0000\u0007Yes, some crosses are difficult to bear and we lash out at things we find unjust..."
+            },
+            {
+              "id": 8263,
+              "string": "1\u0000\u0007But our future is supposed to be bright and full of laughter, not wracked with despair!"
+            },
+            {
+              "id": 8264,
+              "string": "1\u0000\u0007Nothing can stop us from protecting all that Vana'diel can be. Nothing!"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "dialogue": [
+            {
+              "id": 8276,
+              "string": "1\u0000\u0007After my impassioned speech, too... Oh, I can be so scatterbrained."
+            },
+            {
+              "id": 8277,
+              "string": "1\u0000\u0007But I made my bed, so I've got to lie in it."
+            },
+            {
+              "id": 8278,
+              "string": "1\u0000\u0007But this masked man...this ambassador of the void...I get the sense that he's holding back."
+            },
+            {
+              "id": 8279,
+              "string": "1\u0000\u0007If he was able to bring Atomos to its knees, then he could obliterate us with a snap of his fingers--but he didn't."
+            },
+            {
+              "id": 8286,
+              "string": "1\u0000\u0007Hey now,\f\u0002[\/ Cait Sith,] come off it!"
+            },
+            {
+              "id": 8287,
+              "string": "1\u0000\u0007For someone complaining so loudly, your hands are quite warm from hiding them under your posterior!"
+            },
+            {
+              "id": 8289,
+              "string": "w!\u0000\u0007But it stings to admit that there's a kernel of truth in that. What do we do now?"
+            },
+            {
+              "id": 8290,
+              "string": "1\u0000\u0007There's still the idea of meeting Altana, but how does one go about finding a goddess?"
+            },
+            {
+              "id": 8291,
+              "string": "1\u0000\u0007Perhaps your friend Iroha can provide us with answers."
+            },
+            {
+              "id": 8292,
+              "string": "1\u0000\u0007After all, she's the one who bid you to absorb light into your orb."
+            },
+            {
+              "id": 8293,
+              "string": "1\u0000\u0007If she thinks that there's still some light left to gather, then the future may not be as doom-and-gloom as Cait Sith thinks."
+            },
+            {
+              "id": 8299,
+              "string": "1\u0000\u0007And you got all that from your whiskers?6\u0002\u0007If that's what you say, then I'll choose to believe you, I suppose."
+            },
+            {
+              "id": 8300,
+              "string": "1\u0000\u0007The best course of action is for us to split up."
+            },
+            {
+              "id": 8302,
+              "string": "1\u0000\u0007I've been charged with protecting Lilith's world, so I can't stay here for long."
+            },
+            {
+              "id": 8301,
+              "string": "1\u0000\u0007I've got responsibilities to finding out about \f\u0002[Lilith's future\/the past]. I'm sorry that I've got to prioritize that."
+            },
+            {
+              "id": 8303,
+              "string": "1\u0000\u0007But just like that orb, I'll always be there by your side."
+            },
+            {
+              "id": 8304,
+              "string": "1\u0000\u0007Never forget that."
+            },
+            {
+              "id": 8305,
+              "string": "1\u0000\u0007Be safe, \b!"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523300,
+      "name": "Lilisette",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523301,
+      "name": "",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523302,
+      "name": "Lady Lilith",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007So you finally come."
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007Your clash with my Spitewardens was a sight to behold."
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007That a band of misfits could bring Father and Mother both to their knees..."
+            },
+            {
+              "id": 7805,
+              "string": "1\u0000\u0007I would be lying if I said I weren't grievously disappointed."
+            },
+            {
+              "id": 7820,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7884,
+              "string": "1\u0000\u0007Insufferable child..."
+            },
+            {
+              "id": 7888,
+              "string": "1\u0000\u0007You presume to ask...the solution of me?\u0007This accursed world--<cough>--can be fed to the void...for all I care."
+            },
+            {
+              "id": 7892,
+              "string": "1\u0000\u0007You must close...the gates."
+            },
+            {
+              "id": 7894,
+              "string": "1\u0000\u0007To end the encroachment...of one reality upon another...the gates must be sealed from both sides."
+            },
+            {
+              "id": 7897,
+              "string": "..\u0000\u0007Do not look--<cough>--to me for help.\u0007My eyes...darken. My hour of departure...is nigh."
+            },
+            {
+              "id": 7898,
+              "string": "1\u0000\u0007You must cross over to my world...the world of strife...and thence seal off Atomos."
+            },
+            {
+              "id": 7906,
+              "string": "1\u0000\u0007Cross over...to my world. End the encroachment...between our realities."
+            },
+            {
+              "id": 7907,
+              "string": "1\u0000\u0007Upon accomplishing that...you must arise...as the new Lady Lilith..."
+            },
+            {
+              "id": 7915,
+              "string": "1\u0000\u0007Your youthful innocence and optimism...\u0007The scores of faithful friends upon whom you can rely..."
+            },
+            {
+              "id": 7916,
+              "string": "1\u0000\u0007There existed a time in my life...when I was much like you."
+            }
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523303,
+      "name": "Lady Lilith",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523304,
+      "name": "Lady Lilith",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523305,
+      "name": "Aquila",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523306,
+      "name": "Haudrale",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523307,
+      "name": "Portia",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523308,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17523309,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523310,
+      "name": "Mayakov",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17523311,
+      "name": "Tanja",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523312,
+      "name": "Raina",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523313,
+      "name": "Judith",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523314,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17523315,
+      "name": "???",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 8069,
+              "string": "1\u0000\u0007\b...It...me...\u0007...Sith."
+            },
+            {
+              "id": 8070,
+              "string": "1\u0000\u0007Can't...not...\u0007...strength."
+            },
+            {
+              "id": 8071,
+              "string": "1\u0000\u0007I...you...thoughts...gathering strength..."
+            },
+            {
+              "id": 8072,
+              "string": "1\u0000\u0007Can you...me? Past...faure...Jugn...ine Glac..."
+            },
+            {
+              "id": 8073,
+              "string": "1\u0000\u0007Nya...three...reconstr...me.\u0007Plea..."
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 22,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 23,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 25,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 123,
+          "dialogue": [
+            {
+              "id": 8132,
+              "string": "1\u0000\u0007Can...hear...please..."
+            },
+            {
+              "id": 8133,
+              "string": "1\u0000\u0007Altana...Ato...forbi...dark...Kindr..."
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "dialogue": [
+            {
+              "id": 8208,
+              "string": "!?\u0000\u0007Champion of the Dawn...?[son\/daughter] of Altana..."
+            },
+            {
+              "id": 8209,
+              "string": "1\u0000\u0007Your desires...come to me...like ancient memories...and they...are who I am..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523316,
+      "name": "",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 22,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 23,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 25,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 123,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523317,
+      "name": "",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7983,
+              "string": "1\u0000\u0007Art thou prepared?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 7961,
+              "string": "1\u0000\u0007Warp to \f\u0000[???\/Provenance\/Walk of Echoes\/Pashhow Marshlands]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 8077,
+              "string": "1\u0000\u0007What do you ask?\u0007\u000b??Be of use???\u0007??Forgot???"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 18,
+          "dialogue": [
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 20,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 21,
+          "dialogue": [
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523318,
+      "name": "Veridical Conflux",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007Warp to Witchfire Glen?\u0007\u000bProceed.\u0007Not now."
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 30,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 123,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523319,
+      "name": "",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523320,
+      "name": "Regal Pawprints",
+      "events": [
+        {
+          "id": 124,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 126,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 128,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523321,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17523322,
+      "name": "",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523323,
+      "name": "01",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523324,
+      "name": "02",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523325,
+      "name": "03",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523326,
+      "name": "04",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523327,
+      "name": "05",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523328,
+      "name": "06",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523329,
+      "name": "07",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523330,
+      "name": "???",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523331,
+      "name": "???",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523332,
+      "name": "Ldummy",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523333,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17523338,
+      "name": "Grumblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007I travel......hear lots...\u0007Hear...stories... Can tell...if..."
+            },
+            {
+              "id": 7783,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.\u0007Let's hear some more!"
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007When Wills Collide.\u0007Whispers of Dawn.\u0007Fork in the Road.\u0007Maiden of the Dusk(pt.1).\u0007Maiden of the Dusk(pt.2).\u0007Maiden of the Dusk(pt.3).\u0007Where It All Began(pt.1).\u0007Where It All Began(pt.2).\u0007Where It All Began(pt.3).\u0007Brace for the Unknown(pt.1).\u0007Brace for the Unknown(pt.2).\u0007Ad Infinitum.\u0007Champion of the Dawn(pt.1).\u0007Champion of the Dawn(pt.2).\u0007Champion of the Dawn(pt.3).\u0007Champion of the Dawn(pt.4).\u0007The Dawn Also Rises(pt.1).\u0007The Dawn Also Rises(pt.2).\u0007The Dawn Also Rises(pt.3).\u0007A Forbidden Reunion(pt.1).\u0007A Forbidden Reunion(pt.2).\u0007A Forbidden Reunion(pt.3).\u0007A Forbidden Reunion(pt.4).\u0007A Forbidden Reunion(pt.5).\u0007A Forbidden Reunion(pt.6).\u0007Sacrifice.\u0007Somber Dreams(pt.1).\u0007Somber Dreams(pt.2).\u0007Of Light and Darkness(pt.1).\u0007Of Light and Darkness(pt.2).\u0007Of Light and Darkness(pt.3).\u0007Of Light and Darkness(pt.4)."
+            },
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7785,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007What Remains of Hope(pt.1).\u0007What Remains of Hope(pt.2).\u0007What Remains of Hope(pt.3)."
+            },
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7786,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7781,
+              "string": "1\u0000\u0007.........listen......"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523340,
+      "name": "???",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7959,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bAsk to be transported.\u0007Request \u0001\u00053????.\u0007Check \u0001\u00053???? stock.\u0007Ask about \u0001\u0005#????.\u0007Request \u0001\u00053????.\u0007Nothing for now."
+            },
+            {
+              "id": 8003,
+              "string": "1\u0000\u0007How many dost thou desire?\u0007\u000bNone, for the nonce.\u0007One should suffice.\u0007The whole batch."
+            },
+            {
+              "id": 7993,
+              "string": "1\u0000\u0007I can provide you with \u0001\u00056????...for a fee of \n\u0000 gil."
+            },
+            {
+              "id": 7992,
+              "string": "1\u0000\u0007Hand over \n\u0000 gil?\u0007\u000bGladly!\u0007On second thought..."
+            },
+            {
+              "id": 7994,
+              "string": "1\u0000\u0007It appears you will have to wait one day (Vana'diel time) before receiving another \u0001\u00053???"
+            },
+            {
+              "id": 6395,
+              "string": "1\u0000\u0007You do not have enough gi"
+            },
+            {
+              "id": 7960,
+              "string": "1\u0000\u0007Where would you like to go?\u0007\u000bProvenance.\u0007Walk of Echoes.\u0007Pashhow Marshlands.\u0007Nowhere, actually."
+            },
+            {
+              "id": 7995,
+              "string": "?.\u0000\u0007You do not possess \u0001\u00056????.\u0007Unable to proceed to the Walk of Echoes."
+            },
+            {
+              "id": 7961,
+              "string": "1\u0000\u0007Warp to \f\u0000[???\/Provenance\/Walk of Echoes\/Pashhow Marshlands]?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7962,
+              "string": "1\u0000\u0007Proceed immediately to Provenance?\u0007\u000bYes, press onward now.\u0007No, indulge in reverie."
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 8008,
+              "string": "1\u0000\u0007Obtained key item: \n\u0001 \u0001\u00053????!"
+            },
+            {
+              "id": 8007,
+              "string": "1\u0000\u0007Obtained key item: \n\u0001 \u0001\u00055????!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523341,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17523342,
+      "name": "",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7963,
+              "string": "1\u0000\u0007Thy presence here suggests that disturbances plague the outside world, kupo."
+            },
+            {
+              "id": 7964,
+              "string": "1\u0000\u0007Though it grieveth me to hear such ill tidings, I must admit this predicament hath aided my research, kupo."
+            },
+            {
+              "id": 7965,
+              "string": "1\u0000\u0007At long last, mine efforts have borne fruit, kupo! I was able to contact Cait Sith, though I dare not pretend the fruits of my labor are either succulent or sweet."
+            },
+            {
+              "id": 7966,
+              "string": "1\u0000\u0007A prolix puffball I may be, but even I know when to stay my tongue. If thou dost in sooth covet an explanation, avaunt to yon distortion with thee, kupo."
+            },
+            {
+              "id": 7967,
+              "string": "1\u0000\u0007Before that, however, I must inquire as to whether thou art in possession of any \u0001\u00055????."
+            },
+            {
+              "id": 7968,
+              "string": "1\u0000\u0007Pardon my forthrightness, but I shall be needing one, kupo."
+            },
+            {
+              "id": 7969,
+              "string": "1\u0000\u0007To be more precise, thou wilt need what I shall fashion from this \u0001\u00053????. Show but momentary patience and its puissance shall be revealed to thee, kupo!"
+            },
+            {
+              "id": 7970,
+              "string": "1\u0000\u0007Ah, it is done, kupo!\u0007It misseth somewhat of mine old subtleties; my paws are not as they once were. Yet, it shall serve."
+            },
+            {
+              "id": 7971,
+              "string": "1\u0000\u0007With this in hand, not e'en the winds of temporal maelstrom shall impede your progress in passing betwixt planes of existence. However, my guarantee expires after thou reachest t'other side, kupopopo."
+            },
+            {
+              "id": 7972,
+              "string": "1\u0000\u0007Shouldst thou eft desire my services, speak but a word and I shall craft another \u0001\u00053???? befitting an adventurer of thy proven valour."
+            },
+            {
+              "id": 7973,
+              "string": "1\u0000\u0007Yet when hast thou known me to bequeath anything unto thee swoopstake?\u0007Thou mayest hold a contrary opinion, but I believe an appropriate amount of time must be given to create a masterpiece."
+            },
+            {
+              "id": 7974,
+              "string": "1\u0000\u0007Indeed...\u0007If my calculations prove correct, preparations for the next batch should conclude in \n\u0000 ?\u0000[minute\/minutes] (Earth time)."
+            },
+            {
+              "id": 7975,
+              "string": "1\u0000\u0007It would hardly do for thy mortal frame to be encumbered overmuch by a surplus of stones, kupo. Therefore, I shall supply thee with no more than \n\u0000 at a given time."
+            },
+            {
+              "id": 7976,
+              "string": "1\u0000\u0007Shouldst thou find thyself overborne by my concoctions, I could take custody of them, should such be thy wish. Wot ye well, though: wings I may have, but wings do not a brainless beast of burden make, kupo."
+            },
+            {
+              "id": 7977,
+              "string": "1\u0000\u0007Fie for shame on my porous memory, kupo! I quite forgot."
+            },
+            {
+              "id": 7978,
+              "string": "1\u0000\u0007Methinks I entrusted thee with investigating of the Walk of Echoes, kupo."
+            },
+            {
+              "id": 7979,
+              "string": "1\u0000\u0007If the urge to adventure within these confines should ever strike, prithee inform me of thy desire first."
+            },
+            {
+              "id": 7980,
+              "string": "1\u0000\u0007Very well now. Let us now speak of transport, kupo."
+            },
+            {
+              "id": 7981,
+              "string": "1\u0000\u0007Fear not the journey, for if my stone faileth to protect thee, Cait Sith hath given her word that thy passage shall be safe, kupo."
+            },
+            {
+              "id": 7982,
+              "string": "1\u0000\u0007Hast thou sufficiently steeled thyself for the journey yonder?"
+            },
+            {
+              "id": 7984,
+              "string": "1\u0000\u0007Understood. Simply say the word whenas thy preparations are complete, kupo."
+            },
+            {
+              "id": 7985,
+              "string": "1\u0000\u0007In the meantime, I shall busy myself with tasks too menial to mention, kupo."
+            },
+            {
+              "id": 7986,
+              "string": "1\u0000\u0007First, a word of caution. Do not overexert thyself, for fatigue begets weakness and wanion.\u0007May Altana's blessing light thy way, kupo."
+            },
+            {
+              "id": 7987,
+              "string": "1\u0000\u0007And now we play the waiting game, kupo."
+            },
+            {
+              "id": 7988,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7989,
+              "string": "1\u0000\u0007Gramercy, the light doth shine forth!"
+            },
+            {
+              "id": 7990,
+              "string": "1\u0000\u0007Time is of the essence, kupo! "
+            },
+            {
+              "id": 7991,
+              "string": "1\u0000\u0007Onward!"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7982,
+              "string": "1\u0000\u0007Hast thou sufficiently steeled thyself for the journey yonder?"
+            },
+            {
+              "id": 8004,
+              "string": "1\u0000\u0007Here is your \u0001\u00053???? allotment, \b.\u0007Waste not a one, kupo."
+            },
+            {
+              "id": 8005,
+              "string": "1\u0000\u0007It appears thou hast exceeded thy allotment of \n\u0000 ?\u0000[stone\/stones].\u0007Regrettable as it is, I cannot provision thee with more, kupo."
+            },
+            {
+              "id": 8006,
+              "string": "1\u0000\u0007I am unable to craft any more at this juncture, kupo.\u0007Howbeit, if my calculations prove correct, preparations for the next batch should conclude in \n\u0000 ?\u0000[minute\/minutes] (Earth time)."
+            },
+            {
+              "id": 8009,
+              "string": "1\u0000\u0007Thine outstanding allocation of \u0001\u00055?????\u0007Should my records hold true, thou still hast \n\u0001 to thy name, kupo."
+            },
+            {
+              "id": 7997,
+              "string": "1\u0000\u0007Ye gads!"
+            },
+            {
+              "id": 7998,
+              "string": "1\u0000\u0007Canst thou not perceive this power, kupo!? This sensation of the selfsame ilk as what writhes behind yon distortion?"
+            },
+            {
+              "id": 7999,
+              "string": "1\u0000\u0007Oh ho ho, meseems it doth emanate from thy Voidwalker remnant, kupo."
+            },
+            {
+              "id": 8000,
+              "string": "1\u0000\u0007Mayhap we can channel this force to forge \u0001\u00056????!"
+            },
+            {
+              "id": 8001,
+              "string": "1\u0000\u0007Yet using a single source would leave myriad questions anent its integrity.\u0007Collecting \n\u0001 of those Voidwalker fragments, however, should supply ample energy for its creation, kupo."
+            },
+            {
+              "id": 8002,
+              "string": "1\u0000\u0007Approach me with the requisite bounty in hand and I shall begin the conversion process eftsoons."
+            },
+            {
+              "id": 7984,
+              "string": "1\u0000\u0007Understood. Simply say the word whenas thy preparations are complete, kupo."
+            },
+            {
+              "id": 7987,
+              "string": "1\u0000\u0007And now we play the waiting game, kupo."
+            },
+            {
+              "id": 7988,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7989,
+              "string": "1\u0000\u0007Gramercy, the light doth shine forth!"
+            },
+            {
+              "id": 7990,
+              "string": "1\u0000\u0007Time is of the essence, kupo! "
+            },
+            {
+              "id": 7991,
+              "string": "1\u0000\u0007Onward!"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 8015,
+              "string": "1\u0000\u0007The wonders thou hast witnessed yonside this distortion eclipse any phenomenon in my encyclopedia of experiences, kupo."
+            },
+            {
+              "id": 8016,
+              "string": "1\u0000\u0007Mayhap the stars have aligned for this day and this day alone!"
+            },
+            {
+              "id": 8017,
+              "string": "1\u0000\u0007Incidentally, hast thou ever pondered, excogitated, or ruminated on the genesis of this celestial body we call home, kupo?"
+            },
+            {
+              "id": 8018,
+              "string": "1\u0000\u0007I profess to have tried many a time and failed at each--I comprehend not a whit, kupo.\u0007Canst thou imagine the scale...the myriad events interlocked so spectacularly as to lead us as we are to this specific point, at this particular moment?"
+            },
+            {
+              "id": 8019,
+              "string": "1\u0000\u0007If thou cannot, take heart. Nor can any creature that measureth its lifespan in years instead of eons."
+            },
+            {
+              "id": 8020,
+              "string": "1\u0000\u0007Awash in the eternal flow of time, individuals are naught but flotsam.\u0007Such is true equally for the most notable noble, and the most abject almsman, kupo."
+            },
+            {
+              "id": 8021,
+              "string": "1\u0000\u0007Death is all that lieth at the mouth of the river, yet maugre its foreordained nature, we struggle mightily against its current, kupo.\u0007Were I queried as to the beauty of life, that is the answer I would give, my crystal-culling compatriot."
+            },
+            {
+              "id": 8022,
+              "string": "1\u0000\u0007Howbeit, mine answer may differ from thine, as thine may from another's.\u0007A single, consummate conclusion doth not exist, any search for one would taxeth the mind needlessly, kupo."
+            },
+            {
+              "id": 8023,
+              "string": "1\u0000\u0007And yet, one thing is for certain.\u0007We all have our own interpretations, and from those spring forth an infinite number of possibilities, kupo."
+            },
+            {
+              "id": 8024,
+              "string": "1\u0000\u0007I am me, thou art thee, our current lives but droplets in the sea.\u0007Thou art encompassed always by alternate realities...and the choice to change is always present, kupo."
+            },
+            {
+              "id": 8025,
+              "string": "1\u0000\u0007Cait Sith hath conferred one such choice upon thee, kupo."
+            },
+            {
+              "id": 8026,
+              "string": "1\u0000\u0007Should thou desirest to eft traverse the primordial planes of Provenance, but speak my name and I shall come swooping to thy aid.\u0007'Tis my station to ensure thy safe passage to a new dimension--and new reality, kupo."
+            },
+            {
+              "id": 8027,
+              "string": "1\u0000\u0007Fare thee well, \b, and may the wisdom of the Magians help lead thee to thine own light."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 8002,
+              "string": "1\u0000\u0007Approach me with the requisite bounty in hand and I shall begin the conversion process eftsoons."
+            },
+            {
+              "id": 8010,
+              "string": "1\u0000\u0007Thou hast procured \n\u0002 \u0001\t)?????????\u0007Very well, wait but a moment."
+            },
+            {
+              "id": 8011,
+              "string": "1\u0000\u0007The conversion is complete, kupo!\u0007Thou bequeathed unto me \n\u0002 \u0001\t)????????, thus I crafted a \n\u0004-stone batch of \u0001\u00055????."
+            },
+            {
+              "id": 8012,
+              "string": "1\u0000\u0007Allow me to take these off thy hands, kupo."
+            },
+            {
+              "id": 8013,
+              "string": "1\u0000\u0007Methinks thou carry the maximum amount of \u0001\u00053????.\u0007Thou canst but hold \n\u0001 without encumbering thyself, kupo."
+            },
+            {
+              "id": 8014,
+              "string": "1\u0000\u0007After our current transaction, thy remaining allotment of \u0001\u00055???? doth stand at \n\u0001, kupo."
+            },
+            {
+              "id": 8013,
+              "string": "1\u0000\u0007Methinks thou carry the maximum amount of \u0001\u00053????.\u0007Thou canst but hold \n\u0001 without encumbering thyself, kupo."
+            },
+            {
+              "id": 8014,
+              "string": "1\u0000\u0007After our current transaction, thy remaining allotment of \u0001\u00055???? doth stand at \n\u0001, kupo."
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "dialogue": [
+            {
+              "id": 8028,
+              "string": "1\u0000\u0007Gadzooks!\u0007I should have known that such an imposing force of incomprehensible puissance could only originate from thee, \b."
+            },
+            {
+              "id": 8029,
+              "string": "1\u0000\u0007Hist...\u0007Do mine eyes deceive me...or is that forsooth an Empyrean weapon, kupo?"
+            },
+            {
+              "id": 8030,
+              "string": "1\u0000\u0007Meseems I've gotten ahead of myself. For a moment, exorbitant amounts of excitement pumped palpably betwixt and between the chambers of my heart."
+            },
+            {
+              "id": 8031,
+              "string": "1\u0000\u0007Howbeit, thy perseverance shocks me, kupo. To obtain such a specimen is no easy feat."
+            },
+            {
+              "id": 8032,
+              "string": "1\u0000\u0007Hmmm..."
+            },
+            {
+              "id": 8033,
+              "string": "1\u0000\u0007I reckoned this day would come from the moment I sensed thou hadst harnessed the tablets' powers, kupo."
+            },
+            {
+              "id": 8034,
+              "string": "1\u0000\u0007Aye, this torrent of diction has been brewing in my belly for moons multitudinous, and now the time has come to unleash it upon thee."
+            },
+            {
+              "id": 8035,
+              "string": "1\u0000\u0007What I hope I have already made abundantly clear is that thy weapon holdeth within itself a dynamism, kupo."
+            },
+            {
+              "id": 8036,
+              "string": "1\u0000\u0007What? Thou wishest for a more corporeal description? So it shall be, kupo.\u0007Parfay, the force is strong enough to cast off all darkness that could ever threaten to enshroud Vana'diel."
+            },
+            {
+              "id": 8037,
+              "string": "1\u0000\u0007The rub is that it may only be channeled via a conduit. Without the physical weapon, 'tis naught but an abstract concept upon which scholars speculate, kupo."
+            },
+            {
+              "id": 8038,
+              "string": "1\u0000\u0007...Erewhile, that is."
+            },
+            {
+              "id": 8039,
+              "string": "1\u0000\u0007Shouldst thou desire, I can transplant that dynamism into thee. It shall course through thy veins, and summoning it would be as simple as seeing a sweven.\u0007Doth this interest thee to any extent?"
+            },
+            {
+              "id": 8042,
+              "string": "1\u0000\u0007By the mysterious moogle magic that mills about inside me, I call the transposition to commencement, kupo!"
+            },
+            {
+              "id": 8043,
+              "string": "1\u0000\u0007...Didst thou know, peradventure, that the power of which I speak is cleped ??weapon skill?? in thy vernacular? I want no misunderstandings before progressing with the procedure."
+            },
+            {
+              "id": 8044,
+              "string": "1\u0000\u0007By the mysterious moogle magic that meanders through me, I call the transposition to commencement, kupo!"
+            },
+            {
+              "id": 8045,
+              "string": "1\u0000\u0007Before we begin, I must needs inform thee that not all the vessel's power may be transferred."
+            },
+            {
+              "id": 8046,
+              "string": "1\u0000\u0007That fearsome phenomenon ye adventurers term ??aftermath?? would, as its name implies, rend thy armament asunder should it be removed, kupo."
+            },
+            {
+              "id": 8047,
+              "string": "1\u0000\u0007Thus, I can only transpose the aspect oft cleped ??weapon skill?? in thy vernacular."
+            },
+            {
+              "id": 8048,
+              "string": "1\u0000\u0007Now that I have dispensed with the disclaimer, 'tis time to traipse onward toward matters of more import, kupo."
+            },
+            {
+              "id": 8049,
+              "string": "1\u0000\u0007The mysterious moogle magic I must employ differs depending on the weapon and the skill that accompanies it. In accordance, thou must needs select an appropriate armament from which to extract its essence."
+            },
+            {
+              "id": 8050,
+              "string": "1\u0000\u0007Eftsoons thy request hast been spoke, I shall set about making the requisite preparations, kupo."
+            },
+            {
+              "id": 8051,
+              "string": "1\u0000\u0007Designate thy desire, kupo."
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8053,
+              "string": "1\u0000\u0007I understand it mayhaps be nigh impossible to choose from the bevy afore thee. Natheless, prithee visit me eft thy mind be made."
+            },
+            {
+              "id": 8041,
+              "string": "1\u0000\u0007Thy wish is my command, kupo."
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "dialogue": [
+            {
+              "id": 8067,
+              "string": "1\u0000\u0007Mercy! My mind moils making mystifying moogle magic manifest. Dost thou desire to quell this course of action and quit, kupo?"
+            },
+            {
+              "id": 8041,
+              "string": "1\u0000\u0007Thy wish is my command, kupo."
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "dialogue": [
+            {
+              "id": 8049,
+              "string": "1\u0000\u0007The mysterious moogle magic I must employ differs depending on the weapon and the skill that accompanies it. In accordance, thou must needs select an appropriate armament from which to extract its essence."
+            },
+            {
+              "id": 8050,
+              "string": "1\u0000\u0007Eftsoons thy request hast been spoke, I shall set about making the requisite preparations, kupo."
+            },
+            {
+              "id": 8051,
+              "string": "1\u0000\u0007Designate thy desire, kupo."
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism]?"
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer\/dagger\/sword\/great sword\/axe\/great axe\/scythe\/polearm\/katana\/great katana\/club\/staff\/archery armament\/marksmanship mechanism], kupo."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007Yoicks! Have I made a mistake, kupo?"
+            },
+            {
+              "id": 8053,
+              "string": "1\u0000\u0007I understand it mayhaps be nigh impossible to choose from the bevy afore thee. Natheless, prithee visit me eft thy mind be made."
+            }
+          ]
+        },
+        {
+          "id": 121,
+          "dialogue": [
+            {
+              "id": 8065,
+              "string": "1\u0000\u0007While thine enthusiasm for expertise elevation is encouraging to behold, overexposure to moogle magic hath been known to muddle many a mortal mind."
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "dialogue": [
+            {
+              "id": 8059,
+              "string": "1\u0000\u0007Kupopopo...\u0007An inexplicable force resides within this armament, forsooth."
+            },
+            {
+              "id": 8060,
+              "string": "1\u0000\u0007Kupopopo...\u0007This armament is without a doubt worthy of the moniker ??Empyrean,?? kupo. A single feint touch is all one needs to ascertain its celestial standards."
+            },
+            {
+              "id": 8061,
+              "string": "1\u0000\u0007Very well, then... Time to test this transference, kupo!"
+            },
+            {
+              "id": 8062,
+              "string": "1\u0000\u0007Watch now in awestruck amazement as the mighty moogle magic of Kupofried is cast upon thee!"
+            },
+            {
+              "id": 8063,
+              "string": "1\u0000\u0007Hohoho, a stunning success of a sublime scope, If I do say so myself."
+            },
+            {
+              "id": 8064,
+              "string": "1\u0000\u0007It may seem as if naught has come to pass, but would my fluffy facade ever deceive thee? Prithee wield another weapon and watch what happens with thy weapon skill, kupo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523343,
+      "name": "???",
+      "events": [
+        {
+          "id": 118,
+          "dialogue": [
+            {
+              "id": 8040,
+              "string": "1\u0000\u0007Does it interest you?\u0007\u000bYes! Give me the power!\u0007Not at the moment."
+            },
+            {
+              "id": 8052,
+              "string": "1\u0000\u0007Which skill set shalt thou select?\u0007\u000bHand-to-hand.\u0007Dagger.\u0007Sword.\u0007Great Sword.\u0007Axe.\u0007Great Axe.\u0007Scythe.\u0007Polearm.\u0007Katana.\u0007Great Katana.\u0007Club.\u0007Staff.\u0007Archery.\u0007Marksmanship.\u0007None for the nonce."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "dialogue": [
+            {
+              "id": 8068,
+              "string": "1\u0000\u0007Continue or quit?\u0007\u000bContinue!\u0007Quit!"
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "dialogue": [
+            {
+              "id": 8052,
+              "string": "1\u0000\u0007Which skill set shalt thou select?\u0007\u000bHand-to-hand.\u0007Dagger.\u0007Sword.\u0007Great Sword.\u0007Axe.\u0007Great Axe.\u0007Scythe.\u0007Polearm.\u0007Katana.\u0007Great Katana.\u0007Club.\u0007Staff.\u0007Archery.\u0007Marksmanship.\u0007None for the nonce."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Is this the one?\u0007\u000bVerily.\u0007Nay."
+            }
+          ]
+        },
+        {
+          "id": 121,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 122,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523344,
+      "name": "???",
+      "events": [
+        {
+          "id": 123,
+          "dialogue": [
+            {
+              "id": 8127,
+              "string": "1\u0000\u0007Assist Cait Sith?\u0007\u000bAbsolutely.\u0007Not happening."
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            },
+            {
+              "id": 8148,
+              "string": "1\u0000\u0007How do you respond?\u0007\u000bDon't lose heart!\u0007I can't hear you!"
+            }
+          ]
+        },
+        {
+          "id": 124,
+          "dialogue": [
+            {
+              "id": 8168,
+              "string": "1\u0000\u0007What do you think?\u0007\u000bYou've gotten cuter!\u0007Still the same old Lilisette!"
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            }
+          ]
+        },
+        {
+          "id": 125,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 126,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 127,
+          "dialogue": [
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523345,
+      "name": "Lilisette",
+      "events": [
+        {
+          "id": 123,
+          "dialogue": [
+            {
+              "id": 8136,
+              "string": "1\u0000\u0007Grand fight...dark future...we gave it our all..."
+            },
+            {
+              "id": 8137,
+              "string": "1\u0000\u0007We tried to stop the Kindred..."
+            },
+            {
+              "id": 8138,
+              "string": "1\u0000\u0007And one false step would have spelled...ends..."
+            },
+            {
+              "id": 8139,
+              "string": "1\u0000\u0007I tried, but the cavernous maw I sealed...they...\u0007...They opened it."
+            },
+            {
+              "id": 8145,
+              "string": "1\u0000\u0007Please...need your...once more..."
+            },
+            {
+              "id": 8146,
+              "string": "1\u0000\u0007I hope....voice...can reach..."
+            },
+            {
+              "id": 8147,
+              "string": "1\u0000\u0007Is it...?\u0007...\b..."
+            },
+            {
+              "id": 8150,
+              "string": "1\u0000\u0007...Hear me?\u0007\b...waiting for...!"
+            },
+            {
+              "id": 8149,
+              "string": "1\u0000\u0007...Hear me?\u0007...No? But I..."
+            }
+          ]
+        },
+        {
+          "id": 124,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 125,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 127,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523346,
+      "name": "",
+      "events": [
+        {
+          "id": 125,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 127,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523347,
+      "name": "",
+      "events": [
+        {
+          "id": 125,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 127,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523348,
+      "name": "",
+      "events": [
+        {
+          "id": 127,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523349,
+      "name": "???",
+      "events": [
+        {
+          "id": 26,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007?@?@ "
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 29,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 30,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 35,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523350,
+      "name": "Volto Oscuro",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523351,
+      "name": "",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523352,
+      "name": "",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523353,
+      "name": "",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523354,
+      "name": "",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523355,
+      "name": "",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523356,
+      "name": "",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17523357,
+      "name": "???",
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 36,
+          "dialogue": [
+            {
+              "id": 7961,
+              "string": "1\u0000\u0007Warp to \f\u0000[???\/Provenance\/Walk of Echoes\/Pashhow Marshlands]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1004,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1005,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1006,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1602,
+          "dialogue": [
+            {
+              "id": 7289,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7667,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007When Wills Collide.\u0007Maiden of the Dusk.\u0007\f\u0004[Champion of the Dawn\/The Dawn Also Rises].\u0007A Forbidden Reunion.\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007  \u0007  \u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@\u0007?@"
+            },
+            {
+              "id": 7289,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7301,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7302,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7630,
+              "string": "]!\u0000\u0007Battlefield clear time: \n\u0003 minute?\u0003[\/s], \n\u0002 second?\u0002[\/s"
+            },
+            {
+              "id": 7629,
+              "string": "1\u0000\u0007Battlefield clear time: \n\u0003 second?\u0003[\/s"
+            },
+            {
+              "id": 7659,
+              "string": "1\u0000\u0007You have broken the clear time record for ??\f\u0005[When Wills Collide\/Maiden of the Dusk\/Champion of the Dawn\/A Forbidden Reunion\/]?"
+            },
+            {
+              "id": 7663,
+              "string": "?!\u0000\u0007You have broken the clear time record for ??\f\u0005[When Wills Collide\/Maiden of the Dusk\/The Dawn Also Rises\/A Forbidden Reunion\/]?"
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32005,
+          "dialogue": [
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483633,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483634,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483635,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483636,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483637,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

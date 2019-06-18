@@ -1,0 +1,231 @@
+{
+  "id": 69,
+  "name": "Leujaoam Sanctum",
+  "actors": [
+    {
+      "id": 17059930,
+      "name": "Qiqirn Dealer",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007Clink clink! Clink clink! Make heart pound! Okay, okay! It game, then! Can play now, yes?"
+            },
+            {
+              "id": 7595,
+              "string": "1\u0000\u0007Throwing dice around and round now.?? Here go for Titiroon turn... It a \n\u0000!"
+            },
+            {
+              "id": 7596,
+              "string": "1\u0000\u0007Okay, one more time!\u0007...\n\u0000! Ohhh, that make \n\u0001, yes?"
+            },
+            {
+              "id": 7606,
+              "string": "1\u0000\u0007Ohhh, have same luck! It tie! Will retooorn clink clink back to yooo."
+            },
+            {
+              "id": 7593,
+              "string": "1\u0000\u0007Throwing dice around! Yooo throw dice around all yooo want! Want get close to 1,000, okay? But if go over 1,000, then lose and so sad!"
+            },
+            {
+              "id": 7594,
+              "string": "1\u0000\u0007If yooo win, get \u0001\u0005#????. If lose, clink clink gone! Happy, but kind of sad for yooo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17060015,
+      "name": "Rune of Release",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Leave \f\u0000[Leujaoam Sanctum\/the Mamool Ja Training Grounds\/Lebros Cavern\/Periqia\/Ilrusi Atoll]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17060101,
+      "name": "Kuihlud",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17060102,
+      "name": "Nareema",
+      "events": [
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007How...were the grafts?\u0007\u000bThey were fantastic!\u0007Great!\u0007They were okay...\u0007Awful!"
+            },
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007Oh...that's good to know... No, no, it's not good... This will only spread the agony..."
+            },
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007That's good... You and I...have much in common...but that...frightens me."
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007Oh...I'm sorry... It's my fault...I did poorly... Please leave now..."
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007That's too bad... No, no...that's good...one less thing to worry about..."
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 109,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17060107,
+      "name": "",
+      "events": [
+        {
+          "id": 110,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7592,
+              "string": "1\u0000\u0007Throwing dice around?\u0007\u000bYes, let's gooo!\u0007What yooo mean?"
+            },
+            {
+              "id": 7599,
+              "string": "1\u0000\u0007Roll the dice again?\u0007\u000bYes, please.\u0007I'll stop here!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

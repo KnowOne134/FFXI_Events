@@ -1,0 +1,3799 @@
+{
+  "id": 171,
+  "name": "Crawlers' Nest [S]",
+  "actors": [
+    {
+      "id": 17477834,
+      "name": "Republic Supplier",
+      "events": [
+        {
+          "id": 257,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17477835,
+      "name": "Republic Supplier",
+      "events": [
+        {
+          "id": 258,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17477836,
+      "name": "Republic Supplier",
+      "events": [
+        {
+          "id": 259,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478065,
+      "name": "Choh Moui",
+      "events": [
+        {
+          "id": 500,
+          "dialogue": [
+            {
+              "id": 7669,
+              "string": "4\u0001\u0000\u0007Wheheheheheheh..."
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007Wheheheh... Cavern's filled with lots of tasty eats for my babies."
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007Wheheheh... Cavern's filled with lots of tasty eats for my babies."
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007Whahahahah! He's a plump one, eh? Had 'is fill bitin' the ankles of all the pretty soldiers now, did he?"
+            },
+            {
+              "id": 7672,
+              "string": "1\u0000\u0007The chigoe jumps into Choh Moui's satchel."
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007Whahahahah! He's a plump one, eh? Had 'is fill bitin' the ankles of all the pretty soldiers now, did he?"
+            },
+            {
+              "id": 7672,
+              "string": "1\u0000\u0007The chigoe jumps into Choh Moui's satchel."
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007Whahahahah! He's a plump one, eh? Had 'is fill bitin' the ankles of all the pretty soldiers now, did he?"
+            },
+            {
+              "id": 7672,
+              "string": "1\u0000\u0007The chigoe jumps into Choh Moui's satchel."
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007Wheheheh... Cavern's filled with lots of tasty eats for my babies."
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007Wheheheh... Cavern's filled with lots of tasty eats for my babies."
+            },
+            {
+              "id": 7673,
+              "string": "1\u0000\u0007Oooh! With these I can make me and my babies some tasty fixins, ya!"
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007Whahahahah! He's a plump one, eh? Had 'is fill bitin' the ankles of all the pretty soldiers now, did he?"
+            },
+            {
+              "id": 7673,
+              "string": "1\u0000\u0007Oooh! With these I can make me and my babies some tasty fixins, ya!"
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007Whahahahah! He's a plump one, eh? Had 'is fill bitin' the ankles of all the pretty soldiers now, did he?"
+            },
+            {
+              "id": 7673,
+              "string": "1\u0000\u0007Oooh! With these I can make me and my babies some tasty fixins, ya!"
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007Whahahahah! He's a plump one, eh? Had 'is fill bitin' the ankles of all the pretty soldiers now, did he?"
+            },
+            {
+              "id": 7674,
+              "string": "1\u0000\u0007Wha-wha?\u0007Moui don't know nothing 'bout no pet food. Why this smell like my breakfast?"
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007Wheheheh... Cavern's filled with lots of tasty eats for my babies."
+            },
+            {
+              "id": 7669,
+              "string": "4\u0001\u0000\u0007Wheheheheheheh..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478066,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17478067,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17478068,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17478069,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17478070,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17478071,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17478073,
+      "name": "Treasure Coffer",
+      "events": [
+        {
+          "id": 3000,
+          "dialogue": [
+            {
+              "id": 7759,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7760,
+              "string": "1\u0000\u0007Obtain this item?\u0007\u000bTake it.\u0007Leave it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478079,
+      "name": "",
+      "events": [
+        {
+          "id": 460,
+          "dialogue": [
+            {
+              "id": 505,
+              "string": "1\u0000\u0007Register for a union?\u0007\u000bNo.\u0007Yes."
+            },
+            {
+              "id": 506,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Transfer to another union.\u0007Resign union membership."
+            },
+            {
+              "id": 507,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 508,
+              "string": "1\u0000\u0007\f\u0000[Transfer unions\/Resign from your current union]?\u0007\u000bNo.\u0007Yes."
+            },
+            {
+              "id": 507,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 508,
+              "string": "1\u0000\u0007\f\u0000[Transfer unions\/Resign from your current union]?\u0007\u000bNo.\u0007Yes."
+            },
+            {
+              "id": 513,
+              "string": "1\u0000\u0007I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits.\u0007For better or for worse, though, I suspect it shall not be long before we are in need of some new blood.\u0007Such is the nature of war..."
+            },
+            {
+              "id": 509,
+              "string": "1\u0000\u0007Register for which union?\u0007\u000bNone.\u0007Adder Union (\n\u0000 ?\u0000[member\/members]).\u0007Bison Union (\n\u0001 ?\u0001[member\/members]).\u0007Coyote Union (\n\u0002 ?\u0002[member\/members]).\u0007Dhole Union (\n\u0003 ?\u0003[member\/members]).\u0007Eland Union (\n\u0004 ?\u0004[member\/members])."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478107,
+      "name": "",
+      "events": [
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 6877,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6878,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6883,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6893,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6890,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6887,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6884,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6894,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6891,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6888,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6885,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6895,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6892,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6889,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6886,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478110,
+      "name": "Chefroucauld, T.K.",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 250,
+          "dialogue": [
+            {
+              "id": 7693,
+              "string": "1\u0000\u0007Ahhh, so you're military tactician who who drew up the plans for this latest supply mission.\u0007Why don't we ask one of the men how its going, shall we?"
+            },
+            {
+              "id": 19,
+              "string": "1\u0000\u0007Greetings. I am \t of the Bastokan Legion."
+            },
+            {
+              "id": 60,
+              "string": "1\u0000\u0007You currently possess \n' Allied Note?'[\/s]."
+            }
+          ]
+        },
+        {
+          "id": 450,
+          "dialogue": [
+            {
+              "id": 5,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 454,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478111,
+      "name": "Astrid, I.M.",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 251,
+          "dialogue": [
+            {
+              "id": 7693,
+              "string": "1\u0000\u0007Ahhh, so you're military tactician who who drew up the plans for this latest supply mission.\u0007Why don't we ask one of the men how its going, shall we?"
+            },
+            {
+              "id": 19,
+              "string": "1\u0000\u0007Greetings. I am \t of the Bastokan Legion."
+            },
+            {
+              "id": 60,
+              "string": "1\u0000\u0007You currently possess \n' Allied Note?'[\/s]."
+            }
+          ]
+        },
+        {
+          "id": 451,
+          "dialogue": [
+            {
+              "id": 5,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 455,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478112,
+      "name": "Puttsu-Montsu, C.C.",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 252,
+          "dialogue": [
+            {
+              "id": 7693,
+              "string": "1\u0000\u0007Ahhh, so you're military tactician who who drew up the plans for this latest supply mission.\u0007Why don't we ask one of the men how its going, shall we?"
+            },
+            {
+              "id": 19,
+              "string": "1\u0000\u0007Greetings. I am \t of the Bastokan Legion."
+            },
+            {
+              "id": 60,
+              "string": "1\u0000\u0007You currently possess \n' Allied Note?'[\/s]."
+            }
+          ]
+        },
+        {
+          "id": 452,
+          "dialogue": [
+            {
+              "id": 5,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 456,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478113,
+      "name": "",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478114,
+      "name": "",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478115,
+      "name": "",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478116,
+      "name": "",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478117,
+      "name": "Landon, C.A.",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 453,
+          "dialogue": [
+            {
+              "id": 5,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 457,
+          "dialogue": [
+            {
+              "id": 18,
+              "string": "1\u0000\u0007Greetings. I am \t of the San d'Orian Provincial Knights."
+            },
+            {
+              "id": 19,
+              "string": "1\u0000\u0007Greetings. I am \t of the Bastokan Legion."
+            },
+            {
+              "id": 20,
+              "string": "1\u0000\u0007Greetings. I am \t of the Federation of Windurst."
+            },
+            {
+              "id": 21,
+              "string": "1\u0000\u0007Greetings. I am \t, Campaign Arbiter for the Allied Forces."
+            },
+            {
+              "id": 22,
+              "string": "1\u0000\u0007What can I help you with?\u0007\u000bNothing.\u0007Performance assessment.\u0007New Allied Tags.\u0007Temporary items.\u0007Union registration.\u0007Teleportation.\u0007Information on the Allied Campaign."
+            },
+            {
+              "id": 28,
+              "string": "1\u0000\u0007You've already undergone an evaluation for this battle, or had you forgotten?\u0007As much as I'd like to, I'm forbidden from providing you with a new set of Allied Taegs until the next battle begins."
+            },
+            {
+              "id": 68,
+              "string": "\u0000!\u0000\u0007I am sorry, \b, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official."
+            },
+            {
+              "id": 68,
+              "string": "\u0000!\u0000\u0007I am sorry, \b, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official."
+            },
+            {
+              "id": 25,
+              "string": "1\u0000\u0007Understood. I shall now judge your performance and award the proper remuneration."
+            },
+            {
+              "id": 27,
+              "string": "1\u0000\u0007Understood. I shall prepare a new set of tags for you now."
+            },
+            {
+              "id": 57,
+              "string": "1\u0000\u0007Let me show you the list of items currently available to you."
+            },
+            {
+              "id": 58,
+              "string": "1\u0000\u0007Select a category:\u0007\u000bQuit.\u0007\n\u0000-Note Items.\u0007\n\u0001-Note Items.\u0007\n\u0002-Note Items."
+            },
+            {
+              "id": 59,
+              "string": "1\u0000\u0007Which item would you like to see?\u0007\u000bQuit.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????"
+            },
+            {
+              "id": 60,
+              "string": "1\u0000\u0007You currently possess \n' Allied Note?'[\/s]."
+            },
+            {
+              "id": 61,
+              "string": "1\u0000\u0007Proceed with the transaction?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 75,
+              "string": "y.\u0000\u0007Register for a union?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 506,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Transfer to another union.\u0007Resign union membership."
+            },
+            {
+              "id": 507,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 76,
+              "string": "1\u0000\u0007\f\u0000[Transfer\/Resign] from your current union?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 507,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 76,
+              "string": "1\u0000\u0007\f\u0000[Transfer\/Resign] from your current union?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 513,
+              "string": "1\u0000\u0007I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits.\u0007For better or for worse, though, I suspect it shall not be long before we are in need of some new blood.\u0007Such is the nature of war..."
+            },
+            {
+              "id": 509,
+              "string": "1\u0000\u0007Register for which union?\u0007\u000bNone.\u0007Adder Union (\n\u0000 ?\u0000[member\/members]).\u0007Bison Union (\n\u0001 ?\u0001[member\/members]).\u0007Coyote Union (\n\u0002 ?\u0002[member\/members]).\u0007Dhole Union (\n\u0003 ?\u0003[member\/members]).\u0007Eland Union (\n\u0004 ?\u0004[member\/members])."
+            },
+            {
+              "id": 43,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 13,
+              "string": "d.\u0000\u0007I am sorry. You do not have enough Allied Notes."
+            },
+            {
+              "id": 43,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 13,
+              "string": "d.\u0000\u0007I am sorry. You do not have enough Allied Notes."
+            },
+            {
+              "id": 43,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 13,
+              "string": "d.\u0000\u0007I am sorry. You do not have enough Allied Notes."
+            },
+            {
+              "id": 43,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 44,
+              "string": "1\u0000\u0007Complete transaction and return to capital?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 23,
+              "string": "1\u0000\u0007What would you like to know?\u0007\u000bNothing. I'm sorry.\u0007About performance assessment.\u0007About Allied Tags.\u0007About temporary items.\u0007About Unions."
+            },
+            {
+              "id": 29,
+              "string": "1\u0000\u0007Anyone wearing Allied Tags while participating in a campaign battle will be judged on their overall performance."
+            },
+            {
+              "id": 30,
+              "string": "1\u0000\u0007Soldiers will be evaluated not only on their fighting skills, but also on how much they contribute to the efforts of their allies through means such as healing and enhancing."
+            },
+            {
+              "id": 31,
+              "string": "1\u0000\u0007However, beware that if you leave the area before being assessed, you will be deemed a deserter and will forfeit all rewards earned that day."
+            },
+            {
+              "id": 32,
+              "string": "1\u0000\u0007Also, while there are no immediate penalties for being knocked out, falling in battle will significantly lower the score given to you."
+            },
+            {
+              "id": 33,
+              "string": "1\u0000\u0007When you are ready to receive compensation for your work on the field, return to me and I shall assess your performance and provide you with your payment."
+            },
+            {
+              "id": 42,
+              "string": "1\u0000\u0007That is all."
+            },
+            {
+              "id": 34,
+              "string": "1\u0000\u0007Allied Tags are a special type of identification given to all participants of Allied Campaign battles."
+            },
+            {
+              "id": 35,
+              "string": "1\u0000\u0007There are benefits, as well as drawbacks, to wearing the tags. One of the benefits is that in the case you are knocked out on the battlefield, you will not lose any experience points."
+            },
+            {
+              "id": 36,
+              "string": "1\u0000\u0007However, some of the drawbacks include the inability to improve skills and earn experience points for individual kills, as well as the right to loot fallen enemies."
+            },
+            {
+              "id": 42,
+              "string": "1\u0000\u0007That is all."
+            },
+            {
+              "id": 37,
+              "string": "1\u0000\u0007Temporary items can be purchased in exchange for Allied Notes."
+            },
+            {
+              "id": 38,
+              "string": "1\u0000\u0007There are several different varieties of items, but they all have one thing in common--they can only be used on the battlefield they were issued."
+            },
+            {
+              "id": 39,
+              "string": "1\u0000\u0007It is highly recommended that you first survey a battle's conditions and then select the supplies that you believe will benefit you most."
+            },
+            {
+              "id": 40,
+              "string": "1\u0000\u0007Please remember that all temporary items you carry on your person will be confiscated in the event that you leave the area."
+            },
+            {
+              "id": 42,
+              "string": "1\u0000\u0007That is all."
+            },
+            {
+              "id": 69,
+              "string": "1\u0000\u0007Oh ho! Keen to join a Union, are we?\u0007Very well. Listen up and I shall tell you all you need to know."
+            },
+            {
+              "id": 70,
+              "string": "1\u0000\u0007In order to better coordinate Allied efforts against the beastman menace, we have instituted a system of ad hoc tactical regiments called ??Unions.?? With five units to a battlefield, union registration is open to any proven soldier in possession of Allied Tags."
+            },
+            {
+              "id": 71,
+              "string": "1\u0000\u0007In return for their aid in advancing the war effort, union registrants will be eligible to earn a share of the spoils of war."
+            },
+            {
+              "id": 72,
+              "string": "1\u0000\u0007Needless to say, the choicest rewards will be reserved for those unions which make the greatest contributions in combat.\u0007Prove your mettle on the field of battle, and you will earn glory for your union, as well as a sizable bounty of your own."
+            },
+            {
+              "id": 73,
+              "string": "1\u0000\u0007Be forewarned that your commitment to your union comes first and foremost.\u0007In the aftermath of battle, you will not be permitted to reap rewards from your individual exploits until your union has distributed its plunder."
+            },
+            {
+              "id": 42,
+              "string": "1\u0000\u0007That is all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478126,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7610,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7611,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7612,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7620,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7621,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Green recommendation letter.\u0007A Little Knowledge(pt.1).\u0007A Little Knowledge(pt.2).\u0007A Little Knowledge(pt.3).\u0007A Little Knowledge(pt.4).\u0007The Weekly Adventurer(pt.1).\u0007The Weekly Adventurer(pt.2).\u0007The Weekly Adventurer(pt.3).\u0007The Weekly Adventurer(pt.4)."
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7624,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7613,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478128,
+      "name": "???",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478129,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17478130,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7627,
+              "string": "1\u0000\u0007Is it?\u0007\u000bShow me the way!\u0007I've enough adventure, thank you."
+            },
+            {
+              "id": 7627,
+              "string": "1\u0000\u0007Is it?\u0007\u000bShow me the way!\u0007I've enough adventure, thank you."
+            },
+            {
+              "id": 7668,
+              "string": "1\u0000\u0007?@?@ "
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478131,
+      "name": "Kalsu-Kalasu",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7629,
+              "string": "1\u0000\u0007Well, looky here! Couldn't say no to adventure, could you? That's why you're here, right? Right?"
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007Hey! Hey!\u0007Who let you in here? Nobody's supposed to know about the Federation's secret base--??nobody?? meaning you, not me, you see?"
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007O?`h! An adventurer! Why didn't you say so?\u0007An adventurer! One who adventures! One who seeks adventure! Well, adventurer, is it adventure that you seek?"
+            },
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007An adventurer with enough adventure!? Where is the adventure in that!? And you call yourself an adventurer!"
+            },
+            {
+              "id": 7630,
+              "string": "1\u0000\u0007I knew it! From the moment you said you were an adventurer, I could sense something...adventurous about you, my friend. And what could be more adventurous than joining an organization called the ??Cobras???"
+            },
+            {
+              "id": 7631,
+              "string": "1\u0000\u0007Wait right here. I have something for you."
+            },
+            {
+              "id": 7632,
+              "string": "1\u0000\u0007Alright, show this to Lieutenant Miah Riyuh in Windurst."
+            },
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007What is it? Why, a recommendation letter from yours truly! How else would you get into the Cobras?"
+            },
+            {
+              "id": 7635,
+              "string": "y.\u0000\u0007There you go. And now all you have left to do is sneak past all the beastmen guarding the path to the Federation capital. Quite adventuresome, I would say."
+            },
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007Good luck, and may the wisdom of the stars light your path!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007Don't forget to show that \u0001\u00053???? to Cobra Lieutenant Miah Riyuh in Windurst."
+            },
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007A seasoned adventurer like yourself should have no problem passing the initiation!"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007So, you're one of us now!\u0007Ah, victory is nigh! The Shadow Lord trembles on his throne as we speak!"
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007And if I keep telling myself that, someday it will come true, no?"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "dialogue": [
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007Good luck, and may the wisdom of the stars light your path!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478132,
+      "name": "Tucker",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007Well, tickle my belly.\u0007I don't get too many customers all the way out here in this day and age."
+            },
+            {
+              "id": 7642,
+              "string": "1\u0000\u0007Name's Tucker. I'm a trader out of Jeuno. I specialize in providing goods and services for those scholar types."
+            },
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007Hm? Scholars?\u0007You know, they use them ??grim-wahs?? and study marital...er, martial theory...or some such."
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007Anyway, they're a weird bunch.\u0007The most famous one I've heard of is a Bastokan army officer, and he's holed up in a tomb in Batallia Downs somewhere. Crazy, I tell you."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007Hm? Scholars?\u0007You know, they use them ??grim-wahs?? and study marital...er, martial theory...or some such."
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007Anyway, they're a weird bunch.\u0007The most famous one I've heard of is a Bastokan army officer, and he's holed up in a tomb in Batallia Downs somewhere. Crazy, I tell you."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007So, you're \b, right?"
+            },
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Hehe, and that's not all I know.\u0007A little bird tells me you need \u0001\u0005%????."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Well, okay, it wasn't a little bird. It was Professor Ulbrecht, the loony in the tomb.\u0007He said I'd be getting a visit from a \f\u0000[lady\/guy] called \b."
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007And shave my moustache if he wasn't right.\u0007Anyway, I might be able to help you with your little task."
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Of course, it ain't gonna be for free."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007Here's the deal.\u0007I give you one \u0001\u0005#???? for every twelve \u0001\u0005%???? you bring me."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007I'll take up to four dozen at a time.\u0007That means four \u0001\u0005%???? for you."
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007With the way those scholars go through 'em, \u0001\u0005%???? are a gold mine for traders right now.\u0007I'm letting them go for cheap, if you ask me."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007I'll be right here when you're ready to trade the goods."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007Here's the deal.\u0007I give you one \u0001\u0005#???? for every twelve \u0001\u0005%???? you bring me."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007I'll take up to four dozen at a time.\u0007That means four \u0001\u0005%???? for you."
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007With the way those scholars go through 'em, \u0001\u0005%???? are a gold mine for traders right now.\u0007I'm letting them go for cheap, if you ask me."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007I'll be right here when you're ready to trade the goods."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007You brought the \u0001\u0005%?????\u0007Fair enough. Here's my side of the bargain."
+            },
+            {
+              "id": 7659,
+              "string": "1\u0000\u0007This should give a nice boost to my profits.\u0007Lemme let you in on a trader's secret as a little bonus."
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007Crawler saliva has a preserving effect, you see.\u0007The \u0001\u0005%???? that have been down here for years sell for ridiculous prices."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007That's why there's always been a market for 'em here in the nest."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007I came to buy \u0001\u0005%???? on the way back from business with a customer, but the fields had been ripped up by a scuffle between Federation forces and the turtle guys. The shipments were canceled..."
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007I was in a real pickle until you showed up.\u0007And now I have pickled \u0001\u0005%????!"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007I'm still taking \u0001\u0005%???? if you've got 'em.\u0007Just keep rolling those beauties into my arms!"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007Here's the deal.\u0007I give you one \u0001\u0005#???? for every twelve \u0001\u0005%???? you bring me."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007I'll take up to four dozen at a time.\u0007That means four \u0001\u0005%???? for you."
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007With the way those scholars go through 'em, \u0001\u0005%???? are a gold mine for traders right now.\u0007I'm letting them go for cheap, if you ask me."
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007I'm still taking \u0001\u0005%???? if you've got 'em.\u0007Just keep rolling those beauties into my arms!"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007You brought the \u0001\u0005%?????\u0007Fair enough. Here's my side of the bargain."
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007Thank you berry much! Ahaha..."
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007I'm still taking \u0001\u0005%???? if you've got 'em.\u0007Just keep rolling those beauties into my arms!"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007You brought the \u0001\u0005%?????\u0007Fair enough. Here's my side of the bargain."
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007Thank you berry much! Ahaha..."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007Uh-oh...\u0007Looks like I've run out of vellum.\u0007But thanks to you, I've built a handsome stockpile of \u0001\u0005%????."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007I don't know how you manage to get a hold of so many, and I'm not gonna ask.\u0007No, keep your trap shut. I don't wanna know."
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007Be safe on your travels.\u0007And say hello to that nutty professor for me!"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007Be safe on your travels.\u0007And say hello to that nutty professor for me!"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007Well, tickle my belly.\u0007I don't get too many customers all the way out here in this day and age."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7665,
+              "string": "1\u0000\u0007Fruits have an off-season, you know.\u0007What do you expect me to do with these?\u0007Eat 'em myself?"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Go play at trading somewhere else."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007Crawler saliva has a preserving effect, you see.\u0007The \u0001\u0005%???? that have been down here for years sell for ridiculous prices."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007That's why there's always been a market for 'em here in the nest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478133,
+      "name": "Naiko-Paneiko",
+      "events": [
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7571,
+              "string": "s.\u0000\u0007Hey there, kid, I'm Naiko-Paneiko, up-and-coming ace journalist.\u0007Journeying to the remotest frontlines of battle to cover all the news that's fit to printaru!"
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007I'll travel all over Vana'diel if I have to!\u0007To tell people the truth! The real truth about this war that the wartime papers aren't printing!"
+            },
+            {
+              "id": 7573,
+              "string": "1\u0000\u0007...Oh, what's this? You've got a slight air of journalism about you, kid.\u0007Whaddaya say? Wanna help a Taru out?"
+            },
+            {
+              "id": 7574,
+              "string": "1\u0000\u0007There's just two things a good journalist has gotta have, kid!\u0007Impeccable verbiage, and a nose for the truth!\u0007And, well...and feet, I suppose...to go story-hunting... Three things!"
+            },
+            {
+              "id": 7575,
+              "string": "1\u0000\u0007And I sense all of those things in you. Especially the feet!\u0007You're practically overflowing with journalistic vibes, kid! A natural-born newshound!\u0007And I'm not only saying that because I'm tragically shorthanded, either."
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007In fact, it so happens that I just received a hotaru lead!\u0007I was eavesdropping on some sol--I mean...\u0007I overheard some soldiers talking the other day. Yeah, that's it!"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Rumor has it that a peculiar oddity of a monster has appeared in the Rolanberry Fields."
+            },
+            {
+              "id": 7578,
+              "string": "1\u0000\u0007Supposedly some soldiers have been dispatched to take care of it.\u0007So go track them down and find out exactly whataru is going on, kid!"
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007Here ya go. Use this to reportaru back as soon as you hear something."
+            },
+            {
+              "id": 7581,
+              "string": "?!\u0000\u0007You even know how to use a linkpearl, kid? Tell ya what, I'll wait a while and then give you a call."
+            },
+            {
+              "id": 7582,
+              "string": "1\u0000\u0007Woohoo, this is what we live for, kid! Can't ya feel it!?\u0007Now get a move on! There's no time to lose!\u0007A cold story is no story at all!"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            {
+              "id": 7590,
+              "string": "1\u0000\u0007Oooh, look who's back!\u0007We got problems, kid?"
+            },
+            {
+              "id": 7592,
+              "string": "1\u0000\u0007I just don'taru get it. These articles are all based on the finest intelligence gathering.\u0007But we can't even sell an issue! And just look at these losses!\u0007Get out there and get me some more stories!"
+            },
+            {
+              "id": 7593,
+              "string": "1\u0000\u0007Rewrite! From the beginning!\u0007Go back and get your facts straightaru!\u0007Move it!"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "dialogue": [
+            {
+              "id": 7590,
+              "string": "1\u0000\u0007Oooh, look who's back!\u0007We got problems, kid?"
+            },
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007This just doesn't make any sense! Nothing but columns based on solid factaru, and I'm receiving complaint after complaint from readers saying that they're all fabrications and falsehoods!"
+            },
+            {
+              "id": 7593,
+              "string": "1\u0000\u0007Rewrite! From the beginning!\u0007Go back and get your facts straightaru!\u0007Move it!"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "dialogue": [
+            {
+              "id": 7585,
+              "string": "1\u0000\u0007Oh, there you are, kid. Greataru work!\u0007That was some top-rate info you delivered. I knew I was right about you!"
+            },
+            {
+              "id": 7586,
+              "string": "1\u0000\u0007We gotta put this in printaru and get it in the paper-wapers, double-time!\u0007It's sure to get rave reviews from our readers!"
+            },
+            {
+              "id": 7587,
+              "string": "1\u0000\u0007Here ya go, kid. A little token of appreciation from one journalistaru to another.\u0007A good newshound's gotta know where they're going before they can track down the stories.\u0007Put it to good use."
+            },
+            {
+              "id": 7589,
+              "string": "?!\u0000\u0007Here ya go, kid. Put it to good use."
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7594,
+              "string": "1\u0000\u0007Alll rightaru! Let's make the news!"
+            },
+            {
+              "id": 7595,
+              "string": "1\u0000\u0007I might justaru send you off on another story-hunt, kid.\u0007Be ready-weady! A good journalist always is!"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "dialogue": [
+            {
+              "id": 7583,
+              "string": "1\u0000\u0007What are you doing, kid? Get to the Rolanberry Fields rightaru away!\u0007There won't be any news left if you don't step on it!"
+            },
+            {
+              "id": 7584,
+              "string": "1\u0000\u0007If you're not turned on to the news, the news will turn on you!\u0007Now get with the program, kid!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478134,
+      "name": "Penqaqa",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478135,
+      "name": "Minea-Matea",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478136,
+      "name": "Yuilam-Kailam",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478137,
+      "name": "Herral-Droal",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478138,
+      "name": "Nalba-Dalaba",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478139,
+      "name": "Mukmimi",
+      "events": [
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478150,
+      "name": "Rodeupansat",
+      "events": [
+        {
+          "id": 106,
+          "dialogue": [
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007Greetings. I am Rodeupansat, a friar from the San d'Orian Cathedral."
+            },
+            {
+              "id": 7679,
+              "string": "1\u0000\u0007As a servant of the Goddess, my duty is to purify the evil that torments our fair land. I have devoted myself to the strengthening of seals that ward off the ever-growing presence of evil."
+            },
+            {
+              "id": 7680,
+              "string": "1\u0000\u0007Currently, I am working on a seal that will cleanse Vunkerl Inlet of a foul creature of darkness that has been menacing there of late."
+            },
+            {
+              "id": 7681,
+              "string": "1\u0000\u0007It is imperative that these vile beings, known in the Near East as ??djinn,?? are banished once and for all."
+            },
+            {
+              "id": 7682,
+              "string": "1\u0000\u0007I must hurry and complete the seal lest evil overwhelm the land..."
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007Greetings. I am Rodeupansat, a friar from the San d'Orian Cathedral."
+            },
+            {
+              "id": 7679,
+              "string": "1\u0000\u0007As a servant of the Goddess, my duty is to purify the evil that torments our fair land. I have devoted myself to the strengthening of seals that ward off the ever-growing presence of evil."
+            },
+            {
+              "id": 7680,
+              "string": "1\u0000\u0007Currently, I am working on a seal that will cleanse Vunkerl Inlet of a foul creature of darkness that has been menacing there of late."
+            },
+            {
+              "id": 7681,
+              "string": "1\u0000\u0007It is imperative that these vile beings, known in the Near East as ??djinn,?? are banished once and for all."
+            },
+            {
+              "id": 7683,
+              "string": "1\u0000\u0007You are a soldier of the Allied Forces, are you not? Please lend me your ears and listen to my plea."
+            },
+            {
+              "id": 7684,
+              "string": "1\u0000\u0007If you happen to travel to Vunkerl Inlet, could you please take this \u0001\u00053???? with you?"
+            },
+            {
+              "id": 7685,
+              "string": "1\u0000\u0007I am informed that the presence of evil is most prominent in the southwest region of Vunkerl Inlet. The seal's effect will be greatest if it is attached to the tower that stands there."
+            },
+            {
+              "id": 7686,
+              "string": "1\u0000\u0007May the Goddess guide you."
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            {
+              "id": 7685,
+              "string": "1\u0000\u0007I am informed that the presence of evil is most prominent in the southwest region of Vunkerl Inlet. The seal's effect will be greatest if it is attached to the tower that stands there."
+            },
+            {
+              "id": 7686,
+              "string": "1\u0000\u0007May the Goddess guide you."
+            }
+          ]
+        },
+        {
+          "id": 109,
+          "dialogue": [
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007You have attached the \u0001\u00053???? to the tower? You have my gratitude! Did the seal produce the desired effect?"
+            },
+            {
+              "id": 7688,
+              "string": "1\u0000\u0007Is that so... What could possibly have gone wrong?"
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007This is most discouraging... I created the seal based on the legendary artifact that was said to have warded off evil in the Gusgen Mines in days of yore."
+            },
+            {
+              "id": 7690,
+              "string": "1\u0000\u0007But I shan't give up! I shall not rest until I have created a powerful seal that will keep the children of Altana safe from harm."
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007Please accept this small token of my gratitude."
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            {
+              "id": 7692,
+              "string": "1\u0000\u0007Let us work together for the sake of all that is good in this world. May Paradise open its gates to you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478151,
+      "name": "Allied Commissary",
+      "events": [
+        {
+          "id": 250,
+          "dialogue": [
+            {
+              "id": 7694,
+              "string": "1\u0000\u0007You are the tactician responsible for our latest operation?\u0007Then I shall report in on the status of our mission up until now."
+            },
+            {
+              "id": 7695,
+              "string": "1\u0000\u0007As per orders, the supply caravan completed preparation of our cargo last night, and set out on the designated route at daybreak."
+            },
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007Our unit was able to reach this stronghold, though we did so bearing a great deal less than the intended cargo."
+            },
+            {
+              "id": 7709,
+              "string": "1\u0000\u0007Our unit was able to reach this stronghold safely with the cargo.\u0007Your planning may well have been the decisive factor in the success of our mission."
+            },
+            {
+              "id": 7708,
+              "string": "1\u0000\u0007I am pleased to report that our unit was able to reach this stronghold safely with all of the intended cargo.\u0007The success of our mission was due in no small part to your brilliant planning."
+            },
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007Unfortunately, we encountered an accident and lost a portion of our cargo."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to obliterate the beastman supply contingent.\u0007In addition, we seized a significant portion of the enemy's supplies."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007Most regrettably, we encountered an accident and lost out entire load of cargo."
+            }
+          ]
+        },
+        {
+          "id": 251,
+          "dialogue": [
+            {
+              "id": 7694,
+              "string": "1\u0000\u0007You are the tactician responsible for our latest operation?\u0007Then I shall report in on the status of our mission up until now."
+            },
+            {
+              "id": 7695,
+              "string": "1\u0000\u0007As per orders, the supply caravan completed preparation of our cargo last night, and set out on the designated route at daybreak."
+            },
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007Our unit was able to reach this stronghold, though we did so bearing a great deal less than the intended cargo."
+            },
+            {
+              "id": 7709,
+              "string": "1\u0000\u0007Our unit was able to reach this stronghold safely with the cargo.\u0007Your planning may well have been the decisive factor in the success of our mission."
+            },
+            {
+              "id": 7708,
+              "string": "1\u0000\u0007I am pleased to report that our unit was able to reach this stronghold safely with all of the intended cargo.\u0007The success of our mission was due in no small part to your brilliant planning."
+            },
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007Unfortunately, we encountered an accident and lost a portion of our cargo."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to obliterate the beastman supply contingent.\u0007In addition, we seized a significant portion of the enemy's supplies."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007Most regrettably, we encountered an accident and lost out entire load of cargo."
+            }
+          ]
+        },
+        {
+          "id": 252,
+          "dialogue": [
+            {
+              "id": 7694,
+              "string": "1\u0000\u0007You are the tactician responsible for our latest operation?\u0007Then I shall report in on the status of our mission up until now."
+            },
+            {
+              "id": 7695,
+              "string": "1\u0000\u0007As per orders, the supply caravan completed preparation of our cargo last night, and set out on the designated route at daybreak."
+            },
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007Our unit was able to reach this stronghold, though we did so bearing a great deal less than the intended cargo."
+            },
+            {
+              "id": 7709,
+              "string": "1\u0000\u0007Our unit was able to reach this stronghold safely with the cargo.\u0007Your planning may well have been the decisive factor in the success of our mission."
+            },
+            {
+              "id": 7708,
+              "string": "1\u0000\u0007I am pleased to report that our unit was able to reach this stronghold safely with all of the intended cargo.\u0007The success of our mission was due in no small part to your brilliant planning."
+            },
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007Unfortunately, we encountered an accident and lost a portion of our cargo."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to obliterate the beastman supply contingent.\u0007In addition, we seized a significant portion of the enemy's supplies."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007However, despite our best efforts, our convoy was utterly defeated.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007We encountered considerable beastman opposition. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007We encountered a superior beastman assault force. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we \f\u0000[engaged the enemy in open battle\/attempted to evade the enemy at all cost]."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered.\u0007All of our cargo was lost to the enemy horde."
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007Most regrettably, we encountered an accident and lost out entire load of cargo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478152,
+      "name": "",
+      "events": [
+        {
+          "id": 256,
+          "dialogue": [
+            {
+              "id": 238,
+              "string": "1\u0000\u0007Assist with the fortifications?\u0007\u000bShow them how it's done!\u0007Refuse to help.\u0007Ask for an explanation."
+            },
+            {
+              "id": 252,
+              "string": "1\u0000\u0007Choose a crystal!\u0007\u000bFire crystal.\u0007Ice crystal.\u0007Wind crystal.\u0007Earth crystal.\u0007Lightning crystal.\u0007Water crystal.\u0007Light crystal.\u0007Dark crystal.\u0007Plumb give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478153,
+      "name": "",
+      "events": [
+        {
+          "id": 256,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478154,
+      "name": "",
+      "events": [
+        {
+          "id": 256,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478155,
+      "name": "",
+      "events": [
+        {
+          "id": 256,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478156,
+      "name": "",
+      "events": [
+        {
+          "id": 256,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478157,
+      "name": "Republic Supplier",
+      "events": [
+        {
+          "id": 257,
+          "dialogue": [
+            {
+              "id": 284,
+              "string": "1\u0000\u0007I am charged with the provisioning of supplies for our troops out on the battlefield.\u0007I can issue you temporary items in exchange for Allied Notes."
+            },
+            {
+              "id": 57,
+              "string": "1\u0000\u0007Let me show you the list of items currently available to you."
+            },
+            {
+              "id": 286,
+              "string": "1\u0000\u0007Select a temporary item. (Price\/Stock)\u0007\u000bNothing at this time.\u0007Browse another page.\u0007?\u0001\u0001\u0005#????...(\n\b\/\n\u0010)\u0007?\u0001\u0001\u0005#????...(\n\t\/\n\u0011)\u0007?\u0001\u0001\u0005#????...(\n\n\/\n\u0012)\u0007?\u0001\u0001\u0005#????...(\n\u000b\/\n\u0013)\u0007?\u0001\u0001\u0005#????...(\n\f\/\n\u0014)\u0007?\u0001\u0001\u0005#????...(\n\r\/\n\u0015)\u0007?\u0001\u0001\u0005#????...(\n\u000e\/\n\u0016)\u0007?\u0001\u0001\u0005#????...(\n\u000f\/\n\u0017)\u0007Next page.\u0007Previous page."
+            },
+            {
+              "id": 60,
+              "string": "1\u0000\u0007You currently possess \n' Allied Note?'[\/s]."
+            },
+            {
+              "id": 61,
+              "string": "1\u0000\u0007Proceed with the transaction?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 291,
+              "string": "1\u0000\u0007Is there anything else you requir"
+            },
+            {
+              "id": 287,
+              "string": "1\u0000\u0007Browse which page?\u0007\u000bNever mind.\u0007Page 1.\u0007Page 2.\u0007Page 3.\u0007Page 4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478158,
+      "name": "Republic Supplier",
+      "events": [
+        {
+          "id": 258,
+          "dialogue": [
+            {
+              "id": 284,
+              "string": "1\u0000\u0007I am charged with the provisioning of supplies for our troops out on the battlefield.\u0007I can issue you temporary items in exchange for Allied Notes."
+            },
+            {
+              "id": 57,
+              "string": "1\u0000\u0007Let me show you the list of items currently available to you."
+            },
+            {
+              "id": 286,
+              "string": "1\u0000\u0007Select a temporary item. (Price\/Stock)\u0007\u000bNothing at this time.\u0007Browse another page.\u0007?\u0001\u0001\u0005#????...(\n\b\/\n\u0010)\u0007?\u0001\u0001\u0005#????...(\n\t\/\n\u0011)\u0007?\u0001\u0001\u0005#????...(\n\n\/\n\u0012)\u0007?\u0001\u0001\u0005#????...(\n\u000b\/\n\u0013)\u0007?\u0001\u0001\u0005#????...(\n\f\/\n\u0014)\u0007?\u0001\u0001\u0005#????...(\n\r\/\n\u0015)\u0007?\u0001\u0001\u0005#????...(\n\u000e\/\n\u0016)\u0007?\u0001\u0001\u0005#????...(\n\u000f\/\n\u0017)\u0007Next page.\u0007Previous page."
+            },
+            {
+              "id": 60,
+              "string": "1\u0000\u0007You currently possess \n' Allied Note?'[\/s]."
+            },
+            {
+              "id": 61,
+              "string": "1\u0000\u0007Proceed with the transaction?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 291,
+              "string": "1\u0000\u0007Is there anything else you requir"
+            },
+            {
+              "id": 287,
+              "string": "1\u0000\u0007Browse which page?\u0007\u000bNever mind.\u0007Page 1.\u0007Page 2.\u0007Page 3.\u0007Page 4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478159,
+      "name": "Republic Supplier",
+      "events": [
+        {
+          "id": 259,
+          "dialogue": [
+            {
+              "id": 284,
+              "string": "1\u0000\u0007I am charged with the provisioning of supplies for our troops out on the battlefield.\u0007I can issue you temporary items in exchange for Allied Notes."
+            },
+            {
+              "id": 57,
+              "string": "1\u0000\u0007Let me show you the list of items currently available to you."
+            },
+            {
+              "id": 286,
+              "string": "1\u0000\u0007Select a temporary item. (Price\/Stock)\u0007\u000bNothing at this time.\u0007Browse another page.\u0007?\u0001\u0001\u0005#????...(\n\b\/\n\u0010)\u0007?\u0001\u0001\u0005#????...(\n\t\/\n\u0011)\u0007?\u0001\u0001\u0005#????...(\n\n\/\n\u0012)\u0007?\u0001\u0001\u0005#????...(\n\u000b\/\n\u0013)\u0007?\u0001\u0001\u0005#????...(\n\f\/\n\u0014)\u0007?\u0001\u0001\u0005#????...(\n\r\/\n\u0015)\u0007?\u0001\u0001\u0005#????...(\n\u000e\/\n\u0016)\u0007?\u0001\u0001\u0005#????...(\n\u000f\/\n\u0017)\u0007Next page.\u0007Previous page."
+            },
+            {
+              "id": 60,
+              "string": "1\u0000\u0007You currently possess \n' Allied Note?'[\/s]."
+            },
+            {
+              "id": 61,
+              "string": "1\u0000\u0007Proceed with the transaction?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 291,
+              "string": "1\u0000\u0007Is there anything else you requir"
+            },
+            {
+              "id": 287,
+              "string": "1\u0000\u0007Browse which page?\u0007\u000bNever mind.\u0007Page 1.\u0007Page 2.\u0007Page 3.\u0007Page 4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478161,
+      "name": "Shredded Label",
+      "events": [
+        {
+          "id": 23,
+          "dialogue": [
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007It appears that using the \u0001\u00053???? here will summon forth the enemy.\u0007(Your level will be restricted to \n\u0001.)"
+            },
+            {
+              "id": 7754,
+              "string": "1\u0000\u0007Use the \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478162,
+      "name": "Planar Rift",
+      "events": [
+        {
+          "id": 6000,
+          "dialogue": [
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007You feel a mysterious energy seeping forth from an unknown source..."
+            },
+            {
+              "id": 7788,
+              "string": "1\u0000\u0007The \u0001\u00053???? resonates with the \u0001\u00053????.\u0007You may commence the Voidwatch operation at will."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007However, your presence does not seem to elicit a reaction."
+            },
+            {
+              "id": 7791,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Initiate Voidwatch operation.\u0007View alignment values.\u0007Examine atmacite.\u0007Read up on the Voidwatch."
+            },
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7915,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes, use with \u0001\u00055????.\u0007Yes.\u0007No."
+            },
+            {
+              "id": 7916,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007\u001e\u0005Current Spectral Alignment\u001e\u0001\u0007Blue: +\n\u0000% (reward quantity)\u0007Red: +\n\u0001% (reward quality)"
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007Yellow: +\n\u0000% (experience yield)\u0007Green: +\n\u0001% (cruor yield)"
+            },
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007Alignment bonuses granted by ascent items will be added to the final value."
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007You can infuse up to \n\u0000 atmacite at this time."
+            },
+            {
+              "id": 7799,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing for now.\u0007Infused: \u0001\u00053???? (Lv.\n\u0001)\u0007Infused: \u0001\u00053???? (Lv.\n\u0003)\u0007Infused: \u0001\u00053???? (Lv.\n\u0005)\u0007Purge atmacite.\u0007Infuse atmacite.\u0007Enrich atmacite."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7809,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7807,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7814,
+              "string": "1\u0000\u0007You do not possess any atmacite capable of enrichment."
+            },
+            {
+              "id": 7815,
+              "string": "1\u0000\u0007Enrich which atmacite? (Cruor: \n$)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001): \n\u0002\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004): \n\u0005\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007): \n\b\u0007?\u0001\u0001\u00053???? (Lv.\n\n): \n\u000b\u0007?\u0001\u0001\u00053???? (Lv.\n\r): \n\u000e\u0007?\u0001\u0001\u00053???? (Lv.\n\u0010): \n\u0011\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013): \n\u0014\u0007?\u0001\u0001\u00053???? (Lv.\n\u0016): \n\u0017\u0007?\u0001\u0001\u00053???? (Lv.\n\u0019): \n\u001a\u0007?\u0001\u0001\u00053???? (Lv.\n\u001c): \n\u001d\u0007?\u0001\u0001\u00053???? (Lv.\n\u001f): \n \u0007?\u0001\u0001\u00053???? (Lv.\n\"): \n#\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? will produce the following:"
+            },
+            {
+              "id": 7817,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? from level \n\u0001 to level \n\u0002 requires \n\u0003 cruor."
+            },
+            {
+              "id": 7818,
+              "string": "1\u0000\u0007Enrich \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7822,
+              "string": "1\u0000\u0007Read up on what?\u0007\u000bNothing for now.\u0007Voidwatch Ops.\u0007How to participate.\u0007?\u0001\u0001\u00055????.\u0007Stratum abyssite.\u0007Alignment.\u0007Atmacite.\u0007Periapt."
+            },
+            {
+              "id": 7823,
+              "string": "1\u0000\u0007The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called ??Voidwalkers.?? Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos."
+            },
+            {
+              "id": 7824,
+              "string": "1\u0000\u0007Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized.\u0007This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched."
+            },
+            {
+              "id": 7825,
+              "string": "1\u0000\u0007Such efforts to stem the rise of Voidwalkers, collectively dubbed ??Voidwatch Operations,?? or ??Ops?? for short, take place in the vicinity of planar rifts--weak points in the fabric of space."
+            },
+            {
+              "id": 7826,
+              "string": "1\u0000\u0007A single person may initiate a Voidwatch operation, at which time ??Voidwatcher?? status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker."
+            },
+            {
+              "id": 7827,
+              "string": "1\u0000\u0007Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status."
+            },
+            {
+              "id": 7828,
+              "string": "1\u0000\u0007Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world.\u0007Such is the arduous nature of transdimensional encounters."
+            },
+            {
+              "id": 7829,
+              "string": "1\u0000\u0007Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift."
+            },
+            {
+              "id": 7830,
+              "string": "1\u0000\u0007Only one person needs to be in possession of these objects for all party and alliance members to participate."
+            },
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007However, there exists a number of participation conditions that must be observed."
+            },
+            {
+              "id": 7832,
+              "string": "1\u0000\u0007When an operation commences, a single voidstone will be expended for all who possess it.\u0007These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle."
+            },
+            {
+              "id": 7833,
+              "string": "1\u0000\u0007Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain."
+            },
+            {
+              "id": 7834,
+              "string": "1\u0000\u0007The ??voidstone?? is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible."
+            },
+            {
+              "id": 7835,
+              "string": "1\u0000\u0007Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation.\u0007Those without one, however, will find their spoils limited in both quantity and quality."
+            },
+            {
+              "id": 7836,
+              "string": "1\u0000\u0007As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory."
+            },
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals."
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts."
+            },
+            {
+              "id": 7839,
+              "string": "1\u0000\u0007After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined."
+            },
+            {
+              "id": 7840,
+              "string": "1\u0000\u0007Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development."
+            },
+            {
+              "id": 7841,
+              "string": "1\u0000\u0007Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum."
+            },
+            {
+              "id": 7842,
+              "string": "1\u0000\u0007While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as ??ascent items.??"
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation."
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items."
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage."
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected."
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield."
+            },
+            {
+              "id": 7849,
+              "string": "1\u0000\u0007The precise workings of each light can be reviewed when examining your current alignment values."
+            },
+            {
+              "id": 7850,
+              "string": "1\u0000\u0007Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils."
+            },
+            {
+              "id": 7851,
+              "string": "1\u0000\u0007Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle."
+            },
+            {
+              "id": 7852,
+              "string": "1\u0000\u0007Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts.\u0007By infusing atmacite to one's body using \u0001\u00056????, it is possible to enhance one's battle prowess."
+            },
+            {
+              "id": 7853,
+              "string": "1\u0000\u0007Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation."
+            },
+            {
+              "id": 7854,
+              "string": "1\u0000\u0007Atmacite is resilient and will not be expended in the infusion process."
+            },
+            {
+              "id": 7855,
+              "string": "1\u0000\u0007Furthermore, infused atmacite will remain in place until voluntarily purged."
+            },
+            {
+              "id": 7856,
+              "string": "1\u0000\u0007As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time."
+            },
+            {
+              "id": 7857,
+              "string": "1\u0000\u0007Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite."
+            },
+            {
+              "id": 7858,
+              "string": "1\u0000\u0007Atmacite can be enriched in stages to a maximum of level \n\u0000."
+            },
+            {
+              "id": 7859,
+              "string": "1\u0000\u0007All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death."
+            },
+            {
+              "id": 7860,
+              "string": "1\u0000\u0007Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy."
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Although their acquisition can only be described as arduous, the benefits make them well worth the effort."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478163,
+      "name": "Planar Rift",
+      "events": [
+        {
+          "id": 6001,
+          "dialogue": [
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007You feel a mysterious energy seeping forth from an unknown source..."
+            },
+            {
+              "id": 7788,
+              "string": "1\u0000\u0007The \u0001\u00053???? resonates with the \u0001\u00053????.\u0007You may commence the Voidwatch operation at will."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007However, your presence does not seem to elicit a reaction."
+            },
+            {
+              "id": 7791,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Initiate Voidwatch operation.\u0007View alignment values.\u0007Examine atmacite.\u0007Read up on the Voidwatch."
+            },
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7915,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes, use with \u0001\u00055????.\u0007Yes.\u0007No."
+            },
+            {
+              "id": 7916,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007\u001e\u0005Current Spectral Alignment\u001e\u0001\u0007Blue: +\n\u0000% (reward quantity)\u0007Red: +\n\u0001% (reward quality)"
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007Yellow: +\n\u0000% (experience yield)\u0007Green: +\n\u0001% (cruor yield)"
+            },
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007Alignment bonuses granted by ascent items will be added to the final value."
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007You can infuse up to \n\u0000 atmacite at this time."
+            },
+            {
+              "id": 7799,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing for now.\u0007Infused: \u0001\u00053???? (Lv.\n\u0001)\u0007Infused: \u0001\u00053???? (Lv.\n\u0003)\u0007Infused: \u0001\u00053???? (Lv.\n\u0005)\u0007Purge atmacite.\u0007Infuse atmacite.\u0007Enrich atmacite."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7809,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7807,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7814,
+              "string": "1\u0000\u0007You do not possess any atmacite capable of enrichment."
+            },
+            {
+              "id": 7815,
+              "string": "1\u0000\u0007Enrich which atmacite? (Cruor: \n$)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001): \n\u0002\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004): \n\u0005\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007): \n\b\u0007?\u0001\u0001\u00053???? (Lv.\n\n): \n\u000b\u0007?\u0001\u0001\u00053???? (Lv.\n\r): \n\u000e\u0007?\u0001\u0001\u00053???? (Lv.\n\u0010): \n\u0011\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013): \n\u0014\u0007?\u0001\u0001\u00053???? (Lv.\n\u0016): \n\u0017\u0007?\u0001\u0001\u00053???? (Lv.\n\u0019): \n\u001a\u0007?\u0001\u0001\u00053???? (Lv.\n\u001c): \n\u001d\u0007?\u0001\u0001\u00053???? (Lv.\n\u001f): \n \u0007?\u0001\u0001\u00053???? (Lv.\n\"): \n#\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? will produce the following:"
+            },
+            {
+              "id": 7817,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? from level \n\u0001 to level \n\u0002 requires \n\u0003 cruor."
+            },
+            {
+              "id": 7818,
+              "string": "1\u0000\u0007Enrich \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7822,
+              "string": "1\u0000\u0007Read up on what?\u0007\u000bNothing for now.\u0007Voidwatch Ops.\u0007How to participate.\u0007?\u0001\u0001\u00055????.\u0007Stratum abyssite.\u0007Alignment.\u0007Atmacite.\u0007Periapt."
+            },
+            {
+              "id": 7823,
+              "string": "1\u0000\u0007The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called ??Voidwalkers.?? Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos."
+            },
+            {
+              "id": 7824,
+              "string": "1\u0000\u0007Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized.\u0007This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched."
+            },
+            {
+              "id": 7825,
+              "string": "1\u0000\u0007Such efforts to stem the rise of Voidwalkers, collectively dubbed ??Voidwatch Operations,?? or ??Ops?? for short, take place in the vicinity of planar rifts--weak points in the fabric of space."
+            },
+            {
+              "id": 7826,
+              "string": "1\u0000\u0007A single person may initiate a Voidwatch operation, at which time ??Voidwatcher?? status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker."
+            },
+            {
+              "id": 7827,
+              "string": "1\u0000\u0007Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status."
+            },
+            {
+              "id": 7828,
+              "string": "1\u0000\u0007Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world.\u0007Such is the arduous nature of transdimensional encounters."
+            },
+            {
+              "id": 7829,
+              "string": "1\u0000\u0007Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift."
+            },
+            {
+              "id": 7830,
+              "string": "1\u0000\u0007Only one person needs to be in possession of these objects for all party and alliance members to participate."
+            },
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007However, there exists a number of participation conditions that must be observed."
+            },
+            {
+              "id": 7832,
+              "string": "1\u0000\u0007When an operation commences, a single voidstone will be expended for all who possess it.\u0007These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle."
+            },
+            {
+              "id": 7833,
+              "string": "1\u0000\u0007Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain."
+            },
+            {
+              "id": 7834,
+              "string": "1\u0000\u0007The ??voidstone?? is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible."
+            },
+            {
+              "id": 7835,
+              "string": "1\u0000\u0007Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation.\u0007Those without one, however, will find their spoils limited in both quantity and quality."
+            },
+            {
+              "id": 7836,
+              "string": "1\u0000\u0007As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory."
+            },
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals."
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts."
+            },
+            {
+              "id": 7839,
+              "string": "1\u0000\u0007After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined."
+            },
+            {
+              "id": 7840,
+              "string": "1\u0000\u0007Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development."
+            },
+            {
+              "id": 7841,
+              "string": "1\u0000\u0007Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum."
+            },
+            {
+              "id": 7842,
+              "string": "1\u0000\u0007While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as ??ascent items.??"
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation."
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items."
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage."
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected."
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield."
+            },
+            {
+              "id": 7849,
+              "string": "1\u0000\u0007The precise workings of each light can be reviewed when examining your current alignment values."
+            },
+            {
+              "id": 7850,
+              "string": "1\u0000\u0007Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils."
+            },
+            {
+              "id": 7851,
+              "string": "1\u0000\u0007Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle."
+            },
+            {
+              "id": 7852,
+              "string": "1\u0000\u0007Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts.\u0007By infusing atmacite to one's body using \u0001\u00056????, it is possible to enhance one's battle prowess."
+            },
+            {
+              "id": 7853,
+              "string": "1\u0000\u0007Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation."
+            },
+            {
+              "id": 7854,
+              "string": "1\u0000\u0007Atmacite is resilient and will not be expended in the infusion process."
+            },
+            {
+              "id": 7855,
+              "string": "1\u0000\u0007Furthermore, infused atmacite will remain in place until voluntarily purged."
+            },
+            {
+              "id": 7856,
+              "string": "1\u0000\u0007As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time."
+            },
+            {
+              "id": 7857,
+              "string": "1\u0000\u0007Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite."
+            },
+            {
+              "id": 7858,
+              "string": "1\u0000\u0007Atmacite can be enriched in stages to a maximum of level \n\u0000."
+            },
+            {
+              "id": 7859,
+              "string": "1\u0000\u0007All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death."
+            },
+            {
+              "id": 7860,
+              "string": "1\u0000\u0007Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy."
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Although their acquisition can only be described as arduous, the benefits make them well worth the effort."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478164,
+      "name": "Planar Rift",
+      "events": [
+        {
+          "id": 6002,
+          "dialogue": [
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007You feel a mysterious energy seeping forth from an unknown source..."
+            },
+            {
+              "id": 7788,
+              "string": "1\u0000\u0007The \u0001\u00053???? resonates with the \u0001\u00053????.\u0007You may commence the Voidwatch operation at will."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007However, your presence does not seem to elicit a reaction."
+            },
+            {
+              "id": 7791,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Initiate Voidwatch operation.\u0007View alignment values.\u0007Examine atmacite.\u0007Read up on the Voidwatch."
+            },
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7915,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes, use with \u0001\u00055????.\u0007Yes.\u0007No."
+            },
+            {
+              "id": 7916,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007\u001e\u0005Current Spectral Alignment\u001e\u0001\u0007Blue: +\n\u0000% (reward quantity)\u0007Red: +\n\u0001% (reward quality)"
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007Yellow: +\n\u0000% (experience yield)\u0007Green: +\n\u0001% (cruor yield)"
+            },
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007Alignment bonuses granted by ascent items will be added to the final value."
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007You can infuse up to \n\u0000 atmacite at this time."
+            },
+            {
+              "id": 7799,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing for now.\u0007Infused: \u0001\u00053???? (Lv.\n\u0001)\u0007Infused: \u0001\u00053???? (Lv.\n\u0003)\u0007Infused: \u0001\u00053???? (Lv.\n\u0005)\u0007Purge atmacite.\u0007Infuse atmacite.\u0007Enrich atmacite."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7809,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7807,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7814,
+              "string": "1\u0000\u0007You do not possess any atmacite capable of enrichment."
+            },
+            {
+              "id": 7815,
+              "string": "1\u0000\u0007Enrich which atmacite? (Cruor: \n$)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001): \n\u0002\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004): \n\u0005\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007): \n\b\u0007?\u0001\u0001\u00053???? (Lv.\n\n): \n\u000b\u0007?\u0001\u0001\u00053???? (Lv.\n\r): \n\u000e\u0007?\u0001\u0001\u00053???? (Lv.\n\u0010): \n\u0011\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013): \n\u0014\u0007?\u0001\u0001\u00053???? (Lv.\n\u0016): \n\u0017\u0007?\u0001\u0001\u00053???? (Lv.\n\u0019): \n\u001a\u0007?\u0001\u0001\u00053???? (Lv.\n\u001c): \n\u001d\u0007?\u0001\u0001\u00053???? (Lv.\n\u001f): \n \u0007?\u0001\u0001\u00053???? (Lv.\n\"): \n#\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? will produce the following:"
+            },
+            {
+              "id": 7817,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? from level \n\u0001 to level \n\u0002 requires \n\u0003 cruor."
+            },
+            {
+              "id": 7818,
+              "string": "1\u0000\u0007Enrich \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7822,
+              "string": "1\u0000\u0007Read up on what?\u0007\u000bNothing for now.\u0007Voidwatch Ops.\u0007How to participate.\u0007?\u0001\u0001\u00055????.\u0007Stratum abyssite.\u0007Alignment.\u0007Atmacite.\u0007Periapt."
+            },
+            {
+              "id": 7823,
+              "string": "1\u0000\u0007The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called ??Voidwalkers.?? Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos."
+            },
+            {
+              "id": 7824,
+              "string": "1\u0000\u0007Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized.\u0007This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched."
+            },
+            {
+              "id": 7825,
+              "string": "1\u0000\u0007Such efforts to stem the rise of Voidwalkers, collectively dubbed ??Voidwatch Operations,?? or ??Ops?? for short, take place in the vicinity of planar rifts--weak points in the fabric of space."
+            },
+            {
+              "id": 7826,
+              "string": "1\u0000\u0007A single person may initiate a Voidwatch operation, at which time ??Voidwatcher?? status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker."
+            },
+            {
+              "id": 7827,
+              "string": "1\u0000\u0007Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status."
+            },
+            {
+              "id": 7828,
+              "string": "1\u0000\u0007Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world.\u0007Such is the arduous nature of transdimensional encounters."
+            },
+            {
+              "id": 7829,
+              "string": "1\u0000\u0007Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift."
+            },
+            {
+              "id": 7830,
+              "string": "1\u0000\u0007Only one person needs to be in possession of these objects for all party and alliance members to participate."
+            },
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007However, there exists a number of participation conditions that must be observed."
+            },
+            {
+              "id": 7832,
+              "string": "1\u0000\u0007When an operation commences, a single voidstone will be expended for all who possess it.\u0007These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle."
+            },
+            {
+              "id": 7833,
+              "string": "1\u0000\u0007Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain."
+            },
+            {
+              "id": 7834,
+              "string": "1\u0000\u0007The ??voidstone?? is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible."
+            },
+            {
+              "id": 7835,
+              "string": "1\u0000\u0007Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation.\u0007Those without one, however, will find their spoils limited in both quantity and quality."
+            },
+            {
+              "id": 7836,
+              "string": "1\u0000\u0007As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory."
+            },
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals."
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts."
+            },
+            {
+              "id": 7839,
+              "string": "1\u0000\u0007After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined."
+            },
+            {
+              "id": 7840,
+              "string": "1\u0000\u0007Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development."
+            },
+            {
+              "id": 7841,
+              "string": "1\u0000\u0007Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum."
+            },
+            {
+              "id": 7842,
+              "string": "1\u0000\u0007While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as ??ascent items.??"
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation."
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items."
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage."
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected."
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield."
+            },
+            {
+              "id": 7849,
+              "string": "1\u0000\u0007The precise workings of each light can be reviewed when examining your current alignment values."
+            },
+            {
+              "id": 7850,
+              "string": "1\u0000\u0007Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils."
+            },
+            {
+              "id": 7851,
+              "string": "1\u0000\u0007Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle."
+            },
+            {
+              "id": 7852,
+              "string": "1\u0000\u0007Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts.\u0007By infusing atmacite to one's body using \u0001\u00056????, it is possible to enhance one's battle prowess."
+            },
+            {
+              "id": 7853,
+              "string": "1\u0000\u0007Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation."
+            },
+            {
+              "id": 7854,
+              "string": "1\u0000\u0007Atmacite is resilient and will not be expended in the infusion process."
+            },
+            {
+              "id": 7855,
+              "string": "1\u0000\u0007Furthermore, infused atmacite will remain in place until voluntarily purged."
+            },
+            {
+              "id": 7856,
+              "string": "1\u0000\u0007As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time."
+            },
+            {
+              "id": 7857,
+              "string": "1\u0000\u0007Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite."
+            },
+            {
+              "id": 7858,
+              "string": "1\u0000\u0007Atmacite can be enriched in stages to a maximum of level \n\u0000."
+            },
+            {
+              "id": 7859,
+              "string": "1\u0000\u0007All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death."
+            },
+            {
+              "id": 7860,
+              "string": "1\u0000\u0007Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy."
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Although their acquisition can only be described as arduous, the benefits make them well worth the effort."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478165,
+      "name": "Riftworn Pyxis",
+      "events": [
+        {
+          "id": 6003,
+          "dialogue": [
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[\/??]?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7910,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7911,
+              "string": "1\u0000\u0007One or more of the items you are about to obtain can be converted into pulse cell"
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7910,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7881,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478166,
+      "name": "Riftworn Pyxis",
+      "events": [
+        {
+          "id": 6004,
+          "dialogue": [
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[\/??]?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7910,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7911,
+              "string": "1\u0000\u0007One or more of the items you are about to obtain can be converted into pulse cell"
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7910,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7881,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478167,
+      "name": "Riftworn Pyxis",
+      "events": [
+        {
+          "id": 6005,
+          "dialogue": [
+            {
+              "id": 7909,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[\/??]?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7910,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7911,
+              "string": "1\u0000\u0007One or more of the items you are about to obtain can be converted into pulse cell"
+            },
+            {
+              "id": 7875,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7910,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7881,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17478168,
+      "name": "Survival Guide",
+      "events": [
+        {
+          "id": 8500,
+          "dialogue": [
+            {
+              "id": 8643,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 8641,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 8644,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            }
+          ]
+        },
+        {
+          "id": 8501,
+          "dialogue": [
+            {
+              "id": 8643,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 8641,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 8644,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            },
+            {
+              "id": 8657,
+              "string": "1\u0000\u0007You may change the way you select areas listed in ??Teleportation Assistance."
+            },
+            {
+              "id": 8658,
+              "string": "??\u0000\u0007Any changes to make?\u0007\u000bKeep course.\u0007Select by region.\u0007Select by content."
+            },
+            {
+              "id": 8659,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 8659,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 8653,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 8654,
+              "string": "1\u0000\u0007At the bottom of the page is a reminder. It perfunctorily states that you may receive \u0001\u0001\u0001 \u0001\u0005$???? once you have logged a total of \n\u0002 hours."
+            },
+            {
+              "id": 8653,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 8655,
+              "string": "1\u0000\u0007As per the custom noted within, you are eligible to receive \u0001\u0001\u0001 \u0001\u0005$???? for the \n\u0002 hour?\u0002[\/s] of fighting you've accrued."
+            },
+            {
+              "id": 8656,
+              "string": "1\u0000\u0007Accept the reward?\u0007\u000bYes, please.\u0007No, thanks."
+            },
+            {
+              "id": 6910,
+              "string": "1\u0000\u0007Obtained: ?\u0001\u0001\u0005#????."
+            },
+            {
+              "id": 6904,
+              "string": "1\u0000\u0007You cannot obtain the \u0001\u0005#????.\u0007Come back after sorting your inventory."
+            },
+            {
+              "id": 8645,
+              "string": "1\u0000\u0007The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
+            },
+            {
+              "id": 8646,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 8661,
+              "string": "1\u0000\u0007Travel to which region?\u0007\u000bOn second thought, none.\u0007Select from amongst favorites.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8646,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 8660,
+              "string": "].\u0000\u0007\u000bNowhere for now.\u0007Select from amongst favorites.\u0007Original release areas.\u0007Rise of the Zilart areas.\u0007Chains of Promathia areas.\u0007Treasures of Aht Urhgan areas.\u0007Wings of the Goddess areas.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007Seekers of Adoulin areas."
+            },
+            {
+              "id": 8649,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 8650,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 8651,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6915,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 8652,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 8663,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 8663,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 8664,
+              "string": "].\u0000\u0007Your list of favorites is full. You must remove an existing entry to add new one"
+            },
+            {
+              "id": 8663,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 8649,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 8650,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 8651,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6915,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 8652,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 6915,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 8652,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        
+      ]
+    }
+  ]
+}

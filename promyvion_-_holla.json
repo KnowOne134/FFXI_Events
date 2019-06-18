@@ -1,0 +1,2483 @@
+{
+  "id": 16,
+  "name": "Promyvion - Holla",
+  "actors": [
+    {
+      "id": 16843048,
+      "name": "",
+      "events": [
+        {
+          "id": 59,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843062,
+      "name": "Memory Flux",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "..\u0000\u0007DEBUG:?{?^???????????i???????B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843063,
+      "name": "Memory Flux",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "..\u0000\u0007DEBUG:?{?^???????????i???????B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843064,
+      "name": "Memory Flux",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "..\u0000\u0007DEBUG:?{?^???????????i???????B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843065,
+      "name": "kiokudama_a",
+      "events": [
+        {
+          "id": 19,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843066,
+      "name": "kiokudama_b",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843067,
+      "name": "kiokudama_c",
+      "events": [
+        {
+          "id": 21,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843068,
+      "name": "???",
+      "events": [
+        {
+          "id": 49,
+          "dialogue": [
+            {
+              "id": 7214,
+              "string": "1\u0000\u0007You are blinded by a white flash."
+            },
+            {
+              "id": 7215,
+              "string": "..\u0000\u0007A strange image has been burned into your mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843078,
+      "name": "Rendezvous Point",
+      "events": [
+        {
+          "id": 53,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843079,
+      "name": "???",
+      "events": [
+        {
+          "id": 54,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843080,
+      "name": "???",
+      "events": [
+        {
+          "id": 55,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843081,
+      "name": "???",
+      "events": [
+        {
+          "id": 56,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843082,
+      "name": "???",
+      "events": [
+        {
+          "id": 57,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843083,
+      "name": "???",
+      "events": [
+        {
+          "id": 58,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16843084,
+      "name": "",
+      "events": [
+        {
+          "id": 53,
+          "dialogue": [
+            {
+              "id": 7229,
+              "string": "..\u0000\u0007Oh, thanks for coming. Well, let's start by checking any suspicious-looking place we can find."
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "dialogue": [
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Hm...\u0007I've seen this strange place a few times already now, but what could it possibly be?"
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007What in Vana'diel is this made of? I have a feeling we should check this out..."
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007What is this? Maybe if we examine it, we'll get some kind of hint..."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007Something is definitely weird here! Let's check it out!"
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007Something from outside made it in here!? Let's check it out!"
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007There's something weird about this place! I can see it perfectly, but it somehow looks hazy! Let's check it out!"
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007What's this...? The scenery looks familiar, but kind of creepy..."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007...Something from outside? Maybe not. It seems the same as everything else here."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007The outside world is somehow being reflected in this? Strange..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007What could this be? The outside world appears to be reflected in it."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007There is something here. Is this not from outside? How did it come to be in such a place?"
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007Everything here seems to be made of a peculiar substance. Let us find out as much about it as possible."
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007What is this? Why are some spots clear, and others are not?"
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007I've seen this before in the Emptiness... What could it be? Strange, isn't it?"
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007There's something here. I'm not sure what it is, but I think we should check it out. Or rather I should say, I'm not sure what it is, and that's why we should check it out!"
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007Hm? This looks like...the outside world!? It looks like it, but it's different somehow! How could that be?"
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007Everything here is so creepy! I can't figure out if things in front of me are real or not! I don't get it at all!"
+            },
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Hmmm! What could this be? Let's find out!"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What could this be? It looks like the outside world, but why here...?"
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007Hm? This looks like something from outside. No, it's somehow...different."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007Did you find something? ...How strange. I'm not sure what to make of it."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Eh? What's this? It's kind of different from everything else around here, huh?"
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Hmmm, I wonder what the stuff here is made out of."
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007What's that? I think I'm having deva ju, or whatever you call it! Anyway, it looks like something I saw outside, but somehow more...hazy...?"
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007What could this be? The outside world appears to be reflected in it."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007There is something here. Is this not from outside? How did it come to be in such a place?"
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007Everything here seems to be made of a peculiar substance. Let us find out as much about it as possible."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007This place gives me the creeps. Sometimes I'm not sure whether I'm really here or not..."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007There's something here. But why would it be in a place like this? Everything feels out of place."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007What could this be? I think it might be worth checking."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Wh...what's this...? The scenary looks strangely familiar..."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007Isn't this something from outside...or not? What could it be...?"
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Now, what substance could this possibly be made from? Let's take a closer look, shall we?"
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007A truly disturbing sight. It's as though parts of our world have been ripped out and left here in this darkness..."
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007There is something here. It's similar to, but clearly not what we have in our own world..."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007Hmmm... I've never seen anything like it before. This warrants close examination."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007Anyway, we've learned all we can here. Want to go now?"
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Well, I think that's enough! Wanna go now?"
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007I guess that's enough for now. Ready to go?"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007I suppose that completes our research for now. Shall we return?"
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007Well, our research is complete. If there is nothing else you want to look at, we should head back now."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007Well, I think that's about it! Want to go now?"
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007I think that's enough, now. Shall we return?"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Well, we found some weird stuff, alright! Wanna go back now?"
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007I suppose that completes our research for now. Shall we return?"
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007I think we've found out all we could. How about we leave this creepy place behind?"
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007We've collected enough information, don't you think? Time to head back?"
+            },
+            {
+              "id": 7299,
+              "string": "1\u0000\u0007I'm satisfied with the information obtained. If there is nothing else, I say we return now."
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007Head back?\u0007\u000bYes, we're done.\u0007Not just yet."
+            },
+            {
+              "id": 7301,
+              "string": "1\u0000\u0007Thanks to you, I was able to gather a lot of information today. I appreciate it."
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007I will warp you to the entrance if you wish to go. Well?"
+            },
+            {
+              "id": 7302,
+              "string": "1\u0000\u0007Thanks for your help today!"
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007I'll warp you to the entrance if you wanna leave now! How about it?"
+            },
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007Well, let's head back then. I discovered a lot today."
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007If you do want to go, I will warp you to the entrance. Well?"
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Thank you very much for your assistance today. I was able to gather much valuable data."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007If you desire to leave, I will warp you to the entrance."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Okay, let's go, then! Thanks for all your help today. I learned some interesting things."
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007I can warp you to the entrance if you want. Well?"
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Well then, let's go! Thanks for everything today! I learned a lot!"
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007I'll warp you to the entrance if you want! How about it?"
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007I gathered a lot of valuable data today, thanks to you."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007If you wish to leave, I can warp you to the entrance. Well?"
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007Yep, let's go home! I saw some strange stuff today! Thanks for everything!"
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007If you wanna leave, I can warp you to the entrance! What do you want to do?"
+            },
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Thank you very much for your assistance today. I was able to gather much valuable data."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007If you desire to leave, I will warp you to the entrance."
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007Thanks, \b. With your help, I was able to learn a lot."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Do you want me to warp you to the entrance?"
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007Great! Good job today, \b. We've got a lot to show for."
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007I can warp you to the entrance if you like. Interested?"
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007Then, let us leave this place. You did well today."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007If you wish to be warped to the entrance, tell me."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007Return to the entrance?\u0007\u000bYes.\u0007Not yet."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007See you later."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Later!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Later, then."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I will see you later."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007See ya later!"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007See you later, then."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bye-bye!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007See you."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Take it easy!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Don't let me catch you slacking off.1\u0000\u0007\u0000"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007See you later."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Later!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Later, then."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I will see you later."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007See ya later!"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007See you later, then."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bye-bye!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007See you."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Take it easy!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Don't let me catch you slacking off.1\u0000\u0007\u0000"
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "dialogue": [
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Hm...\u0007I've seen this strange place a few times already now, but what could it possibly be?"
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007What in Vana'diel is this made of? I have a feeling we should check this out..."
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007What is this? Maybe if we examine it, we'll get some kind of hint..."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007Something is definitely weird here! Let's check it out!"
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007Something from outside made it in here!? Let's check it out!"
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007There's something weird about this place! I can see it perfectly, but it somehow looks hazy! Let's check it out!"
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007What's this...? The scenery looks familiar, but kind of creepy..."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007...Something from outside? Maybe not. It seems the same as everything else here."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007The outside world is somehow being reflected in this? Strange..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007What could this be? The outside world appears to be reflected in it."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007There is something here. Is this not from outside? How did it come to be in such a place?"
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007Everything here seems to be made of a peculiar substance. Let us find out as much about it as possible."
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007What is this? Why are some spots clear, and others are not?"
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007I've seen this before in the Emptiness... What could it be? Strange, isn't it?"
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007There's something here. I'm not sure what it is, but I think we should check it out. Or rather I should say, I'm not sure what it is, and that's why we should check it out!"
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007Hm? This looks like...the outside world!? It looks like it, but it's different somehow! How could that be?"
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007Everything here is so creepy! I can't figure out if things in front of me are real or not! I don't get it at all!"
+            },
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Hmmm! What could this be? Let's find out!"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What could this be? It looks like the outside world, but why here...?"
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007Hm? This looks like something from outside. No, it's somehow...different."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007Did you find something? ...How strange. I'm not sure what to make of it."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Eh? What's this? It's kind of different from everything else around here, huh?"
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Hmmm, I wonder what the stuff here is made out of."
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007What's that? I think I'm having deva ju, or whatever you call it! Anyway, it looks like something I saw outside, but somehow more...hazy...?"
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007What could this be? The outside world appears to be reflected in it."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007There is something here. Is this not from outside? How did it come to be in such a place?"
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007Everything here seems to be made of a peculiar substance. Let us find out as much about it as possible."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007This place gives me the creeps. Sometimes I'm not sure whether I'm really here or not..."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007There's something here. But why would it be in a place like this? Everything feels out of place."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007What could this be? I think it might be worth checking."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Wh...what's this...? The scenary looks strangely familiar..."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007Isn't this something from outside...or not? What could it be...?"
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Now, what substance could this possibly be made from? Let's take a closer look, shall we?"
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007A truly disturbing sight. It's as though parts of our world have been ripped out and left here in this darkness..."
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007There is something here. It's similar to, but clearly not what we have in our own world..."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007Hmmm... I've never seen anything like it before. This warrants close examination."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007Anyway, we've learned all we can here. Want to go now?"
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Well, I think that's enough! Wanna go now?"
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007I guess that's enough for now. Ready to go?"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007I suppose that completes our research for now. Shall we return?"
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007Well, our research is complete. If there is nothing else you want to look at, we should head back now."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007Well, I think that's about it! Want to go now?"
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007I think that's enough, now. Shall we return?"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Well, we found some weird stuff, alright! Wanna go back now?"
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007I suppose that completes our research for now. Shall we return?"
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007I think we've found out all we could. How about we leave this creepy place behind?"
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007We've collected enough information, don't you think? Time to head back?"
+            },
+            {
+              "id": 7299,
+              "string": "1\u0000\u0007I'm satisfied with the information obtained. If there is nothing else, I say we return now."
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007Head back?\u0007\u000bYes, we're done.\u0007Not just yet."
+            },
+            {
+              "id": 7301,
+              "string": "1\u0000\u0007Thanks to you, I was able to gather a lot of information today. I appreciate it."
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007I will warp you to the entrance if you wish to go. Well?"
+            },
+            {
+              "id": 7302,
+              "string": "1\u0000\u0007Thanks for your help today!"
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007I'll warp you to the entrance if you wanna leave now! How about it?"
+            },
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007Well, let's head back then. I discovered a lot today."
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007If you do want to go, I will warp you to the entrance. Well?"
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Thank you very much for your assistance today. I was able to gather much valuable data."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007If you desire to leave, I will warp you to the entrance."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Okay, let's go, then! Thanks for all your help today. I learned some interesting things."
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007I can warp you to the entrance if you want. Well?"
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Well then, let's go! Thanks for everything today! I learned a lot!"
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007I'll warp you to the entrance if you want! How about it?"
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007I gathered a lot of valuable data today, thanks to you."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007If you wish to leave, I can warp you to the entrance. Well?"
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007Yep, let's go home! I saw some strange stuff today! Thanks for everything!"
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007If you wanna leave, I can warp you to the entrance! What do you want to do?"
+            },
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Thank you very much for your assistance today. I was able to gather much valuable data."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007If you desire to leave, I will warp you to the entrance."
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007Thanks, \b. With your help, I was able to learn a lot."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Do you want me to warp you to the entrance?"
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007Great! Good job today, \b. We've got a lot to show for."
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007I can warp you to the entrance if you like. Interested?"
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007Then, let us leave this place. You did well today."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007If you wish to be warped to the entrance, tell me."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007Return to the entrance?\u0007\u000bYes.\u0007Not yet."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007See you later."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Later!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Later, then."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I will see you later."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007See ya later!"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007See you later, then."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bye-bye!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007See you."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Take it easy!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Don't let me catch you slacking off.1\u0000\u0007\u0000"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007See you later."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Later!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Later, then."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I will see you later."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007See ya later!"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007See you later, then."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bye-bye!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007See you."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Take it easy!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Don't let me catch you slacking off.1\u0000\u0007\u0000"
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "dialogue": [
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Hm...\u0007I've seen this strange place a few times already now, but what could it possibly be?"
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007What in Vana'diel is this made of? I have a feeling we should check this out..."
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007What is this? Maybe if we examine it, we'll get some kind of hint..."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007Something is definitely weird here! Let's check it out!"
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007Something from outside made it in here!? Let's check it out!"
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007There's something weird about this place! I can see it perfectly, but it somehow looks hazy! Let's check it out!"
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007What's this...? The scenery looks familiar, but kind of creepy..."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007...Something from outside? Maybe not. It seems the same as everything else here."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007The outside world is somehow being reflected in this? Strange..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007What could this be? The outside world appears to be reflected in it."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007There is something here. Is this not from outside? How did it come to be in such a place?"
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007Everything here seems to be made of a peculiar substance. Let us find out as much about it as possible."
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007What is this? Why are some spots clear, and others are not?"
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007I've seen this before in the Emptiness... What could it be? Strange, isn't it?"
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007There's something here. I'm not sure what it is, but I think we should check it out. Or rather I should say, I'm not sure what it is, and that's why we should check it out!"
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007Hm? This looks like...the outside world!? It looks like it, but it's different somehow! How could that be?"
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007Everything here is so creepy! I can't figure out if things in front of me are real or not! I don't get it at all!"
+            },
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Hmmm! What could this be? Let's find out!"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What could this be? It looks like the outside world, but why here...?"
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007Hm? This looks like something from outside. No, it's somehow...different."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007Did you find something? ...How strange. I'm not sure what to make of it."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Eh? What's this? It's kind of different from everything else around here, huh?"
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Hmmm, I wonder what the stuff here is made out of."
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007What's that? I think I'm having deva ju, or whatever you call it! Anyway, it looks like something I saw outside, but somehow more...hazy...?"
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007What could this be? The outside world appears to be reflected in it."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007There is something here. Is this not from outside? How did it come to be in such a place?"
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007Everything here seems to be made of a peculiar substance. Let us find out as much about it as possible."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007This place gives me the creeps. Sometimes I'm not sure whether I'm really here or not..."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007There's something here. But why would it be in a place like this? Everything feels out of place."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007What could this be? I think it might be worth checking."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Wh...what's this...? The scenary looks strangely familiar..."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007Isn't this something from outside...or not? What could it be...?"
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Now, what substance could this possibly be made from? Let's take a closer look, shall we?"
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007A truly disturbing sight. It's as though parts of our world have been ripped out and left here in this darkness..."
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007There is something here. It's similar to, but clearly not what we have in our own world..."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007Hmmm... I've never seen anything like it before. This warrants close examination."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007Anyway, we've learned all we can here. Want to go now?"
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Well, I think that's enough! Wanna go now?"
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007I guess that's enough for now. Ready to go?"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007I suppose that completes our research for now. Shall we return?"
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007Well, our research is complete. If there is nothing else you want to look at, we should head back now."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007Well, I think that's about it! Want to go now?"
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007I think that's enough, now. Shall we return?"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Well, we found some weird stuff, alright! Wanna go back now?"
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007I suppose that completes our research for now. Shall we return?"
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007I think we've found out all we could. How about we leave this creepy place behind?"
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007We've collected enough information, don't you think? Time to head back?"
+            },
+            {
+              "id": 7299,
+              "string": "1\u0000\u0007I'm satisfied with the information obtained. If there is nothing else, I say we return now."
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007Head back?\u0007\u000bYes, we're done.\u0007Not just yet."
+            },
+            {
+              "id": 7301,
+              "string": "1\u0000\u0007Thanks to you, I was able to gather a lot of information today. I appreciate it."
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007I will warp you to the entrance if you wish to go. Well?"
+            },
+            {
+              "id": 7302,
+              "string": "1\u0000\u0007Thanks for your help today!"
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007I'll warp you to the entrance if you wanna leave now! How about it?"
+            },
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007Well, let's head back then. I discovered a lot today."
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007If you do want to go, I will warp you to the entrance. Well?"
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Thank you very much for your assistance today. I was able to gather much valuable data."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007If you desire to leave, I will warp you to the entrance."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Okay, let's go, then! Thanks for all your help today. I learned some interesting things."
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007I can warp you to the entrance if you want. Well?"
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Well then, let's go! Thanks for everything today! I learned a lot!"
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007I'll warp you to the entrance if you want! How about it?"
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007I gathered a lot of valuable data today, thanks to you."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007If you wish to leave, I can warp you to the entrance. Well?"
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007Yep, let's go home! I saw some strange stuff today! Thanks for everything!"
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007If you wanna leave, I can warp you to the entrance! What do you want to do?"
+            },
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Thank you very much for your assistance today. I was able to gather much valuable data."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007If you desire to leave, I will warp you to the entrance."
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007Thanks, \b. With your help, I was able to learn a lot."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Do you want me to warp you to the entrance?"
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007Great! Good job today, \b. We've got a lot to show for."
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007I can warp you to the entrance if you like. Interested?"
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007Then, let us leave this place. You did well today."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007If you wish to be warped to the entrance, tell me."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007Return to the entrance?\u0007\u000bYes.\u0007Not yet."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007See you later."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Later!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Later, then."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I will see you later."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007See ya later!"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007See you later, then."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bye-bye!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007See you."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Take it easy!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Don't let me catch you slacking off.1\u0000\u0007\u0000"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007See you later."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Later!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Later, then."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I will see you later."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007See ya later!"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007See you later, then."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bye-bye!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007See you."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Take it easy!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Don't let me catch you slacking off.1\u0000\u0007\u0000"
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "dialogue": [
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Hm...\u0007I've seen this strange place a few times already now, but what could it possibly be?"
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007What in Vana'diel is this made of? I have a feeling we should check this out..."
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007What is this? Maybe if we examine it, we'll get some kind of hint..."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007Something is definitely weird here! Let's check it out!"
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007Something from outside made it in here!? Let's check it out!"
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007There's something weird about this place! I can see it perfectly, but it somehow looks hazy! Let's check it out!"
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007What's this...? The scenery looks familiar, but kind of creepy..."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007...Something from outside? Maybe not. It seems the same as everything else here."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007The outside world is somehow being reflected in this? Strange..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007What could this be? The outside world appears to be reflected in it."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007There is something here. Is this not from outside? How did it come to be in such a place?"
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007Everything here seems to be made of a peculiar substance. Let us find out as much about it as possible."
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007What is this? Why are some spots clear, and others are not?"
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007I've seen this before in the Emptiness... What could it be? Strange, isn't it?"
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007There's something here. I'm not sure what it is, but I think we should check it out. Or rather I should say, I'm not sure what it is, and that's why we should check it out!"
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007Hm? This looks like...the outside world!? It looks like it, but it's different somehow! How could that be?"
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007Everything here is so creepy! I can't figure out if things in front of me are real or not! I don't get it at all!"
+            },
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Hmmm! What could this be? Let's find out!"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What could this be? It looks like the outside world, but why here...?"
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007Hm? This looks like something from outside. No, it's somehow...different."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007Did you find something? ...How strange. I'm not sure what to make of it."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Eh? What's this? It's kind of different from everything else around here, huh?"
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Hmmm, I wonder what the stuff here is made out of."
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007What's that? I think I'm having deva ju, or whatever you call it! Anyway, it looks like something I saw outside, but somehow more...hazy...?"
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007What could this be? The outside world appears to be reflected in it."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007There is something here. Is this not from outside? How did it come to be in such a place?"
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007Everything here seems to be made of a peculiar substance. Let us find out as much about it as possible."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007This place gives me the creeps. Sometimes I'm not sure whether I'm really here or not..."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007There's something here. But why would it be in a place like this? Everything feels out of place."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007What could this be? I think it might be worth checking."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Wh...what's this...? The scenary looks strangely familiar..."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007Isn't this something from outside...or not? What could it be...?"
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Now, what substance could this possibly be made from? Let's take a closer look, shall we?"
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007A truly disturbing sight. It's as though parts of our world have been ripped out and left here in this darkness..."
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007There is something here. It's similar to, but clearly not what we have in our own world..."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007Hmmm... I've never seen anything like it before. This warrants close examination."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007Anyway, we've learned all we can here. Want to go now?"
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Well, I think that's enough! Wanna go now?"
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007I guess that's enough for now. Ready to go?"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007I suppose that completes our research for now. Shall we return?"
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007Well, our research is complete. If there is nothing else you want to look at, we should head back now."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007Well, I think that's about it! Want to go now?"
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007I think that's enough, now. Shall we return?"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Well, we found some weird stuff, alright! Wanna go back now?"
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007I suppose that completes our research for now. Shall we return?"
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007I think we've found out all we could. How about we leave this creepy place behind?"
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007We've collected enough information, don't you think? Time to head back?"
+            },
+            {
+              "id": 7299,
+              "string": "1\u0000\u0007I'm satisfied with the information obtained. If there is nothing else, I say we return now."
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007Head back?\u0007\u000bYes, we're done.\u0007Not just yet."
+            },
+            {
+              "id": 7301,
+              "string": "1\u0000\u0007Thanks to you, I was able to gather a lot of information today. I appreciate it."
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007I will warp you to the entrance if you wish to go. Well?"
+            },
+            {
+              "id": 7302,
+              "string": "1\u0000\u0007Thanks for your help today!"
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007I'll warp you to the entrance if you wanna leave now! How about it?"
+            },
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007Well, let's head back then. I discovered a lot today."
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007If you do want to go, I will warp you to the entrance. Well?"
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Thank you very much for your assistance today. I was able to gather much valuable data."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007If you desire to leave, I will warp you to the entrance."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Okay, let's go, then! Thanks for all your help today. I learned some interesting things."
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007I can warp you to the entrance if you want. Well?"
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Well then, let's go! Thanks for everything today! I learned a lot!"
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007I'll warp you to the entrance if you want! How about it?"
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007I gathered a lot of valuable data today, thanks to you."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007If you wish to leave, I can warp you to the entrance. Well?"
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007Yep, let's go home! I saw some strange stuff today! Thanks for everything!"
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007If you wanna leave, I can warp you to the entrance! What do you want to do?"
+            },
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Thank you very much for your assistance today. I was able to gather much valuable data."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007If you desire to leave, I will warp you to the entrance."
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007Thanks, \b. With your help, I was able to learn a lot."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Do you want me to warp you to the entrance?"
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007Great! Good job today, \b. We've got a lot to show for."
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007I can warp you to the entrance if you like. Interested?"
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007Then, let us leave this place. You did well today."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007If you wish to be warped to the entrance, tell me."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007Return to the entrance?\u0007\u000bYes.\u0007Not yet."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007See you later."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Later!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Later, then."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I will see you later."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007See ya later!"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007See you later, then."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bye-bye!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007See you."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Take it easy!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Don't let me catch you slacking off.1\u0000\u0007\u0000"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007See you later."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Later!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Later, then."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I will see you later."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007See ya later!"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007See you later, then."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bye-bye!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007See you."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Take it easy!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Don't let me catch you slacking off.1\u0000\u0007\u0000"
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "dialogue": [
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Hm...\u0007I've seen this strange place a few times already now, but what could it possibly be?"
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007What in Vana'diel is this made of? I have a feeling we should check this out..."
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007What is this? Maybe if we examine it, we'll get some kind of hint..."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007Something is definitely weird here! Let's check it out!"
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007Something from outside made it in here!? Let's check it out!"
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007There's something weird about this place! I can see it perfectly, but it somehow looks hazy! Let's check it out!"
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007What's this...? The scenery looks familiar, but kind of creepy..."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007...Something from outside? Maybe not. It seems the same as everything else here."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007The outside world is somehow being reflected in this? Strange..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007What could this be? The outside world appears to be reflected in it."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007There is something here. Is this not from outside? How did it come to be in such a place?"
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007Everything here seems to be made of a peculiar substance. Let us find out as much about it as possible."
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007What is this? Why are some spots clear, and others are not?"
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007I've seen this before in the Emptiness... What could it be? Strange, isn't it?"
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007There's something here. I'm not sure what it is, but I think we should check it out. Or rather I should say, I'm not sure what it is, and that's why we should check it out!"
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007Hm? This looks like...the outside world!? It looks like it, but it's different somehow! How could that be?"
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007Everything here is so creepy! I can't figure out if things in front of me are real or not! I don't get it at all!"
+            },
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Hmmm! What could this be? Let's find out!"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What could this be? It looks like the outside world, but why here...?"
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007Hm? This looks like something from outside. No, it's somehow...different."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007Did you find something? ...How strange. I'm not sure what to make of it."
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Eh? What's this? It's kind of different from everything else around here, huh?"
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Hmmm, I wonder what the stuff here is made out of."
+            },
+            {
+              "id": 7285,
+              "string": "1\u0000\u0007What's that? I think I'm having deva ju, or whatever you call it! Anyway, it looks like something I saw outside, but somehow more...hazy...?"
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007What could this be? The outside world appears to be reflected in it."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007There is something here. Is this not from outside? How did it come to be in such a place?"
+            },
+            {
+              "id": 7286,
+              "string": "1\u0000\u0007Everything here seems to be made of a peculiar substance. Let us find out as much about it as possible."
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007This place gives me the creeps. Sometimes I'm not sure whether I'm really here or not..."
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007There's something here. But why would it be in a place like this? Everything feels out of place."
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007What could this be? I think it might be worth checking."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Wh...what's this...? The scenary looks strangely familiar..."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007Isn't this something from outside...or not? What could it be...?"
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Now, what substance could this possibly be made from? Let's take a closer look, shall we?"
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007A truly disturbing sight. It's as though parts of our world have been ripped out and left here in this darkness..."
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007There is something here. It's similar to, but clearly not what we have in our own world..."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007Hmmm... I've never seen anything like it before. This warrants close examination."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007Anyway, we've learned all we can here. Want to go now?"
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007Well, I think that's enough! Wanna go now?"
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007I guess that's enough for now. Ready to go?"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007I suppose that completes our research for now. Shall we return?"
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007Well, our research is complete. If there is nothing else you want to look at, we should head back now."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007Well, I think that's about it! Want to go now?"
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007I think that's enough, now. Shall we return?"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Well, we found some weird stuff, alright! Wanna go back now?"
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007I suppose that completes our research for now. Shall we return?"
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007I think we've found out all we could. How about we leave this creepy place behind?"
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007We've collected enough information, don't you think? Time to head back?"
+            },
+            {
+              "id": 7299,
+              "string": "1\u0000\u0007I'm satisfied with the information obtained. If there is nothing else, I say we return now."
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007Head back?\u0007\u000bYes, we're done.\u0007Not just yet."
+            },
+            {
+              "id": 7301,
+              "string": "1\u0000\u0007Thanks to you, I was able to gather a lot of information today. I appreciate it."
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007I will warp you to the entrance if you wish to go. Well?"
+            },
+            {
+              "id": 7302,
+              "string": "1\u0000\u0007Thanks for your help today!"
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007I'll warp you to the entrance if you wanna leave now! How about it?"
+            },
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007Well, let's head back then. I discovered a lot today."
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007If you do want to go, I will warp you to the entrance. Well?"
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Thank you very much for your assistance today. I was able to gather much valuable data."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007If you desire to leave, I will warp you to the entrance."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Okay, let's go, then! Thanks for all your help today. I learned some interesting things."
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007I can warp you to the entrance if you want. Well?"
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Well then, let's go! Thanks for everything today! I learned a lot!"
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007I'll warp you to the entrance if you want! How about it?"
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007I gathered a lot of valuable data today, thanks to you."
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007If you wish to leave, I can warp you to the entrance. Well?"
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007Yep, let's go home! I saw some strange stuff today! Thanks for everything!"
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007If you wanna leave, I can warp you to the entrance! What do you want to do?"
+            },
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Thank you very much for your assistance today. I was able to gather much valuable data."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007If you desire to leave, I will warp you to the entrance."
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007Thanks, \b. With your help, I was able to learn a lot."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007Do you want me to warp you to the entrance?"
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007Great! Good job today, \b. We've got a lot to show for."
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007I can warp you to the entrance if you like. Interested?"
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007Then, let us leave this place. You did well today."
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007If you wish to be warped to the entrance, tell me."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007Return to the entrance?\u0007\u000bYes.\u0007Not yet."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007See you later."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Later!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Later, then."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I will see you later."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007See ya later!"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007See you later, then."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bye-bye!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007See you."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Take it easy!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Don't let me catch you slacking off.1\u0000\u0007\u0000"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007See you later."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Later!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Later, then."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007I will see you later."
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007See ya later!"
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007See you later, then."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Bye-bye!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007Until we meet again."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007See you."
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Take it easy!"
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007Don't let me catch you slacking off.1\u0000\u0007\u0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Return through the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Return through the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Return through the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Return through the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Return through the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "dialogue": [
+            {
+              "id": 7210,
+              "string": "1\u0000\u0007Leave Promyvion?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 48,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007...Come, \b."
+            },
+            {
+              "id": 7220,
+              "string": "..\u0000\u0007...It is...time."
+            },
+            {
+              "id": 7221,
+              "string": "..\u0000\u0007...Return."
+            },
+            {
+              "id": 7222,
+              "string": "..\u0000\u0007...to the darkness...."
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007...Come, \b."
+            },
+            {
+              "id": 7223,
+              "string": "..\u0000\u0007...Wheels are...in motion."
+            },
+            {
+              "id": 7224,
+              "string": "..\u0000\u0007...Darkness......calls."
+            },
+            {
+              "id": 7225,
+              "string": "..\u0000\u0007...Heed...your destiny...."
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007...Come, \b."
+            },
+            {
+              "id": 7226,
+              "string": "..\u0000\u0007...Why...do you struggle.."
+            },
+            {
+              "id": 7227,
+              "string": ".?\u0000\u0007...Face...the darkness."
+            },
+            {
+              "id": 7228,
+              "string": "..\u0000\u0007...Face...your inner...self...."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

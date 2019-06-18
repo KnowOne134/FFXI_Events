@@ -1,0 +1,1129 @@
+{
+  "id": 28,
+  "name": "Sacrarium",
+  "actors": [
+    {
+      "id": 16892106,
+      "name": "",
+      "events": [
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892136,
+      "name": "Wooden Gate",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            {
+              "id": 7213,
+              "string": "1\u0000\u0007Use the \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892137,
+      "name": "Wooden Gate",
+      "events": [
+        {
+          "id": 106,
+          "dialogue": [
+            {
+              "id": 7214,
+              "string": "1\u0000\u0007Open the door?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892139,
+      "name": "Switch",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892142,
+      "name": "Small Keyhole",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007\u001f\u000f\b is holding the lock open."
+            },
+            {
+              "id": 7223,
+              "string": "..\u0000\u0007\u001f\u000f\b's hand has grown num"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892143,
+      "name": "Switch",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892145,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007There you go."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007Uh-huh. It was found by some thieves with more curiosity than sense. Lots of people lost their lives before this was finally brought here."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007The Tavnazian Cathedral used to buy up weird artifacts all the time to give its researchers something to study."
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007It all began as a search for the ??Paradise?? of legend."
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007You know, the place those ancient people tried to get to--the thing that ticked off Promathia so much."
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007It is said that the gods sleep in Paradise."
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007The former Tavnazian theologians thought they could go there and ask Altana to remove the curse of Promathia."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007If the curse of war and conflict vanished from the world, we would no longer have to fear the threat of the beastmen."
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007But as things progressed, the aim of the cathedral's research shifted."
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007As they continued to investigate the objects left by the ancient people, the theologians realized that the older civilization was way more advanced than their own."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007Even with their advanced culture, however, they were no match for Promathia. Their city was obliterated..."
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007So this is what the elders of the Tavnazian Cathedral proposed:"
+            },
+            {
+              "id": 7280,
+              "string": "1\u0000\u0007What if they were to invite the Dawn Goddess to cross over into our world?"
+            },
+            {
+              "id": 7282,
+              "string": "1\u0000\u0007But before this incredible event was to happen, Cardinal Mildaurion arrived, and Tavnazia was destroyed not long after."
+            },
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007Anyway, I found out something that'd give Ulmia's granpere a heart attack."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007You see that glowing stone stuck in there?\u0007If you stand here and do this, you can hear the voice of Promathia."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007I thought if I was able to figure out the will of Promathia, I'd have a better idea of what the hell's going on."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007And I think I've managed to do just that.\u0007What the Twilight God desires is his own resurrection, and his own death..."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007Um...I guess I did..."
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007Ulmia. Are you afraid of me?"
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007But you believe me, don't you, Ulmia?"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Ulmia..."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007Can't we get this thing open?"
+            },
+            {
+              "id": 7246,
+              "string": "1\u0000\u0007Isn't it obvious?\u0007This is where we're gonna find Promathia."
+            },
+            {
+              "id": 7248,
+              "string": "1\u0000\u0007Hey, \b!\u0007You're just in time."
+            },
+            {
+              "id": 7249,
+              "string": "1\u0000\u0007You can help us open this gate.\u0007We're almost at the end of our quest."
+            },
+            {
+              "id": 7251,
+              "string": "1\u0000\u0007Oh yeah, now I remember!\u0007I think I locked this gate after the war."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007\b, you and Tenzen go find the \u0001\u00053????.\u0007It's somewhere in the communion hall."
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007Off you go no"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892146,
+      "name": "Tenzen",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007This appears to be some sort of storage room.\u0007Can the God of Twilight truly reside here.."
+            },
+            {
+              "id": 7263,
+              "string": ".?\u0000\u0007"
+            },
+            {
+              "id": 7264,
+              "string": "!?\u0000\u0007Is this the Twilight God, Promathia...?"
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007But...\u0007But this is nothing more than a statue!"
+            },
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007I see. I have heard tell that the nation of Tavnazia had strong ties with pirates and other bandit groups."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007Invite the Goddess...!?"
+            },
+            {
+              "id": 7285,
+              "string": "..\u0000\u0007Lady Prishe"
+            },
+            {
+              "id": 7322,
+              "string": "1\u0000\u0007Has your strength returned?\u0007That even one such as yourself was overwhelmed...\u0007This is truly an unexpected turn of events."
+            },
+            {
+              "id": 7323,
+              "string": "1\u0000\u0007Lady Prishe seems to have survived none the worse for wear.\u0007Or, at least she appears unharmed..."
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007What can this mean!?\u0007Death and resurrection? Why this contradiction!?"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7244,
+              "string": "1\u0000\u0007It cannot be forced."
+            },
+            {
+              "id": 7245,
+              "string": "1\u0000\u0007You say the reliquiarium lies beyond this gate, but what business do we have inside, Lady Prishe?"
+            },
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007!?"
+            },
+            {
+              "id": 7250,
+              "string": "1\u0000\u0007One moment, Lady Prishe.\u0007If Promathia is behind this gate as you say, would there not be some powerful seal in effect?"
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Locked it...?"
+            },
+            {
+              "id": 7255,
+              "string": "w!\u0000\u0007Lady Prishe!?"
+            },
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007<Sigh>\u0007Let us begin our search for this \u0001\u00053???? she speaks of."
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007She is such a demanding young lady. And I believed the imperious princesses of the Far East were hard on their subjects!"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892147,
+      "name": "???",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7286,
+              "string": "!?\u0000\u0007So this is the Tavnazian child known as the abhorrent one."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007It seems she caused a terrible accident during the baptismal ceremony."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007Many of the clergy lost their lives during the incident, and those who survived told of terrifying dreams of the cursed deity..."
+            },
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007What truly proves this child's damnation is her ever youthful form.\u0007That, and the rumors of her ability to read people's minds..."
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007Why does this new cardinal allow the child to walk freely after the cathedral had taken steps to ensure her eternal confinement?\u0007And why bring her here to San d'Oria...?"
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007Prishe, you are a child of destiny."
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007However, your part in this is over.\u0007There is nothing left within you..."
+            },
+            {
+              "id": 7301,
+              "string": "1\u0000\u0007Battle? What battle is this?"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892148,
+      "name": "Ulmia",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007Prishe!\u0007What in Vana'diel's name were you thinking!?"
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007Why would you ever lay a hand on that horrid statue!"
+            },
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007Have you forgotten the warning of Cardinal Mildaurion?"
+            },
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007That statue has the power to bring out the worst in people.\u0007We were never supposed to touch it. Ever!"
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007Could you truly be...?"
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007Of course not!"
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007But Granpere will not likely--nay, will most definitely not--forgive this transgression.\u0007Do you realize what you have done...?"
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Yes...I believe you.\u0007But Granpere..."
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Let us return to the safehold.\u0007The air here is...stifling."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892149,
+      "name": "Justinius",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007Prishe, you communed with the statue of the Twilight God...?"
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Yes, there's nothing left for us to do here.\u0007Come on, Prishe. Let's go home."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892150,
+      "name": "Tressia",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892151,
+      "name": "Chemioue",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892152,
+      "name": "Mengrenaux",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892153,
+      "name": "Parelbriaux",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892154,
+      "name": "Ondieulix",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892156,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16892161,
+      "name": "Muchavatte",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007According to Cardinal Mildaurion, the birth of such a child is a sign that our most desperate wish is about to be granted."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007I speak of the treasure entrusted to Tavnazia."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007What generations of cardinals have hidden from in fear, this Mildaurion has chosen to reveal to the San d'Orian Cathedral."
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007If Tavnazia's treasure is brought together with the holy artifact we hold, the Gates of Paradise will not long remain closed..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892162,
+      "name": "Chasalvige",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892163,
+      "name": "Halaviabeau",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892164,
+      "name": "Olbergieut",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892165,
+      "name": "Mildaurion",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892166,
+      "name": "Door:Papal Chambers",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892167,
+      "name": "Diabolos",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007You...\u0007Why are you here?"
+            },
+            {
+              "id": 7298,
+              "string": "1\u0000\u0007You should have met your demise in the city of Al'Taieu, along with the Keeper of the Apocalypse..."
+            },
+            {
+              "id": 7299,
+              "string": "1\u0000\u0007Does this mean the battle still rages?"
+            },
+            {
+              "id": 7300,
+              "string": "1\u0000\u0007Or do you mean to tell me you fled from the battlefield?"
+            },
+            {
+              "id": 7302,
+              "string": "1\u0000\u0007The battle upon which rides the fate of the world!"
+            },
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007The image of Promathia I revealed to you...\u0007It was your task to travel to Al'Taieu and regain that form."
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007At first I thought those Zilartian fools were to blame for the spreading Emptiness that once again slowly devours Vana'diel..."
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007Have you been taken by the Emptiness? Were you defeated at the last battle of Al'Taieu?"
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007How can this be!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892168,
+      "name": "Diabolos",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892169,
+      "name": "Diabolos",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892170,
+      "name": "???",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Was I defeated? Was I victorious? I know nothing of what you speak."
+            },
+            {
+              "id": 7309,
+              "string": "1\u0000\u0007My own existence is forfeit. But I have saved that which must be protected."
+            },
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007I seek no salvation.\u0007I only wish to know the truth."
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007Dawnmaiden Yve'noile.\u0007You, who resonates with the spirit of the Goddess, should be able to answer my question."
+            },
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007Was I born to carry out the will of Divine Promathia?"
+            },
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007Or was I born to thwart his designs?"
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007I don't know..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892171,
+      "name": "Yve'noile",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007Welcome to the Hall of the Gods.\u0007Hast thou come seeking the salvation of Altana, my child?"
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007Ah, a most interesting dilemma..."
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007Why dost thou think the face of Promathia is smooth and unfeatured?"
+            },
+            {
+              "id": 7318,
+              "string": "1\u0000\u0007All those who follow the Lady of the Dawn gaze upon her visage."
+            },
+            {
+              "id": 7319,
+              "string": "1\u0000\u0007However, none have ever seen the face of Promathia..."
+            },
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007He vanished from Paradise upon his death.\u0007That is why we pray for his resurrection."
+            },
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007For his resurrection, and his destruction..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892181,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7229,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7230,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Secrets of Worship(pt.1).\u0007The Secrets of Worship(pt.2)."
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7241,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7242,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16892185,
+      "name": "Survival Guide",
+      "events": [
+        {
+          "id": 8500,
+          "dialogue": [
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            }
+          ]
+        },
+        {
+          "id": 8501,
+          "dialogue": [
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            },
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007You may change the way you select areas listed in ??Teleportation Assistance."
+            },
+            {
+              "id": 7386,
+              "string": "??\u0000\u0007Any changes to make?\u0007\u000bKeep course.\u0007Select by region.\u0007Select by content."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 7381,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007At the bottom of the page is a reminder. It perfunctorily states that you may receive \u0001\u0001\u0001 \u0001\u0005$???? once you have logged a total of \n\u0002 hours."
+            },
+            {
+              "id": 7381,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007As per the custom noted within, you are eligible to receive \u0001\u0001\u0001 \u0001\u0005$???? for the \n\u0002 hour?\u0002[\/s] of fighting you've accrued."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007Accept the reward?\u0007\u000bYes, please.\u0007No, thanks."
+            },
+            {
+              "id": 6388,
+              "string": "1\u0000\u0007Obtained: ?\u0001\u0001\u0005#????."
+            },
+            {
+              "id": 6382,
+              "string": "1\u0000\u0007You cannot obtain the \u0001\u0005#????.\u0007Come back after sorting your inventory."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007Travel to which region?\u0007\u000bOn second thought, none.\u0007Select from amongst favorites.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 7388,
+              "string": "].\u0000\u0007\u000bNowhere for now.\u0007Select from amongst favorites.\u0007Original release areas.\u0007Rise of the Zilart areas.\u0007Chains of Promathia areas.\u0007Treasures of Aht Urhgan areas.\u0007Wings of the Goddess areas.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007Seekers of Adoulin areas."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7392,
+              "string": "].\u0000\u0007Your list of favorites is full. You must remove an existing entry to add new one"
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 109,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

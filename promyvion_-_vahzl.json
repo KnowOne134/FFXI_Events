@@ -1,0 +1,886 @@
+{
+  "id": 22,
+  "name": "Promyvion - Vahzl",
+  "actors": [
+    {
+      "id": 16867694,
+      "name": "",
+      "events": [
+        {
+          "id": 54,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867708,
+      "name": "Memory Flux",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7212,
+              "string": "1\u0000\u0007DEBUG:?{?^???????????i???????B"
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867709,
+      "name": "Memory Flux",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7212,
+              "string": "1\u0000\u0007DEBUG:?{?^???????????i???????B"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867710,
+      "name": "Memory Flux",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7212,
+              "string": "1\u0000\u0007DEBUG:?{?^???????????i???????B"
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867711,
+      "name": "kiokudama_a",
+      "events": [
+        {
+          "id": 19,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867712,
+      "name": "kiokudama_b",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867713,
+      "name": "kiokudama_c",
+      "events": [
+        {
+          "id": 21,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867714,
+      "name": "???",
+      "events": [
+        {
+          "id": 48,
+          "dialogue": [
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007You are blinded by a white flash."
+            },
+            {
+              "id": 7219,
+              "string": "..\u0000\u0007A strange image has been burned into your mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867715,
+      "name": "???",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867716,
+      "name": "Tenzen",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "..\u0000\u0007(\b...)"
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007\b!?"
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007So this is Emptiness."
+            },
+            {
+              "id": 7264,
+              "string": "1\u0000\u0007I never believed I would be swallowed into its darkness."
+            },
+            {
+              "id": 7265,
+              "string": "1\u0000\u0007\b, you have my thanks."
+            },
+            {
+              "id": 7266,
+              "string": "1\u0000\u0007If you hadn't awoken me, I dread to think what would have happened."
+            },
+            {
+              "id": 7267,
+              "string": "1\u0000\u0007But if I am here, it is possible the others have been taken by the Emptiness, as well. \u0007We must look for them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867717,
+      "name": "Louverance",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007(Where are you...?)"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007\b...?"
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007This place...\u0007The spark of life has never flared here, I feel.\u0007Is this what they call ??Emptiness???"
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007I knew that if I followed you, something extraordinary was bound to occur.\u0007But this..."
+            },
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007My mind yet reels from the knowledge that the Zilart and the Kuluu still exist in this world.\u0007The ancient people who tried to open the Gates of Paradise..."
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007And to think that the legend of the mothercrystals entombed deep below the surface of Vana'diel was true..."
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007I must track down that Jeunoan diplomat, Nag'molada. He and I have much to discuss.\u0007Let us be on our way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867718,
+      "name": "Ulmia",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007(Help us...)"
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007\b, is that you...?"
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007Where is Prishe?\u0007Why isn't she here?"
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007Oh, I see...\u0007Our search for her continues."
+            },
+            {
+              "id": 7277,
+              "string": "1\u0000\u0007This may sound strange, \b, but as I lay dreaming, I am sure I heard Prishe's voice calling to me."
+            },
+            {
+              "id": 7278,
+              "string": "1\u0000\u0007I believe she is somewhere deep in the bowels of this dreadful realm."
+            },
+            {
+              "id": 7279,
+              "string": "1\u0000\u0007Please, \b. Help me find Prishe.\u0007We must all escape this awful place together..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867719,
+      "name": "Nag'molada",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007Dawnmaiden Yve'noil"
+            },
+            {
+              "id": 7239,
+              "string": "e!\u0000\u0007What are you doing here!?\u0007It is forbidden to enter this place...!"
+            },
+            {
+              "id": 7242,
+              "string": "1\u0000\u0007Lady Yve'noile?"
+            },
+            {
+              "id": 7245,
+              "string": "1\u0000\u0007It's all the fault of the terrestrial avatars.\u0007They are merely using the foolish Kuluu to force the king of the Zilart to keep the Gates of Paradise closed."
+            },
+            {
+              "id": 7246,
+              "string": "1\u0000\u0007And then there is that traitor, Selh'teus."
+            },
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007All this blood has been spilled as a result of him breaking his promise to you!"
+            },
+            {
+              "id": 7250,
+              "string": "1\u0000\u0007Lady Yve'noile, they are calling me a traitor to the Kuluu people."
+            },
+            {
+              "id": 7251,
+              "string": "1\u0000\u0007However, I never once considered myself to be one of them. I never once considered my actions to be a betrayal."
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007I have returned to your side--that is all I have done.\u0007I will never betray your trust in me."
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007Lady Yve'noile?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867720,
+      "name": "Selh'teus",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7230,
+              "string": "1\u0000\u0007What are we waiting for!?\u0007Gravi'ton, all of us... We should strive for that perfection!"
+            },
+            {
+              "id": 7231,
+              "string": "1\u0000\u0007If we behold that vision, we too can understand what they are aiming for!"
+            },
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007We can join with the Zilart and be whole once more..."
+            },
+            {
+              "id": 7233,
+              "string": "1\u0000\u0007This senseless conflict between us will end!"
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007What is wrong with all of you?\u0007We have nothing to fear; Diabolos is..."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007It cannot be...!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867721,
+      "name": "Yve'noile",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7220,
+              "string": "..\u0000\u0007I bring thee two children who no longer hear the whisper of the soul.\u0007The boy on the right is Selh'teus. The boy on the left is Nag'molada."
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007I beseech the blessings of the king before the commencement of our journey to the city of the Kuluu."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007Thou hast nothing to fear.\u0007Those who receive the blessings of the king may abide in the city of the Kuluu without worry or care."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007We have made a pledge to the Dawn Goddess, Altana."
+            },
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007We shall make all haste in discovering the cause of thine illness, and return to a world with neither Zilart nor Kuluu."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007Though the whisper of the soul has grown quiet for thee, I ask for thy trust."
+            },
+            {
+              "id": 7226,
+              "string": "1\u0000\u0007Thou must live as before. Believe in the honesty of people as thou did when their thoughts were open to thee."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007Nag'molada..."
+            },
+            {
+              "id": 7241,
+              "string": "1\u0000\u0007Why dost thou, a Kuluu, work for the Zilart?"
+            },
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007This battle has gone beyond the point of salvation."
+            },
+            {
+              "id": 7244,
+              "string": "1\u0000\u0007The killing, the lies, the mistrust--we are no longer capable of understanding one another."
+            },
+            {
+              "id": 7248,
+              "string": "1\u0000\u0007Thou dost yet believe in me, Nag'molada?"
+            },
+            {
+              "id": 7249,
+              "string": "1\u0000\u0007Thou dost believe my words, my pledge to return this world to a place with neither Zilart nor Kuluu...?"
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007Even if thou discovers I have betrayed that trust...?"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007Not only thee; I intend to betray all the Zilart.\u0007It is because I."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867722,
+      "name": "KODAI01",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867723,
+      "name": "KODAI02",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867724,
+      "name": "KODAI03",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867725,
+      "name": "KODAI04",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867726,
+      "name": "Grav'iton",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7227,
+              "string": "1\u0000\u0007Oho..."
+            },
+            {
+              "id": 7228,
+              "string": "1\u0000\u0007So the living immortals have finally been born among the children of the Dawn..."
+            },
+            {
+              "id": 7229,
+              "string": "1\u0000\u0007Why dost thou seek to show us this vision of Paradise?\u0007This heavenly garden the Zilart believe to be the goal of all on Vana'diel..."
+            },
+            {
+              "id": 7234,
+              "string": "1\u0000\u0007Selh'teus..."
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007It is too late, Selh'teus.\u0007We have already fallen.\u0007Our hearts have been stained with corruption."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867727,
+      "name": "KODAI05",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867728,
+      "name": "KODAI06",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867729,
+      "name": "KODAI07",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867730,
+      "name": "KODAI08",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867731,
+      "name": "KODAI09",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867732,
+      "name": "KODAI10",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16867733,
+      "name": "Grumblix",
+      "events": [
+        {
+          "id": 49,
+          "dialogue": [
+            {
+              "id": 7289,
+              "string": "1\u0000\u0007I travel......hear lots...\u0007Hear...stories... Can tell...if..."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Desires of Emptiness(pt.1).\u0007Desires of Emptiness(pt.2).\u0007Desires of Emptiness(pt.3).\u0007Desires of Emptiness(pt.4)."
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7294,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7296,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7290,
+              "string": "1\u0000\u0007.........listen......"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "dialogue": [
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Enter the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Return through the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Return through the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Return through the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Return through the memory stream?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "dialogue": [
+            {
+              "id": 7210,
+              "string": "1\u0000\u0007Leave Promyvion?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 47,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

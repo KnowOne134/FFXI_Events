@@ -1,0 +1,148 @@
+{
+  "id": 131,
+  "name": "Mordion Gaol",
+  "actors": [
+    {
+      "id": 17313803,
+      "name": "Moogle-Ch",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7215,
+              "string": "\n\u0000\u0000\u0007Here you can change the name of the chocobo you are currently raising."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Would you like to change the name of your chocobo?"
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Give your chocobo a new name?\u0007\u000bYes, it's about time!\u0007No, I just can't!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007This chocobo's name has been changed to \u001c\u0000."
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007This chocobo's name change has been cancelled."
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007This chocobo's name change has been cancelled."
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7216,
+              "string": "1\u0000\u0007You can rename the chocobo certified on this \u0001\u0005#????."
+            },
+            {
+              "id": 7217,
+              "string": "1\u0000\u0007Would you like to change the name of your chocobo?"
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Give your chocobo a new name?\u0007\u000bYes, it's about time!\u0007No, I just can't!"
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007This chocobo's name has been changed to \u001c\u0000."
+            },
+            {
+              "id": 7223,
+              "string": "1\u0000\u0007Your chocobo's name change was not processed."
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007This chocobo's name change has been cancelled."
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007This chocobo's name change has been cancelled."
+            },
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Choose a word category (\f\u0000[first name\/last name]).\u0007\u000b1-letter words.\u00072-letter words.\u00073-letter words.\u00074-letter words.\u00075-letter words.\u00076-letter words.\u00077-letter words.\u00078-letter words.\u00079-letter words.\u000710-letter words.\u000711-letter words.\u000712-letter words.\u000713-letter words.\u000714-letter words.\u0007Return.\u0007Cancel."
+            },
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Choose a word category (\f\u0000[first name\/last name]).\u0007\u000b1-letter words.\u00072-letter words.\u00073-letter words.\u00074-letter words.\u00075-letter words.\u00076-letter words.\u00077-letter words.\u00078-letter words.\u00079-letter words.\u000710-letter words.\u000711-letter words.\u000712-letter words.\u000713-letter words.\u000714-letter words.\u0007Return.\u0007Cancel."
+            },
+            {
+              "id": 7210,
+              "string": "1\u0000\u0007Is this name okay?\u0007\u000b\u001c\u0000 \u001c\u0001? Yes!\u0007On second thought..."
+            },
+            {
+              "id": 7211,
+              "string": "1\u0000\u0007That name is currently unavailable.\u0007Please try another combination."
+            },
+            {
+              "id": 7212,
+              "string": "1\u0000\u0007Choose a word.(\u001c\u0000)\u0007\u000b\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007\u0001\u0005?????\u0007Cancel.\u0007View other options."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17313805,
+      "name": "",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17313806,
+      "name": "Read me",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7224,
+              "string": "1\u0000\u0007Your character has been jailed due to prohibited activities. Your account will soon be suspended due to this violation."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007Dependant upon the outcome of the investigation, your account may also be banned. We will not be accepting any GM calls from this account at this point in time."
+            },
+            {
+              "id": 7226,
+              "string": "1\u0000\u0007Once your suspension has been processed and lifted, login and place a GM call to be removed from jail. You will automatically be transferred back to your home point.1\u0000\u0007\u0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        
+      ]
+    }
+  ]
+}

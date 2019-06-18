@@ -1,0 +1,758 @@
+{
+  "id": 17,
+  "name": "Spire of Holla",
+  "actors": [
+    {
+      "id": 16846937,
+      "name": "",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846939,
+      "name": "Web of Recollections",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846940,
+      "name": "Web of Regret",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846941,
+      "name": "Web of Regret",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846942,
+      "name": "Web of Regret",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846948,
+      "name": "Radiant Aureole",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007Choose your path...\u0007\u000bLeave Promyvion.\u0007Return to the spire entrance.\u0007Nothing."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007Return to La Theine?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007Return to the web of recollections?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846949,
+      "name": "???",
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846950,
+      "name": "Yve'noile",
+      "events": [
+        {
+          "id": 21,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 23,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846951,
+      "name": "Miko_A",
+      "events": [
+        {
+          "id": 21,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846952,
+      "name": "Miko_B",
+      "events": [
+        {
+          "id": 21,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846953,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 22,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846954,
+      "name": "Eald'narche",
+      "events": [
+        {
+          "id": 23,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846955,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007???l?f?o?b?O?p???j???[\u0007\u000b?L?????Z??\u0007???[?v\u0007?J????\u0007?C?x???g"
+            },
+            {
+              "id": 7635,
+              "string": "1\u0000\u0007?{?^?????????????i??????"
+            },
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007???l?f?o?b?O?p???j???[\u0007\u000b?z???E?{?X\u0007?z???E?Q?[?g\u0007?f???E?{?X\u0007?f???E?Q?[?g\u0007???A?E?{?X\u0007???A?E?Q?[?g\u0007?}?`???h???z???????p"
+            },
+            {
+              "id": 7634,
+              "string": "1\u0000\u0007?C?x???g???I??\u0007\u000b??1?N???X?^??\u0007??2?N???X?^??\u0007??3?N???X?^??\u0007?????p"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7635,
+              "string": "1\u0000\u0007?{?^?????????????i??????"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846956,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16846957,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16846958,
+      "name": "Selh'teus",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846959,
+      "name": "Nag'molada",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7620,
+              "string": "1\u0000\u0007Amazing.\u0007I don't know who you are, but I commend you on your ability to make it this far."
+            },
+            {
+              "id": 7621,
+              "string": "1\u0000\u0007There she is. The mothercrystal.\u0007Well, what do you think?"
+            },
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007Can't you feel her power? Can't you feel her marvelous light streaming through your body? Can't you feel the endless joy she brings?"
+            },
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007The light from this crystal feeds our souls and keeps us alive... It keeps the whole world alive."
+            },
+            {
+              "id": 7624,
+              "string": "1\u0000\u0007And that is why we cannot forgive any who attempt to harm the crystal."
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007!?\u0007Who are...\u0007What are you doing here!?"
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u0007That... That darkness...!"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7627,
+              "string": "1\u0000\u0007That evil boy has released the darkness!"
+            },
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007The Emptiness is destruction that knows not of its destructive force.\u0007Even the Dawnmaidens, who fear neither man nor god, tremble in the presence of this hideous darkness."
+            },
+            {
+              "id": 7629,
+              "string": "1\u0000\u0007The Emptiness is...?"
+            },
+            {
+              "id": 7631,
+              "string": ".!\u0000\u0007Why can he touch the crystal!?"
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846960,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846961,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846962,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16846963,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16846964,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16846965,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16846966,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846967,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16846968,
+      "name": "Grumblix",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007I travel......hear lots...\u0007Hear...stories... Can tell...if..."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Ancient Flames Beckon(pt.1).\u0007Ancient Flames Beckon(pt.2).\u0007Ancient Flames Beckon(pt.3).\u0007Ancient Flames Beckon(pt.4)."
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007.........listen......"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7603,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007Ancient Flames Beckon.\u0007Simulant.\u0007Empty Hopes.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007"
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave."
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7060,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7061,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7062,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7063,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7099,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7657,
+              "string": "d.\u0000\u0007The current record for ??\f\u0002[Empty Hopes\/Empty Dreams\/Empty Desires\/Empty Aspirations]?? is \n\u0003 ?\u0001[memory\/memories"
+            },
+            {
+              "id": 7413,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7601,
+              "string": "].\u0000\u0007The current battlefield clear time record for ??\f\u0001[Ancient Flames Beckon\/Simulant\/Empty Hopes]?? is \n\u0003 minute?\u0003[\/s] \n\u0002 second?\u0002[\/s"
+            },
+            {
+              "id": 7600,
+              "string": "?!\u0000\u0007The current battlefield clear time record for ??\f\u0001[Ancient Flames Beckon\/Simulant\/Empty Hopes]?? is \n\u0003 second?\u0003[\/s"
+            },
+            {
+              "id": 7413,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7052,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            },
+            {
+              "id": 7604,
+              "string": "1\u0000\u0007Level limit of 30. The experience point reward for this battlefield will be reduced for parties of seven or more members."
+            },
+            {
+              "id": 7656,
+              "string": "e.\u0000\u0007You will be rewarded upon completion with as many as \n\u0000 ?\u0000[item\/items].\u0007Sort your inventory in advance to ensure that you can claim your rewar"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7657,
+              "string": "d.\u0000\u0007The current record for ??\f\u0002[Empty Hopes\/Empty Dreams\/Empty Desires\/Empty Aspirations]?? is \n\u0003 ?\u0001[memory\/memories"
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

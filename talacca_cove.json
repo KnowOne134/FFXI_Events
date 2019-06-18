@@ -1,0 +1,1068 @@
+{
+  "id": 57,
+  "name": "Talacca Cove",
+  "actors": [
+    {
+      "id": 17010856,
+      "name": "",
+      "events": [
+        {
+          "id": 107,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010873,
+      "name": "Rock Slab",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010874,
+      "name": "Iron Gate",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010875,
+      "name": "Iron Gate",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010876,
+      "name": "Iron Gate",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010877,
+      "name": "FX_1l4",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010878,
+      "name": "FX_1l5",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010879,
+      "name": "FX_1l6",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010880,
+      "name": "FX_1l7",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010881,
+      "name": "FX_1l8",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010882,
+      "name": "FX_1l9",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010883,
+      "name": "Wasuhd",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007All right!"
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007Hey, check this out!"
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007When I become a corsair, I can go look for Mutihb all by myself when he decides to run off again!"
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007Huh? What was that...?"
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007I thought I heard a voice coming from over there..."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7708,
+              "string": "1\u0000\u0007Hey, that Galka looks just like the guy in the Seagull Phratrie..."
+            },
+            {
+              "id": 7709,
+              "string": "1\u0000\u0007Wait a minute...6\u0002\u0007That guy with him...6\u0001\u0007It's an Imperial soldier from Whitegate!"
+            },
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007I...I think that Galka is the one who has been leaking information about the Phratrie..."
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007Come on, let's go get them and turn them in to Qultada!"
+            },
+            {
+              "id": 7720,
+              "string": "1\u0000\u0007You're a bad man!\u0007Why would you do such a thing?"
+            },
+            {
+              "id": 7726,
+              "string": "1\u0000\u0007Qultada!"
+            },
+            {
+              "id": 7742,
+              "string": "1\u0000\u0007Oh yeah! I almost forgot..."
+            },
+            {
+              "id": 7743,
+              "string": "1\u0000\u0007Look what we found!"
+            },
+            {
+              "id": 7747,
+              "string": "1\u0000\u0007Um, um...sir? I would really, really like to become a corsair... Can I?"
+            },
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007All right!"
+            },
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007Y-yes, sir!"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007Whaaat!?"
+            },
+            {
+              "id": 7754,
+              "string": "1\u0000\u0007But that's boring! I wanna throw smoke bombs and stuff, too!"
+            },
+            {
+              "id": 7756,
+              "string": "1\u0000\u0007Really...?"
+            },
+            {
+              "id": 7762,
+              "string": "1\u0000\u0007Y-yes, sir!"
+            },
+            {
+              "id": 7765,
+              "string": "1\u0000\u0007Yes, sir!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010884,
+      "name": "Yazquhl",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7712,
+              "string": "1\u0000\u0007It looks like this pipsqueak's been snooping in on our conversation..."
+            },
+            {
+              "id": 7713,
+              "string": "1\u0000\u0007A friend of yours, Gowam?"
+            },
+            {
+              "id": 7715,
+              "string": "1\u0000\u0007Kid, you've got your whole life ahead of you. Don't throw it away mingling with the likes of the corsairs."
+            },
+            {
+              "id": 7716,
+              "string": "1\u0000\u0007What am I saying? You've already ruined it all by being too nosy..."
+            },
+            {
+              "id": 7717,
+              "string": "1\u0000\u0007Your life is going to be cut short here either way."
+            },
+            {
+              "id": 7722,
+              "string": "1\u0000\u0007That's enough talk."
+            },
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007Your time has come, kid. Just remember--if you want to blame someone for your misfortune, then lay it on the corsairs."
+            },
+            {
+              "id": 7727,
+              "string": "1\u0000\u0007What is the meaning of this, Gowam?"
+            },
+            {
+              "id": 7734,
+              "string": "1\u0000\u0007How the hell did you...?"
+            },
+            {
+              "id": 7736,
+              "string": "1\u0000\u0007Dammit..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010885,
+      "name": "Gowam",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7714,
+              "string": "1\u0000\u0007Well, this kid is the brother o' one of the corsairs, and the ?[man\/woman] with him is apparently an adventurer."
+            },
+            {
+              "id": 7718,
+              "string": "1\u0000\u0007There's no point in resisting.\u0007You'll be able t' meet your brother soon."
+            },
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007The corsairs are already headed into a trap, thanks t' the false information I gave them. The Seagull Phratrie is a lost cause."
+            },
+            {
+              "id": 7721,
+              "string": "1\u0000\u0007I used t' be a Bastore Sea pirate.\u0007I've got no obligation or empathy for the corsairs. I just go where my nose for profit leads me."
+            },
+            {
+              "id": 7728,
+              "string": "1\u0000\u0007What are you doing here?\u0007You were supposed to be chasing after the Immortals!"
+            },
+            {
+              "id": 7731,
+              "string": "1\u0000\u0007Why, you..."
+            },
+            {
+              "id": 7738,
+              "string": "r!\u0000\u0007Don't think we'll let you off so easily!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010886,
+      "name": "Qultada",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7725,
+              "string": "!?\u0000\u0007Hmph. I have never come across such a reckless child."
+            },
+            {
+              "id": 7729,
+              "string": "1\u0000\u0007Why, Gowam, you should know that the most fundamental principle of any game is to know your opponent."
+            },
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007I don't know how much gil this gentleman has promised you, but your greed doesn't say much for the pirates of the Bastore."
+            },
+            {
+              "id": 7732,
+              "string": "1\u0000\u0007Oh, I wouldn't move if I were you.\u0007You see, I set explosives around you while you were bragging about your exploits."
+            },
+            {
+              "id": 7733,
+              "string": "1\u0000\u0007All I have to do is ignite the fuse with a blast from my gun, and...6\u0002\u0007Boom. It's over."
+            },
+            {
+              "id": 7735,
+              "string": "1\u0000\u0007Better luck next time."
+            },
+            {
+              "id": 7740,
+              "string": "1\u0000\u0007That's fine. I didn't come to fight them anyway."
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010887,
+      "name": "Qultada",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010888,
+      "name": "Qultada",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007You're Mutihb's brother Wasuhd, right? And this ?[gentleman\/lady] here...an adventurer, correct?"
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007Excellent work, both of you."
+            },
+            {
+              "id": 7748,
+              "string": "1\u0000\u0007Of course you can."
+            },
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007Okay, Wasuhd. I've got a top secret mission for you. Listen closely, now!"
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007You are to infiltrate Al Zahbi and wait until further notice!"
+            },
+            {
+              "id": 7755,
+              "string": "1\u0000\u0007You don't get it, do you? You've got the most important job of all..."
+            },
+            {
+              "id": 7757,
+              "string": "1\u0000\u0007We are wanted by the Empire. We cannot simply go striding about in broad daylight."
+            },
+            {
+              "id": 7758,
+              "string": "1\u0000\u0007And taking up residence in town is out of the question for us."
+            },
+            {
+              "id": 7759,
+              "string": "1\u0000\u0007But you... You can stay in Al Zahbi and gather intelligence for us at all times. There is no job more valuable!"
+            },
+            {
+              "id": 7761,
+              "string": "1\u0000\u0007This is a mission of great consequence, and you are the only man for the job!"
+            },
+            {
+              "id": 7763,
+              "string": "1\u0000\u0007And during the day, corsairs require extensive training."
+            },
+            {
+              "id": 7764,
+              "string": "1\u0000\u0007So I want you to throw your energy into helping your father and building your strength."
+            },
+            {
+              "id": 7768,
+              "string": "1\u0000\u0007Now for you... You are an adventurer from the Middle Lands, correct? That means you've crossed the seas of Vana'diel to reach this place..."
+            },
+            {
+              "id": 7766,
+              "string": "1\u0000\u0007Now for you...an adventurer from the Middle Lands, and now a mercenary of the Empire..."
+            },
+            {
+              "id": 7767,
+              "string": "1\u0000\u0007Still, there is something different about you."
+            },
+            {
+              "id": 7771,
+              "string": "1\u0000\u0007You cannot say that for everyone, though.\u0007I am going to go with my intuition in this case... Can you not feel the workings of providence?"
+            },
+            {
+              "id": 7772,
+              "string": "1\u0000\u0007Oh, yes. Please accept this."
+            },
+            {
+              "id": 7773,
+              "string": "1\u0000\u0007With this, no one will doubt that you are a corsair."
+            },
+            {
+              "id": 7774,
+              "string": "1\u0000\u0007These are no mere dice.\u0007Sometimes you'll find that there's nothing better than entrusting your fate to Lady Luck."
+            },
+            {
+              "id": 7775,
+              "string": "1\u0000\u0007This \u0001\u0005#???? only holds answers for you."
+            },
+            {
+              "id": 7776,
+              "string": "1\u0000\u0007However, there are other dice that are very different."
+            },
+            {
+              "id": 7777,
+              "string": "1\u0000\u0007Find them. Only then will you understand the true spirit of the corsair."
+            },
+            {
+              "id": 7778,
+              "string": "1\u0000\u0007Practice, and grow strong.\u0007I look forward to seeing what becomes of you."
+            },
+            {
+              "id": 7779,
+              "string": "1\u0000\u0007Will I hit the jackpot or end up with snake eyes?\u0007I feel I've finally found a risk worth taking..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010889,
+      "name": "Zweeha",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7739,
+              "string": "1\u0000\u0007You're going to let them get away?"
+            },
+            {
+              "id": 7741,
+              "string": "1\u0000\u0007Such naivety.\u0007This is why I don't like kids."
+            },
+            {
+              "id": 7770,
+              "string": "1\u0000\u0007I am opposed, Qultada. Have we not already seen the effects of admitting outsiders?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010890,
+      "name": "Mutihb",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010891,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010892,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010893,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010894,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010895,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010896,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010897,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010898,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010899,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010900,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010901,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010903,
+      "name": "Valkeng",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010904,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7688,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Luck of the Draw(pt.1).\u0007Luck of the Draw(pt.2).\u0007Puppetmaster Blues(pt.1).\u0007Puppetmaster Blues(pt.2).\u0007Breaking the Bonds of Fate(pt.1).\u0007Breaking the Bonds of Fate(pt.2).\u0007Legacy of the Lost.\u0007Gaze of the Saboteur(pt.1).\u0007Gaze of the Saboteur(pt.2)."
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7690,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010906,
+      "name": "",
+      "events": [
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010907,
+      "name": "Gessho",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010908,
+      "name": "",
+      "events": [
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17010909,
+      "name": "Gessho",
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7684,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007Call to Arms.\u0007Compliments to the Chef.\u0007Puppetmaster Blues.\u0007Breaking the Bonds of Fate.\u0007Legacy of the Lost.\u0007??Legacy of the Lost.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007."
+            },
+            {
+              "id": 7674,
+              "string": "1\u0000\u0007Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave."
+            },
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7319,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7322,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7672,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7682,
+              "string": "].\u0000\u0007The current battlefield clear time record for ??\f\u0001[Call to Arms\/Compliments to the Chef\/Puppetmaster Blues\/Breaking the Bonds of Fate\/Legacy of the Lost\/??Legacy of the Lost]?? is \n\u0003 minute?\u0003[\/s] \n\u0002 second?\u0002[\/s"
+            },
+            {
+              "id": 7681,
+              "string": "?!\u0000\u0007The current battlefield clear time record for ??\f\u0001[Call to Arms\/Compliments to the Chef\/Puppetmaster Blues\/Breaking the Bonds of Fate\/Legacy of the Lost\/??Legacy of the Lost]?? is \n\u0003 second?\u0003[\/s"
+            },
+            {
+              "id": 7672,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "id": 56,
+  "name": "Periqia",
+  "actors": [
+    {
+      "id": 17006810,
+      "name": "Rune of Release",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Leave \f\u0000[Leujaoam Sanctum\/the Mamool Ja Training Grounds\/Lebros Cavern\/Periqia\/Ilrusi Atoll]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17006822,
+      "name": "Adeeha",
+      "events": [
+        {
+          "id": 200,
+          "dialogue": [
+            {
+              "id": 7617,
+              "string": "1\u0000\u0007Are you one of the mercenaries sent to retrieve the Mark-IIs? We've been waiting for you."
+            },
+            {
+              "id": 7618,
+              "string": "1\u0000\u0007Listen carefully, for this mission is not as simple as it may seem. The battle automaton Mark-II, a.k.a. Maymun, is a very...unique model."
+            },
+            {
+              "id": 7619,
+              "string": "1\u0000\u0007To prevent usage by enemy forces in the event of capture, the machines have been programmed to only respond to specific gestures."
+            },
+            {
+              "id": 7620,
+              "string": "1\u0000\u0007In other words, you must use body language to communicate with them."
+            },
+            {
+              "id": 7621,
+              "string": "1\u0000\u0007Our scouts have confirmed a total of six Mark-IIs in the area."
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007To complete your mission, you must retrieve at least four."
+            },
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007If you have any questions, feel free to ask."
+            },
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007What would you like to know about?\u0007\u000bMission objectives.\u0007Maymun commands.\u0007Maymun personality.\u0007Current number retrieved.\u0007Nothing."
+            },
+            {
+              "id": 7624,
+              "string": "1\u0000\u0007Your orders are as follows:"
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u00071. Retrieve at least four Mark-II automatons and lead them back to headquarters."
+            },
+            {
+              "id": 7626,
+              "string": "1\u0000\u00072. \u001e\u0005\/salute\u001e\u0001 to activate the Maymun and register as its ??master.??\u00073. Wave \u001e\u0005\/goodbye\u001e\u0001 to deactivate it."
+            },
+            {
+              "id": 7627,
+              "string": "1\u0000\u00074. \u001e\u0005\/clap\u001e\u0001 to initiate ??follow?? mode.\u00075. A \u001e\u0005\/hurray\u001e\u0001 gesture will switch on\/off ??battle?? mode."
+            },
+            {
+              "id": 7628,
+              "string": "1\u0000\u00076. The Maymun will not accept orders from a ??master?? who is currently controlling another Mark-II."
+            },
+            {
+              "id": 7629,
+              "string": "1\u0000\u0007To maintain control of the Maymun, you will need to respond correctly to its unique gestures."
+            },
+            {
+              "id": 7630,
+              "string": "1\u0000\u0007Learn about which gestures?\u0007\u000bBowing.\u0007Pointing.\u0007Waving.\u0007Dancing.\u0007Blushing.\u0007Saluting.\u0007Happy.\u0007Confused.\u0007Shocked.\u0007Praising.\u0007Clapping.\u0007Cheering.\u0007Quit."
+            },
+            {
+              "id": 7631,
+              "string": "1\u0000\u0007When the Mark-II bows, you should politely \u001e\u0005\/kneel\u001e\u0001 before her."
+            },
+            {
+              "id": 7632,
+              "string": "1\u0000\u0007When the Mark-II wanders astray, you should tell her \u001e\u0005\/no\u001e\u0001."
+            },
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007When the Mark-II waves her hand, you should \u001e\u0005\/welcome\u001e\u0001 her."
+            },
+            {
+              "id": 7634,
+              "string": "1\u0000\u0007When the Mark-II dances, you should express your \u001e\u0005\/joy\u001e\u0001."
+            },
+            {
+              "id": 7635,
+              "string": "1\u0000\u0007When the Mark-II is pretending to act embarrassed, you should ignore her by pretending to \u001e\u0005\/doze\u001e\u0001 off."
+            },
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007When the Mark-II salutes, you should \u001e\u0005\/praise\u001e\u0001 her."
+            },
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007When the Mark-II is happy, you should \u001e\u0005\/smile\u001e\u0001."
+            },
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007When the Mark-II is confused, you should \u001e\u0005\/slap\u001e\u0001 her lightly to realign her circuitry."
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007When the Mark-II is in shock, you should \u001e\u0005\/comfort\u001e\u0001 her."
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007When the Mark-II praises you, you should \u001e\u0005\/blush\u001e\u0001."
+            },
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007When the Mark-II applauds, you should become \u001e\u0005\/angry\u001e\u0001 with her."
+            },
+            {
+              "id": 7642,
+              "string": "1\u0000\u0007If the Mark-II cheers, you should \u001e\u0005\/psyche\u001e\u0001 up."
+            },
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007There are six different personality programs used in the Mark-II models."
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007The violent ??Diemun??...\u0007The hyperactive ??Flymun??...\u0007The carefree ??Highmun??..."
+            },
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007The sensitive ??Crymun??...\u0007The peaceful ??Whymun??...\u0007And..."
+            },
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007The basic ??Maymun?? model.\u0007Oh, and those names aren't official. I've simply had a lot of free time waiting out here for you mercenaries to come along."
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007You still haven't brought me any..."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007You have retrieved \n\u0000 Mark-II?\u0000[\/s] so far."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17006826,
+      "name": "",
+      "events": [
+        {
+          "id": 201,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

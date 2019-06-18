@@ -1,0 +1,2166 @@
+{
+  "id": 274,
+  "name": "Outer Ra'Kaznar",
+  "actors": [
+    {
+      "id": 17899875,
+      "name": "JGL_BUILD_MASTER_0",
+      "events": [
+        {
+          "id": 2000,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899876,
+      "name": "JGL_BUILD_MASTER_1",
+      "events": [
+        {
+          "id": 2001,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899877,
+      "name": "JGL_BUILD_MASTER_2",
+      "events": [
+        {
+          "id": 2002,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899878,
+      "name": "JGL_BUILD_MASTER_3",
+      "events": [
+        {
+          "id": 2003,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899879,
+      "name": "JGL_BUILD_MASTER_4",
+      "events": [
+        {
+          "id": 2004,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899880,
+      "name": "JGL_BUILD_MASTER_5",
+      "events": [
+        {
+          "id": 2005,
+          "dialogue": [
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on\/off\u0007Biouvac degradation over time: on\/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on\/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7238,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7239,
+              "string": "1\u0000\u0007DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            },
+            {
+              "id": 7237,
+              "string": "1\u0000\u0007DEBUG: Degradation over time on\/off.\u0007\u000bON.\u0007OFF.\u0007Cancel."
+            },
+            {
+              "id": 7240,
+              "string": "1\u0000\u0007DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899921,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4001,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899922,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4002,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899923,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4003,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899924,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4004,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899925,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4005,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899926,
+      "name": "Soul Pyre",
+      "events": [
+        {
+          "id": 4006,
+          "dialogue": [
+            {
+              "id": 7196,
+              "string": "1\u0000\u0007The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ \/]\u0001\u0001\u0001 \u0001\u0005$????\f\u0001[\/bayld]."
+            },
+            {
+              "id": 7197,
+              "string": "1\u0000\u0007In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible."
+            },
+            {
+              "id": 7198,
+              "string": "1\u0000\u0007Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt?\u0000[\/s] remaining."
+            },
+            {
+              "id": 7199,
+              "string": "1\u0000\u0007Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899932,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899995,
+      "name": "",
+      "events": [
+        {
+          "id": 43,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 45,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 49,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899996,
+      "name": "",
+      "events": [
+        {
+          "id": 46,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 47,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 48,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899998,
+      "name": "",
+      "events": [
+        {
+          "id": 43,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 44,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 45,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 49,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899999,
+      "name": "",
+      "events": [
+        {
+          "id": 46,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 47,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 48,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900001,
+      "name": "Augural Conveyor",
+      "events": [
+        {
+          "id": 5500,
+          "dialogue": [
+            {
+              "id": 7756,
+              "string": "].\u0000\u0007Enter which battlefield?\u0007\u000bNone.\u0007Endeavoring to Awaken.\u0007Endeavoring to Awaken.\u0007 \u0007Behind the Sluices.\u0007Stonewalled.\u0007The Gates.\u0007Saved by the Bell.\u0007Quiescence.\u0007The Charlatan.\u0007Yggdrasil Beckons.\u0007Yggdrasil Beckons.\u0007Watery Grave.\u0007Mistress of Ceremonies.\u0007A Barrel of Laughs.\u0007Sinister Reign.\u0007The Ygnas Directive 6.\u0007Skirmishes.\u0007\f![Fractures\/Obscured Domains].\u0007Alluvion skirmishes."
+            },
+            {
+              "id": 7736,
+              "string": "1\u0000\u0007Only party members present with you in this area will be transported to \f\u0001[\/this skirmish in \/\/\/\/this alluvion skirmish in \/]\u0001\u00058????."
+            },
+            {
+              "id": 7737,
+              "string": "1\u0000\u0007Proceed?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7744,
+              "string": "g.\u0000\u0007Your request for entry is being considered."
+            },
+            {
+              "id": 7739,
+              "string": "?.\u0000\u0007You have chosen not to enter \f\u0001[\/this skirmish in \/\/\/\/this alluvion skirmish in \/]\u0001\u00058???"
+            }
+          ]
+        },
+        {
+          "id": 5501,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5502,
+          "dialogue": [
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007What's the visage's obtainment rate?\u0007\u000bNever mind.\u0007Rank I.\u0007Rank II.\u0007Rank III.\u0007Rank IV.\u0007Rank V."
+            },
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007What's the torso's size?\u0007\u000bNever mind.\u0007Rank I.\u0007Rank II.\u0007Rank III.\u0007Rank IV.\u0007Rank V."
+            },
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007What rank are the legs' benefits?\u0007\u000bNever mind.\u0007Rank I.\u0007Rank II.\u0007Rank III.\u0007Rank IV.\u0007Rank V."
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007Ready for an alluvion skirmish?\u0007\u000bNo.\u0007Alluvion A.\u0007Alluvion B.\u0007Alluvion C.\u0007Alluvion D.\u0007Alluvion E.\u0007Just a regular skirmish, please."
+            },
+            {
+              "id": 7736,
+              "string": "1\u0000\u0007Only party members present with you in this area will be transported to \f\u0001[\/this skirmish in \/\/\/\/this alluvion skirmish in \/]\u0001\u00058????."
+            },
+            {
+              "id": 7737,
+              "string": "1\u0000\u0007Proceed?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7744,
+              "string": "g.\u0000\u0007Your request for entry is being considered."
+            },
+            {
+              "id": 7739,
+              "string": "?.\u0000\u0007You have chosen not to enter \f\u0001[\/this skirmish in \/\/\/\/this alluvion skirmish in \/]\u0001\u00058???"
+            },
+            {
+              "id": 7741,
+              "string": "a.\u0000\u0007You cannot enter at this time. Please wait a moment and try agai"
+            },
+            {
+              "id": 7738,
+              "string": "1\u0000\u0007Now entering \f\u0001[\/a skirmish in \/\/\/\/an alluvion skirmish in \/]\u0001\u00058???"
+            },
+            {
+              "id": 7738,
+              "string": "1\u0000\u0007Now entering \f\u0001[\/a skirmish in \/\/\/\/an alluvion skirmish in \/]\u0001\u00058???"
+            },
+            {
+              "id": 7741,
+              "string": "a.\u0000\u0007You cannot enter at this time. Please wait a moment and try agai"
+            }
+          ]
+        },
+        {
+          "id": 5503,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900006,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7715,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7716,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7717,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7725,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7726,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Lerene's Lament.\u0007Bagua Attire.\u0007Futhark Attire.\u0007A New Force Arises.\u0007Epiphany."
+            },
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7727,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7728,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7729,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7718,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900008,
+      "name": "DIRECTOR by yaeko",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900009,
+      "name": "Lerene",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7768,
+              "string": "1\u0000\u0007I am Lerene, a researcher of sorts who travels Vana'diel, studying ancient ruins.\u0007What brings you to this dreadful place?"
+            },
+            {
+              "id": 7769,
+              "string": "1\u0000\u0007My my, if only you knew how it does my heart good to see another living soul!"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "dialogue": [
+            {
+              "id": 7770,
+              "string": "1\u0000\u0007How odd. I can't shake this feeling that we've met somewhere before."
+            },
+            {
+              "id": 7771,
+              "string": "1\u0000\u0007My name is Er...\u0007Err...Lerene. I'm a bit of a researcher."
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "dialogue": [
+            {
+              "id": 7772,
+              "string": "1\u0000\u0007My name is, err...Lerene. I visit ruins all around Vana'diel in pursuit of ancient knowledge."
+            },
+            {
+              "id": 7773,
+              "string": "1\u0000\u0007Ra'Kaznar is positively overflowing with all manner of shadows. If we don't keep their numbers under control, they might spill out into the wildlands."
+            },
+            {
+              "id": 7774,
+              "string": "1\u0000\u0007If they were just feral fiends, I'd say throw caution to the wind and cull them right now, but I sense that there's some greater presence guiding them."
+            },
+            {
+              "id": 7775,
+              "string": "1\u0000\u0007I'd advise you to take care of the mystical barricades that line this place should you decide to take the beasts on. Those ??doors?? have a mind of their own, and are apt to trap you within the labyrinth."
+            },
+            {
+              "id": 7776,
+              "string": "1\u0000\u0007It's as if the walls themselves are alive, with energies pulsing through their cracks like the blood in our veins."
+            },
+            {
+              "id": 7777,
+              "string": "1\u0000\u0007And those energies are no ordinary magic. You could try to rend them to tatters with a greataxe, but the only thing to splinter would be its hilt."
+            },
+            {
+              "id": 7778,
+              "string": "1\u0000\u0007If your goal is to colonize this land, then you'll need to find a way to deal with such obstacles. I'll do a little bit of experimentation and see if I can find anything."
+            },
+            {
+              "id": 7779,
+              "string": "1\u0000\u0007And by ??I,?? I mean ??we.?? I would expect no less."
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007If you find something with traces of arcane energies, come back to me. Perhaps I can learn more about its form and function."
+            },
+            {
+              "id": 7781,
+              "string": "1\u0000\u0007With any luck, I'll be able to fashion a paten that'll turn the energies to our benefit."
+            },
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007??What's a paten??? A paten is a magical apparatus that converts cyclical magic into simple formulas."
+            },
+            {
+              "id": 7783,
+              "string": "1\u0000\u0007Leave the details to me--for you, a grasp of the basics will suffice."
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007First things first. Find something with remnants of this energy and bring it back here. Then we can get it to work."
+            },
+            {
+              "id": 7785,
+              "string": "1\u0000\u0007I would venture two \u0001\u0005%???? should suffice."
+            },
+            {
+              "id": 7786,
+              "string": "1\u0000\u0007If I'm right, the shadows wandering about the inner court should have some on them."
+            },
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007Will you assist Lerene?\u0007\u000bYes. I've got to.\u0007Defeat monsters? Not my thing."
+            },
+            {
+              "id": 7788,
+              "string": "1\u0000\u0007Excellent! The two of us will make the perfect team."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007Not your thing? But then how...?\u0007<Sigh> I suppose I can't ask you to risk life and limb."
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "dialogue": [
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007The shadows located here within Ra'Kaznar have got to have what I seek. I can feel it."
+            },
+            {
+              "id": 7791,
+              "string": "1\u0000\u0007The more you bring back, the easier it'll be for me to make the paten. Let's see...a total of two \u0001\u0005%???? should suffice."
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "dialogue": [
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007Welcome back. I trust you have found enough \u0001\u0005%?????"
+            },
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007Aha...6\u0001\u0007...So this is how it functions."
+            },
+            {
+              "id": 7794,
+              "string": "1\u0000\u0007Remember how I explained that magic coursed through the cracks like blood through our veins?"
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007Then if we found a way to reverse the flow..."
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007Of course, this is all just theory. We won't know until we actually try it, hmm?"
+            },
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007My professor always told me ??To know is to act!?? Knowledge is nothing until you put it into practice."
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007Let me prepare the paten using the sigils you have brought me. Just give me a moment..."
+            },
+            {
+              "id": 7799,
+              "string": "1\u0000\u0007Splendid! This should assist you in getting rid of that pesky magic impeding your progress."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007Come with me to the lower levels, and we will test it out together."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007I'll bring along \u0001\u00056????, which will enable us to operate the transit device. Shall we?"
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007If it doesn't work, then we won't be able to figure out how the door operates...which leads us into a terrible loop of unknowns."
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Steel yourself for action!"
+            },
+            {
+              "id": 7805,
+              "string": "1\u0000\u0007Hmm...I suppose that accomplished something, but we're not done yet.\u0007Let me just fiddle with..."
+            },
+            {
+              "id": 7807,
+              "string": "1\u0000\u0007...Huh?"
+            },
+            {
+              "id": 7808,
+              "string": "1\u0000\u0007Open up, you piece of--"
+            },
+            {
+              "id": 7809,
+              "string": "1\u0000\u0007Owowowowow!"
+            },
+            {
+              "id": 7810,
+              "string": "1\u0000\u0007W-well, at least we reversed the magic. All you have to do is give it a couple of good bashes, and that should break it right off its hinges."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007But you're a pioneer, right? So what's a little blood?"
+            },
+            {
+              "id": 7812,
+              "string": "1\u0000\u0007I, on the other hand, am much more delicate. Let me put my handiwork to the test and make you a paten of your own."
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "dialogue": [
+            {
+              "id": 7813,
+              "string": "1\u0000\u0007Even the burning sun of ignorance cannot evaporate the fountain of knowledge. The rest I leave in your capable hands."
+            },
+            {
+              "id": 7814,
+              "string": "1\u0000\u0007After all, there is more research to be done!"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "dialogue": [
+            {
+              "id": 7818,
+              "string": "1\u0000\u0007Now, just how is it that the paten doesn't work...?"
+            },
+            {
+              "id": 7819,
+              "string": "1\u0000\u0007Oh! You must be a geomancer. Am I right?"
+            },
+            {
+              "id": 7820,
+              "string": "1\u0000\u0007Then you wouldn't go anywhere without your trusty luopan?"
+            },
+            {
+              "id": 7821,
+              "string": "1\u0000\u0007Wonderful! Did you know that the techniques used in making it have been passed down through the ages?"
+            },
+            {
+              "id": 7822,
+              "string": "1\u0000\u0007But I suppose you aren't interested in a scholarly lesson. I could use a bit of your geomantic energies, if you could spare the time."
+            },
+            {
+              "id": 7823,
+              "string": "1\u0000\u0007If you are capable of feeling the lifestream, then you must be able to channel the powers latent in this tree."
+            },
+            {
+              "id": 7826,
+              "string": "1\u0000\u0007Good to hear. Let me explain my hypothesis:"
+            },
+            {
+              "id": 7825,
+              "string": "1\u0000\u0007Quite a shame, indeed. I'm certain we could learn much from this discovery."
+            },
+            {
+              "id": 7827,
+              "string": "1\u0000\u0007The roots of this tree are protected--or perhaps a better phrase would be ??sealed in??--by the magic enshrouding Ra'Kaznar."
+            },
+            {
+              "id": 7828,
+              "string": "1\u0000\u0007What I require is that you lay your luopan by its side and invoke a Geocolure ritual."
+            },
+            {
+              "id": 7829,
+              "string": "1\u0000\u0007Once that is done, I will invoke a Cure spell in the hopes that the roots will absorb the healing energy, thus weakening the seal."
+            },
+            {
+              "id": 7830,
+              "string": "1\u0000\u0007Finally, you will unleash the power of your luopan to shatter the bonds."
+            },
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007This should enable us to get to the underbelly of this mystery. How does the saying go? ??Let the cat out of the bag???"
+            },
+            {
+              "id": 7832,
+              "string": "1\u0000\u0007Sorry for the long-winded explanation. Are you ready?"
+            },
+            {
+              "id": 7833,
+              "string": "1\u0000\u0007Okay!"
+            },
+            {
+              "id": 7836,
+              "string": "..\u0000\u0007It worked!"
+            },
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007Would you look at that. This tree must be..."
+            },
+            {
+              "id": 7840,
+              "string": "s!\u0000\u0007This is superb! I must make detailed records of what has transpired here.\u0007Thank you, pioneer!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900010,
+      "name": "",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900011,
+      "name": "",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900012,
+      "name": "",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900013,
+      "name": "Entwined Roots",
+      "events": [
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007\f\u0002[Descend\/Ascend]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900014,
+      "name": "Entwined Roots",
+      "events": [
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007\f\u0002[Descend\/Ascend]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900015,
+      "name": "Entwined Roots",
+      "events": [
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007\f\u0002[Descend\/Ascend]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900016,
+      "name": "Entwined Roots",
+      "events": [
+        {
+          "id": 34,
+          "dialogue": [
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007\f\u0002[Descend\/Ascend]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900017,
+      "name": "Entwined Roots",
+      "events": [
+        {
+          "id": 35,
+          "dialogue": [
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007\f\u0002[Descend\/Ascend]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900018,
+      "name": "Entwined Roots",
+      "events": [
+        {
+          "id": 36,
+          "dialogue": [
+            {
+              "id": 7816,
+              "string": "1\u0000\u0007\f\u0002[Descend\/Ascend]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900019,
+      "name": "Vertical Transit Device",
+      "events": [
+        {
+          "id": 43,
+          "dialogue": [
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007This baffling gadget seems to serve as transport to the \f\u0000[lower\/higher] floor"
+            },
+            {
+              "id": 7731,
+              "string": "s.\u0000\u0007Head to a \f\u0000[lower\/higher] floor?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900020,
+      "name": "Vertical Transit Device",
+      "events": [
+        {
+          "id": 44,
+          "dialogue": [
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007This baffling gadget seems to serve as transport to the \f\u0000[lower\/higher] floor"
+            },
+            {
+              "id": 7731,
+              "string": "s.\u0000\u0007Head to a \f\u0000[lower\/higher] floor?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900021,
+      "name": "Vertical Transit Device",
+      "events": [
+        {
+          "id": 45,
+          "dialogue": [
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007This baffling gadget seems to serve as transport to the \f\u0000[lower\/higher] floor"
+            },
+            {
+              "id": 7731,
+              "string": "s.\u0000\u0007Head to a \f\u0000[lower\/higher] floor?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900022,
+      "name": "Vertical Transit Device",
+      "events": [
+        {
+          "id": 46,
+          "dialogue": [
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007This baffling gadget seems to serve as transport to the \f\u0000[lower\/higher] floor"
+            },
+            {
+              "id": 7731,
+              "string": "s.\u0000\u0007Head to a \f\u0000[lower\/higher] floor?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900023,
+      "name": "Vertical Transit Device",
+      "events": [
+        {
+          "id": 47,
+          "dialogue": [
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007This baffling gadget seems to serve as transport to the \f\u0000[lower\/higher] floor"
+            },
+            {
+              "id": 7731,
+              "string": "s.\u0000\u0007Head to a \f\u0000[lower\/higher] floor?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900024,
+      "name": "Vertical Transit Device",
+      "events": [
+        {
+          "id": 48,
+          "dialogue": [
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007This baffling gadget seems to serve as transport to the \f\u0000[lower\/higher] floor"
+            },
+            {
+              "id": 7731,
+              "string": "s.\u0000\u0007Head to a \f\u0000[lower\/higher] floor?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900025,
+      "name": "Vertical Transit Device",
+      "events": [
+        {
+          "id": 49,
+          "dialogue": [
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007This baffling gadget seems to serve as transport to the \f\u0000[lower\/higher] floor"
+            },
+            {
+              "id": 7731,
+              "string": "s.\u0000\u0007Head to a \f\u0000[lower\/higher] floor?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900026,
+      "name": "",
+      "events": [
+        {
+          "id": 26,
+          "dialogue": [
+            {
+              "id": 7824,
+              "string": "1\u0000\u0007Will you assist her?\u0007\u000bBeyond doubt.\u0007Sorry. I'm busy right now."
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007\u001f\u000fHidden energies flow forth from the mysterious tree."
+            },
+            {
+              "id": 7839,
+              "string": "..\u0000\u0007\u001f\u000f...and coalesce into a crystallized bauble in \b's hand"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 54,
+          "dialogue": [
+            {
+              "id": 7872,
+              "string": "1\u0000\u0007How do you respond?\u0007\u000bShe sure did.\u0007Nope."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900027,
+      "name": "Geomantic Fumes",
+      "events": [
+        {
+          "id": 26,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900028,
+      "name": "Meeting Point",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900029,
+      "name": "",
+      "events": [
+        {
+          "id": 26,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900030,
+      "name": "",
+      "events": [
+        {
+          "id": 26,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 54,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900031,
+      "name": "",
+      "events": [
+        {
+          "id": 26,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 54,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900032,
+      "name": "???",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            {
+              "id": 7841,
+              "string": "1\u0000\u0007So, you're the rune fencer the Inventarus' Coalition dispatched?"
+            },
+            {
+              "id": 7842,
+              "string": "1\u0000\u0007Up here, silly-willy."
+            },
+            {
+              "id": 7844,
+              "string": "u.\u0000\u0007Greetings, pioneer.\u0007My name's Mikolulu, and I've been out surveying this territory at Amchuchu's behestaru."
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007How come there are multiple-wultiple rune fencers here? I only asked for..."
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007...Eureka-weka!"
+            },
+            {
+              "id": 7849,
+              "string": "1\u0000\u0007This is absolutely wonderful! I have a descendantaru of the man who single-handedly founded the runic arts, and one of the chosen who've engraved \u0001\u00053???? upon ?[his\/her] flesh-wesh."
+            },
+            {
+              "id": 7850,
+              "string": "1\u0000\u0007With their powers combined, I'll captain-waptain us to greatness of planetary proportions. There's no way we won't be able to extractaru the essence of this wall!"
+            },
+            {
+              "id": 7851,
+              "string": "1\u0000\u0007Oh, Amchuchu, you sure do work in mysterious-werious ways."
+            },
+            {
+              "id": 7853,
+              "string": "1\u0000\u0007Sorry, I just hitaru upon an amazing idea. Allow me to explain."
+            },
+            {
+              "id": 7854,
+              "string": "1\u0000\u0007So, does that sound feasible-weasible?"
+            },
+            {
+              "id": 7856,
+              "string": "1\u0000\u0007Thank you so much.\u0007Alright, then. On your mark, get setaru..."
+            },
+            {
+              "id": 7857,
+              "string": "1\u0000\u0007Go!"
+            },
+            {
+              "id": 7859,
+              "string": "w!\u0000\u0007Amazing-wazing!"
+            },
+            {
+              "id": 7860,
+              "string": "1\u0000\u0007I can't believe how easy it was to separataru the \u0001\u00053???? from its encumbrance!"
+            },
+            {
+              "id": 7862,
+              "string": "1\u0000\u0007Indeed, and I'll exercise the virtue-wirtue of charity by handing this over to you, \b."
+            },
+            {
+              "id": 7863,
+              "string": "1\u0000\u0007May the Goddess guide-wuide you back to Adoulin safely."
+            },
+            {
+              "id": 7866,
+              "string": "e!\u0000\u0007...It tears me apart inside, but no, he doesn't.\u0007I want to tell him so badly, but it would jeopardize-weopardize his trial."
+            },
+            {
+              "id": 7867,
+              "string": "1\u0000\u0007That's in part why Amchuchu assigned him to a Middle Lands survey team with the mission to ??engrave the weight of the populace into a rune.?? She didn't want us meetaruing by happenstance one day."
+            },
+            {
+              "id": 7869,
+              "string": "1\u0000\u0007I know, I know...\u0007Maybe forging Zurko's sword after I get back from this survey-wurvey will put my mind at ease. At least I'll be helping him, if only indirectaruly."
+            },
+            {
+              "id": 7870,
+              "string": "1\u0000\u0007...Haha.\u0007Amchuchu truly-wuly is always three moves ahead of us, isn't she?"
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "dialogue": [
+            {
+              "id": 7873,
+              "string": "1\u0000\u0007No? She didn't? Then forgetaru I said anything."
+            },
+            {
+              "id": 7876,
+              "string": "1\u0000\u0007Either way, it's good to see you, \b."
+            },
+            {
+              "id": 7877,
+              "string": "1\u0000\u0007I know why you're here, so let's cutaru to the chase."
+            },
+            {
+              "id": 7880,
+              "string": "1\u0000\u0007Equipment constructed with \u0001\u00055???? slowly wears over time, turning from state-of-the-art protection into worthless hunks of metal."
+            },
+            {
+              "id": 7883,
+              "string": "1\u0000\u0007My hypothesis was that infusing \u0001\u00055???? with elemental-wental energies would suffice."
+            },
+            {
+              "id": 7884,
+              "string": "1\u0000\u0007And so I gathered crystals of each of the elementarus and combined them one by one."
+            },
+            {
+              "id": 7886,
+              "string": "1\u0000\u0007At firstaru things seemed to be going swimmingly, but when I added crystals that were the polar opposite of the ones I put in first, the entire thing collapsed upon itself!"
+            },
+            {
+              "id": 7887,
+              "string": "1\u0000\u0007I'll need to tackle it from a differentaru angle, to be sure, but I've racked my brains without getting any closer to a solution."
+            },
+            {
+              "id": 7890,
+              "string": "1\u0000\u0007Still, I'll give you \u0001\u00056???? to take back, if for no other reason-weason than to prove that you actually did find me."
+            },
+            {
+              "id": 7892,
+              "string": "1\u0000\u0007Don't run off getting yourself killed-willed in the meantime."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900033,
+      "name": "???",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007Oho, I'd remember the face of the ?[man\/woman] who bested me anywhere. It's nice to see you again, \b."
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007If only Amchuchu had told me you were going to be here, I'd have brought my sparring sword."
+            },
+            {
+              "id": 7852,
+              "string": "1\u0000\u0007Is something wrong, Mikolulu? You sound a bit out of sorts..."
+            },
+            {
+              "id": 7855,
+              "string": "1\u0000\u0007Of course. It's no problem at all, and I'd love to help."
+            },
+            {
+              "id": 7861,
+              "string": "1\u0000\u0007It looks like everything turned out for the best! I guess the first virtue in a soldier truly is endurance of fatigue!"
+            },
+            {
+              "id": 7868,
+              "string": "1\u0000\u0007I realize you must feel terrible about this, Mikolulu, but I hardly think Amchuchu was happy making that decision, either. She loves each and every member of her coalition like children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900034,
+      "name": "",
+      "events": [
+        {
+          "id": 54,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900035,
+      "name": "Liseran Door: Exit",
+      "events": [
+        {
+          "id": 28,
+          "dialogue": [
+            {
+              "id": 7026,
+              "string": "1\u0000\u0007Leave?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900036,
+      "name": "Liseran Door: Exit",
+      "events": [
+        {
+          "id": 29,
+          "dialogue": [
+            {
+              "id": 7026,
+              "string": "1\u0000\u0007Leave?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900037,
+      "name": "",
+      "events": [
+        {
+          "id": 80,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007Teleportation protocols active. Proceed?\u0007\u000bNo.\u0007Take me to the entrance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900038,
+      "name": "",
+      "events": [
+        {
+          "id": 81,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007Teleportation protocols active. Proceed?\u0007\u000bNo.\u0007Take me to the entrance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900039,
+      "name": "",
+      "events": [
+        {
+          "id": 82,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007Teleportation protocols active. Proceed?\u0007\u000bNo.\u0007Take me to the entrance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900040,
+      "name": "",
+      "events": [
+        {
+          "id": 83,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007Teleportation protocols active. Proceed?\u0007\u000bNo.\u0007Take me to the entrance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900041,
+      "name": "Dummy",
+      "events": [
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900042,
+      "name": "Effigy of Sealing",
+      "events": [
+        {
+          "id": 52,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17900043,
+      "name": "Effigy of Sealing",
+      "events": [
+        {
+          "id": 53,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 5504,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5516,
+          "dialogue": [
+            {
+              "id": 7902,
+              "string": "1\u0000\u0007Your \u0001\u00053???? emits a strange pulse!"
+            },
+            {
+              "id": 7903,
+              "string": "1\u0000\u0007Now what?\u0007\u000bUse the \u0001\u00053????.\u0007Do nothing."
+            },
+            {
+              "id": 7913,
+              "string": "1\u0000\u0007Expend your \u0001\u00053???? and enter the obscured domain with your alliance members?"
+            },
+            {
+              "id": 7914,
+              "string": "1\u0000\u0007Proceed?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7744,
+              "string": "g.\u0000\u0007Your request for entry is being considered."
+            },
+            {
+              "id": 7741,
+              "string": "a.\u0000\u0007You cannot enter at this time. Please wait a moment and try agai"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007Now permeating the mists surrounding the \f\u0001[fracture\/obscured domain"
+            },
+            {
+              "id": 7741,
+              "string": "a.\u0000\u0007You cannot enter at this time. Please wait a moment and try agai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

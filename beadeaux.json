@@ -1,0 +1,1540 @@
+{
+  "id": 147,
+  "name": "Beadeaux",
+  "actors": [
+    {
+      "id": 17379793,
+      "name": "",
+      "events": [
+        {
+          "id": 151,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379795,
+      "name": "Naji",
+      "events": [
+        {
+          "id": 120,
+          "dialogue": [
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007All right! Come and get me, Coppers!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379796,
+      "name": "Ayame",
+      "events": [
+        {
+          "id": 120,
+          "dialogue": [
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Is everyone here, then?\u0007We are in Beadeaux, near the Quadav stronghold."
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007Our mission targets are the Copper Quadav, and only the Copper Quadav. We must eliminate twenty of them each, then retreat and regroup at the rendezvous point."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007We will disperse and attack from different sides to prevent the enemy from setting up an effective defense."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007As soon as you've achieved your mission goals, disengage and regroup in the Pashhow Marshlands, in the area just beyond this exit."
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007Do not follow his example, please...\u0007Let us begin. Good hunting!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379797,
+      "name": "Hani",
+      "events": [
+        {
+          "id": 120,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379798,
+      "name": "Dalzakk",
+      "events": [
+        {
+          "id": 120,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379799,
+      "name": "Zeid",
+      "events": [
+        {
+          "id": 121,
+          "dialogue": [
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007I see you have learned to bear the weight of that blade--it is the weight of the lives you have taken with it."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007It is up to you to choose whether or not you will walk down the bloody path of the dark knight. But it might be wise to confront your past, first, before you make your decision..."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007Your training to become a dark knight is already complete..."
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007As long as your blade craves for the souls of your enemies, our paths may cross again.\u0007Until then, farewell."
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "dialogue": [
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007I can see this place still lingers in your heart. Here is where it all began--where you set out on your journey as a Dark Knight."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007You've become stronger. However, you must never forget the souls of those that you have brought down with your mighty blade."
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007You have made many sacrifices to come this far. That is the road you have chosen, but also your sin."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007However, at the same time, one life cannot continue on without the loss of another. Denying this truth would mean the end of all life in Vana'diel. This vicious circle must continue on."
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007Does the sword you wield shine as dark as the purest ebony? Do you thirst for new challenges that lie ahead? If so, seek out and destroy Gerwitz's Scythe."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007The scythe will be making its way toward the place where crystals gather. It will replenish its power there and then set out to seek fresh blood."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007To prove your strength to Gerwitz's beast, seek out the blood of a beast worthy enough and take it to the place where crystals gather. There you can call him."
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007His beast is cautious and will not show itself to me. But to you...to you it may just..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379801,
+      "name": "The Afflictor",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379802,
+      "name": "The Afflictor",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379803,
+      "name": "The Afflictor",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379804,
+      "name": "The Afflictor",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379805,
+      "name": "The Afflictor",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379806,
+      "name": "The Afflictor",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379807,
+      "name": "The Mute",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379808,
+      "name": "The Mute",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379809,
+      "name": "The Mute",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379810,
+      "name": "The Mute",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379818,
+      "name": "Sliding Door",
+      "events": [
+        {
+          "id": 124,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379839,
+      "name": "Serafin",
+      "events": [
+        {
+          "id": 1000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379840,
+      "name": "Evrard",
+      "events": [
+        {
+          "id": 1000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379841,
+      "name": "Jail Door",
+      "events": [
+        {
+          "id": 1000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379842,
+      "name": "Treasure Chest",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17379844,
+      "name": "???",
+      "events": [
+        {
+          "id": 113,
+          "dialogue": [
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007A piece of parchment has been nailed here."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007Do you want to read it?\u0007\u000bYes.\u0007Not now."
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007Mrahcva dauqe htsi yekllec eht."
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007Vada uqons naem dnuos on."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379845,
+      "name": "Haggleblix",
+      "events": [
+        {
+          "id": 130,
+          "dialogue": [
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007Whaddaya want? You wanna talk to me? Well, I don't wanna talk to you until you got something I wanna hear. Take a hike, buddy."
+            }
+          ]
+        },
+        {
+          "id": 131,
+          "dialogue": [
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007?\u0001\u0001\u00053?????\u0007Didn't think I'd ever hear those words from someone who wasn't a Gob. You know some weird stuff, for a person."
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007There's a story that says some things have their own soul."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007The \u0001\u00055???? used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007Now we come to the fun part. If you want a \u0001\u00053????, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul."
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007They may look like garbage, but souled items are rare and valuable.\u0007You still want an hourglass, you gotta cough up \n\u0003 gil."
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007You want one, you hand me over the money.\u0007Like, with a quickness. So how's about it?"
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007What's that you got there? ?\u0001\u0001\u0001\u0001 \u0001\u0005$?????\u0007You're quite the collector for one o' your kind."
+            },
+            {
+              "id": 7397,
+              "string": "1\u0000\u0007It might just be a worthless piece o' junk for you, but it's priceless to us Gobs.\u0007If you want, I can take it off your hands for \n\u0001."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007I add to my collection, you get some pocket change. A win-win situation, right?\u0007So just trade that \u0001\u0005#???? on over, why don't ya?"
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "dialogue": [
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007I got a proposition for you. \u0007Before the Great War, a different currency was used in each of the three nations."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007But when gil became the coin of choice, all the other types of money were done away with. \u0007Now the old forms of currency are worthless to anyone besides a collector like me."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007You've never seen them before? \u0007Here, take a look at this."
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007This is the least valuable type. It was part of the currency of \f\u0007[Bastok\/Windurst].\u0007Since you were able to find out about the \u0001\u0005#????, I'm guessing you'll be able to get your hands on a few of these."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007The three nations all had their different types of money, but I'm only interested in the old currency of \f\u0007[Bastok\/Windurst].\u0007Collect enough of them and I'll trade you some other stuff I've got."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007One's not gonna be enough, though.\u0007You bring me \n\u0001 \u0001\t)???????? and I'll trade you a single \u0001\u0005#????. \u0007You don't look real interested, but hold up. I'm just getting started."
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007If you've got \n\u0001 \u0001\t)????????, I'll give you a \u0001\u0005#????. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however."
+            },
+            {
+              "id": 7539,
+              "string": "1\u0000\u0007I'll exchange you \n\u0002 \u0001\t)???????? for a \u0001\u0005#????. They're worth a bunch, so don't go giving 'em away."
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "dialogue": [
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007Hmm? Was there something you wanted to ask me?"
+            },
+            {
+              "id": 7428,
+              "string": "1\u0000\u0007What do you want to ask about?\u0007\u000bNothing.\u0007Hourglasses.\u0007Maps.\u0007Old currencies.\u0007Trading \u0001\u0005%????."
+            },
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007Old currencies?\u0007I was telling you about how the three nations all used to have different types of money. You remember, right?"
+            }
+          ]
+        },
+        {
+          "id": 134,
+          "dialogue": [
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth. \u0007I don't give discounts, but you're welcome back anytime."
+            }
+          ]
+        },
+        {
+          "id": 135,
+          "dialogue": [
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Lemme see here. Looks like you've brought me \n\u0001 \u0001\t)????????. A deal's a deal, so here's the \u0001\u0005#????."
+            }
+          ]
+        },
+        {
+          "id": 136,
+          "dialogue": [
+            {
+              "id": 7381,
+              "string": "1\u0000\u0007Whatcha got there? Looks like \n\u0001 \u0001\t)????????. Guess that means I gotta give you this \u0001\u0005#????."
+            }
+          ]
+        },
+        {
+          "id": 137,
+          "dialogue": [
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007Well, you make an old Gob smile, you do. Not many people hand over \n\u0001 \u0001\t)????????. Take this \u0001\u0005#???? and get outta here."
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Here's the list of stuff you can trade your \u0001\u0005%???? for."
+            },
+            {
+              "id": 7448,
+              "string": "1\u0000\u0007Which item will you look at?\u0007\u000bView next page.\u0007?\u0001\u0001\u0005#????: \n\u0000 ?\u0000[bill\/bills].\u0007?\u0001\u0001\u0005#????: \n\u0002 ?\u0002[bill\/bills].\u0007?\u0001\u0001\u0005#????: \n\u0004 ?\u0004[bill\/bills].\u0007?\u0001\u0001\u0005#????: \n\u0006 ?\u0006[bill\/bills].\u0007Nothing."
+            },
+            {
+              "id": 7449,
+              "string": "1\u0000\u0007Which item will you look at?\u0007\u000bView previous page.\u0007?\u0001\u0001\u0005#????: \n\u0000 ?\u0000[bill\/bills].\u0007?\u0001\u0001\u0005#????: \n\u0002 ?\u0002[bill\/bills].\u0007?\u0001\u0001\u0005#????: \n\u0004 ?\u0004[bill\/bills].\u0007Nothing."
+            },
+            {
+              "id": 7439,
+              "string": "1\u0000\u0007This is \u0001\u0001\u0001 \u0001\u0005$????.\u0007You want one, you're gonna have to bring me \n\u0002 \u0001\t)????????."
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007What do you want to ask about?\u0007\u000bNothing.\u0007Hourglasses."
+            },
+            {
+              "id": 7693,
+              "string": "d.\u0000\u0007Maps, ya say?\u0007Hah! Just like one o' your kind to need those dingy scraps o' parchment."
+            },
+            {
+              "id": 7695,
+              "string": "1\u0000\u0007Buy a map? (Current gil: \n\u000b).\u0007\u000bNot now.\u0007Dynamis - San d'Oria (\n\u0001).\u0007Dynamis - Bastok (\n\u0002).\u0007Dynamis - Windurst (\n\u0003).\u0007Dynamis - Jeuno (\n\u0004).\u0007Dynamis - Beaucedine (\n\u0005).\u0007Dynamis - Xarcabard (\n\u0006).\u0007Dynamis - Valkurm (\n\u0007).\u0007Dynamis - Buburimu (\n\b).\u0007Dynamis - Qufim (\n\t).\u0007Dynamis - Tavnazia (\n\n)."
+            },
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007Buy \u0001\u00056?????\u0007\u000bDeal!\u0007No deal."
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007There's a story that says some things have their own soul."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007The \u0001\u00055???? used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007Now we come to the fun part. If you want a \u0001\u00053????, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul."
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007They may look like garbage, but souled items are rare and valuable.\u0007You still want an hourglass, you gotta cough up \n\u0003 gil."
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007You want one, you hand me over the money.\u0007Like, with a quickness. So how's about it?"
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007What's that you got there? ?\u0001\u0001\u0001\u0001 \u0001\u0005$?????\u0007You're quite the collector for one o' your kind."
+            },
+            {
+              "id": 7397,
+              "string": "1\u0000\u0007It might just be a worthless piece o' junk for you, but it's priceless to us Gobs.\u0007If you want, I can take it off your hands for \n\u0001."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007I add to my collection, you get some pocket change. A win-win situation, right?\u0007So just trade that \u0001\u0005#???? on over, why don't ya?"
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007But when gil became the coin of choice, all the other types of money were done away with. \u0007Now the old forms of currency are worthless to anyone besides a collector like me."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007You've never seen them before? \u0007Here, take a look at this."
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007This is the least valuable type. It was part of the currency of \f\u0007[Bastok\/Windurst].\u0007Since you were able to find out about the \u0001\u0005#????, I'm guessing you'll be able to get your hands on a few of these."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007The three nations all had their different types of money, but I'm only interested in the old currency of \f\u0007[Bastok\/Windurst].\u0007Collect enough of them and I'll trade you some other stuff I've got."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007One's not gonna be enough, though.\u0007You bring me \n\u0001 \u0001\t)???????? and I'll trade you a single \u0001\u0005#????. \u0007You don't look real interested, but hold up. I'm just getting started."
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007If you've got \n\u0001 \u0001\t)????????, I'll give you a \u0001\u0005#????. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however."
+            },
+            {
+              "id": 7539,
+              "string": "1\u0000\u0007I'll exchange you \n\u0002 \u0001\t)???????? for a \u0001\u0005#????. They're worth a bunch, so don't go giving 'em away."
+            }
+          ]
+        },
+        {
+          "id": 138,
+          "dialogue": [
+            {
+              "id": 7541,
+              "string": "1\u0000\u0007Alrighty, \n\u0002 \u0001\t)???????? in exchange for your \u0001\u0005#????."
+            }
+          ]
+        },
+        {
+          "id": 152,
+          "dialogue": [
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth. \u0007I don't give discounts, but you're welcome back anytime."
+            }
+          ]
+        },
+        {
+          "id": 153,
+          "dialogue": [
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007Yeah, this is the real thing all right.\u0007You got some okay junk-collectin' skills for a person."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379846,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 123,
+          "dialogue": [
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7701,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7709,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Four Musketeers.\u0007Blade of Darkness.\u0007Blade of Evil.\u0007The Rescue.\u0007For the Birds."
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7712,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7713,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7703,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379848,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 139,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 140,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379849,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 141,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 142,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379850,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 143,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 144,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379851,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 145,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 146,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379852,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 147,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 148,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379853,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 149,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 150,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379854,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 139,
+          "dialogue": [
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7746,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7747,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7748,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 140,
+          "dialogue": [
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379855,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 141,
+          "dialogue": [
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7746,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7747,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7748,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 142,
+          "dialogue": [
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379856,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 143,
+          "dialogue": [
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7746,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7747,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7748,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 144,
+          "dialogue": [
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379857,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 145,
+          "dialogue": [
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7746,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7747,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7748,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 146,
+          "dialogue": [
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379858,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 147,
+          "dialogue": [
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7746,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7747,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7748,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 148,
+          "dialogue": [
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379859,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 149,
+          "dialogue": [
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7746,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7747,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7748,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 150,
+          "dialogue": [
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379860,
+      "name": "Ge'Fhu Yagudoeye",
+      "events": [
+        {
+          "id": 124,
+          "dialogue": [
+            {
+              "id": 7755,
+              "string": "1\u0000\u0007Hu-urr...!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379861,
+      "name": "Zeelozok",
+      "events": [
+        {
+          "id": 124,
+          "dialogue": [
+            {
+              "id": 7759,
+              "string": "1\u0000\u0007Quadav betrayer"
+            },
+            {
+              "id": 7760,
+              "string": "s!\u0000\u0007Promathia!\u0007Save your servan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379862,
+      "name": "???",
+      "events": [
+        {
+          "id": 124,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379863,
+      "name": "???",
+      "events": [
+        {
+          "id": 124,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379864,
+      "name": "???",
+      "events": [
+        {
+          "id": 124,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379865,
+      "name": "???",
+      "events": [
+        {
+          "id": 124,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379866,
+      "name": "???",
+      "events": [
+        {
+          "id": 124,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379869,
+      "name": "Geomantic Reservoir",
+      "events": [
+        {
+          "id": 15000,
+          "dialogue": [
+            {
+              "id": 7779,
+              "string": "1\u0000\u0007You are assaulted by an uncanny sensation."
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007The arcane energies begin to course within your veins."
+            },
+            {
+              "id": 7778,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7781,
+              "string": "1\u0000\u0007You feel a mystical warmth welling up inside you!"
+            }
+          ]
+        },
+        {
+          "id": 15002,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379870,
+      "name": "",
+      "events": [
+        {
+          "id": 15000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379871,
+      "name": "",
+      "events": [
+        {
+          "id": 15000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17379872,
+      "name": "Survival Guide",
+      "events": [
+        {
+          "id": 8500,
+          "dialogue": [
+            {
+              "id": 7786,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            }
+          ]
+        },
+        {
+          "id": 8501,
+          "dialogue": [
+            {
+              "id": 7786,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007You may change the way you select areas listed in ??Teleportation Assistance."
+            },
+            {
+              "id": 7801,
+              "string": "??\u0000\u0007Any changes to make?\u0007\u000bKeep course.\u0007Select by region.\u0007Select by content."
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007At the bottom of the page is a reminder. It perfunctorily states that you may receive \u0001\u0001\u0001 \u0001\u0005$???? once you have logged a total of \n\u0002 hours."
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007As per the custom noted within, you are eligible to receive \u0001\u0001\u0001 \u0001\u0005$???? for the \n\u0002 hour?\u0002[\/s] of fighting you've accrued."
+            },
+            {
+              "id": 7799,
+              "string": "1\u0000\u0007Accept the reward?\u0007\u000bYes, please.\u0007No, thanks."
+            },
+            {
+              "id": 6388,
+              "string": "1\u0000\u0007Obtained: ?\u0001\u0001\u0005#????."
+            },
+            {
+              "id": 6382,
+              "string": "1\u0000\u0007You cannot obtain the \u0001\u0005#????.\u0007Come back after sorting your inventory."
+            },
+            {
+              "id": 7788,
+              "string": "1\u0000\u0007The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Travel to which region?\u0007\u000bOn second thought, none.\u0007Select from amongst favorites.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 7803,
+              "string": "].\u0000\u0007\u000bNowhere for now.\u0007Select from amongst favorites.\u0007Original release areas.\u0007Rise of the Zilart areas.\u0007Chains of Promathia areas.\u0007Treasures of Aht Urhgan areas.\u0007Wings of the Goddess areas.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007Seekers of Adoulin areas."
+            },
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 7794,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7807,
+              "string": "].\u0000\u0007Your list of favorites is full. You must remove an existing entry to add new one"
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 7794,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 120,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 121,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 122,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

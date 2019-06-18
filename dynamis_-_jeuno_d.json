@@ -1,0 +1,24 @@
+{
+  "id": 297,
+  "name": "Dynamis - Jeuno [D]",
+  "actors": [
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 10000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

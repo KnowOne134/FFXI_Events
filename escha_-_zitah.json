@@ -1,0 +1,1558 @@
+{
+  "id": 288,
+  "name": "Escha - Zi'Tah",
+  "actors": [
+    {
+      "id": 17957418,
+      "name": "Grimslight",
+      "events": [
+        {
+          "id": 900,
+          "dialogue": [
+            {
+              "id": 7313,
+              "string": "s.\u0000\u0007You are unable to procure anythin"
+            },
+            {
+              "id": 7311,
+              "string": "s!\u0000\u0007You successfully procure \u0001\u0001\u0001 \u0001\u0005$???"
+            },
+            {
+              "id": 7310,
+              "string": "1\u0000\u0007Your \u0001\u00053???? break"
+            },
+            {
+              "id": 7312,
+              "string": "?!\u0000\u0007You procure \u0001\u0001\u0001 \u0001\u0005$????, but your \u0001\u00053???? breaks in the proces"
+            },
+            {
+              "id": 7314,
+              "string": "g.\u0000\u0007You cannot carry any more items. Your inventory is ful"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957427,
+      "name": "Grumblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007I travel......hear lots...\u0007Hear...stories... Can tell...if..."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007A Land After Time(pt.1).\u0007A Land After Time(pt.2)."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007.........listen......"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957429,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007?@?@ "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957430,
+      "name": "Iroha",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7386,
+              "string": "1\u0000\u0007This empty husk is void of anything that we could call nature."
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Zi'Tah...yes, I have run across that name several times before."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007Yes, it was when the master first visited Reisenjima."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007?[He\/She] said there was a sanctuary there, much like one in my homeland."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007Those chosen by the mothercrystal may enter a holy shrine deep within the Sanctuary to receive the protection of the Dawnmaidens."
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007I had envisioned it to be more bursting with splendor..."
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007I do not believe so."
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007If the coming Emptiness is to swallow the world, then I would be more inclined to believe that we are catching a glimpse of what that swallowed world would be like."
+            },
+            {
+              "id": 7398,
+              "string": "t?\u0000\u0007A...bell? But where...?"
+            },
+            {
+              "id": 7401,
+              "string": "e?\u0000\u0007Zeid\f\u0001[\/, Lion]! Please, stay with us!"
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007You were under its thrall."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007If the clamoring has ceased, then we may yet find respite."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Master, this may be the world we refer to as ??Escha.??"
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007I still have much to learn, but your words that day will always stay with me:"
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007??When the darkness first came, the Middle Lands were the first to be assaulted. Swaths of land were consumed, leaving a colorless landscape where life once thrived."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007??It marked the beginning of the end.??"
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007And that world, you said, was known as Escha."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007Yet the annals say that the Emptiness first started to appear many years hence."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007So why now? Why here?"
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007It could be that my returning to your time has placed a stick in the wheel of fate."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Has the darkness come with me?"
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007Though this may sound counterintuitive, I fear we must change the future if we are to save the past."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7386,
+              "string": "1\u0000\u0007This empty husk is void of anything that we could call nature."
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Zi'Tah...yes, I have run across that name several times before."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007Yes, it was when the master first visited Reisenjima."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007?[He\/She] said there was a sanctuary there, much like one in my homeland."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007Those chosen by the mothercrystal may enter a holy shrine deep within the Sanctuary to receive the protection of the Dawnmaidens."
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007I had envisioned it to be more bursting with splendor..."
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007I do not believe so."
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007If the coming Emptiness is to swallow the world, then I would be more inclined to believe that we are catching a glimpse of what that swallowed world would be like."
+            },
+            {
+              "id": 7398,
+              "string": "t?\u0000\u0007A...bell? But where...?"
+            },
+            {
+              "id": 7401,
+              "string": "e?\u0000\u0007Zeid\f\u0001[\/, Lion]! Please, stay with us!"
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007You were under its thrall."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007If the clamoring has ceased, then we may yet find respite."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Master, this may be the world we refer to as ??Escha.??"
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007I still have much to learn, but your words that day will always stay with me:"
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007??When the darkness first came, the Middle Lands were the first to be assaulted. Swaths of land were consumed, leaving a colorless landscape where life once thrived."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007??It marked the beginning of the end.??"
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007And that world, you said, was known as Escha."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007Yet the annals say that the Emptiness first started to appear many years hence."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007So why now? Why here?"
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007It could be that my returning to your time has placed a stick in the wheel of fate."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Has the darkness come with me?"
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007Though this may sound counterintuitive, I fear we must change the future if we are to save the past."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7386,
+              "string": "1\u0000\u0007This empty husk is void of anything that we could call nature."
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Zi'Tah...yes, I have run across that name several times before."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007Yes, it was when the master first visited Reisenjima."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007?[He\/She] said there was a sanctuary there, much like one in my homeland."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007Those chosen by the mothercrystal may enter a holy shrine deep within the Sanctuary to receive the protection of the Dawnmaidens."
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007I had envisioned it to be more bursting with splendor..."
+            },
+            {
+              "id": 7395,
+              "string": "1\u0000\u0007I do not believe so."
+            },
+            {
+              "id": 7396,
+              "string": "1\u0000\u0007If the coming Emptiness is to swallow the world, then I would be more inclined to believe that we are catching a glimpse of what that swallowed world would be like."
+            },
+            {
+              "id": 7398,
+              "string": "t?\u0000\u0007A...bell? But where...?"
+            },
+            {
+              "id": 7401,
+              "string": "e?\u0000\u0007Zeid\f\u0001[\/, Lion]! Please, stay with us!"
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007You were under its thrall."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007If the clamoring has ceased, then we may yet find respite."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Master, this may be the world we refer to as ??Escha.??"
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007I still have much to learn, but your words that day will always stay with me:"
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007??When the darkness first came, the Middle Lands were the first to be assaulted. Swaths of land were consumed, leaving a colorless landscape where life once thrived."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007??It marked the beginning of the end.??"
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007And that world, you said, was known as Escha."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007Yet the annals say that the Emptiness first started to appear many years hence."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007So why now? Why here?"
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007It could be that my returning to your time has placed a stick in the wheel of fate."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Has the darkness come with me?"
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007Though this may sound counterintuitive, I fear we must change the future if we are to save the past."
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Lady Lion!"
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Are you the one known as Zeid?"
+            },
+            {
+              "id": 7424,
+              "string": "1\u0000\u0007Have you any insight, Lion?"
+            },
+            {
+              "id": 7427,
+              "string": "t!\u0000\u0007I know not what role she has to play, but her intimate bond with the future is beyond denial."
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Where are we?"
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Are you the one known as Zeid?"
+            },
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007Master, perhaps Lion could provide us with the guidance that we so desperately require."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007My understanding is that none resonate with the mothercrystal more strongly than she."
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007Your role in protecting our future is vital, Master, but Lion is of equal importance."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007She is with the crystal now, is she not?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957431,
+      "name": "Lion",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007It gives me chills just thinking about it."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007It gives me chills just thinking about it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957432,
+      "name": "Zeid",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007The first thing I noticed about this place is its striking resemblance to the Sanctuary of Zi'Tah, located in northeastern Mindartia."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007Its layout and features resemble Zi'Tah, of that there can be no doubt. Yet the magic and warmth are gone, like we are in a different world entirely."
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007...Or is this the future?"
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007What if...history were being rewritten?"
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007You are right. That is rather difficult to wrap my head around."
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007Iroha, is there no way to purge this ??Escha?? from our land?"
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007Then only one path lies open to us: figure out what we can for ourselves."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007As if this land were not dangerous enough, now we have that unholy bell to contend with."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007The first thing I noticed about this place is its striking resemblance to the Sanctuary of Zi'Tah, located in northeastern Mindartia."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007Its layout and features resemble Zi'Tah, of that there can be no doubt. Yet the magic and warmth are gone, like we are in a different world entirely."
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007...Or is this the future?"
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007What if...history were being rewritten?"
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007You are right. That is rather difficult to wrap my head around."
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007Iroha, is there no way to purge this ??Escha?? from our land?"
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007Then only one path lies open to us: figure out what we can for ourselves."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007As if this land were not dangerous enough, now we have that unholy bell to contend with."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007The first thing I noticed about this place is its striking resemblance to the Sanctuary of Zi'Tah, located in northeastern Mindartia."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007Its layout and features resemble Zi'Tah, of that there can be no doubt. Yet the magic and warmth are gone, like we are in a different world entirely."
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007...Or is this the future?"
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007What if...history were being rewritten?"
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007You are right. That is rather difficult to wrap my head around."
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007Iroha, is there no way to purge this ??Escha?? from our land?"
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007Then only one path lies open to us: figure out what we can for ourselves."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007As if this land were not dangerous enough, now we have that unholy bell to contend with."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Don't let your guard down for a second. This may look like the Sanctuary of Zi'Tah, but it is not the one we know."
+            },
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007That is right. And you must be Iroha--Aldo has told me much about you."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007I knew I had to investigate as soon as I heard something was amiss."
+            },
+            {
+              "id": 7381,
+              "string": "1\u0000\u0007The Sanctuary of Zi'Tah...but not the one we know."
+            },
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007That is right. And you must be Iroha--Aldo has told me much about you."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007I knew I had to investigate as soon as I heard something was amiss."
+            },
+            {
+              "id": 7430,
+              "string": "1\u0000\u0007Lion?"
+            },
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007Iroha? Wait!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957433,
+      "name": "Undulating Confluence",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7037,
+              "string": "].\u0000\u0007Jump into the vortex?\u0007\u000bOff we go!\u0007Not just yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957435,
+      "name": "???",
+      "events": [
+        {
+          "id": 9200,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957436,
+      "name": "???",
+      "events": [
+        {
+          "id": 9201,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957437,
+      "name": "???",
+      "events": [
+        {
+          "id": 9202,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957438,
+      "name": "???",
+      "events": [
+        {
+          "id": 9203,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957439,
+      "name": "???",
+      "events": [
+        {
+          "id": 9204,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957440,
+      "name": "???",
+      "events": [
+        {
+          "id": 9205,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957441,
+      "name": "???",
+      "events": [
+        {
+          "id": 9206,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957442,
+      "name": "???",
+      "events": [
+        {
+          "id": 9207,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957443,
+      "name": "???",
+      "events": [
+        {
+          "id": 9208,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957444,
+      "name": "???",
+      "events": [
+        {
+          "id": 9209,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957445,
+      "name": "???",
+      "events": [
+        {
+          "id": 9210,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957446,
+      "name": "???",
+      "events": [
+        {
+          "id": 9211,
+          "dialogue": [
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Proffer which item?\u0007\u000bNone of these.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007Commence battle?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957447,
+      "name": "Affi",
+      "events": [
+        {
+          "id": 9700,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9701,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9702,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9703,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9704,
+          "dialogue": [
+            {
+              "id": 7445,
+              "string": "?.\u0000\u0007Soon as I set foot in this place I knew I was in fer a treat, but boy, word spreads fast to these adventurer types..."
+            },
+            {
+              "id": 7446,
+              "string": "1\u0000\u0007Urk... Me? I'm, uh...Affi. And what does an ugly mug like you call yerself?"
+            },
+            {
+              "id": 7447,
+              "string": "1\u0000\u0007\b? Bwahaha, a better adventurer's name I've never heard!"
+            },
+            {
+              "id": 7448,
+              "string": "1\u0000\u0007Surely you know what the Tenshodo is, \b? Well, they sent me off to what was supposed to be this Goddessfersaken land...but there's far more coin to make out here than I've imagined."
+            },
+            {
+              "id": 7449,
+              "string": "1\u0000\u0007So loosen up your purse strings, because I've got sundries aplenty!"
+            },
+            {
+              "id": 7450,
+              "string": "1\u0000\u0007Aye, I say ??coin to make,?? but that's a bit more metaphori-whatsit than physical. What I'm lookin' fer isn't gil, but a special substance known as ??escha silt.??"
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007Dun' worry if you don't have any on you right now. Just go bash some skulls in over yonder, and you'll surely be able to...procure some from the corpses of the fallen."
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Oho! If it isn't my favorite adventurer. What can I do fer you today?"
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Oho! If it isn't my favorite adventurer. What can I do fer you today?"
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Oho! If it isn't my favorite adventurer. What can I do fer you today?"
+            },
+            {
+              "id": 7552,
+              "string": "1\u0000\u0007Ah, \b, just the ?[guy\/girl] I wanna see. And ?[he\/she] couldn't have come at a better time!"
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007I just got orders from Norg to help put down a rather unusual monster that's \f\u0000[supposed to show up\/shown up] here in Escha."
+            },
+            {
+              "id": 7554,
+              "string": "1\u0000\u0007If yer headed down there to join the fight, I've got somethin' here yer gonna like!"
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Oho! If it isn't my favorite adventurer. What can I do fer you today?"
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007What would you like to do?\u0007\u000bNothing in particular.\u0007\f\u0000[Receive elvorseal\/Return elvorseal].\u0007Teleport to the target monster.\u0007Check area blessings.\u0007Receive key items.\u0007View grisly trinket notes.\u0007Receive vorseals.\u0007Return vorseals.\u0007Check vorseal effects.\u0007Receive temporary items.\u0007Hear various explanations."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007Everything's got a price, my fine friend, most of all information. Grease my palms with \n\u0000 pinches of escha silt and we'll do business."
+            },
+            {
+              "id": 7512,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7454,
+              "string": "1\u0000\u0007A pleasure. A bloomin' pleasure."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 7455,
+              "string": "1\u0000\u0007A bit big for our britches, aren't we? Then let me give you a little tip fer free--don't get killed."
+            },
+            {
+              "id": 7593,
+              "string": "1\u0000\u0007Oh right, the area blessings. No problemo, might wanna jot these down so ya remember."
+            },
+            {
+              "id": 7594,
+              "string": "1\u0000\u0007These are the blessings currently in effect throughout the area..."
+            },
+            {
+              "id": 7540,
+              "string": "1\u0000\u0007Which active blessing will you check?\u0007\u000bNone of them. Go back.\u0007Temperance.\u0007Fortitude.\u0007Piety.\u0007Justice.\u0007Hope.\u0007Wisdom.\u0007Compassion.\u0007Dignity.\u0007Loyalty.\u0007Mercy.\u0007Courage."
+            },
+            {
+              "id": 7541,
+              "string": "1\u0000\u0007Temperance: Reduces the silt cost of eschan portals."
+            },
+            {
+              "id": 7542,
+              "string": "1\u0000\u0007Fortitude: Increases the status effects of vorseals."
+            },
+            {
+              "id": 7543,
+              "string": "1\u0000\u0007Piety: Increases the effect duration of vorseals."
+            },
+            {
+              "id": 7544,
+              "string": "1\u0000\u0007Justice: Increases ??Treasure Hunter?? ability by 1."
+            },
+            {
+              "id": 7545,
+              "string": "1\u0000\u0007Hope: Increases the chances of an emblazoned reliquary appearing."
+            },
+            {
+              "id": 7546,
+              "string": "1\u0000\u0007Wisdom: Increases the effect duration of food."
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007Compassion: Increases the ??Refresh?? and ??Regen?? effects of vorseals."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007Dignity: Increases escha silt yields."
+            },
+            {
+              "id": 7549,
+              "string": "1\u0000\u0007Loyalty: Increases escha beads yields."
+            },
+            {
+              "id": 7550,
+              "string": "1\u0000\u0007Mercy: ?\u0002\u0001\u00055???? and \u0001\u00055???? have a chance of not being consumed."
+            },
+            {
+              "id": 7551,
+              "string": "1\u0000\u0007Courage: Increases the ??Rare enemy+?? effects of vorseals."
+            },
+            {
+              "id": 7537,
+              "string": "1\u0000\u0007Teleport to the target?\u0007\u000bI'm ready.\u0007Not quite yet."
+            },
+            {
+              "id": 7563,
+              "string": "1\u0000\u0007Aye, that's what I wanna hear! One ticket to dragon land, best o' luck!"
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007Hmph. Well come back and let me know when you?['ve grown a pair\/'re done playin' with yer dolls]."
+            },
+            {
+              "id": 7555,
+              "string": "1\u0000\u0007First things first, yer gonna need one o' these."
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007\f\u0000[You feel the warmth of the elvorseal's divine protection.\/The warmth of the elvorseal fades away.]"
+            },
+            {
+              "id": 7030,
+              "string": "e.\u0000\u0007Alter egos may be used here without any effect on enmit"
+            },
+            {
+              "id": 7556,
+              "string": "1\u0000\u0007Ya can have that one fer free!"
+            },
+            {
+              "id": 7557,
+              "string": "1\u0000\u0007Now there's a lot more to say about that elvorseal. Just ask if ya wanna hear more."
+            },
+            {
+              "id": 7559,
+              "string": "1\u0000\u0007With that elvorseal on ya, not only will ya be able to touch Azi Dahaka across the dimensional rift, but ya can teleport directly to 'im."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007Don' even ask me about dimensional rifts or how this thing works. Someone back at the Tenshodo tried to explain it to me, I was even payin' attention that time and I didn' get a lick of what he was sayin', so I doubt you'd do any better."
+            },
+            {
+              "id": 7561,
+              "string": "1\u0000\u0007If yer feelin' ready to take him on, I'll teleport ya there now. What'dya say?"
+            },
+            {
+              "id": 7558,
+              "string": "1\u0000\u0007What, you ain't gonna fight? Well I ain't gonna blame ya fer valuin' yer life, hah! I'll hold on to this fer now."
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007\f\u0000[You feel the warmth of the elvorseal's divine protection.\/The warmth of the elvorseal fades away.]"
+            },
+            {
+              "id": 7513,
+              "string": "1\u0000\u0007Choose which item? (silt: \n\u0000)\u0007\u000bNever mind.\u0007?\u0001\u0001\u00053????: \n\u0011 silt.\u0007?\u0001\u0001\u00053????: \n\u0012 silt.\u0007?\u0001\u0001\u00053????: \n\u0013 silt.\u0007?\u0001\u0001\u00053????: \n\u0014 silt.\u0007?\u0001\u0001\u00053????: \n\u0015 silt.\u0007?\u0001\u0001\u00053????: \n\u0016 silt.\u0007?\u0001\u0001\u00053????: \n\u0017 silt.\u0007?\u0001\u0001\u00053????: \n\u0018 silt.\u0007?\u0001\u0001\u00053????: \n\u0019 silt.\u0007?\u0001\u0001\u00053????: \n\u001a silt.\u0007?\u0001\u0001\u00053????: \n\u001b silt.\u0007?\u0001\u0001\u00053????: \n\u001c silt.\u0007?\u0001\u0001\u00053????: \n\u001d silt.\u0007?\u0001\u0001\u00053????: \n\u001e silt.\u0007?\u0001\u0001\u00053????: \n\u001f silt.\u0007?\u0001\u0001\u00053????: \n  silt.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? will run you \n\u0001 silt."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 6391,
+              "string": "l.\u0000\u0007Obtained key item: ?\u0001\u0001\u00053????."
+            },
+            {
+              "id": 7508,
+              "string": "1\u0000\u0007They can be used to procure all manner of stuff from the grimslights scattered around Escha."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? will run you \n\u0001 silt."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007Get a gander o' these reapers!"
+            },
+            {
+              "id": 6391,
+              "string": "l.\u0000\u0007Obtained key item: ?\u0001\u0001\u00053????."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? will run you \n\u0001 silt."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 6391,
+              "string": "l.\u0000\u0007Obtained key item: ?\u0001\u0001\u00053????."
+            },
+            {
+              "id": 7510,
+              "string": "1\u0000\u0007Nothin's more important than storage! Wi' one of these beauties ya can carry more silt an' beads."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? will run you \n\u0001 silt."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 7509,
+              "string": "1\u0000\u0007Hoho, bet yer happy now that you ain't got escha silt and beads pourin' out o' yer pockets anymore!"
+            },
+            {
+              "id": 6391,
+              "string": "l.\u0000\u0007Obtained key item: ?\u0001\u0001\u00053????."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? will run you \n\u0001 silt."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 6391,
+              "string": "l.\u0000\u0007Obtained key item: ?\u0001\u0001\u00053????."
+            },
+            {
+              "id": 7510,
+              "string": "1\u0000\u0007Nothin's more important than storage! Wi' one of these beauties ya can carry more silt an' beads."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? will run you \n\u0001 silt."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 7509,
+              "string": "1\u0000\u0007Hoho, bet yer happy now that you ain't got escha silt and beads pourin' out o' yer pockets anymore!"
+            },
+            {
+              "id": 6391,
+              "string": "l.\u0000\u0007Obtained key item: ?\u0001\u0001\u00053????."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? will run you \n\u0001 silt."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 6391,
+              "string": "l.\u0000\u0007Obtained key item: ?\u0001\u0001\u00053????."
+            },
+            {
+              "id": 7510,
+              "string": "1\u0000\u0007Nothin's more important than storage! Wi' one of these beauties ya can carry more silt an' beads."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? will run you \n\u0001 silt."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 7509,
+              "string": "1\u0000\u0007Hoho, bet yer happy now that you ain't got escha silt and beads pourin' out o' yer pockets anymore!"
+            },
+            {
+              "id": 6391,
+              "string": "l.\u0000\u0007Obtained key item: ?\u0001\u0001\u00053????."
+            },
+            {
+              "id": 7635,
+              "string": "1\u0000\u0007Now this here works jus' like a \u0001\u00053????; it lets ya draw out the particularly nasty breeds o' monsters that lurk 'round here."
+            },
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007But here's the thing. This baby don't disappear after just one use. Instead, its effects'll last up to one hour, or until you leave Escha."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? will run you \n\u0001 silt."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007Always a pleasure doin' business with ya! Don't forget ta grab a grisly trinket, too!"
+            },
+            {
+              "id": 6391,
+              "string": "l.\u0000\u0007Obtained key item: ?\u0001\u0001\u00053????."
+            },
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007This thing here? It'll keep all those rarer, larger beasties away from ya."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? will run you \n\u0001 silt."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 7634,
+              "string": "1\u0000\u0007The effect'll only last while yer here in Escha, so keep that in mind!"
+            },
+            {
+              "id": 6391,
+              "string": "l.\u0000\u0007Obtained key item: ?\u0001\u0001\u00053????."
+            },
+            {
+              "id": 7515,
+              "string": "1\u0000\u0007View which item?\u0007\u000bNone.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007?\u0001\u0001\u00053????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7518,
+              "string": "1\u0000\u0007\u0001\u00053???? requires the following items."
+            },
+            {
+              "id": 7517,
+              "string": "1\u0000\u0007\n\u0001 \u0001\t)????????."
+            },
+            {
+              "id": 7518,
+              "string": "1\u0000\u0007\u0001\u00053???? requires the following items."
+            },
+            {
+              "id": 7517,
+              "string": "1\u0000\u0007\n\u0001 \u0001\t)????????."
+            },
+            {
+              "id": 7521,
+              "string": "1\u0000\u0007Which do you choose? (\n\u0000 silt)\u0007\u000bNo vorseals for now.\u0007\f![HP+, MP+\/Regen+]: \n\u0001\/\n\u0011.\u0007\f![Acc.+, Eva.+\/Refresh+]: \n\u0002\/\n\u0012.\u0007\f![DEF+\/Acc.++]: \n\u0003\/\n\u0013.\u0007\f![Atk.+, Rng. Atk.+\/]: \n\u0004\/\n\u0014.\u0007\f![Mag. Acc.+, Mag. Eva.+\/]: \n\u0005\/\n\u0015.\u0007\f![Mag. Def.+\/]: \n\u0006\/\n\u0016.\u0007\f![Mag. Atk.+\/]: \n\u0007\/\n\u0017.\u0007\f![DEX+, AGI+\/]: \n\b\/\n\u0018.\u0007\f![STR+, VIT+\/]: \n\t\/\n\u0019.\u0007\f![INT+, MND+, CHR+\/]: \n\n\/\n\u001a.\u0007\f![Occ. ignore damage\/]: \n\u000b\/\n\u001b.\u0007\f![Killer+\/]: \n\f\/\n\u001c.\u0007\f![Dmg. Taken-\/]: \n\r\/\n\u001d.\u0007\f![Spoils+\/]: \n\u000e\/\n\u001e.\u0007\f![Rare Enemy+\/]: \n\u000f\/\n\u001f.\u0007\f![Luck+\/]: \n\u0010\/\n .\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7522,
+              "string": "1\u0000\u0007How many would you like? (\n\u0000 silt)\u0007\u000bNone for now.\u0007\n\u0001 seal?\u0001[\/s]: \n\u0011 silt.\u0007\n\u0002 seal?\u0002[\/s]: \n\u0012 silt.\u0007\n\u0003 seal?\u0003[\/s]: \n\u0013 silt.\u0007\n\u0004 seal?\u0004[\/s]: \n\u0014 silt.\u0007\n\u0005 seal?\u0005[\/s]: \n\u0015 silt.\u0007\n\u0006 seal?\u0006[\/s]: \n\u0016 silt.\u0007\n\u0007 seal?\u0007[\/s]: \n\u0017 silt.\u0007\n\b seal?\b[\/s]: \n\u0018 silt.\u0007\n\t seal?\t[\/s]: \n\u0019 silt.\u0007\n\n seal?\n[\/s]: \n\u001a silt.\u0007\n\u000b seal?\u000b[\/s]: \n\u001b silt.\u0007\n\f seal?\f[\/s]: \n\u001c silt.\u0007\n\r seal?\r[\/s]: \n\u001d silt.\u0007\n\u000e seal?\u000e[\/s]: \n\u001e silt.\u0007\n\u000f seal?\u000f[\/s]: \n\u001f silt.\u0007\n\u0010 seal?\u0010[\/s]: \n  silt.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7459,
+              "string": "1\u0000\u0007Always good doin' business with you, \b."
+            },
+            {
+              "id": 7524,
+              "string": "1\u0000\u0007The vorseal begins to pulse a vibrant blue!"
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 7525,
+              "string": "1\u0000\u0007Return which vorseal?\u0007\u000bNone of these.\u0007\f![HP+, MP+\/Regen+]: \n\u0001.\u0007\f![Acc.+, Eva.+\/Refresh+]: \n\u0002.\u0007\f![Def.+\/]: \n\u0003.\u0007\f![Atk.+, Rng. Atk.+\/]: \n\u0004.\u0007\f![Mag. Acc.+, Mag. Eva.+\/]: \n\u0005.\u0007\f![Mag. Def.+\/]: \n\u0006.\u0007\f![Mag. Atk.+\/]: \n\u0007.\u0007\f![DEX+, AGI+\/]: \n\b.\u0007\f![STR+, VIT+\/]: \n\t.\u0007\f![INT+, MND+, CHR+\/]: \n\n.\u0007\f![Occ. ignore damage\/]: \n\u000b.\u0007\f![Killer+\/]: \n\f.\u0007\f![Dmg. taken -\/]: \n\r.\u0007\f![Spoils+\/]: \n\u000e.\u0007\f![Rare Enemy+\/]: \n\u000f.\u0007\f![Luck+\/]: \n\u0010.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7460,
+              "string": "1\u0000\u0007Now don' get me wrong--I'm more'n happy to take that vorseal off you. Just don't come cryin' because its powers have faded away!"
+            },
+            {
+              "id": 7461,
+              "string": "1\u0000\u0007And if you want it back, well...it'll cost you. Business is business."
+            },
+            {
+              "id": 7526,
+              "string": "1\u0000\u0007Return the vorseal?\u0007\u000bHere you go.\u0007No. I still need it."
+            },
+            {
+              "id": 7527,
+              "string": "1\u0000\u0007You feel the vorseal's energy fade away."
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007Wanna know which seals you've got on you? Hmm...let's see..."
+            },
+            {
+              "id": 7528,
+              "string": "1\u0000\u0007HP+, MP+: \n\u0000 seal?\u0000[\/s].\u0007Acc.+, Eva.+: \n\u0001 seal?\u0001[\/s].\u0007Def.+: \n\u0002 seal?\u0002[\/s].\u0007Atk.+, Rng. Atk.+: \n\u0003 seal?\u0003[\/s]."
+            },
+            {
+              "id": 7529,
+              "string": "1\u0000\u0007Mag. Atk, Mag. Eva.: \n\u0000 seal?\u0000[\/s].\u0007Mag. Def.+: \n\u0001 seal?\u0001[\/s].\u0007Mag. Atk.+: \n\u0002 seal?\u0002[\/s].\u0007DEX+, AGI+: \n\u0003 seal?\u0003[\/s]."
+            },
+            {
+              "id": 7530,
+              "string": "1\u0000\u0007STR+, VIT+: \n\u0000 seal?\u0000[\/s].\u0007INT+, MND+, CHR+: \n\u0001 seal?\u0001[\/s].\u0007Occ. ignore damage: \n\u0002 seal?\u0002[\/s].\u0007Killer+: \n\u0003 seal?\u0003[\/s]."
+            },
+            {
+              "id": 7531,
+              "string": "1\u0000\u0007Dmg. taken-: \n\u0000 seal?\u0000[\/s].\u0007Rare enemy+: \n\u0002 seal?\u0002[\/s].\u0007Luck+: \n\u0003 seal?\u0003[\/s]."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Pay silt? (current silt: \n\u0000)\u0007\u000bYes. (pay \n\u0001 silt)\u0007Maybe not."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007What kinda dunce do you take me fer? That's not nearly enough silt!"
+            },
+            {
+              "id": 7454,
+              "string": "1\u0000\u0007A pleasure. A bloomin' pleasure."
+            },
+            {
+              "id": 7454,
+              "string": "1\u0000\u0007A pleasure. A bloomin' pleasure."
+            },
+            {
+              "id": 7454,
+              "string": "1\u0000\u0007A pleasure. A bloomin' pleasure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17957448,
+      "name": "Register of Deeds",
+      "events": [
+        {
+          "id": 9708,
+          "dialogue": [
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007What will you verify?\u0007\u000bNothing for now.\u0007Notorious monsters defeated.\u0007Victory tallies."
+            },
+            {
+              "id": 7642,
+              "string": "1\u0000\u0007Monsters Defeated in Escha - Zi'Tah.\u0007\u000bGo back.\u0007Wepwawet. \f\u0000[\/?y???z]\u0007Lustful Lydia. \f\u0001[\/?y???z]\u0007Aglaophotis. \f\u0002[\/?y???z]\u0007Tangata Manu. \f\u0003[\/?y???z]\u0007Vidala. \f\u0004[\/?y???z]\u0007Gestalt. \f\u0005[\/?y???z]\u0007Angrboda. \f\u0006[\/?y???z]\u0007Cunnast. \f\u0007[\/?y???z]\u0007Revetaur. \f\b[\/?y???z]\u0007Ferrodon. \f\t[\/?y???z]\u0007Gulltop. \f\n[\/?y???z]\u0007Vyala. \f\u000b[\/?y???z]\u0007Ionos. \f\u0012[\/?y???z]\u0007Sensual Sandy. \f\u0013[\/?y???z]\u0007Nosoi. \f\u0014[\/?y???z]\u0007Brittlis. \f\u0015[\/?y???z]\u0007Kamohoalii. \f\u0016[\/?y???z]\u0007Umdhlebi. \f\u0017[\/?y???z]\u0007Fleetstalker. \f\u0018[\/?y???z]\u0007Shockmaw. \f\u0019[\/?y???z]\u0007Urmahlullu. \f\u001a[\/?y???z]\u0007Next Page."
+            },
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007Monsters Defeated in Escha - Zi'Tah.\u0007\u000bGo back.\u0007Blazewing. \f\f[\/?y???z]\u0007Bucca\/Puca\/Alpluachra. \f\r[\/?y???z]\u0007Pazuzu. \f\u0010[\/?y???z]\u0007Wrathare. \f\u0011[\/?y???z]\u0007Previous page."
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007Escha and Reisenjima Victory Tallies:\u0007\u000bGo back.\u0007Monsters defeated: \n\u0001.\u0007Notorious monsters defeated: \n\u0002.\u0007Defeated Azi Dahaka \n\u0003 time?\u0003[\/s]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 9100,
+          "dialogue": [
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007Light begins to shimmer and twist as you pass your hand over it."
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007The blinding light obscures your vision of the world beyond."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007The blinding light obscures your vision of the world beyond."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007The blinding light obscures your vision of the world beyond."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond."
+            },
+            {
+              "id": 7442,
+              "string": "1\u0000\u0007What do you do?\u0007\u000bNothing for now.\u0007Use escha silt.\u0007Teleport using \u0001\u0001\u0001 \u0001\u0005$????.\u0007Teleport using \u0001\u00056????."
+            },
+            {
+              "id": 7440,
+              "string": "1\u0000\u0007Traverse the light? (\n\u0000 silt)\u0007\u000bLet's do it. (\n\u0001 silt)\u0007Do not go into the light!"
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007You do not have enough escha silt."
+            },
+            {
+              "id": 7443,
+              "string": "1\u0000\u0007Traverse the light?\u0007\u000bLet's do this.\u0007No, wait!"
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007You do not have enough escha silt."
+            },
+            {
+              "id": 7443,
+              "string": "1\u0000\u0007Traverse the light?\u0007\u000bLet's do this.\u0007No, wait!"
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007You do not have enough escha silt."
+            }
+          ]
+        },
+        {
+          "id": 9101,
+          "dialogue": [
+            {
+              "id": 7443,
+              "string": "1\u0000\u0007Traverse the light?\u0007\u000bLet's do this.\u0007No, wait!"
+            }
+          ]
+        },
+        {
+          "id": 9250,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9251,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9252,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

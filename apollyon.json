@@ -1,0 +1,544 @@
+{
+  "id": 38,
+  "name": "Apollyon",
+  "actors": [
+    {
+      "id": 16933202,
+      "name": "Sentinel Column",
+      "events": [
+        {
+          "id": 220,
+          "dialogue": [
+            {
+              "id": 7546,
+              "string": "1\u0000\u0007Check the status of which area?\u0007\u000bNone.\u0007SW Apollyon.\u0007NW Apollyon.\u0007SE Apollyon.\u0007NE Apollyon.\u0007Central Apollyon.\u0007CS Apollyon.\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16933203,
+      "name": "Sentinel Column",
+      "events": [
+        {
+          "id": 221,
+          "dialogue": [
+            {
+              "id": 7546,
+              "string": "1\u0000\u0007Check the status of which area?\u0007\u000bNone.\u0007SW Apollyon.\u0007NW Apollyon.\u0007SE Apollyon.\u0007NE Apollyon.\u0007Central Apollyon.\u0007CS Apollyon.\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007There are currently no alliances in that area."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007The alliance currently in that area has \n\u0000 ?\u0000[minute\/minutes] left in Apollyon.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16933208,
+      "name": "",
+      "events": [
+        {
+          "id": 222,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16933242,
+      "name": "Radiant Aureole",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16933243,
+      "name": "Radiant Aureole",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Leave Apollyon?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007Leave Apollyon?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 200,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 201,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 206,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 209,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 210,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 211,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 212,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 213,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 214,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 215,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 216,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 217,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 219,
+          "dialogue": [
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Enter the vortex?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7538,
+              "string": "].\u0000\u0007Enter which part of Apollyon?\u0007\u000bNone.\u0007SW Apollyon.\u0007NW Apollyon.\u0007SE Apollyon.\u0007NE Apollyon.\u0007Central Apollyon.\u0007CS Apollyon.\u0007CS Apollyon II.\u0007Central Apollyon II.\u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 "
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter Limbus?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter Limbus?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter Limbus?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7061,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7062,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7063,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7064,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7065,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7066,
+              "string": "1\u0000\u0007You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u0001"
+            },
+            {
+              "id": 7073,
+              "string": "1\u0000\u0007You have not fulfilled the requirements to enter Limbus."
+            },
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007Only \n\u0003 party members have clearance to enter Limbus. The area has reached capacity."
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007You cannot enter. Your settings differ from those who have already entered."
+            },
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7052,
+              "string": "1\u0000\u0007You cannot enter Limbus at present.\u0007Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7346,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter Limbus?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7050,
+              "string": "1\u0000\u0007Exit Limbus?\u0007\u000bYes.\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3270 @@
+{
+  "id": 281,
+  "name": "Leafallia",
+  "actors": [
+    {
+      "id": 17928207,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928208,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 21,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928209,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 22,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928210,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 23,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928211,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928212,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 25,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928213,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 26,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928214,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928215,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 28,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928216,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 29,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928217,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928218,
+      "name": "Meandering Leafkin",
+      "events": [
+        {
+          "id": 31,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928221,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007Is that true?\u0007\u000bYes. It was out of concern.\u0007No. I didn't feel like it."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928222,
+      "name": "Arciela",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7327,
+              "string": "1\u0000\u0007I suppose I should thank you..."
+            },
+            {
+              "id": 7328,
+              "string": "1\u0000\u0007...but I really wish you had told me anyway."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007\b, why are you being so mean!?"
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007That's not like you. I know it."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Please! Calm down and listen to what we have to say!"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007We're going to restore the World Tree, and we want you to witness it."
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007So I told him he could come along."
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007...Minister Melvien?"
+            },
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007What would bring you to Kamihr...?"
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007Melvien, about that book..."
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007Well...he serves in Adoulin as the minister of finance..."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007We're ready."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007Look, \b...it's really true."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007Thank goodness..."
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007At least there's something to...be thankful...for..."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007...!"
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007This should prevent Hades from rising up again."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007But..."
+            },
+            {
+              "id": 7440,
+              "string": "1\u0000\u0007...Okay."
+            },
+            {
+              "id": 7446,
+              "string": "1\u0000\u0007...You're right! I can, and I must!"
+            },
+            {
+              "id": 7448,
+              "string": "1\u0000\u0007Morimar...thank you."
+            },
+            {
+              "id": 7450,
+              "string": "1\u0000\u0007Mere words are not enough."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007Hmm...Morimar's not here. I wonder where he could..."
+            },
+            {
+              "id": 7461,
+              "string": "1\u0000\u0007Nicewoman? I...suppose?"
+            },
+            {
+              "id": 7464,
+              "string": "1\u0000\u0007At the peak of the mountain?"
+            },
+            {
+              "id": 7465,
+              "string": "1\u0000\u0007Aha, with Sajj'aka!"
+            },
+            {
+              "id": 7466,
+              "string": "1\u0000\u0007Thank you for letting us know."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007C'mon, \b!"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007Then it really was the World Tree that protected us these long years."
+            },
+            {
+              "id": 7499,
+              "string": "1\u0000\u0007How can we hope to fight against such an abomination?"
+            },
+            {
+              "id": 7501,
+              "string": "1\u0000\u0007How would it...?"
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007I had completely forgotten--!"
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007So we use the flowers to--"
+            },
+            {
+              "id": 7512,
+              "string": "1\u0000\u0007I'll do it!"
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007I'll go on back, \b. I know you and Morimar can handle it."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7545,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 7547,
+              "string": "1\u0000\u0007Morimar. Darrcuiln."
+            },
+            {
+              "id": 7548,
+              "string": "1\u0000\u0007And \b. Tell me, just where were you off to?"
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007I won't let you off so easy!"
+            },
+            {
+              "id": 7561,
+              "string": "1\u0000\u0007You have to promise never to leave me behind again!"
+            },
+            {
+              "id": 7563,
+              "string": "1\u0000\u0007Ahem! I can't hear you!"
+            },
+            {
+              "id": 7564,
+              "string": "1\u0000\u0007I'm going to hold you to that! If you try again, I'll follow right on your tail anyway!"
+            },
+            {
+              "id": 7569,
+              "string": "1\u0000\u0007Balamor!?"
+            },
+            {
+              "id": 7446,
+              "string": "1\u0000\u0007...You're right! I can, and I must!"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928223,
+      "name": "Heroic Footprints",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928224,
+      "name": "Morimar",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7310,
+              "string": "4\u0001\u0000\u0007So ya made it, after all."
+            },
+            {
+              "id": 7311,
+              "string": "1\u0000\u0007Sometimes the truth is right under yer nose, and ya just don't know it. We thought this place was destroyed and buried centuries ago."
+            },
+            {
+              "id": 7312,
+              "string": "1\u0000\u0007This is Leafallia, the sacred home of the leafkin...and the site where the World Tree was first planted."
+            },
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007To think that we're actually here!"
+            },
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007I know you're itchin' to get started, but we've got to wait for Darrcuiln to bring your princess."
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007How's 'bout takin' a look around while ya wait?"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Glad you could make it."
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007That's why ?[he\/she] didn't tell ya."
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007Graaah, ya lunkheads need to clam up before I get angry!"
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007We're tryin' to make the World Tree whole again, and the lot of ya are just gettin' in the way!"
+            },
+            {
+              "id": 7343,
+              "string": "1\u0000\u0007Oh, come on! What would she possibly have to gain from lyin'?"
+            },
+            {
+              "id": 7344,
+              "string": "1\u0000\u0007Arciela, don't worry about them. They listen about as well as a berserk Goblin."
+            },
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007<Sigh> See what I mean? For a bunch of bodiless spirits, they sure act up like little kids."
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007So this is the stubborn Ygnas?\u0007Bwahaha! Look at the sheen on those verdant leaves. How many gardeners does it take to keep you so perfectly pruned?"
+            },
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007Oh ho, I meant no offense. He just looks so...regal."
+            },
+            {
+              "id": 7355,
+              "string": "1\u0000\u0007When will you ever...\u0007<Sigh> There's so little mirth in the world. Can't you allow me just one joke?"
+            },
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007Who goes there?"
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007And the dangers of the forest didn't worry ya?"
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007I like this one! Reminds me of ya, princess, with how yer always trekking about without a care in the world."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007This is a sacred land, called Leafallia. If yer lookin' for history, then ya've found it!"
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007That's the World Tree...look at what's happened to it."
+            },
+            {
+              "id": 7404,
+              "string": "h!\u0000\u0007\b, did he get ya, too?"
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Bwahaha, those are some reflexes ya've got there!"
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007Bwahaha, I bet ya have, Middle Land adventurer!"
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007Me? I'll be fine. Merely a flesh wound, and it takes more than that to bring me down!"
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007At least Rosulatia's safe."
+            },
+            {
+              "id": 7419,
+              "string": "1\u0000\u0007I heard what happened--ya tried to protect her from harm."
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007That bluster about hatin' people was just a front, wasn't it?"
+            },
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007The fabric of life is a strange thing, princess. When one thread ends, another begins. I'm sure ya'll be able to thank him someday..."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007But if ya need to cry now, then let it all out."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007This's probably not something ya want to hear, but...\u0007Yer gonna have to report his death to the castle."
+            },
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007He's not some homeless beggar no one would miss. His disappearance'll cause questions."
+            },
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007First the king falls ill and is bedridden, next a minister disappears...people will be up in arms. ??It's the curse! It's the curse!??"
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007But if people know he's dead, there'll just be normal internal strife. It won't be pleasant, but certainly better'n the alternative."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007There's no need to tell everyone the nitty-gritty. I'll find some way to dispose of the body myself."
+            },
+            {
+              "id": 7439,
+              "string": "1\u0000\u0007All you need to say is that you saw him in Kamihr Drifts."
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007That dull attitude won't move the hearts of Adoulin! With Ygnas as he is, the people will turn to you for leadership."
+            },
+            {
+              "id": 7442,
+              "string": "1\u0000\u0007Adoulin wouldn't be the first nation ruled by a woman, nor would it be the last."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007I'll handle the cleanup. Ya gotta go back to Adoulin with Arciela."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007What're ya doin' back here? I don't recall puttin' out a signal."
+            },
+            {
+              "id": 7454,
+              "string": "1\u0000\u0007Ya've already spread the news, right? Then it's only a matter of time before they find the body."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7455,
+              "string": "1\u0000\u0007The princess'll need yer help now more than ever. Make sure she stays on the right path--for Adoulin's sake."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007I know you're itchin' to get started, but we've got to wait for Darrcuiln to bring your princess."
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007How's 'bout takin' a look around while ya wait?"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7481,
+              "string": "1\u0000\u0007As we always suspected."
+            },
+            {
+              "id": 7494,
+              "string": "1\u0000\u0007If ya approach it like any old foray, maggots'll be peelin' your skin off the walls."
+            },
+            {
+              "id": 7495,
+              "string": "1\u0000\u0007The predecessors of what you call the twelve orders...over half of 'em gave their lives just to contain the threat."
+            },
+            {
+              "id": 7498,
+              "string": "1\u0000\u0007Dhokmak might be the worst. The Zoldeff River over in Foret de Hennetiel wasn't always so noxious. Where his hand touched, the water stagnated and festered."
+            },
+            {
+              "id": 7500,
+              "string": "1\u0000\u0007Nature has a way of fightin' back, and so do we. Even now, it struggles against the poison, and utilizes its potency to fight."
+            },
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007Think."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007\u0001\u00055????.\u0007In its own twisted way, the jungle has wrought life from the grip of death."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007Those plants've held on for centuries, never once succumbing."
+            },
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007The secret ta resisting Dhokmak's corruption lies there."
+            },
+            {
+              "id": 7508,
+              "string": "1\u0000\u0007Ya got it."
+            },
+            {
+              "id": 7509,
+              "string": "1\u0000\u0007That'll be yer task. Gather as many as ya can so we can figure out how best ta use 'em."
+            },
+            {
+              "id": 7510,
+              "string": "1\u0000\u0007\b and I have other stuff ta be doin'."
+            },
+            {
+              "id": 7511,
+              "string": "1\u0000\u0007And as we don't have the manpower ta do it ourselves..."
+            },
+            {
+              "id": 7513,
+              "string": "1\u0000\u0007Thanks, Princess. We're countin' on ya."
+            },
+            {
+              "id": 7519,
+              "string": "1\u0000\u0007You got bricks fer brains?"
+            },
+            {
+              "id": 7521,
+              "string": "1\u0000\u0007We gotta put them down 'fore she figures it out, or she'll be furious with us."
+            },
+            {
+              "id": 7523,
+              "string": "1\u0000\u0007I know your little leafkin Ygnas is chompin' at the bit, too..."
+            },
+            {
+              "id": 7524,
+              "string": "1\u0000\u0007...but we can't let the city's most vital figures perish now, like they did then."
+            },
+            {
+              "id": 7526,
+              "string": "1\u0000\u0007And, well...what can I say?"
+            },
+            {
+              "id": 7527,
+              "string": "1\u0000\u0007I've got a soft spot fer that young'un."
+            },
+            {
+              "id": 7528,
+              "string": "1\u0000\u0007One time, when she was a bit younger, she got lost in the woods and I sat by her side as she slept, keepin' her safe."
+            },
+            {
+              "id": 7531,
+              "string": "1\u0000\u0007That's how Darrcuiln and I met her."
+            },
+            {
+              "id": 7532,
+              "string": "1\u0000\u0007Heh. It wasn't for terribly long, but I'd never dealt with children before. We were in over our heads, weren't we, Darrcuiln?"
+            },
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007When we said our goodbyes, I asked a few someones I knew ta make her forget about our meetin'--and forget she did."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Haha, they complained the whole time, but sure did their job well."
+            },
+            {
+              "id": 7537,
+              "string": "1\u0000\u0007Well, then, we'd better get started."
+            },
+            {
+              "id": 7539,
+              "string": "1\u0000\u0007I'll head ta Yorcia Weald, where Ashrakk'll be lyin' in wait."
+            },
+            {
+              "id": 7540,
+              "string": "1\u0000\u0007Darrcuiln, you take care of Dhokmak over in Cirdas Caverns."
+            },
+            {
+              "id": 7542,
+              "string": "1\u0000\u0007With you by our side, \b, those fiends'll rue the day they awoke ta terrorize us once more!"
+            },
+            {
+              "id": 7544,
+              "string": "1\u0000\u0007Fer Ulbuka!"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7552,
+              "string": "1\u0000\u0007I-it wasn't all that, Princess. We just didn't want to see ya get hurt."
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007Yeah, we had no other choice."
+            },
+            {
+              "id": 7554,
+              "string": "1\u0000\u0007I-isn't that right, \b?"
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007If we're willin' to believe 'im, this thing here'll lead us deep within the turris."
+            },
+            {
+              "id": 7582,
+              "string": "1\u0000\u0007Suppose I shouldn't have expected Hades ta be bursting forth from the front gate."
+            },
+            {
+              "id": 7583,
+              "string": "1\u0000\u0007You know what we gotta do, \b!"
+            },
+            {
+              "id": 7587,
+              "string": "1\u0000\u0007Together we stand, together we fall!"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928225,
+      "name": "Darrcuiln",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7589,
+              "string": "1\u0000\u0007(\b...)"
+            },
+            {
+              "id": 7590,
+              "string": "1\u0000\u0007(Though my heart prickles to say this, we must not begrudge Morimar his actions.)"
+            },
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007(It was the only way for even some of us to escape, for had we all tried to run at once we would have been struck down in an instant.)"
+            },
+            {
+              "id": 7592,
+              "string": "1\u0000\u0007(His sacrifice was an investment in our future.)"
+            },
+            {
+              "id": 7593,
+              "string": "1\u0000\u0007(And I, for one, know he will not bow down easily.)"
+            },
+            {
+              "id": 7594,
+              "string": "1\u0000\u0007(I have watched over the jungle with him for centuries. I can picture that smirk on his face, snarling, ??My death is not for you to decide!??)"
+            },
+            {
+              "id": 7595,
+              "string": "1\u0000\u0007(But the trees...they are beginning to shiver.)"
+            },
+            {
+              "id": 7596,
+              "string": "1\u0000\u0007(Unlike man or beast, they cannot flee to safer ground when darkness chokes the land.)"
+            },
+            {
+              "id": 7597,
+              "string": "1\u0000\u0007(Hades and his Cimmerian Adherents will come, threatening to trample all life underfoot as they advance.)"
+            },
+            {
+              "id": 7598,
+              "string": "1\u0000\u0007(And should eternal shadow descend, their wooden spirits will cry out, echoing across soil and sea.)"
+            },
+            {
+              "id": 7599,
+              "string": "1\u0000\u0007(They will ring with the pain and sorrow of a land once loved but now lost.)"
+            },
+            {
+              "id": 7600,
+              "string": "1\u0000\u0007(And you, \b, are the only one who can stop it.)"
+            },
+            {
+              "id": 7601,
+              "string": "1\u0000\u0007(Let us stop Hades...together!)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928226,
+      "name": "Heartwing",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928227,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007<What we do here today is to restore the rightfuuul order of things. Nothing should change, and all will be as intended.>"
+            },
+            {
+              "id": 7386,
+              "string": "1\u0000\u0007<Sons and daughters, bear witneeess to Mother's revival.>"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007<I have seen all, childreeen. Both what you have done, and what has befallen the world.>"
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007<And I have choseeen to put my faith in you.>"
+            },
+            {
+              "id": 7318,
+              "string": "1\u0000\u0007<Pure water is our sustenance, and shiniiing light our shelter. Without those, we would never survive.>"
+            },
+            {
+              "id": 7319,
+              "string": "1\u0000\u0007<Our Mother cries out for aid. Come, let us begin the preparatiooons.>"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007<Your preseeence here is most welcome.>"
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007<The World Tree's roots have kept me keenly aware of the incideeents occurring throughout the land.>"
+            },
+            {
+              "id": 7476,
+              "string": "1\u0000\u0007<And so, too, do I see the reason for your aaarrival.>"
+            },
+            {
+              "id": 7477,
+              "string": "1\u0000\u0007<Forceees of the deep that your storied hero sealed away are breathing anew.>"
+            },
+            {
+              "id": 7478,
+              "string": "1\u0000\u0007<Their slumber was to be eternal, but the calamiiity has come full circle.>"
+            },
+            {
+              "id": 7479,
+              "string": "1\u0000\u0007<Our mother tree kept the darkneeess at bay, purging evil as it emerged and preserving the sanctity of the forest.>"
+            },
+            {
+              "id": 7482,
+              "string": "1\u0000\u0007<But her strength is not without its limiiits. You may think it a grand flood, but in due time it will wane to a mere trickle.>"
+            },
+            {
+              "id": 7483,
+              "string": "1\u0000\u0007<And I...soon I will join with Motheeer. Her life will be mine, and mine, hers.>"
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007<You will. Our bonds will keep us close, always. The same way I am alwaaays with your founder king.>"
+            },
+            {
+              "id": 7487,
+              "string": "1\u0000\u0007<Keep my pome safe, \b, and let it proteeect you during your hour of need.>"
+            },
+            {
+              "id": 7488,
+              "string": "1\u0000\u0007<We are all able to stand here this day because of the sapliiing you helped bring to revive Mother.>"
+            },
+            {
+              "id": 7489,
+              "string": "1\u0000\u0007<Remembeeer August. Remember the sacrifices he made to seal away the maladies afflicting this realm. It is now your turn to do the same.>"
+            },
+            {
+              "id": 7490,
+              "string": "1\u0000\u0007<Fuuulfill your charge, \b. Ulbuka needs you.>"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7573,
+              "string": "1\u0000\u0007No one's looking forward to your dance more than me!"
+            },
+            {
+              "id": 7574,
+              "string": "1\u0000\u0007Rest assured, I'll be in the rafters until the final scene!??"
+            },
+            {
+              "id": 7575,
+              "string": "1\u0000\u0007Bring down the house!"
+            },
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007Show your audience that you're no two-bit player in this most epic of sagas!"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Yes, a saga...that I have orchestrated for you!"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 55,
+          "dialogue": [
+            {
+              "id": 7718,
+              "string": "1\u0000\u0007And what did you call yourself again?"
+            },
+            {
+              "id": 7719,
+              "string": "1\u0000\u0007Ah, yes. \b."
+            },
+            {
+              "id": 7720,
+              "string": "1\u0000\u0007Hahaha! Normally I'm not one to remember the moniker of one with so short a lifespan, but yours stuck with me."
+            },
+            {
+              "id": 7721,
+              "string": "1\u0000\u0007My name? Skokkr Undrborn."
+            },
+            {
+              "id": 7722,
+              "string": "1\u0000\u0007I realize that ??Undrborn?? doesn't roll off the tongue, so you may address me as simply ??Skokkr.??"
+            },
+            {
+              "id": 7723,
+              "string": "1\u0000\u0007Oooh hooo hoo! Yes, I see what those two were saying about your vibrant spirit. Humanity remains as curious as ever."
+            },
+            {
+              "id": 7724,
+              "string": "1\u0000\u0007It can not only draw out the energies of my \u0001\u00053????, but also contain it and even twist it into different forms."
+            },
+            {
+              "id": 7725,
+              "string": "1\u0000\u0007Outstanding. Your will and determination are utterly without parallel."
+            },
+            {
+              "id": 7726,
+              "string": "1\u0000\u0007There were once many curious folk like my underlings meandering throughout my lands."
+            },
+            {
+              "id": 7727,
+              "string": "1\u0000\u0007But none ever emerged victorious. Setting aside the question of good versus evil, let me merely point out that the scales of balance failed to tip so much as one ilm in one side's favor."
+            },
+            {
+              "id": 7728,
+              "string": "1\u0000\u0007And then you came and flipped the entire contraption over."
+            },
+            {
+              "id": 7729,
+              "string": "1\u0000\u0007Oooh, hooo! None can blame you, \b, least of all me. Take pride in your works."
+            },
+            {
+              "id": 7730,
+              "string": "1\u0000\u0007But I didn't invite you here to give you a treatise on the powers that be...or were."
+            },
+            {
+              "id": 7731,
+              "string": "1\u0000\u0007I am here to give you a prototype sigil of sorts in exchange for the three you already hold."
+            },
+            {
+              "id": 7732,
+              "string": "1\u0000\u0007What use are they to you now that their purpose has been fulfilled? A fairer deal you will find nowhere else."
+            },
+            {
+              "id": 7733,
+              "string": "1\u0000\u0007I have the highest of hopes for you. Here, two things to get you started."
+            },
+            {
+              "id": 7734,
+              "string": "1\u0000\u0007But next time, I'll need \u0001\u0001\u0001 \u0001\u0005$????."
+            },
+            {
+              "id": 7735,
+              "string": "1\u0000\u0007Bring me one, and I'll give you another \u0001\u00053????."
+            },
+            {
+              "id": 7752,
+              "string": "1\u0000\u0007I trust that your results will be exemplary, and would like to give you a little something...special."
+            },
+            {
+              "id": 7753,
+              "string": "1\u0000\u0007Ah, but you already have \u0001\u00056????. Then I cannot give you another, for any information you glean would be rendered wholly indecipherable."
+            },
+            {
+              "id": 7736,
+              "string": "1\u0000\u0007And the other thing--the \u0001\u00053????--if you need a new one, then you'll have to gather three more sigils for me."
+            },
+            {
+              "id": 7737,
+              "string": "1\u0000\u0007You scratch my back, and I'll scratch yours, hmm? Isn't that how your world operates?"
+            },
+            {
+              "id": 7738,
+              "string": "1\u0000\u0007And I cannot make these precious tools out of thin air. That is in the realm of godhood, and I am but a humble experimenter."
+            },
+            {
+              "id": 7739,
+              "string": "1\u0000\u0007Not that I believe in gods--or I that I don't believe in gods. I couldn't care less."
+            },
+            {
+              "id": 7740,
+              "string": "1\u0000\u0007I only believe in what is observable."
+            },
+            {
+              "id": 7741,
+              "string": "1\u0000\u0007Experiments and hypotheses are my bread and butter."
+            },
+            {
+              "id": 7742,
+              "string": "1\u0000\u0007Oooh hoo hoo hoo."
+            },
+            {
+              "id": 7743,
+              "string": "1\u0000\u0007Hypothesize and experiment. Then back to the drawing board and draw up more hypotheses to fuel further experiments. How else will we get to the crux of how the world works?"
+            },
+            {
+              "id": 7744,
+              "string": "1\u0000\u0007Not that I expect you to express much interest."
+            },
+            {
+              "id": 7745,
+              "string": "1\u0000\u0007But let's turn for a moment to my underlings... Special spirits indeed, them."
+            },
+            {
+              "id": 7746,
+              "string": "1\u0000\u0007They burn brightly, only to turn to ash and return to nothingness, waiting for the cycle to begin anew."
+            },
+            {
+              "id": 7747,
+              "string": "1\u0000\u0007You must be looking forward to facing them on the fields of valor."
+            },
+            {
+              "id": 7748,
+              "string": "1\u0000\u0007Oooh hooo hoo, and how I, too, look forward to that moment!"
+            },
+            {
+              "id": 7749,
+              "string": "1\u0000\u0007I hope to learn much from your exploits in the realm of spirits."
+            },
+            {
+              "id": 7750,
+              "string": "1\u0000\u0007Let's see if you can put the screws to them, like you have so many before."
+            },
+            {
+              "id": 7751,
+              "string": "1\u0000\u0007I await your most pleasing of results."
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "dialogue": [
+            {
+              "id": 7758,
+              "string": "1\u0000\u0007\b, I've given you all you need. Make it quick, and let me get back to my research."
+            },
+            {
+              "id": 7760,
+              "string": "1\u0000\u0007It scares you?"
+            },
+            {
+              "id": 7761,
+              "string": "1\u0000\u0007Well, this is an unexpected turn of events. When I pierced into your past, I would never have expected one with memories such as yours to be frightened by a mere bauble."
+            },
+            {
+              "id": 7762,
+              "string": "1\u0000\u0007Exactly how many battles have you experienced? Far too many to count."
+            },
+            {
+              "id": 7763,
+              "string": "1\u0000\u0007Victory is filled with blood and tears, and you have bathed in more than your share of both."
+            },
+            {
+              "id": 7764,
+              "string": "1\u0000\u0007Look into my eyes and tell me that's not the case."
+            },
+            {
+              "id": 7766,
+              "string": "1\u0000\u0007You will have to bring me three more sigils should you change your mind--and change it you will."
+            },
+            {
+              "id": 7768,
+              "string": "1\u0000\u0007Fine. But keep in mind that I require three more sigils to make another."
+            },
+            {
+              "id": 7769,
+              "string": "1\u0000\u0007Do not disappoint me, \b."
+            },
+            {
+              "id": 7770,
+              "string": "1\u0000\u0007Then you shall return empty-handed, for I have nothing more to say to you."
+            },
+            {
+              "id": 7771,
+              "string": "1\u0000\u0007...But perhaps I do. Research always bears fruit, and how can I turn down a request so politely worded?"
+            },
+            {
+              "id": 7772,
+              "string": "1\u0000\u0007Yes, perhaps..."
+            },
+            {
+              "id": 7773,
+              "string": "1\u0000\u0007Dvergr are known for our manual dexterity, and since ancient times have heeded the call of crafting weapons and armor of the finest quality."
+            },
+            {
+              "id": 7774,
+              "string": "1\u0000\u0007But not all of us are cut from the same cloth. Surely you can appreciate this, ?[son\/daughter] of man."
+            },
+            {
+              "id": 7775,
+              "string": "1\u0000\u0007I never had a penchant for hands-on affairs, and dedicated all my time to academic pursuits, finally settling upon one very precise topic of inquiry."
+            },
+            {
+              "id": 7776,
+              "string": "1\u0000\u0007Spirits."
+            },
+            {
+              "id": 7777,
+              "string": "1\u0000\u0007All things, living and non-living, have a spirit. The more I study, the more I thirst for knowledge. I have lost track of the countless years I have spent in research, yet I am no closer to drawing a conclusion than I was when I started."
+            },
+            {
+              "id": 7778,
+              "string": "1\u0000\u0007A Devrgr's lifespan is measured in centuries, yet every second that goes by without answers agitates me further."
+            },
+            {
+              "id": 7779,
+              "string": "1\u0000\u0007This is my sole reason for living, and I will not rest until I am satisfied."
+            },
+            {
+              "id": 7780,
+              "string": "1\u0000\u0007...\b, I am too involved in my research to humor your pointless comings and goings."
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "dialogue": [
+            {
+              "id": 7781,
+              "string": "1\u0000\u0007Ah, this is quite wonderful! The sky contains not a single cloud of doubt owing to your herculean efforts."
+            },
+            {
+              "id": 7782,
+              "string": "1\u0000\u0007But we must act again before the rain threatens us."
+            },
+            {
+              "id": 7783,
+              "string": "1\u0000\u0007I yearn to see how you stand in the face of the most dreadful of memories."
+            },
+            {
+              "id": 7784,
+              "string": "1\u0000\u0007Yet I remain perplexed...\u0007If this sigil was but a fabrication, then why would I feel such an unfamiliar energy emanating from it? Is there some connection that escapes my gaze?"
+            },
+            {
+              "id": 7785,
+              "string": "1\u0000\u0007Ah, but that only means I have yet one more subject to research. I shall take my time and dissect this curious specimen."
+            },
+            {
+              "id": 7786,
+              "string": "1\u0000\u0007Go forth, \b, and let the seeds I have sown bloom and flourish!"
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "dialogue": [
+            {
+              "id": 7787,
+              "string": "1\u0000\u0007You don't wish to return your \u0001\u00053????, do you?"
+            },
+            {
+              "id": 7789,
+              "string": "1\u0000\u0007Humanity is fickle, indeed. But don't flatter yourself to think I care one onz about your inner workings. Know only that if you return it, the sigils will fully dissipate."
+            },
+            {
+              "id": 7790,
+              "string": "1\u0000\u0007Be warned that you will have to bring \u0001\u00056???? should you desire another."
+            },
+            {
+              "id": 7791,
+              "string": "1\u0000\u0007Choose wisely, ?[son\/daughter] of man."
+            },
+            {
+              "id": 7792,
+              "string": "1\u0000\u0007Avarice is not a word in your vocabulary. That much I can commend. Perhaps that is one difference between humanity and Dvergr kind--not that I pretend to understand it."
+            },
+            {
+              "id": 7793,
+              "string": "1\u0000\u0007Nor do I wish to."
+            },
+            {
+              "id": 7794,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056???? is all you need bring me to receive another."
+            },
+            {
+              "id": 7795,
+              "string": "1\u0000\u0007I'm far too busy to engage in small talk with you.6\u0001\u0007...But as you have done me a service thus far, I'll condescend to your request."
+            },
+            {
+              "id": 7796,
+              "string": "1\u0000\u0007Let's see...6\u0001\u0007Aha. Perhaps this will be of interest."
+            },
+            {
+              "id": 7797,
+              "string": "1\u0000\u0007My research has produced several interesting byproducts, the likes of which I have scattered about the world."
+            },
+            {
+              "id": 7798,
+              "string": "1\u0000\u0007Those were lifeless dolls into which I breathed energy, simply to see how they react to their surroundings."
+            },
+            {
+              "id": 7799,
+              "string": "1\u0000\u0007True, I could have found more handy vessels, but I wanted something more close-to-home to infuse with something based on my own spirit."
+            },
+            {
+              "id": 7800,
+              "string": "1\u0000\u0007So what exactly have they been up to of late? Ah, perhaps I shouldn't have been so derelict in overseeing them."
+            },
+            {
+              "id": 7801,
+              "string": "1\u0000\u0007Bah. They're just dolls. No use getting sentimental over them."
+            },
+            {
+              "id": 7802,
+              "string": "1\u0000\u0007The entire enterprise is grounded in recent breakthroughs to codex techniques--the ability to transfer spirits from one place into another."
+            },
+            {
+              "id": 7803,
+              "string": "1\u0000\u0007When a spirit is refined, it begins to glitter like a diamond bathed in ever-increasing quantities of light. But a spirit can only inhabit one vessel at a time, so there is a limit to how much it can grow during its host's life."
+            },
+            {
+              "id": 7804,
+              "string": "1\u0000\u0007Moving it to another host, however, enables it to grow into something it ordinarily cannot, containing information and memories from a variety of its previous vessels."
+            },
+            {
+              "id": 7805,
+              "string": "1\u0000\u0007The \u0001\u00053???? you hold now is exactly that which I have explained to you. Consider yourself lucky to be in possession of such a rare piece."
+            },
+            {
+              "id": 7806,
+              "string": "1\u0000\u0007Continue, then, to help it absorb knowledge."
+            },
+            {
+              "id": 7807,
+              "string": "1\u0000\u0007I have sent some of my most trusted assistants to the vitalized place you call the Middle Lands to manage these techniques, sharing them with the worthy."
+            },
+            {
+              "id": 7808,
+              "string": "1\u0000\u0007Visit them should you wish to learn more. You can see the world from a completely new...perspective. Oooh hooo hoo!"
+            },
+            {
+              "id": 7809,
+              "string": "1\u0000\u0007I wonder about you, \b..."
+            },
+            {
+              "id": 7810,
+              "string": "1\u0000\u0007I do hate futile repetition, so take my words to heart this time--I have no interest in playing these little games with you."
+            },
+            {
+              "id": 7811,
+              "string": "1\u0000\u0007If you wish to contribute to my research, then I implore you to only return when you have the appropriate results."
+            },
+            {
+              "id": 7812,
+              "string": "1\u0000\u0007I advise you to make haste. Humanity's time in this world is quite fleeting, indeed."
+            },
+            {
+              "id": 7813,
+              "string": "1\u0000\u0007Make the most of it. Take full advantage of your mind and body."
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            {
+              "id": 7814,
+              "string": "1\u0000\u0007Oooh hooo hooo!\u0007Now this--this is something else! If you will..."
+            },
+            {
+              "id": 7817,
+              "string": "1\u0000\u0007Aha. So that's why..."
+            },
+            {
+              "id": 7818,
+              "string": "1\u0000\u0007Now that I understand, I must admit the whole ordeal was rather anticlimactic."
+            },
+            {
+              "id": 7819,
+              "string": "1\u0000\u0007To think I was the one who started it in the first place..."
+            },
+            {
+              "id": 7820,
+              "string": "1\u0000\u0007Oooh hooo hooo...but that is a success in and of itself."
+            },
+            {
+              "id": 7821,
+              "string": "1\u0000\u0007What's wrong, \b?"
+            },
+            {
+              "id": 7822,
+              "string": "1\u0000\u0007Ah, but I needn't even ask. You feel a bit left out, don't you? I can read it not from your spirit, but from your face."
+            },
+            {
+              "id": 7823,
+              "string": "1\u0000\u0007The bearer of this sigil used to be a pupil of mine, also engaged in the studying of spirits."
+            },
+            {
+              "id": 7824,
+              "string": "1\u0000\u0007That would explain the strange forces I felt upon first taking hold of the \u0001\u00053????."
+            },
+            {
+              "id": 7825,
+              "string": "1\u0000\u0007And it only makes sense that I couldn't tell at first--his spirit was incomplete."
+            },
+            {
+              "id": 7826,
+              "string": "1\u0000\u0007A partially broken spirit is lacking in information. It's of little surprise I was unable to ascertain its true nature."
+            },
+            {
+              "id": 7827,
+              "string": "1\u0000\u0007I am able to reach an appropriate conclusion now that I have studied it in full."
+            },
+            {
+              "id": 7828,
+              "string": "1\u0000\u0007??Full?? may not be the appropriate term, as it is only a fabrication of the real thing, but it looks like I will have to dismantle it."
+            },
+            {
+              "id": 7829,
+              "string": "1\u0000\u0007To think that he was the first to fully succeed in implementing the techniques I was studying! The student had overtaken the master--bittersweet, to be sure."
+            },
+            {
+              "id": 7830,
+              "string": "1\u0000\u0007Ah, now I remember what a bright, diligent pupil he was."
+            },
+            {
+              "id": 7831,
+              "string": "1\u0000\u0007Humanity is flawed--but perhaps he was able to overcome precisely because of those same flaws."
+            },
+            {
+              "id": 7832,
+              "string": "1\u0000\u0007His perspective differed from mine. Whereas I sought to experiment on others, he turned his gaze on himself. He must have learned something about transmigrating Galka in the process."
+            },
+            {
+              "id": 7833,
+              "string": "1\u0000\u0007It would certainly be the right answer for mankind, pitiful beings whose lifespans are limited."
+            },
+            {
+              "id": 7834,
+              "string": "1\u0000\u0007But still..."
+            },
+            {
+              "id": 7835,
+              "string": "1\u0000\u0007Was his conclusion really the one he should have been after?"
+            },
+            {
+              "id": 7836,
+              "string": "1\u0000\u0007Did he catch a glimpse into the true nature of the spirit?"
+            },
+            {
+              "id": 7837,
+              "string": "1\u0000\u0007Unfortunately, that much I cannot glean from this sigil. Oooh hooo hooo! My research continues after all."
+            },
+            {
+              "id": 7838,
+              "string": "1\u0000\u0007But you didn't come here to listen to me wax poetic about the past."
+            },
+            {
+              "id": 7839,
+              "string": "1\u0000\u0007Let me instead implore you to continue assisting me. He may have learned the truth, but I have not."
+            },
+            {
+              "id": 7840,
+              "string": "1\u0000\u0007How invigorating this research has been! Every time I reach a dead end, the world breaks down yet another wall."
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928228,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7516,
+              "string": "1\u0000\u0007(Princess, be mindful of the toxins in the ground. The last thing we need is to lose you.)"
+            },
+            {
+              "id": 7533,
+              "string": "1\u0000\u0007(The memories taste of both sweetness and sorrow.)"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7557,
+              "string": "1\u0000\u0007(You should own up to your mistake.)"
+            },
+            {
+              "id": 7579,
+              "string": "e!\u0000\u0007(So that's the Balamor you have been on about. Surely a hard nut to crack.)"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007...No. How could it come to pass that one could find this secluded place? It's utterly sealed off, separated, and removed from the world."
+            },
+            {
+              "id": 7673,
+              "string": "1\u0000\u0007Hmmmmmmmmm...\u0007If our research, studies, and investigations have taken a backseat for now, then perhaps we can discuss that special thing..."
+            },
+            {
+              "id": 7675,
+              "string": "1\u0000\u0007Then we have but one simple, easy, and altogether elementary task to do."
+            },
+            {
+              "id": 7677,
+              "string": "1\u0000\u0007And if we're wrong, we just seal off, shelter, and bar the doors to the place forever."
+            },
+            {
+              "id": 7681,
+              "string": "1\u0000\u0007Yet a spirit is a complex, difficult-to-understand, and nigh-incomprehensible thing made of many interwoven threads."
+            },
+            {
+              "id": 7683,
+              "string": "1\u0000\u0007But your spirit is marked with memories of battles, fights, and struggles, each a shining star amongst the sky. We wish to view those stars close-up."
+            },
+            {
+              "id": 7686,
+              "string": "1\u0000\u0007And return you will! Both to there, and to here!"
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007Well done! Absolutely perfect and without flaw."
+            },
+            {
+              "id": 7693,
+              "string": "1\u0000\u0007We have prepared, set up, and established three different...dimensions for you to explore."
+            },
+            {
+              "id": 7694,
+              "string": "1\u0000\u0007That one opens to a land of \f\u0000[toxic miasma\/biting winds\/unending filth]."
+            },
+            {
+              "id": 7694,
+              "string": "1\u0000\u0007That one opens to a land of \f\u0000[toxic miasma\/biting winds\/unending filth]."
+            },
+            {
+              "id": 7694,
+              "string": "1\u0000\u0007That one opens to a land of \f\u0000[toxic miasma\/biting winds\/unending filth]."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007Your Goddess's protection may serve you well...or it may not. Go forth, and flourish in the thrill of battle!"
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007Be healthy and hale!"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            {
+              "id": 7700,
+              "string": "1\u0000\u0007Oho, \u0001\u0001\u0001 \u0001\u0005$????!"
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007Your Goddess's protection may serve you well...or it may not. Go forth, and flourish in the thrill of battle!"
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007Be healthy and hale!"
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            {
+              "id": 7712,
+              "string": "1\u0000\u0007Spirits are only one part of the experiments, tests, and trials. The other part...is throwing yourself against your foes over and over."
+            },
+            {
+              "id": 7713,
+              "string": "1\u0000\u0007Hehehe, and you certainly are enjoying yourself."
+            },
+            {
+              "id": 7714,
+              "string": "1\u0000\u0007Much enjoyment to be had! Your soul beams at the very mention of combat!"
+            },
+            {
+              "id": 7692,
+              "string": "1\u0000\u0007Honored to receive your just reward!"
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "dialogue": [
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007Seek your charge in the ruins, the Serpentine Labyrinth, Outer Ra'Kaznar."
+            },
+            {
+              "id": 7698,
+              "string": "1\u0000\u0007Your Goddess's protection may serve you well...or it may not. Go forth, and flourish in the thrill of battle!"
+            },
+            {
+              "id": 7704,
+              "string": "1\u0000\u0007Should you, for whatever reason, find the experiment...wanting...it would behoove you to visit Ra'Kaznar Turris."
+            },
+            {
+              "id": 7706,
+              "string": "1\u0000\u0007Yes...in that chamber, visions of the most formidable of foes await you. And though they may be but passing fantasies, the battles will be no less demanding."
+            },
+            {
+              "id": 7708,
+              "string": "1\u0000\u0007You seek no material gain, but only the honor and glory of the fight...?"
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "dialogue": [
+            {
+              "id": 7757,
+              "string": "1\u0000\u0007Take this \u0001\u00053???? as a symbol of our respect, admiration, and optimism."
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "dialogue": [
+            {
+              "id": 7841,
+              "string": "1\u0000\u0007\b. Our master is not present, out running experiments, and has left for the time being."
+            },
+            {
+              "id": 7843,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056????? Then go, take it, and be on your way. I'll keep your three sigils safe."
+            },
+            {
+              "id": 7844,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056????? Then go, take it, and be on your way. I'll keep your \u0001\u00053???? safe."
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007Our master says that there's no need, requirement, or reason for you to return it. But if you desire to..."
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Make a choice, pick your poison, and decide quickly."
+            },
+            {
+              "id": 7849,
+              "string": "1\u0000\u0007Do you have any other needs, desires, or wants?"
+            },
+            {
+              "id": 7845,
+              "string": "1\u0000\u0007Our master says that there's no need, requirement, or reason for you to return it. But if you desire to..."
+            },
+            {
+              "id": 7847,
+              "string": "1\u0000\u0007Make a choice, pick your poison, and decide quickly."
+            },
+            {
+              "id": 7849,
+              "string": "1\u0000\u0007Do you have any other needs, desires, or wants?"
+            },
+            {
+              "id": 7855,
+              "string": "1\u0000\u0007?\u0001\u0001\u00056????. Well done, good show, and expertly handled."
+            },
+            {
+              "id": 7849,
+              "string": "1\u0000\u0007Do you have any other needs, desires, or wants?"
+            },
+            {
+              "id": 7850,
+              "string": "1\u0000\u0007Let me warn you, provide guidance, and be frank. That alone will not open the gates."
+            },
+            {
+              "id": 7852,
+              "string": "1\u0000\u0007We'll be waiting patiently, calmly, and with bated breath."
+            },
+            {
+              "id": 7849,
+              "string": "1\u0000\u0007Do you have any other needs, desires, or wants?"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 63,
+          "dialogue": [
+            {
+              "id": 7857,
+              "string": "1\u0000\u0007You seem to be enjoying, having fun, and finding pleasure in our little escapade. Those little charms of yours are proof of that fact."
+            },
+            {
+              "id": 7858,
+              "string": "1\u0000\u0007They are special trinkets that our master has prepared above and beyond the sigils with which you are familiar."
+            },
+            {
+              "id": 7692,
+              "string": "1\u0000\u0007Honored to receive your just reward!"
+            },
+            {
+              "id": 7692,
+              "string": "1\u0000\u0007Honored to receive your just reward!"
+            },
+            {
+              "id": 7867,
+              "string": "1\u0000\u0007We respect, laud, and venerate your decision. Go now, and see what the master has deemed fit to give you.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928229,
+      "name": "",
+      "events": [
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7672,
+              "string": "1\u0000\u0007Yes, yes! Separated! But if ?[he\/she] is here, that only means our master willed it!"
+            },
+            {
+              "id": 7674,
+              "string": "1\u0000\u0007Oho, quite special! An adventurer is the perfect guinea pig!"
+            },
+            {
+              "id": 7676,
+              "string": "1\u0000\u0007A straightforward task, yes! Carry out the master's will!"
+            },
+            {
+              "id": 7678,
+              "string": "1\u0000\u0007Close off! Understood!"
+            },
+            {
+              "id": 7680,
+              "string": "1\u0000\u0007Open the door, he did! Memories of battles etched upon completely new existences!"
+            },
+            {
+              "id": 7682,
+              "string": "1\u0000\u0007A most difficult nut to crack!"
+            },
+            {
+              "id": 7685,
+              "string": "1\u0000\u0007You seem confused, befuddled, and out of sorts. Don't worry--you'll know where to look when you return to your world."
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007You should feel honored, blessed, and proud."
+            },
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007Seek your charge in the ruins, the Serpentine Labyrinth, Outer Ra'Kaznar."
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007Outer Ra'Kaznar! Our master's experiments await!"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            {
+              "id": 7702,
+              "string": "1\u0000\u0007Its energies will be consumed, dissipated, and fully extinguished when you use it to enter our master's ??testing chamber,?? but you can enter again by procuring another."
+            },
+            {
+              "id": 7696,
+              "string": "1\u0000\u0007Seek your charge in the ruins, the Serpentine Labyrinth, Outer Ra'Kaznar."
+            },
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007Outer Ra'Kaznar! Our master's experiments await!"
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            {
+              "id": 7716,
+              "string": "1\u0000\u0007Some may call it a blood craze, a lust for battle, an inclination for combat, but our master is pleased at your successes, no matter the reason behind them."
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "dialogue": [
+            {
+              "id": 7697,
+              "string": "1\u0000\u0007Outer Ra'Kaznar! Our master's experiments await!"
+            },
+            {
+              "id": 7699,
+              "string": "1\u0000\u0007Be healthy and hale!"
+            },
+            {
+              "id": 7705,
+              "string": "1\u0000\u0007For there, you will find another testing chamber...one which may prove more to your liking."
+            },
+            {
+              "id": 7707,
+              "string": "1\u0000\u0007And yet, since there is no substance to the terrors you will face, there will be nothing to be gained from your triumphs...if you triumph at all."
+            },
+            {
+              "id": 7709,
+              "string": "1\u0000\u0007Very well...then honor and glory shall be yours."
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "dialogue": [
+            {
+              "id": 7756,
+              "string": "1\u0000\u0007We have high hopes, strong expectations, and great confidence in your ability to assist our master in his research."
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "dialogue": [
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007No need! None! The sigils will vanish and you will need to get them again for another!"
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007The power is yours!"
+            },
+            {
+              "id": 7846,
+              "string": "1\u0000\u0007No need! None! The sigils will vanish and you will need to get them again for another!"
+            },
+            {
+              "id": 7848,
+              "string": "1\u0000\u0007The power is yours!"
+            },
+            {
+              "id": 7856,
+              "string": "1\u0000\u0007Perfect! Perfect indeed! Here--a treasure for you!"
+            },
+            {
+              "id": 7851,
+              "string": "1\u0000\u0007It won't! You'll also need \u0001\u00056????, which we can give you in exchange for \u0001\u0001\u0001 \u0001\u0005$????!"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 63,
+          "dialogue": [
+            {
+              "id": 7859,
+              "string": "1\u0000\u0007Familiar indeed! And they are critical in our research."
+            },
+            {
+              "id": 7860,
+              "string": "1\u0000\u0007Yes, quite critical! And we are prepared to offer you proper recompense!"
+            },
+            {
+              "id": 7863,
+              "string": "1\u0000\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????, hmm?"
+            },
+            {
+              "id": 7865,
+              "string": "1\u0000\u0007A brand-new \u0001\u0005#???? just for you! Enjoy!"
+            },
+            {
+              "id": 7863,
+              "string": "1\u0000\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????, hmm?"
+            },
+            {
+              "id": 7865,
+              "string": "1\u0000\u0007A brand-new \u0001\u0005#???? just for you! Enjoy!"
+            },
+            {
+              "id": 7866,
+              "string": "1\u0000\u0007Worthy! Yes, there is much the master deems worthy!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928230,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928231,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007(This is no laughing matter.)"
+            },
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007(No. You were making fun of him.)"
+            },
+            {
+              "id": 7443,
+              "string": "1\u0000\u0007(\b, she is counting on you for words of encouragement.)"
+            },
+            {
+              "id": 7445,
+              "string": "1\u0000\u0007(You cannot encourage her in her time of need?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928232,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007Well, this is quite the spectacle."
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007Then my eyes do not deceive me! That is, indeed, Princess Arciela!"
+            },
+            {
+              "id": 7360,
+              "string": "1\u0000\u0007When I saw a dainty figure riding atop a golden beast, I could have sworn my eyes were playing a trick on me--but here you are, in the flesh."
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007I can only thank my good sense in choosing to follow your tracks."
+            },
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007My dear, I have always been a student of history. Call it an intellectual curiosity."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007I chanced upon quite an intriguing volume, and spent many a night poring over it...too many, perhaps. And I realized that I had stumbled onto a treasure."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007Before I realized it, here I stood! I never thought the phrase ??lost in one's research?? could be taken so literally."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007And yet I find myself more invigorated than I ever was in my manse. Lady of Adoulin, I believe I now understand your penchant for the wilds."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007Of course, I remain but a humble student."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007Melvien de Malecroix. Charmed, I'm sure."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007A measure of caution is always prudent when venturing into lands unknown. But my pursuit of the truth overcame any fears I may have had."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Your approval is much appreciated. But if I may ask, just where are we? It is preposterous to think such a place would exist within the recesses of such an inhospitable locale."
+            },
+            {
+              "id": 7392,
+              "string": "..\u0000\u0007All these years, Morimar, and you haven't changed one bit."
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007House Adoulin ends here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928233,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007(Get out! Begone from our land!)"
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007(You can't fool me!)"
+            },
+            {
+              "id": 7345,
+              "string": "1\u0000\u0007(You're one to talk!)"
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007(Why did he have to protect you mortals!?)"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928234,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007(Yggdrasil is not a place for people!)"
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007(Make it whole?)"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007(Is she serious?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928235,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007(I know! Let's lay a curse on them!)"
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007(You can't pull the wool over our eyes!)"
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007(I think she is.)"
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007(N-no...)"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007(Waaaaaah!)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928236,
+      "name": "",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928237,
+      "name": "",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928238,
+      "name": "",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928239,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928240,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928241,
+      "name": "Aged Stump",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928242,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17928243,
+      "name": "???",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928244,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 55,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 56,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 57,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 58,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 59,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 60,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928245,
+      "name": "",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928246,
+      "name": "",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928247,
+      "name": "Soupox",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928248,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7604,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7605,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7606,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007Would you like to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7615,
+              "string": "1\u0000\u0007Which story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Leafallia(pt.1).\u0007Leafallia(pt.2).\u0007Rosulatia's Promise.\u0007The Lightsland(pt.1).\u0007The Lightsland(pt.2).\u0007The Light of Dawn Comes...\u0007Cries from the Deep.\u0007Heroes, Unite!\u0007Yggdrasil Beckons.\u0007The Key to the Turris.\u0007Blood for Blood.\u0007The Light Within.\u0007Vagary(pt.1).\u0007Vagary(pt.2).\u0007Vagary(pt.3).\u0007Vagary(pt.4).\u0007Vagary(pt.5).\u0007Vagary(pt.6).\u0007Vagary(pt.7).\u0007Vagary(pt.8).\u0007Vagary(pt.9).\u0007Vagary(pt.10).\u0007Vagary(pt.11)."
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7616,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7617,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7618,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7608,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7607,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928251,
+      "name": "Home Point #1",
+      "events": [
+        {
+          "id": 8700,
+          "dialogue": [
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7651,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7663,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7647,
+              "string": "8\u0004\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7648,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7658,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7659,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7667,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7654,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7654,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7658,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7659,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928252,
+      "name": "Home Point #2",
+      "events": [
+        {
+          "id": 8701,
+          "dialogue": [
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7651,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7663,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7647,
+              "string": "8\u0004\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7648,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7658,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7659,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7667,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7654,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7654,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7658,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7659,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928253,
+      "name": "Home Point #3",
+      "events": [
+        {
+          "id": 8702,
+          "dialogue": [
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7651,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7663,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7647,
+              "string": "8\u0004\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7648,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7658,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7659,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7667,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7654,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7654,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7658,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7659,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928254,
+      "name": "Home Point #4",
+      "events": [
+        {
+          "id": 8703,
+          "dialogue": [
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7651,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7663,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7647,
+              "string": "8\u0004\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7648,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7658,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7659,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7667,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7654,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7654,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7658,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7659,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928255,
+      "name": "Home Point #5",
+      "events": [
+        {
+          "id": 8704,
+          "dialogue": [
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7651,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7663,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7647,
+              "string": "8\u0004\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7648,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7658,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7659,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7667,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7654,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7654,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7658,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7659,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17928257,
+      "name": "Odyssean Passage",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 54,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007A raspy voice reverberates within your mind."
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007Silence descends once more."
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 56,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 57,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 58,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 59,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 60,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 63,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        
+      ]
+    }
+  ]
+}

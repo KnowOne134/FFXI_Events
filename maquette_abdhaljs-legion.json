@@ -1,0 +1,243 @@
+{
+  "id": 183,
+  "name": "Maquette Abdhaljs-Legion",
+  "actors": [
+    {
+      "id": 17526902,
+      "name": "",
+      "events": [
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        },
+        {
+          "id": 10000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10010,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10011,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10012,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10013,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10014,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10015,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10016,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10017,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10018,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10019,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17526905,
+      "name": "Legion Portal",
+      "events": [
+        {
+          "id": 10004,
+          "dialogue": [
+            {
+              "id": 7060,
+              "string": "1\u0000\u0007Exit the maquette?\u0007\u000bYes, exit.\u0007No, remain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17526906,
+      "name": "Legion Portal",
+      "events": [
+        {
+          "id": 10002,
+          "dialogue": [
+            {
+              "id": 7056,
+              "string": "1\u0000\u0007Proceed to the Hall of \f\u0000[An\/Ki\/Im\/Muru\/Mul]?\u0007\u000bYes.\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17526907,
+      "name": "Legion Tome",
+      "events": [
+        {
+          "id": 10003,
+          "dialogue": [
+            {
+              "id": 7060,
+              "string": "1\u0000\u0007Exit the maquette?\u0007\u000bYes, exit.\u0007No, remain."
+            },
+            {
+              "id": 7061,
+              "string": "1\u0000\u0007Reentry will not be permitted.\u0007Do you still wish to leav"
+            },
+            {
+              "id": 7062,
+              "string": "e?\u0000\u0007Truly exit the maquette?\u0007\u000bYes, exit.\u0007No, remain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17526908,
+      "name": "Legion Libretto",
+      "events": [
+        {
+          "id": 1500,
+          "dialogue": [
+            {
+              "id": 7251,
+              "string": "1\u0000\u0007The tome contains the symphonic scores for a veritable host of rousing battle fanfares."
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Select a new battle fanfare?\u0007\u000bNot now.\u0007Belief.\u0007Fighters of the Crystal.\u0007Conflict: March of the Hero.\u0007The Colosseum.\u0007Run Maggot, Run!\u0007Iron Colossus.\u0007Ragnarok.\u0007Feast of the Ladies.\u0007Random selection.\u0007Restore default.\u0007?@"
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007Fight to this fanfare?\u0007\u000bYes.\u0007No, select another."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 10000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

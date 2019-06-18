@@ -1,0 +1,708 @@
+{
+  "id": 66,
+  "name": "Mamool Ja Training Grounds",
+  "actors": [
+    {
+      "id": 17047628,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 107,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047629,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047630,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 109,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047631,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 110,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047632,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047633,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 112,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047634,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 113,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047635,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 114,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047636,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 115,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047637,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 116,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047638,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 117,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047639,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 118,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047640,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 119,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047641,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 120,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047642,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 121,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047643,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 122,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047644,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 123,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047645,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 124,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047646,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 125,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047647,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 126,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047648,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 127,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047649,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 128,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047650,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 129,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047651,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 130,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047652,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 131,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047653,
+      "name": "Qiqirn Spy",
+      "events": [
+        {
+          "id": 132,
+          "dialogue": [
+            {
+              "id": 7576,
+              "string": "1\u0000\u0007What yooo want?"
+            },
+            {
+              "id": 7577,
+              "string": "1\u0000\u0007Want yooo want?\u0007\u000bTo capture yooo.\u0007To question yooo.\u0007Nooothing at all."
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047809,
+      "name": "Rune of Release",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7308,
+              "string": "1\u0000\u0007Leave \f\u0000[Leujaoam Sanctum\/the Mamool Ja Training Grounds\/Lebros Cavern\/Periqia\/Ilrusi Atoll]?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047821,
+      "name": "Quhaaja",
+      "events": [
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            {
+              "id": 7538,
+              "string": "1\u0000\u0007Do you want to give up?"
+            },
+            {
+              "id": 7539,
+              "string": "1\u0000\u0007End the mission?\u0007\u000bGive up.\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047832,
+      "name": "Zahakahm",
+      "events": [
+        {
+          "id": 134,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 135,
+          "dialogue": [
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007You want to end the mission? Searched everywhere, have you?"
+            },
+            {
+              "id": 7580,
+              "string": "1\u0000\u0007End the mission?\u0007\u000bYes, please.\u0007Not finished yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047841,
+      "name": "Garjham",
+      "events": [
+        {
+          "id": 136,
+          "dialogue": [
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007Ah, we've been waiting for you, Subject...K-7."
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007To gather proper data on how to combat the sickness, we will need you to expose yourself to at least three of the status ailments associated with the kraken flu."
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007There are seven all together: Amnesia, Bio, Disease, Slow, STR Down, Attack Down, and...ah, yes, Evasion Down. When you are affected by one of these, hurry back here and report to me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17047845,
+      "name": "",
+      "events": [
+        {
+          "id": 137,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7534,
+              "string": "1\u0000\u0007There is a curious liquid here."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007Take a sip?\u0007\u000bI'll try anything once!\u0007I have a weak stomach..."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

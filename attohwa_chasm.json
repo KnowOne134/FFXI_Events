@@ -1,0 +1,2946 @@
+{
+  "id": 7,
+  "name": "Attohwa Chasm",
+  "actors": [
+    {
+      "id": 16806300,
+      "name": "",
+      "events": [
+        {
+          "id": 4500,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4501,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4502,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4503,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4504,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4505,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4506,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4507,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4508,
+          "dialogue": [
+            {
+              "id": 83,
+              "string": "..\u0000\u0007Select an action.\u0007\u000bLv.\n\u0000: Feed fewell.\u0007Operate furnace.\u0007View furnace readings.\u0007End synergy.\u0007Review objective.\u0007Toggle command confirmation \f\u0001[off\/on].\u0007Close menu."
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 86,
+              "string": "1\u0000\u0007Feed which fewell? (current stock)\u0007\u000b?\u001f fewell (\n\u0000).\u0007?  fewell (\n\u0001).\u0007?! fewell (\n\u0002).\u0007?\" fewell (\n\u0003).\u0007?# fewell (\n\u0004).\u0007?$ fewell (\n\u0005).\u0007?% fewell (\n\u0006).\u0007?& fewell (\n\u0007).\u0007Cancel."
+            },
+            {
+              "id": 74,
+              "string": "].\u0000\u0007Internal pressure: \n\u0001 Pz\/Im\u0007Impurity ratio: \n"
+            },
+            {
+              "id": 70,
+              "string": "1\u0000\u0007Internal elemental balance:\u0007?\u001f?\u0000 ? ?\u0001 ?!?\u0002 ?\"?\u0003 ?#?\u0004 ?$?\u0005 ?%?\u0006 ?&"
+            },
+            {
+              "id": 71,
+              "string": "?\u0007\u0000\u0007\u001f??\u001f?\u0000 ? ?\u0001 ?!?\u0002 ?\"?\u0003 ?#?\u0004 ?$?\u0005 ?%?\u0006 ?&"
+            },
+            {
+              "id": 85,
+              "string": "1\u0000\u0007Select an action\/skill.\u0007\u000bLv.\n\u0000: Thwack furnace.\u0007Lv.\n\u0001: Operate pressure handle.\u0007Lv.\n\u0002: Operate safety lever.\u0007Lv.\n\u0003: Repair furnace.\u0007Lv.\n\u0004: Recycle strewn fewell.\u0007Fishing: Lunar Smarts.\u0007Fishing: Precision Thwack.\u0007Woodworking: Cyclical Smarts.\u0007Woodworking: Earth Affinity.\u0007Smithing: Combustive Smarts.\u0007Smithing: Fire Affinity.\u0007Goldsmithing: Engraver's Touch.\u0007Goldsmithing: Wind Affinity.\u0007Clothcraft: Restorer's Touch.\u0007Clothcraft: Lightning Affinity.\u0007Leathercraft: Pressurization Smarts.\u0007Leathercraft: Ice Affinity.\u0007Bonecraft: Carbonization Smarts.\u0007Bonecraft: Dark Affinity.\u0007Alchemy: Alchemical Smarts.\u0007Alchemy: Light Affinity.\u0007Cooking: Heating Smarts.\u0007Cooking: Water Affinity.\u0007DEBUG?FForced perfection.\u0007DEBUG?FSet level (Requires \u0001\u0001\u0001 \u0001\u0005$????).\u0007DEBUG: Set pressure\/impurities.\u0007DEBUG: Something good.\u0007Cancel."
+            },
+            {
+              "id": 90,
+              "string": ").\u0000\u0007Your furnace lost a small amount of durabilit"
+            },
+            {
+              "id": 92,
+              "string": "y.\u0000\u0007Apply a measured thwack to the furnace to prevent explosion.\u0007Cost: Reduction in furnace durabilit"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 93,
+              "string": "y.\u0000\u0007Operate the pressure handle to lower internal pressure and reduce the likelihood of an explosion.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 94,
+              "string": ").\u0000\u0007Operate the safety lever to purge impurities from inside the furnace and reduce the likelihood of an explosion.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 95,
+              "string": ").\u0000\u0007Restore the furnace's durability.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 91,
+              "string": "y.\u0000\u0007There was no impact on fewell reserves or furnace durabilit"
+            },
+            {
+              "id": 96,
+              "string": ").\u0000\u0007Gather and feed explosion-strewn fewell fragments to the furnace. Increases the quantity of cinder obtained as a by-product.\u0007Cost: Nothin"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 97,
+              "string": "g.\u0000\u0007Temporarily increase the likelihood of an elemental surge. Effect varies depending on the moon phase and day of the week.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 90,
+              "string": ").\u0000\u0007Your furnace lost a small amount of durabilit"
+            },
+            {
+              "id": 98,
+              "string": ").\u0000\u0007Apply a precisely aimed blow to the furnace to prevent an explosion, with results superior to the standard thwack.\u0007Cost: Slight reduction in furnace durabilit"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 99,
+              "string": "y.\u0000\u0007Deftly manipulate the furnace's internal elemental balance to temporarily mitigate the rate of wear.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 100,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?\"-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 101,
+              "string": ").\u0000\u0007Temporarily improve fewell combustion rate.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 102,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?\u001f-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 103,
+              "string": ").\u0000\u0007Evenly disperse the furnace's internal stress to delay a looming explosion.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 104,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?!-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 109,
+              "string": ").\u0000\u0007Restore furnace durability by a significant amount.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 110,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?#-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 105,
+              "string": ").\u0000\u0007Temporarily suppress fluctuations in internal pressure.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 106,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ? -based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 107,
+              "string": ").\u0000\u0007Temporarily increase the likelihood of an elemental surge.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 108,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?&-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 111,
+              "string": ").\u0000\u0007Temporarily suppress the force of explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 112,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?%-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 113,
+              "string": ").\u0000\u0007Gradually purge the furnace of impurities.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 89,
+              "string": "\u0002!\u0000\u0007You expended \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 114,
+              "string": ").\u0000\u0007Keenly observe the flow of elements to prevent ?$-based explosions.\u0007Cost: \n\u0001 ?\u0001[portion\/portions] of \f\u0000[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] fewell (\n\u0002 ?\u0002[portion\/portions] remaining"
+            },
+            {
+              "id": 115,
+              "string": ").\u0000\u0007Perform action?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 156,
+              "string": "g.\u0000\u0007Total fewell fed:\u0007?\u001f\n\u0000 ? \n\u0001 ?!\n\u0002 ?\"\n\u0003 ?#\n\u0004 ?$\n\u0005 ?%\n\u0006 ?&"
+            },
+            {
+              "id": 156,
+              "string": "g.\u0000\u0007Total fewell fed:\u0007?\u001f\n\u0000 ? \n\u0001 ?!\n\u0002 ?\"\n\u0003 ?#\n\u0004 ?$\n\u0005 ?%\n\u0006 ?&"
+            },
+            {
+              "id": 173,
+              "string": "n.\u0000\u0007Relinquish your claim to the synergy furnac"
+            },
+            {
+              "id": 174,
+              "string": "e?\u0000\u0007Relinquish claim?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 175,
+              "string": "1\u0000\u0007Your \u0001\u00053???? will be removed, and your claim to the synergy furnace, relinquishe"
+            },
+            {
+              "id": 46,
+              "string": "\n\u0003\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: N\/A"
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 68,
+              "string": "1\u0000\u0007Commence synergy?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 58,
+              "string": "1\u0000\u0007This item cannot house any more apertures."
+            },
+            {
+              "id": 58,
+              "string": "1\u0000\u0007This item cannot house any more apertures."
+            },
+            {
+              "id": 55,
+              "string": "1\u0000\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$???? will be used to etch an aperture on the \u0001\u0005#????."
+            },
+            {
+              "id": 56,
+              "string": "1\u0000\u0007Select elemental alignment.\u0007\u000b?\u001f\u0007? \u0007?!\u0007?\"\u0007?#\u0007?$\u0007?%\u0007?&\u0007Cancel."
+            },
+            {
+              "id": 57,
+              "string": "1\u0000\u0007Confirm: ?\u0001\u0001\u0005#????\f\t[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\u0007\u000bYes.\u0007Redo."
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 68,
+              "string": "1\u0000\u0007Commence synergy?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 63,
+              "string": "1\u0000\u0007There are no compatible apertures on this item."
+            },
+            {
+              "id": 59,
+              "string": "1\u0000\u0007The \u0001\u0005#???? will be embedded in the \u0001\u0005#????."
+            },
+            {
+              "id": 57,
+              "string": "1\u0000\u0007Confirm: ?\u0001\u0001\u0005#????\f\t[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\u0007\u000bYes.\u0007Redo."
+            },
+            {
+              "id": 63,
+              "string": "1\u0000\u0007There are no compatible apertures on this item."
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 68,
+              "string": "1\u0000\u0007Commence synergy?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 68,
+              "string": "1\u0000\u0007Commence synergy?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 47,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003"
+            },
+            {
+              "id": 48,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005"
+            },
+            {
+              "id": 49,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007"
+            },
+            {
+              "id": 50,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t"
+            },
+            {
+              "id": 51,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b"
+            },
+            {
+              "id": 52,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&] \n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r"
+            },
+            {
+              "id": 53,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: \f\u0002[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0003 \f\u0004[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0005 \f\u0006[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u0007 \f\b[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\t\u0007            \f\n[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000b \f\f[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\r \f\u000e[?\u001f\/? \/?!\/?\"\/?#\/?$\/?%\/?&]\n\u000f"
+            },
+            {
+              "id": 54,
+              "string": "1\u0000\u0007Synergy rank: \f\u001d[Amateur\/Recruit\/Initiate\/Novice\/Apprentice\/Journeyman\/Craftsman\/Artisan\/Adept\/Veteran\/Expert\/Authority\/Luminary\/Master\/Grandmaster\/Legend]\u0007Objective: \n\u0001 \u0001\t)????????\u0007Difficulty: ?\u001f\n\u0003 ? \n\u0005 ?!\n\u0007 ?\"\n\t\u0007            ?#\n\u000b ?$\n\r ?%\n\u000f ?&\n\u0011"
+            },
+            {
+              "id": 68,
+              "string": "1\u0000\u0007Commence synergy?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806301,
+      "name": "",
+      "events": [
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806369,
+      "name": "Excavation Point",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7213,
+              "string": "s.\u0000\u0007You are unable to mine anythin"
+            },
+            {
+              "id": 7211,
+              "string": "s!\u0000\u0007You successfully dig up \u0001\u0001\u0001 \u0001\u0005$???"
+            },
+            {
+              "id": 7210,
+              "string": "1\u0000\u0007Your \u0001\u0005#???? break"
+            },
+            {
+              "id": 7212,
+              "string": "?!\u0000\u0007You dig up \u0001\u0001\u0001 \u0001\u0005$????, but your \u0001\u0005#???? breaks in the proces"
+            },
+            {
+              "id": 7214,
+              "string": "g.\u0000\u0007You cannot carry any more items. Your inventory is ful"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806375,
+      "name": "Jakaka",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007Begone, my friend. You have what you need.\u0007To travel beyond the forsaken weed...I mean gas."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007Showzy-wowzy! Parradamo stones! You solved the riddle!"
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007A fine ?[man\/girl] you are, so strong and so brave!\u0007You've earned this here mask, now off to the cave...I mean gully."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007Hey you!\u0007Do I look like a troll? All my friends call me troll..."
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007Just because I rhyme and have a wart on my noggin,\u0007Doesn't quite mean I'm a big, nasty Goblin...I mean troll."
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007Anyway, you wouldn'taru happen to be looky-wooking for a way to get through that nasty-wasty miasma surrounding the Boneyard Gully, would you?"
+            },
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007Well,\u0007I could help you, fine ?[lad\/lass], with this gas-busting mask,\u0007But first you must finish one difficult task."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007To Parradamo's peak, this pouch you must take.\u0007For if you do not, the miasma seal you shan't break...I mean pass."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Unless you have some urgentaru reason, I wouldn't recommend traveling anywhere near the Boneyard Gully-scully."
+            },
+            {
+              "id": 7342,
+              "string": "1\u0000\u0007Stay clear 'til ?\u0000 (?\u0000 Earth time),\u0007Unless you wish a good whipping in the behind...I mean butt...I mean behind."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007To Parradamo's peak, that pouch you must take.\u0007For if you do not, the miasma seal you shan't break...I mean pass."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806376,
+      "name": "Planar Rift",
+      "events": [
+        {
+          "id": 6000,
+          "dialogue": [
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007You feel a mysterious energy seeping forth from an unknown source..."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007The \u0001\u00053???? resonates with the \u0001\u00053????.\u0007You may commence the Voidwatch operation at will."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007However, your presence does not seem to elicit a reaction."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Initiate Voidwatch operation.\u0007View alignment values.\u0007Examine atmacite.\u0007Read up on the Voidwatch."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7491,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes, use with \u0001\u00055????.\u0007Yes.\u0007No."
+            },
+            {
+              "id": 7492,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007\u001e\u0005Current Spectral Alignment\u001e\u0001\u0007Blue: +\n\u0000% (reward quantity)\u0007Red: +\n\u0001% (reward quality)"
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Yellow: +\n\u0000% (experience yield)\u0007Green: +\n\u0001% (cruor yield)"
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007Alignment bonuses granted by ascent items will be added to the final value."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007You can infuse up to \n\u0000 atmacite at this time."
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing for now.\u0007Infused: \u0001\u00053???? (Lv.\n\u0001)\u0007Infused: \u0001\u00053???? (Lv.\n\u0003)\u0007Infused: \u0001\u00053???? (Lv.\n\u0005)\u0007Purge atmacite.\u0007Infuse atmacite.\u0007Enrich atmacite."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007You do not possess any atmacite capable of enrichment."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007Enrich which atmacite? (Cruor: \n$)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001): \n\u0002\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004): \n\u0005\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007): \n\b\u0007?\u0001\u0001\u00053???? (Lv.\n\n): \n\u000b\u0007?\u0001\u0001\u00053???? (Lv.\n\r): \n\u000e\u0007?\u0001\u0001\u00053???? (Lv.\n\u0010): \n\u0011\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013): \n\u0014\u0007?\u0001\u0001\u00053???? (Lv.\n\u0016): \n\u0017\u0007?\u0001\u0001\u00053???? (Lv.\n\u0019): \n\u001a\u0007?\u0001\u0001\u00053???? (Lv.\n\u001c): \n\u001d\u0007?\u0001\u0001\u00053???? (Lv.\n\u001f): \n \u0007?\u0001\u0001\u00053???? (Lv.\n\"): \n#\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? will produce the following:"
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? from level \n\u0001 to level \n\u0002 requires \n\u0003 cruor."
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007Enrich \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007Read up on what?\u0007\u000bNothing for now.\u0007Voidwatch Ops.\u0007How to participate.\u0007?\u0001\u0001\u00055????.\u0007Stratum abyssite.\u0007Alignment.\u0007Atmacite.\u0007Periapt."
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called ??Voidwalkers.?? Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos."
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized.\u0007This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched."
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007Such efforts to stem the rise of Voidwalkers, collectively dubbed ??Voidwatch Operations,?? or ??Ops?? for short, take place in the vicinity of planar rifts--weak points in the fabric of space."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007A single person may initiate a Voidwatch operation, at which time ??Voidwatcher?? status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker."
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status."
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world.\u0007Such is the arduous nature of transdimensional encounters."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Only one person needs to be in possession of these objects for all party and alliance members to participate."
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007However, there exists a number of participation conditions that must be observed."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007When an operation commences, a single voidstone will be expended for all who possess it.\u0007These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain."
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007The ??voidstone?? is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation.\u0007Those without one, however, will find their spoils limited in both quantity and quality."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory."
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined."
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development."
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum."
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
+            },
+            {
+              "id": 7419,
+              "string": "1\u0000\u0007Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as ??ascent items.??"
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items."
+            },
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected."
+            },
+            {
+              "id": 7424,
+              "string": "1\u0000\u0007The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007The precise workings of each light can be reviewed when examining your current alignment values."
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils."
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle."
+            },
+            {
+              "id": 7428,
+              "string": "1\u0000\u0007Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts.\u0007By infusing atmacite to one's body using \u0001\u00056????, it is possible to enhance one's battle prowess."
+            },
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation."
+            },
+            {
+              "id": 7430,
+              "string": "1\u0000\u0007Atmacite is resilient and will not be expended in the infusion process."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007Furthermore, infused atmacite will remain in place until voluntarily purged."
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007Atmacite can be enriched in stages to a maximum of level \n\u0000."
+            },
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death."
+            },
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Although their acquisition can only be described as arduous, the benefits make them well worth the effort."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806377,
+      "name": "Planar Rift",
+      "events": [
+        {
+          "id": 6001,
+          "dialogue": [
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007You feel a mysterious energy seeping forth from an unknown source..."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007The \u0001\u00053???? resonates with the \u0001\u00053????.\u0007You may commence the Voidwatch operation at will."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007However, your presence does not seem to elicit a reaction."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Initiate Voidwatch operation.\u0007View alignment values.\u0007Examine atmacite.\u0007Read up on the Voidwatch."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7491,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes, use with \u0001\u00055????.\u0007Yes.\u0007No."
+            },
+            {
+              "id": 7492,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007\u001e\u0005Current Spectral Alignment\u001e\u0001\u0007Blue: +\n\u0000% (reward quantity)\u0007Red: +\n\u0001% (reward quality)"
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Yellow: +\n\u0000% (experience yield)\u0007Green: +\n\u0001% (cruor yield)"
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007Alignment bonuses granted by ascent items will be added to the final value."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007You can infuse up to \n\u0000 atmacite at this time."
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing for now.\u0007Infused: \u0001\u00053???? (Lv.\n\u0001)\u0007Infused: \u0001\u00053???? (Lv.\n\u0003)\u0007Infused: \u0001\u00053???? (Lv.\n\u0005)\u0007Purge atmacite.\u0007Infuse atmacite.\u0007Enrich atmacite."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007You do not possess any atmacite capable of enrichment."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007Enrich which atmacite? (Cruor: \n$)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001): \n\u0002\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004): \n\u0005\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007): \n\b\u0007?\u0001\u0001\u00053???? (Lv.\n\n): \n\u000b\u0007?\u0001\u0001\u00053???? (Lv.\n\r): \n\u000e\u0007?\u0001\u0001\u00053???? (Lv.\n\u0010): \n\u0011\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013): \n\u0014\u0007?\u0001\u0001\u00053???? (Lv.\n\u0016): \n\u0017\u0007?\u0001\u0001\u00053???? (Lv.\n\u0019): \n\u001a\u0007?\u0001\u0001\u00053???? (Lv.\n\u001c): \n\u001d\u0007?\u0001\u0001\u00053???? (Lv.\n\u001f): \n \u0007?\u0001\u0001\u00053???? (Lv.\n\"): \n#\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? will produce the following:"
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? from level \n\u0001 to level \n\u0002 requires \n\u0003 cruor."
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007Enrich \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007Read up on what?\u0007\u000bNothing for now.\u0007Voidwatch Ops.\u0007How to participate.\u0007?\u0001\u0001\u00055????.\u0007Stratum abyssite.\u0007Alignment.\u0007Atmacite.\u0007Periapt."
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called ??Voidwalkers.?? Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos."
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized.\u0007This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched."
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007Such efforts to stem the rise of Voidwalkers, collectively dubbed ??Voidwatch Operations,?? or ??Ops?? for short, take place in the vicinity of planar rifts--weak points in the fabric of space."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007A single person may initiate a Voidwatch operation, at which time ??Voidwatcher?? status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker."
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status."
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world.\u0007Such is the arduous nature of transdimensional encounters."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Only one person needs to be in possession of these objects for all party and alliance members to participate."
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007However, there exists a number of participation conditions that must be observed."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007When an operation commences, a single voidstone will be expended for all who possess it.\u0007These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain."
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007The ??voidstone?? is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation.\u0007Those without one, however, will find their spoils limited in both quantity and quality."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory."
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined."
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development."
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum."
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
+            },
+            {
+              "id": 7419,
+              "string": "1\u0000\u0007Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as ??ascent items.??"
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items."
+            },
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected."
+            },
+            {
+              "id": 7424,
+              "string": "1\u0000\u0007The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007The precise workings of each light can be reviewed when examining your current alignment values."
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils."
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle."
+            },
+            {
+              "id": 7428,
+              "string": "1\u0000\u0007Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts.\u0007By infusing atmacite to one's body using \u0001\u00056????, it is possible to enhance one's battle prowess."
+            },
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation."
+            },
+            {
+              "id": 7430,
+              "string": "1\u0000\u0007Atmacite is resilient and will not be expended in the infusion process."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007Furthermore, infused atmacite will remain in place until voluntarily purged."
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007Atmacite can be enriched in stages to a maximum of level \n\u0000."
+            },
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death."
+            },
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Although their acquisition can only be described as arduous, the benefits make them well worth the effort."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806378,
+      "name": "Planar Rift",
+      "events": [
+        {
+          "id": 6002,
+          "dialogue": [
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007You feel a mysterious energy seeping forth from an unknown source..."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007The \u0001\u00053???? resonates with the \u0001\u00053????.\u0007You may commence the Voidwatch operation at will."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007However, your presence does not seem to elicit a reaction."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Initiate Voidwatch operation.\u0007View alignment values.\u0007Examine atmacite.\u0007Read up on the Voidwatch."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7491,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes, use with \u0001\u00055????.\u0007Yes.\u0007No."
+            },
+            {
+              "id": 7492,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007\u001e\u0005Current Spectral Alignment\u001e\u0001\u0007Blue: +\n\u0000% (reward quantity)\u0007Red: +\n\u0001% (reward quality)"
+            },
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Yellow: +\n\u0000% (experience yield)\u0007Green: +\n\u0001% (cruor yield)"
+            },
+            {
+              "id": 7373,
+              "string": "1\u0000\u0007Alignment bonuses granted by ascent items will be added to the final value."
+            },
+            {
+              "id": 7374,
+              "string": "1\u0000\u0007You can infuse up to \n\u0000 atmacite at this time."
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing for now.\u0007Infused: \u0001\u00053???? (Lv.\n\u0001)\u0007Infused: \u0001\u00053???? (Lv.\n\u0003)\u0007Infused: \u0001\u00053???? (Lv.\n\u0005)\u0007Purge atmacite.\u0007Infuse atmacite.\u0007Enrich atmacite."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007You do not possess any atmacite capable of enrichment."
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007Enrich which atmacite? (Cruor: \n$)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001): \n\u0002\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004): \n\u0005\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007): \n\b\u0007?\u0001\u0001\u00053???? (Lv.\n\n): \n\u000b\u0007?\u0001\u0001\u00053???? (Lv.\n\r): \n\u000e\u0007?\u0001\u0001\u00053???? (Lv.\n\u0010): \n\u0011\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013): \n\u0014\u0007?\u0001\u0001\u00053???? (Lv.\n\u0016): \n\u0017\u0007?\u0001\u0001\u00053???? (Lv.\n\u0019): \n\u001a\u0007?\u0001\u0001\u00053???? (Lv.\n\u001c): \n\u001d\u0007?\u0001\u0001\u00053???? (Lv.\n\u001f): \n \u0007?\u0001\u0001\u00053???? (Lv.\n\"): \n#\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? will produce the following:"
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? from level \n\u0001 to level \n\u0002 requires \n\u0003 cruor."
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007Enrich \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007Read up on what?\u0007\u000bNothing for now.\u0007Voidwatch Ops.\u0007How to participate.\u0007?\u0001\u0001\u00055????.\u0007Stratum abyssite.\u0007Alignment.\u0007Atmacite.\u0007Periapt."
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called ??Voidwalkers.?? Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos."
+            },
+            {
+              "id": 7400,
+              "string": "1\u0000\u0007Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized.\u0007This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched."
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007Such efforts to stem the rise of Voidwalkers, collectively dubbed ??Voidwatch Operations,?? or ??Ops?? for short, take place in the vicinity of planar rifts--weak points in the fabric of space."
+            },
+            {
+              "id": 7402,
+              "string": "1\u0000\u0007A single person may initiate a Voidwatch operation, at which time ??Voidwatcher?? status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker."
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status."
+            },
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world.\u0007Such is the arduous nature of transdimensional encounters."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift."
+            },
+            {
+              "id": 7406,
+              "string": "1\u0000\u0007Only one person needs to be in possession of these objects for all party and alliance members to participate."
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007However, there exists a number of participation conditions that must be observed."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007When an operation commences, a single voidstone will be expended for all who possess it.\u0007These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain."
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007The ??voidstone?? is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation.\u0007Those without one, however, will find their spoils limited in both quantity and quality."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory."
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals."
+            },
+            {
+              "id": 7414,
+              "string": "1\u0000\u0007Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts."
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined."
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development."
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum."
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
+            },
+            {
+              "id": 7419,
+              "string": "1\u0000\u0007Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as ??ascent items.??"
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items."
+            },
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected."
+            },
+            {
+              "id": 7424,
+              "string": "1\u0000\u0007The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007The precise workings of each light can be reviewed when examining your current alignment values."
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils."
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle."
+            },
+            {
+              "id": 7428,
+              "string": "1\u0000\u0007Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts.\u0007By infusing atmacite to one's body using \u0001\u00056????, it is possible to enhance one's battle prowess."
+            },
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation."
+            },
+            {
+              "id": 7430,
+              "string": "1\u0000\u0007Atmacite is resilient and will not be expended in the infusion process."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007Furthermore, infused atmacite will remain in place until voluntarily purged."
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007Atmacite can be enriched in stages to a maximum of level \n\u0000."
+            },
+            {
+              "id": 7435,
+              "string": "1\u0000\u0007All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death."
+            },
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
+            },
+            {
+              "id": 7437,
+              "string": "1\u0000\u0007Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007Although their acquisition can only be described as arduous, the benefits make them well worth the effort."
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7377,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 7378,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 7379,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806379,
+      "name": "Riftworn Pyxis",
+      "events": [
+        {
+          "id": 6003,
+          "dialogue": [
+            {
+              "id": 7485,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[\/??]?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7487,
+              "string": "1\u0000\u0007One or more of the items you are about to obtain can be converted into pulse cell"
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806380,
+      "name": "Riftworn Pyxis",
+      "events": [
+        {
+          "id": 6004,
+          "dialogue": [
+            {
+              "id": 7485,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[\/??]?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7487,
+              "string": "1\u0000\u0007One or more of the items you are about to obtain can be converted into pulse cell"
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806381,
+      "name": "Riftworn Pyxis",
+      "events": [
+        {
+          "id": 6005,
+          "dialogue": [
+            {
+              "id": 7485,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[\/??]?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7487,
+              "string": "1\u0000\u0007One or more of the items you are about to obtain can be converted into pulse cell"
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806383,
+      "name": "Home Point #1",
+      "events": [
+        {
+          "id": 8700,
+          "dialogue": [
+            {
+              "id": 8233,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 8231,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 8232,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 8243,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 8244,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 8228,
+              "string": "s!\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 8229,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8234,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 8241,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8237,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 8242,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8239,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8240,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8248,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8235,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8235,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8239,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8240,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806384,
+      "name": "Home Point #2",
+      "events": [
+        {
+          "id": 8701,
+          "dialogue": [
+            {
+              "id": 8233,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 8231,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 8232,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 8243,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 8244,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 8228,
+              "string": "s!\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 8229,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8234,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 8241,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8237,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 8242,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8239,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8240,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8248,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8235,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8235,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8239,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8240,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806385,
+      "name": "Home Point #3",
+      "events": [
+        {
+          "id": 8702,
+          "dialogue": [
+            {
+              "id": 8233,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 8231,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 8232,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 8243,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 8244,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 8228,
+              "string": "s!\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 8229,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8234,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 8241,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8237,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 8242,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8239,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8240,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8248,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8235,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8235,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8239,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8240,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806386,
+      "name": "Home Point #4",
+      "events": [
+        {
+          "id": 8703,
+          "dialogue": [
+            {
+              "id": 8233,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 8231,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 8232,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 8243,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 8244,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 8228,
+              "string": "s!\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 8229,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8234,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 8241,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8237,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 8242,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8239,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8240,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8248,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8235,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8235,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8239,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8240,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806387,
+      "name": "Home Point #5",
+      "events": [
+        {
+          "id": 8704,
+          "dialogue": [
+            {
+              "id": 8233,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 8231,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 8232,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 8243,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 8244,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 8228,
+              "string": "s!\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 8229,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8234,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 8241,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8237,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 8242,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8239,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8240,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8248,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 8235,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8235,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8239,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 8240,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806388,
+      "name": "Ethereal Junction",
+      "events": [
+        {
+          "id": 9000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9003,
+          "dialogue": [
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8306,
+              "string": "1\u0000\u0007You currently have multiple Wanted battle objectives set. Select which one you would like to undertake."
+            },
+            {
+              "id": 8307,
+              "string": "1\u0000\u0007Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806389,
+      "name": "Ethereal Junction",
+      "events": [
+        {
+          "id": 9001,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9004,
+          "dialogue": [
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8306,
+              "string": "1\u0000\u0007You currently have multiple Wanted battle objectives set. Select which one you would like to undertake."
+            },
+            {
+              "id": 8307,
+              "string": "1\u0000\u0007Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16806390,
+      "name": "Ethereal Junction",
+      "events": [
+        {
+          "id": 9002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9005,
+          "dialogue": [
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8306,
+              "string": "1\u0000\u0007You currently have multiple Wanted battle objectives set. Select which one you would like to undertake."
+            },
+            {
+              "id": 8307,
+              "string": "1\u0000\u0007Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????.\u0007\u0001\u0005@????."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            },
+            {
+              "id": 8288,
+              "string": "1\u0000\u0007Those who have accepted \u0001\u0005@???? must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?\/You do not have the appropriate object set, so your rewards will be limited.]"
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

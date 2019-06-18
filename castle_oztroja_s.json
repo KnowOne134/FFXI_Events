@@ -1,0 +1,2494 @@
+{
+  "id": 99,
+  "name": "Castle Oztroja [S]",
+  "actors": [
+    {
+      "id": 17183472,
+      "name": "",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 460,
+          "dialogue": [
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007Register for a union?\u0007\u000bNo.\u0007Yes."
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Transfer to another union.\u0007Resign union membership."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007\f\u0000[Transfer unions\/Resign from your current union]?\u0007\u000bNo.\u0007Yes."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007\f\u0000[Transfer unions\/Resign from your current union]?\u0007\u000bNo.\u0007Yes."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits.\u0007For better or for worse, though, I suspect it shall not be long before we are in need of some new blood.\u0007Such is the nature of war..."
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007Register for which union?\u0007\u000bNone.\u0007Adder Union (\n\u0000 ?\u0000[member\/members]).\u0007Bison Union (\n\u0001 ?\u0001[member\/members]).\u0007Coyote Union (\n\u0002 ?\u0002[member\/members]).\u0007Dhole Union (\n\u0003 ?\u0003[member\/members]).\u0007Eland Union (\n\u0004 ?\u0004[member\/members])."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183500,
+      "name": "",
+      "events": [
+        {
+          "id": 113,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "dialogue": [
+            {
+              "id": 8365,
+              "string": "r!\u0000\u0007?????????n?????????H\u0007\u000b??????\u0007?E?B???_?X?P?P\u0007?E?B???_?X?P?Q"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183503,
+      "name": "Yaibroux, T.K.",
+      "events": [
+        {
+          "id": 250,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 450,
+          "dialogue": [
+            {
+              "id": 7154,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 454,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183504,
+      "name": "Ortwin, I.M.",
+      "events": [
+        {
+          "id": 251,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 451,
+          "dialogue": [
+            {
+              "id": 7154,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 455,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183505,
+      "name": "Ringu-Tangu, C.C.",
+      "events": [
+        {
+          "id": 252,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 452,
+          "dialogue": [
+            {
+              "id": 7154,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 456,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183510,
+      "name": "Ulmer, C.A.",
+      "events": [
+        {
+          "id": 453,
+          "dialogue": [
+            {
+              "id": 7154,
+              "string": "1\u0000\u0007What are you doing here? This is no place for civilians."
+            }
+          ]
+        },
+        {
+          "id": 457,
+          "dialogue": [
+            {
+              "id": 7167,
+              "string": "1\u0000\u0007Greetings. I am \t of the San d'Orian Provincial Knights."
+            },
+            {
+              "id": 7168,
+              "string": "1\u0000\u0007Greetings. I am \t of the Bastokan Legion."
+            },
+            {
+              "id": 7169,
+              "string": "1\u0000\u0007Greetings. I am \t of the Federation of Windurst."
+            },
+            {
+              "id": 7170,
+              "string": "1\u0000\u0007Greetings. I am \t, Campaign Arbiter for the Allied Forces."
+            },
+            {
+              "id": 7171,
+              "string": "1\u0000\u0007What can I help you with?\u0007\u000bNothing.\u0007Performance assessment.\u0007New Allied Tags.\u0007Temporary items.\u0007Union registration.\u0007Teleportation.\u0007Information on the Allied Campaign."
+            },
+            {
+              "id": 7177,
+              "string": "1\u0000\u0007You've already undergone an evaluation for this battle, or had you forgotten?\u0007As much as I'd like to, I'm forbidden from providing you with a new set of Allied Taegs until the next battle begins."
+            },
+            {
+              "id": 7217,
+              "string": "\u0000!\u0000\u0007I am sorry, \b, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official."
+            },
+            {
+              "id": 7217,
+              "string": "\u0000!\u0000\u0007I am sorry, \b, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official."
+            },
+            {
+              "id": 7174,
+              "string": "1\u0000\u0007Understood. I shall now judge your performance and award the proper remuneration."
+            },
+            {
+              "id": 7176,
+              "string": "1\u0000\u0007Understood. I shall prepare a new set of tags for you now."
+            },
+            {
+              "id": 7206,
+              "string": "1\u0000\u0007Let me show you the list of items currently available to you."
+            },
+            {
+              "id": 7207,
+              "string": "1\u0000\u0007Select a category:\u0007\u000bQuit.\u0007\n\u0000-Note Items.\u0007\n\u0001-Note Items.\u0007\n\u0002-Note Items."
+            },
+            {
+              "id": 7208,
+              "string": "1\u0000\u0007Which item would you like to see?\u0007\u000bQuit.\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????\u0007?\u0001\u0001\u0001\u0001 \u0001\u0005$????"
+            },
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007You currently possess \n' Allied Note?'[\/s]."
+            },
+            {
+              "id": 7210,
+              "string": "1\u0000\u0007Proceed with the transaction?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7224,
+              "string": "y.\u0000\u0007Register for a union?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Transfer to another union.\u0007Resign union membership."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007\f\u0000[Transfer\/Resign] from your current union?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union\/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed."
+            },
+            {
+              "id": 7225,
+              "string": "1\u0000\u0007\f\u0000[Transfer\/Resign] from your current union?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits.\u0007For better or for worse, though, I suspect it shall not be long before we are in need of some new blood.\u0007Such is the nature of war..."
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007Register for which union?\u0007\u000bNone.\u0007Adder Union (\n\u0000 ?\u0000[member\/members]).\u0007Bison Union (\n\u0001 ?\u0001[member\/members]).\u0007Coyote Union (\n\u0002 ?\u0002[member\/members]).\u0007Dhole Union (\n\u0003 ?\u0003[member\/members]).\u0007Eland Union (\n\u0004 ?\u0004[member\/members])."
+            },
+            {
+              "id": 7192,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 7162,
+              "string": "d.\u0000\u0007I am sorry. You do not have enough Allied Notes."
+            },
+            {
+              "id": 7192,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 7162,
+              "string": "d.\u0000\u0007I am sorry. You do not have enough Allied Notes."
+            },
+            {
+              "id": 7192,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 7162,
+              "string": "d.\u0000\u0007I am sorry. You do not have enough Allied Notes."
+            },
+            {
+              "id": 7192,
+              "string": "1\u0000\u0007I will require a teleportation fee of \n\u0000 Allied Note?\u0000[\/s]. I see you currently possess \n\u0002."
+            },
+            {
+              "id": 7193,
+              "string": "1\u0000\u0007Complete transaction and return to capital?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7172,
+              "string": "1\u0000\u0007What would you like to know?\u0007\u000bNothing. I'm sorry.\u0007About performance assessment.\u0007About Allied Tags.\u0007About temporary items.\u0007About Unions."
+            },
+            {
+              "id": 7178,
+              "string": "1\u0000\u0007Anyone wearing Allied Tags while participating in a campaign battle will be judged on their overall performance."
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007Soldiers will be evaluated not only on their fighting skills, but also on how much they contribute to the efforts of their allies through means such as healing and enhancing."
+            },
+            {
+              "id": 7180,
+              "string": "1\u0000\u0007However, beware that if you leave the area before being assessed, you will be deemed a deserter and will forfeit all rewards earned that day."
+            },
+            {
+              "id": 7181,
+              "string": "1\u0000\u0007Also, while there are no immediate penalties for being knocked out, falling in battle will significantly lower the score given to you."
+            },
+            {
+              "id": 7182,
+              "string": "1\u0000\u0007When you are ready to receive compensation for your work on the field, return to me and I shall assess your performance and provide you with your payment."
+            },
+            {
+              "id": 7191,
+              "string": "1\u0000\u0007That is all."
+            },
+            {
+              "id": 7183,
+              "string": "1\u0000\u0007Allied Tags are a special type of identification given to all participants of Allied Campaign battles."
+            },
+            {
+              "id": 7184,
+              "string": "1\u0000\u0007There are benefits, as well as drawbacks, to wearing the tags. One of the benefits is that in the case you are knocked out on the battlefield, you will not lose any experience points."
+            },
+            {
+              "id": 7185,
+              "string": "1\u0000\u0007However, some of the drawbacks include the inability to improve skills and earn experience points for individual kills, as well as the right to loot fallen enemies."
+            },
+            {
+              "id": 7191,
+              "string": "1\u0000\u0007That is all."
+            },
+            {
+              "id": 7186,
+              "string": "1\u0000\u0007Temporary items can be purchased in exchange for Allied Notes."
+            },
+            {
+              "id": 7187,
+              "string": "1\u0000\u0007There are several different varieties of items, but they all have one thing in common--they can only be used on the battlefield they were issued."
+            },
+            {
+              "id": 7188,
+              "string": "1\u0000\u0007It is highly recommended that you first survey a battle's conditions and then select the supplies that you believe will benefit you most."
+            },
+            {
+              "id": 7189,
+              "string": "1\u0000\u0007Please remember that all temporary items you carry on your person will be confiscated in the event that you leave the area."
+            },
+            {
+              "id": 7191,
+              "string": "1\u0000\u0007That is all."
+            },
+            {
+              "id": 7218,
+              "string": "1\u0000\u0007Oh ho! Keen to join a Union, are we?\u0007Very well. Listen up and I shall tell you all you need to know."
+            },
+            {
+              "id": 7219,
+              "string": "1\u0000\u0007In order to better coordinate Allied efforts against the beastman menace, we have instituted a system of ad hoc tactical regiments called ??Unions.?? With five units to a battlefield, union registration is open to any proven soldier in possession of Allied Tags."
+            },
+            {
+              "id": 7220,
+              "string": "1\u0000\u0007In return for their aid in advancing the war effort, union registrants will be eligible to earn a share of the spoils of war."
+            },
+            {
+              "id": 7221,
+              "string": "1\u0000\u0007Needless to say, the choicest rewards will be reserved for those unions which make the greatest contributions in combat.\u0007Prove your mettle on the field of battle, and you will earn glory for your union, as well as a sizable bounty of your own."
+            },
+            {
+              "id": 7222,
+              "string": "1\u0000\u0007Be forewarned that your commitment to your union comes first and foremost.\u0007In the aftermath of battle, you will not be permitted to reap rewards from your individual exploits until your union has distributed its plunder."
+            },
+            {
+              "id": 7191,
+              "string": "1\u0000\u0007That is all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183511,
+      "name": "Brass Door",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183546,
+      "name": "Collapsing Floor",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183547,
+      "name": "Ethereal Spout",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183556,
+      "name": "Brass Door",
+      "events": [
+        {
+          "id": 111,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183558,
+      "name": "Torch Stand",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 8097,
+              "string": "1\u0000\u0007Light the torch?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183559,
+      "name": "Torch Stand",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 8097,
+              "string": "1\u0000\u0007Light the torch?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183560,
+      "name": "Torch Stand",
+      "events": [
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 8097,
+              "string": "1\u0000\u0007Light the torch?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183561,
+      "name": "Torch Stand",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 8097,
+              "string": "1\u0000\u0007Light the torch?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183563,
+      "name": "Writhing Flame",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183564,
+      "name": "",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183565,
+      "name": "Robel-Akbel",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 8109,
+              "string": "1\u0000\u0007What's going on here!?\u0007Ghyo of the Tigresses and Romaa of the Cobras...\u0007Who's guarding Fort Karugo-Narugo!?"
+            },
+            {
+              "id": 8113,
+              "string": "1\u0000\u0007Keep your explanation brief!"
+            },
+            {
+              "id": 8116,
+              "string": "1\u0000\u0007You're certain?"
+            },
+            {
+              "id": 8120,
+              "string": "1\u0000\u0007I'm surprised this type of equipment appeared so early..."
+            },
+            {
+              "id": 8121,
+              "string": "1\u0000\u0007Was there anything else gleaned from the quipus?"
+            },
+            {
+              "id": 8122,
+              "string": "1\u0000\u0007??Manifest, lead us to the city.\u0007Windurst...will fall??...?"
+            },
+            {
+              "id": 8126,
+              "string": "1\u0000\u0007Fascinating.\u0007So the Yagudo leader has joined the main thrust towards the city.\u0007That explains why the castle is so empty..."
+            },
+            {
+              "id": 8128,
+              "string": "1\u0000\u0007No, I think I understand the game now.\u0007First, we return to Karugo-Narugo."
+            },
+            {
+              "id": 8129,
+              "string": "1\u0000\u0007Romaa, I need you to head to Windurst after all.\u0007Rouse the Anacondas and send them to the fort with all haste!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183566,
+      "name": "Ghyo Molkot",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 8104,
+              "string": "1\u0000\u0007Is that it for this floor?"
+            },
+            {
+              "id": 8106,
+              "string": "1\u0000\u0007Where are all the hulkin' elite troops hidin'?\u0007We've fought nothin' but rrrank and file..."
+            },
+            {
+              "id": 8110,
+              "string": "1\u0000\u0007That puffed-up peabrrrain from the Sagittarian War Warlocks sent us here under the Star Sibyl's name.\u0007We thought we had no choice!"
+            },
+            {
+              "id": 8123,
+              "string": "1\u0000\u0007Manifest?\u0007What's that supposed to mean?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183567,
+      "name": "Nhiko Rhaabel",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 8105,
+              "string": "1\u0000\u0007Looks like it.\u0007No sign of strrragglers..."
+            },
+            {
+              "id": 8108,
+              "string": "1\u0000\u0007Huh?\u0007Romaa, what are you and \b doin' here?"
+            },
+            {
+              "id": 8112,
+              "string": "1\u0000\u0007That's rrright.\u0007And there was this--"
+            },
+            {
+              "id": 8119,
+              "string": "1\u0000\u0007We left prrretty much nothing but the little warlock guys at the fort.\u0007I'm guessin' they aren't too handy with swords or bows..."
+            },
+            {
+              "id": 8124,
+              "string": "1\u0000\u0007Isn't that what they call the Yagudo deity...?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183568,
+      "name": "Romaa Mihgo",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 8107,
+              "string": "1\u0000\u0007Ghyo!\u0007We need you back at the fort!"
+            },
+            {
+              "id": 8115,
+              "string": "1\u0000\u0007The fort is in big trrrouble!"
+            },
+            {
+              "id": 8117,
+              "string": "1\u0000\u0007Here's the situation..."
+            },
+            {
+              "id": 8125,
+              "string": "1\u0000\u0007Tzee Xicu the Manifest!"
+            },
+            {
+              "id": 8127,
+              "string": "1\u0000\u0007When you're done hypothesizin', how about we mobilize our forces and march back to Windurst!?"
+            },
+            {
+              "id": 8130,
+              "string": "1\u0000\u0007Understood.\u0007I'll pass on the order to Perih."
+            },
+            {
+              "id": 8131,
+              "string": "1\u0000\u0007\b, return to Karugo-Narugo with Ghyo and the others.\u0007They're gonna need all the help they can get!"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 8184,
+              "string": "1\u0000\u0007One of the prisoners!\u0007Are you all right!?"
+            },
+            {
+              "id": 8188,
+              "string": "1\u0000\u0007You can rrrest easy, friend. You'll be safe now.\u0007And don't you worry; we'll see to your companions."
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            {
+              "id": 8192,
+              "string": "1\u0000\u0007Can you hear us, frrriend?\u0007We've come to rescue you!"
+            },
+            {
+              "id": 8194,
+              "string": "1\u0000\u0007Our regiment has made camp in the Meriphataud Mountains. You will be safe there.\u0007Can you make the trip alone?"
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            {
+              "id": 8202,
+              "string": "1\u0000\u0007You there! Can you stand?"
+            },
+            {
+              "id": 8207,
+              "string": "1\u0000\u0007Yeah, yeah. Are we done here alrrready?\u0007Here's \u0001\u0001\u0001 \u0001\u0005$???? and \u0001\u0001\u0001 \u0001\u0005$????. Just try not to get yourself killed on the way out, okay?"
+            },
+            {
+              "id": 8211,
+              "string": "1\u0000\u0007Is that everyone?"
+            },
+            {
+              "id": 8214,
+              "string": "1\u0000\u0007Syu is up there, you say!?"
+            },
+            {
+              "id": 8216,
+              "string": "1\u0000\u0007Grrrrr... Don't you worry.\u0007We'll see to yer friends, and I'll personally ensure that the crows pay for their vile deeds."
+            },
+            {
+              "id": 8218,
+              "string": "1\u0000\u0007That noise...it came from above!"
+            },
+            {
+              "id": 8223,
+              "string": "1\u0000\u0007And what of our companions, Lehko? There are wounded among them.\u0007Someone must escorrrt them to safety. To the capital--"
+            },
+            {
+              "id": 8225,
+              "string": "1\u0000\u0007Jeuno?"
+            },
+            {
+              "id": 8228,
+              "string": "1\u0000\u0007Yes, we must take proper prrrecautions this time.\u0007I believe I can spare a couple o' my girls as backup."
+            },
+            {
+              "id": 8229,
+              "string": "1\u0000\u0007Lehko. I'll escort them back to camp for the meantime.\u0007They'll be needing a good meal and rest before they depart."
+            },
+            {
+              "id": 8231,
+              "string": "1\u0000\u0007Hm? What's this now...?"
+            },
+            {
+              "id": 8232,
+              "string": "1\u0000\u0007A key? And yet, different from our \u0001\u0005#????...\u0007Could one of the birdmen have drrropped it?"
+            },
+            {
+              "id": 8236,
+              "string": "1\u0000\u0007Well, Lehko, Perih, \b... Looks like you're in business.\u0007Now go teach those birdmen a lesson they won't soon forrrget."
+            },
+            {
+              "id": 8237,
+              "string": "1\u0000\u0007Should anything happen to that key, come and see me back in Meriphataud.\u0007I'll have our quartermaster whip up a spare."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183569,
+      "name": "Prido-Homildo",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 8111,
+              "string": "1\u0000\u0007The Star Sibyl...?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183570,
+      "name": "Boo Kyeko the Ironfaith",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 8132,
+              "string": "1\u0000\u0007Kyah-kyah. \u0007What brings you to our nest, smoothskin?"
+            },
+            {
+              "id": 8133,
+              "string": "1\u0000\u0007You seek \u0001\u00053????, you say? Kyah-hah-hah!"
+            },
+            {
+              "id": 8134,
+              "string": "1\u0000\u0007Squawk! A fool you are.\u0007Fool-fool-fool. \u0007You would trespass so deep into our holy ground in search of some trinket from an old hen's tale?"
+            },
+            {
+              "id": 8135,
+              "string": "1\u0000\u0007Kyah!\u0007You will die like the infidel you are!"
+            },
+            {
+              "id": 8137,
+              "string": "1\u0000\u0007Kakwah?\u0007My lord?"
+            },
+            {
+              "id": 8140,
+              "string": "1\u0000\u0007...Kyah."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183571,
+      "name": "Kaa Toru the Just",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 8136,
+              "string": "1\u0000\u0007Lower your weapon."
+            },
+            {
+              "id": 8138,
+              "string": "1\u0000\u0007Have you forgotten the pact!?\u0007Kyah! Your insolence knows no bounds!"
+            },
+            {
+              "id": 8139,
+              "string": "1\u0000\u0007Are we Yagudo not the most proud and honorable of the races?\u0007Pray that I do not inform Tzee Xicu of your affront!"
+            },
+            {
+              "id": 8141,
+              "string": "1\u0000\u0007Yes, I know the relic of which you speak, entrusted to us by our ??friends?? of old.\u0007It is an ancient, ancient tale, written off by all as pure fable."
+            },
+            {
+              "id": 8142,
+              "string": "1\u0000\u0007All save for I...for I am Kaa Toru the Just."
+            },
+            {
+              "id": 8143,
+              "string": "1\u0000\u0007I give fair hearing to all who come before me, even a smoothskin such as you."
+            },
+            {
+              "id": 8144,
+              "string": "1\u0000\u0007But in exchange for my fair judgment, my demands are stern."
+            },
+            {
+              "id": 8145,
+              "string": "1\u0000\u0007Bring proof that you are truly the promised one, and your cause shall be heard."
+            },
+            {
+              "id": 8146,
+              "string": "1\u0000\u0007But be forewarned.\u0007If your heart is deemed deceitful, my brethren will pick the flesh from your bones.\u0007Kyah!"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 8147,
+              "string": "1\u0000\u0007I give fair hearing to all who come before me, even a smoothskin such as you."
+            },
+            {
+              "id": 8148,
+              "string": "1\u0000\u0007Bring proof that you are truly the promised one, and your cause shall be heard."
+            },
+            {
+              "id": 8149,
+              "string": "1\u0000\u0007But be forewarned.\u0007If your heart is deemed deceitful, my brethren will pick the flesh from your bones.\u0007Kyah!"
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 8150,
+              "string": "1\u0000\u0007I see."
+            },
+            {
+              "id": 8151,
+              "string": "1\u0000\u0007I deem you worthy.\u0007You are indeed ?[he\/she] of whom the legends spoke."
+            },
+            {
+              "id": 8152,
+              "string": "1\u0000\u0007Take it.\u0007It is yours."
+            },
+            {
+              "id": 8153,
+              "string": "1\u0000\u0007Do not fool yourself into thinking that anything has changed.\u0007You and your kind remain our bitter enemy. So were you yesterday, and so shall you be tomorrow."
+            },
+            {
+              "id": 8154,
+              "string": "1\u0000\u0007I performed my duty.\u0007That is all."
+            },
+            {
+              "id": 8155,
+              "string": "1\u0000\u0007Now begone from our holy ground at once.\u0007You will find no more favors here.\u0007Kyah-kyah!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183572,
+      "name": "Allied Commissary",
+      "events": [
+        {
+          "id": 250,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 251,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 252,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183573,
+      "name": "",
+      "events": [
+        {
+          "id": 256,
+          "dialogue": [
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007Assist with the fortifications?\u0007\u000bShow them how it's done!\u0007Refuse to help.\u0007Ask for an explanation."
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007Choose a crystal!\u0007\u000bFire crystal.\u0007Ice crystal.\u0007Wind crystal.\u0007Earth crystal.\u0007Lightning crystal.\u0007Water crystal.\u0007Light crystal.\u0007Dark crystal.\u0007Plumb give up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183574,
+      "name": "",
+      "events": [
+        {
+          "id": 256,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183575,
+      "name": "",
+      "events": [
+        {
+          "id": 256,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183576,
+      "name": "",
+      "events": [
+        {
+          "id": 256,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183577,
+      "name": "",
+      "events": [
+        {
+          "id": 256,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183588,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 8158,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 8159,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 8160,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 8168,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 8169,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007A Manifest Problem.\u0007The Forbidden Path(pt.1).\u0007The Forbidden Path(pt.2).\u0007The Forbidden Path(pt.3).\u0007Manifest Destiny(pt.1).\u0007Manifest Destiny(pt.2).\u0007Manifest Destiny(pt.3).\u0007Manifest Destiny(pt.4).\u0007Manifest Destiny(pt.5).\u0007Manifest Destiny(pt.6).\u0007At Journey's End(pt.1).\u0007At Journey's End(pt.2)."
+            },
+            {
+              "id": 8162,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 8170,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 8162,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 8171,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 8162,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 8172,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 8162,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 8162,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 8161,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183590,
+      "name": "",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183591,
+      "name": "",
+      "events": [
+        {
+          "id": 109,
+          "dialogue": [
+            {
+              "id": 8102,
+              "string": "1\u0000\u0007Press the button to continue."
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 111,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 112,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183592,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17183593,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17183594,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17183595,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17183596,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17183597,
+      "name": "",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183598,
+      "name": "",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 111,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183599,
+      "name": "Lehko Habhoka",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 8180,
+              "string": "1\u0000\u0007Trrread carefully here.\u0007Their ranks may be thinned, but the crows will be no less fierce in defending their nest."
+            },
+            {
+              "id": 8181,
+              "string": "1\u0000\u0007Drawing any attention to ourselves could prove fatal.\u0007Move silently, and avoid unnecessary confrontations at all costs."
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            {
+              "id": 8203,
+              "string": "1\u0000\u0007<Ahem>...Ease your gentle hearts, fair damsels, for I have come to rescue you!"
+            },
+            {
+              "id": 8205,
+              "string": "1\u0000\u0007Milady. The knowledge that you will live to grace this realm with your consummate beauty is reward enough for this humble squire."
+            },
+            {
+              "id": 8217,
+              "string": "1\u0000\u0007Only one floor to go.\u0007Phew... Being a hero sure isn't easy."
+            },
+            {
+              "id": 8220,
+              "string": "1\u0000\u0007It would seem our hosts have decided to roll out the red carpet for us.\u0007Whoever said the Yagudo weren't much for hospitality?"
+            },
+            {
+              "id": 8222,
+              "string": "1\u0000\u0007...You have permission to bring down Tzee Xicu the Manifest and the Great Beast, Fenrir."
+            },
+            {
+              "id": 8238,
+              "string": "1\u0000\u0007It simply wouldn't do to keep our hosts waiting any longer.\u0007Shall we, friends?"
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            {
+              "id": 8242,
+              "string": "1\u0000\u0007...!"
+            },
+            {
+              "id": 8243,
+              "string": "1\u0000\u0007Perih, \b! Be on your guarrrd!"
+            },
+            {
+              "id": 8249,
+              "string": "1\u0000\u0007Doubtless the magical energies of our two brrrave companions--no, their very life forces--are on the wane..."
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            {
+              "id": 8274,
+              "string": "1\u0000\u0007What is it, \b?"
+            },
+            {
+              "id": 8275,
+              "string": "1\u0000\u0007Where we go from here, the slightest hint of indecision could easily prove fatal.\u0007If something troubles you, speak it here and now."
+            },
+            {
+              "id": 8277,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 8278,
+              "string": "1\u0000\u0007Very well, \b.\u0007I had no intention of keeping my secrets from you forever."
+            },
+            {
+              "id": 8279,
+              "string": "1\u0000\u0007My weapon of choice is not the sword or bow, but rrrather my wit and tongue.\u0007This much you know."
+            },
+            {
+              "id": 8280,
+              "string": "1\u0000\u0007This war, tragic as it has been for the people of this land, has afforded me a chance to achieve certain goals.\u0007Goals in pursuit of which I have told many a lie, committed many a heinous deed...rrrarely with even a second thought."
+            },
+            {
+              "id": 8281,
+              "string": "1\u0000\u0007And yet, even as I schemed in the dark, there have been rays of light.\u0007The people of Windurst, Robel-Akbel...and you most of all, \b."
+            },
+            {
+              "id": 8282,
+              "string": "1\u0000\u0007Thanks to friends such as you, the sun shines brrrighter today than it did yesterday.\u0007And tomorrow will welcome an even more brilliant dawn."
+            },
+            {
+              "id": 8283,
+              "string": "1\u0000\u0007You've meant more to me than you can possibly imagine, \b.\u0007You, and this nation of Windurst..."
+            },
+            {
+              "id": 8284,
+              "string": "1\u0000\u0007That, at the very least, is the honest truth--"
+            },
+            {
+              "id": 8286,
+              "string": "\u0007!\u0000\u0007...It would seem our beastly friend has returned."
+            },
+            {
+              "id": 8287,
+              "string": "1\u0000\u0007\b. The time has come for us to make good on our prrromise."
+            },
+            {
+              "id": 8289,
+              "string": "1\u0000\u0007It's time we brought this idle palaver to a close.\u0007We must track down \u0001\u00056???? and make for the beast's den straight away!"
+            }
+          ]
+        },
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 8302,
+              "string": "1\u0000\u0007It was almost too easy.\u0007The Warlock Warlord came to me, his trusted advisor, seeking a means to bolster our army.\u0007It was then that I presented the idea of rrrecruiting mercenaries from the Motherland in great numbers."
+            },
+            {
+              "id": 8305,
+              "string": "1\u0000\u0007There were skeptics, of course.\u0007Those who said we were incurring a debt to the Motherland that we'd not be able to repay..."
+            },
+            {
+              "id": 8313,
+              "string": "1\u0000\u0007Look into these eyes, Perih.\u0007Can you see the mark of sin on my soul?"
+            },
+            {
+              "id": 8319,
+              "string": "1\u0000\u0007That my soul in its rage would live on, until the day came that I could exact revenge on every last one of those who had wronged me and my kin..."
+            },
+            {
+              "id": 8323,
+              "string": "1\u0000\u0007A most fortuitous meeting of minds, wouldn't you say?"
+            },
+            {
+              "id": 8325,
+              "string": "1\u0000\u0007Say your worst.\u0007I've no regrets about what I've done."
+            },
+            {
+              "id": 8354,
+              "string": "1\u0000\u0007You should leave this place while you can."
+            },
+            {
+              "id": 8355,
+              "string": "1\u0000\u0007The Theomilitary, or what's left of it, is hot on our trrrail.\u0007It won't be safe here."
+            },
+            {
+              "id": 8358,
+              "string": "1\u0000\u0007And do try not to miss, won't you?"
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183600,
+      "name": "Lehko Habhoka",
+      "events": [
+        {
+          "id": 110,
+          "dialogue": [
+            {
+              "id": 8270,
+              "string": "..\u0000\u0007...It won't take these zealots long to catch wind of our little deicide."
+            }
+          ]
+        },
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 8327,
+              "string": "d!\u0000\u0007My poor Shikaree G... You've no idea how utter and complete your humiliation will be."
+            },
+            {
+              "id": 8328,
+              "string": "1\u0000\u0007The Bow of Light is mine now. And with it, control over the future... Your future."
+            },
+            {
+              "id": 8329,
+              "string": "1\u0000\u0007A new era will dawn, forged by the hand of a sinner, and you'll live out the rest of your days in it."
+            },
+            {
+              "id": 8337,
+              "string": "1\u0000\u0007...?"
+            },
+            {
+              "id": 8343,
+              "string": "1\u0000\u0007...!"
+            },
+            {
+              "id": 8344,
+              "string": "1\u0000\u0007Hah! Save me?\u0007You'd risk your life for a trrraitor?"
+            },
+            {
+              "id": 8347,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 8350,
+              "string": "1\u0000\u0007You ladies are just full of surrrprises, aren't you?\u0007It's too much for a simple man like me..."
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183601,
+      "name": "Lehko Habhoka",
+      "events": [
+        {
+          "id": 112,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183602,
+      "name": "Perih Vashai",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 8182,
+              "string": "1\u0000\u0007The castle is vast. To search it as a unit would require time we do not have.\u0007I say we split up."
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            {
+              "id": 8197,
+              "string": "1\u0000\u0007Are you safe, frrriends?"
+            },
+            {
+              "id": 8200,
+              "string": "1\u0000\u0007You need fear no longer.\u0007Make for our camp in Meriphataud. There is food and medicine for you there."
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            {
+              "id": 8219,
+              "string": "1\u0000\u0007There's only one beast that could let forth such an unearthly howl."
+            },
+            {
+              "id": 8224,
+              "string": "1\u0000\u0007No. They were bound for Jeuno."
+            },
+            {
+              "id": 8226,
+              "string": "1\u0000\u0007Yes. To stay concealed from our enemy and other unfriendly eyes, the Duchy is the safest destination."
+            },
+            {
+              "id": 8227,
+              "string": "1\u0000\u0007My own daughter has taken refuge there as well.\u0007I can lead them if need be."
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            {
+              "id": 8239,
+              "string": "1\u0000\u0007No...!"
+            },
+            {
+              "id": 8240,
+              "string": "1\u0000\u0007Syu... We must find Syu!"
+            },
+            {
+              "id": 8248,
+              "string": "1\u0000\u0007The beast fights to protect us, as it did on the Sarutabaruta plain.\u0007And yet, its aura has grown faint..."
+            },
+            {
+              "id": 8251,
+              "string": "1\u0000\u0007Syu!?\u0007Syu Befrathi!"
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            {
+              "id": 8267,
+              "string": "1\u0000\u0007...?"
+            },
+            {
+              "id": 8273,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 8300,
+              "string": "1\u0000\u0007Lehko...?"
+            },
+            {
+              "id": 8304,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 8310,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 8311,
+              "string": "1\u0000\u0007But...why, Lehko?"
+            },
+            {
+              "id": 8320,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 8333,
+              "string": "1\u0000\u0007...I cannot."
+            },
+            {
+              "id": 8334,
+              "string": "1\u0000\u0007That which you seek is not in my power to grant.\u0007Even if it were, still I would refuse."
+            },
+            {
+              "id": 8336,
+              "string": "1\u0000\u0007I have looked deep into your eyes, Lehko, but I see no sin there.\u0007Only deep scars that have never healed..."
+            },
+            {
+              "id": 8338,
+              "string": "1\u0000\u0007I see also darkness. But this darkness is not yours alone.\u0007No, it runs far deeper... It is the darkness of our entire people."
+            },
+            {
+              "id": 8339,
+              "string": "1\u0000\u0007Do you not see, Shikaree G? We all bear the stain of sin.\u0007You, me...and every Mithra with spite and jealousy in her heart."
+            },
+            {
+              "id": 8341,
+              "string": "1\u0000\u0007After all we've been through together... You sell your ladies far too short, Lehko."
+            },
+            {
+              "id": 8342,
+              "string": "1\u0000\u0007We'll see you saved, and Syu and our Motherland as well.\u0007Just you watch."
+            },
+            {
+              "id": 8345,
+              "string": "1\u0000\u0007Not a traitor...a friend."
+            },
+            {
+              "id": 8346,
+              "string": "1\u0000\u0007Many times we have stood on the precipice of death, and each time you have led us safely through.\u0007You have inspired us with hope in our darkest hours. You may have told many lies, Lehko, but the love you bear for your friends and comrades rings true."
+            },
+            {
+              "id": 8348,
+              "string": "1\u0000\u0007Besides...something tells me that the future you and Robel-Akbel have in store will be one worth sticking arrround to see."
+            },
+            {
+              "id": 8352,
+              "string": "1\u0000\u0007I will not hide from you, Shikaree G.\u0007When all is said and done, should you still deem my actions unpardonable, I shall submit myself willingly to your justice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183603,
+      "name": "Syu Befrathi",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            {
+              "id": 8250,
+              "string": "1\u0000\u0007Meooow..."
+            },
+            {
+              "id": 8252,
+              "string": "1\u0000\u0007Meowmmy?\u0007Wh...where's my meowmm"
+            },
+            {
+              "id": 8254,
+              "string": "1\u0000\u0007Waaaaaahhh!!!\u0007I want my meowmmy!"
+            },
+            {
+              "id": 8256,
+              "string": "1\u0000\u0007Me...ow?"
+            },
+            {
+              "id": 8258,
+              "string": "s!\u0000\u0007Wheeeeee!\u0007Are we going for a rrride?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183604,
+      "name": "Shikaree G",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 8291,
+              "string": "1\u0000\u0007Where is the daughter?\u0007One way or the other, she will be mine. Don't make this any harrrder than it needs to be."
+            },
+            {
+              "id": 8293,
+              "string": "1\u0000\u0007And you, Perih Vashai.\u0007You would knowingly aid a sinner, and open the wounds of our past anew?"
+            },
+            {
+              "id": 8295,
+              "string": "1\u0000\u0007Spare me the hollow words, Lehko!\u0007Your mother spouted the same platitudes as she brought unspeakable bloodshed upon our people."
+            },
+            {
+              "id": 8296,
+              "string": "1\u0000\u0007Your battle, the fate of this land--these mean nothing to me.\u0007Do you hear me? You will die by my hand before you bend that bow."
+            },
+            {
+              "id": 8297,
+              "string": "1\u0000\u0007Do you think I am blind to your secrets, Lehko?\u0007The grrrudge you bear toward your own people is as plain as day."
+            },
+            {
+              "id": 8298,
+              "string": "1\u0000\u0007Oh, yes. I know who you truly are, Lehko Habhoka.\u0007The honey-tongued turncoat who sold out his country to a foreign realm!"
+            },
+            {
+              "id": 8324,
+              "string": "1\u0000\u0007You two-timing blackguard--!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183605,
+      "name": "Shikaree G",
+      "events": [
+        {
+          "id": 111,
+          "dialogue": [
+            {
+              "id": 8330,
+              "string": "1\u0000\u0007Not if you die here, cur!"
+            },
+            {
+              "id": 8331,
+              "string": "1\u0000\u0007Surrender the bow, Perih Vashai!"
+            },
+            {
+              "id": 8332,
+              "string": "1\u0000\u0007You know where your loyalities lie!\u0007Surrender the bow, the traitor, and the daughter to me. I will see Mithran justice serrrved!"
+            },
+            {
+              "id": 8340,
+              "string": "1\u0000\u0007Rrridiculous--!"
+            },
+            {
+              "id": 8351,
+              "string": "1\u0000\u0007Fools, all of you!\u0007You will answer for your sins..."
+            },
+            {
+              "id": 8353,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183606,
+      "name": "Fenrir",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 112,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183607,
+      "name": "Tzee Xicu the Manifest",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            {
+              "id": 8241,
+              "string": "1\u0000\u0007More sacrificial lambs? And they give themselves willingly...\u0007Come unto me. I shall grant you swift release from your mortal suffering..."
+            },
+            {
+              "id": 8244,
+              "string": "1\u0000\u0007O beast of beasts... I pity what you have become."
+            },
+            {
+              "id": 8245,
+              "string": "1\u0000\u0007The glorious Fenrir, whose mighty howl once shook the heavens, stands before me no more than a slavering mutt, too addled of mind to distinguish friend from foe."
+            },
+            {
+              "id": 8246,
+              "string": "1\u0000\u0007Why? Why do you snap at the hand of your rightful master!?"
+            },
+            {
+              "id": 8253,
+              "string": "y?\u0000\u0007Filthy, repugnant child! You mock the will of the Almighty!?\u0007You will die like the rest!"
+            },
+            {
+              "id": 8257,
+              "string": "1\u0000\u0007Kah! Insolent fool"
+            },
+            {
+              "id": 8259,
+              "string": "1\u0000\u0007Kyaaahhhhhh!\u0007Enough! I will stand for no more of this blasphemy!"
+            },
+            {
+              "id": 8260,
+              "string": "1\u0000\u0007I pity you, my fallen brother beast.\u0007But my divine wrath will not be so merciful..."
+            },
+            {
+              "id": 8261,
+              "string": "1\u0000\u0007Look upon the face of your destruction, loathsome children of Altana!\u0007What strands of hope remain for your kind shall be rent as the flesh from your bones!"
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            {
+              "id": 8263,
+              "string": "1\u0000\u0007O, woeful children of Altana..."
+            },
+            {
+              "id": 8264,
+              "string": "1\u0000\u0007Strength you may have, but not wisdom.\u0007For even now you are blind to your own true nature..."
+            },
+            {
+              "id": 8265,
+              "string": "1\u0000\u0007Jealousy...spite...betrayal...\u0007Your souls are but festering pools of squalor."
+            },
+            {
+              "id": 8266,
+              "string": "1\u0000\u0007So you are, and ever will be.\u0007What could you hope to attain?"
+            },
+            {
+              "id": 8268,
+              "string": "1\u0000\u0007O, how I shall rejoice from the heavens, as I gaze down upon your blind march to destruction..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183608,
+      "name": "01",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183609,
+      "name": "02",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183610,
+      "name": "03",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183611,
+      "name": "04",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183612,
+      "name": "Yagu 01",
+      "events": [
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183613,
+      "name": "Yagu 02",
+      "events": [
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183614,
+      "name": "Yagu 03",
+      "events": [
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183615,
+      "name": "Yagu 04",
+      "events": [
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183616,
+      "name": "Yagu 05",
+      "events": [
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183617,
+      "name": "Yagu 06",
+      "events": [
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183618,
+      "name": "Imp",
+      "events": [
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183638,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17183639,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17183640,
+      "name": "Pedh Zhkek",
+      "events": [
+        {
+          "id": 105,
+          "dialogue": [
+            {
+              "id": 8195,
+              "string": "1\u0000\u0007Yes... Yes, I think so.\u0007Oh, thank you ever so much!"
+            },
+            {
+              "id": 8196,
+              "string": "1\u0000\u0007My companions are still imprisoned in the other cells!\u0007Please, you must save them too!"
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183641,
+      "name": "Ruah Chodran",
+      "events": [
+        {
+          "id": 106,
+          "dialogue": [
+            {
+              "id": 8198,
+              "string": "1\u0000\u0007Could it be...Perih Vashai of the Anaconda Mercenaries!?"
+            },
+            {
+              "id": 8199,
+              "string": "1\u0000\u0007I...I can scarcely believe our fortune...\u0007We thought we were done forrr..."
+            },
+            {
+              "id": 8201,
+              "string": "1\u0000\u0007Thank you...so much...\u0007Our friends...are still in captivity in the other cells...\u0007Prrromise you won't leave them behind!"
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183642,
+      "name": "Sooph Mreeblih",
+      "events": [
+        {
+          "id": 107,
+          "dialogue": [
+            {
+              "id": 8204,
+              "string": "1\u0000\u0007Oh, look! It's our knight in shining...leather?\u0007How can we ever repay you!?"
+            },
+            {
+              "id": 8206,
+              "string": "1\u0000\u0007Wh-why, I...<swoon>"
+            },
+            {
+              "id": 8208,
+              "string": "1\u0000\u0007Ah, y-yes, of course.\u0007Thank you so much!"
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183643,
+      "name": "Koh Lenbalalako",
+      "events": [
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            {
+              "id": 8212,
+              "string": "1\u0000\u0007There are still...others.\u0007On the upperrrmost floor..."
+            },
+            {
+              "id": 8213,
+              "string": "1\u0000\u0007And the child, Syu Befrathi..."
+            },
+            {
+              "id": 8215,
+              "string": "1\u0000\u0007They forced my companions to fight each other to the death. They threatened to...kill the child if we refused.\u0007It was...too t-terrible to watch. You must help them!"
+            },
+            {
+              "id": 8233,
+              "string": "1\u0000\u0007It looks somehow familiar..."
+            },
+            {
+              "id": 8234,
+              "string": "1\u0000\u0007...That's it! The monster who took our companions above...\u0007He was carrying one just like it!"
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183644,
+      "name": "05",
+      "events": [
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183645,
+      "name": "06",
+      "events": [
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183646,
+      "name": "Mahk Rhyonja",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 8183,
+              "string": "1\u0000\u0007You...!\u0007Tell me you're here...to rescue us!"
+            },
+            {
+              "id": 8185,
+              "string": "1\u0000\u0007Yes...somehow."
+            },
+            {
+              "id": 8186,
+              "string": "1\u0000\u0007There was a loose bar...in my cell...<cough>...\u0007I slipped out unseen...during the changing of the guarrrd..."
+            },
+            {
+              "id": 8187,
+              "string": "1\u0000\u0007My companion, Koh...the others...they have not been so fortunate.\u0007P-please...you must help them!"
+            },
+            {
+              "id": 8189,
+              "string": "1\u0000\u0007The \u0001\u0005#????...\u0007Without it...the other cells...too sturrrdy to force..."
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183647,
+      "name": "08",
+      "events": [
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183648,
+      "name": "hei01",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183649,
+      "name": "hei02",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183650,
+      "name": "p01",
+      "events": [
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183651,
+      "name": "Fenrir",
+      "events": [
+        {
+          "id": 108,
+          "dialogue": [
+            {
+              "id": 8247,
+              "string": "1\u0000\u0007Grrrrrr...roaaaaaarrr!!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17183652,
+      "name": "Debug NPC",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 8048,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007Plucking Wings (W).\u0007A Malicious Manifest.\u0007Manifest Destiny.\u0007At Journey's End.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007"
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7682,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7683,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7684,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7685,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7721,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 8030,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 8010,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7674,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 8010,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 8010,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

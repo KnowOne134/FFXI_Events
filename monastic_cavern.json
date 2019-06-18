@@ -1,0 +1,764 @@
+{
+  "id": 150,
+  "name": "Monastic Cavern",
+  "actors": [
+    {
+      "id": 17391818,
+      "name": "",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391829,
+      "name": "Magicite",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391830,
+      "name": "Lion",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7268,
+              "string": "1\u0000\u0007So that's what magicite looks like."
+            },
+            {
+              "id": 7269,
+              "string": "1\u0000\u0007What could they possibly want with it?"
+            },
+            {
+              "id": 7270,
+              "string": "1\u0000\u0007What the...?"
+            },
+            {
+              "id": 7273,
+              "string": "1\u0000\u0007Who are you!?"
+            },
+            {
+              "id": 7276,
+              "string": "1\u0000\u0007The Shadow Lord? It can't be! His powers have returned!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391831,
+      "name": "Shadow of Darkness",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7271,
+              "string": "1\u0000\u0007You are too late.\u0007I have awoken."
+            },
+            {
+              "id": 7272,
+              "string": "1\u0000\u0007Your rage, cowardice, envy, arrogance, and apathy... From these I will spread the bane of Vana'diel."
+            },
+            {
+              "id": 7274,
+              "string": "1\u0000\u0007Your kind has awoken me...and this time, you will be destroyed!"
+            },
+            {
+              "id": 7275,
+              "string": "1\u0000\u0007You cannot stop me. Vana'diel will be a grave for you and all your kind!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391832,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391833,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391834,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391835,
+      "name": "Altar",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391836,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391837,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391838,
+      "name": "Francmage",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391839,
+      "name": "Destin",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391840,
+      "name": "Periduque",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391841,
+      "name": "Muchavatte",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391842,
+      "name": "Ulrich",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391843,
+      "name": "Francmage",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391844,
+      "name": "Iru-Kuiru",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391845,
+      "name": "Rabntah",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391846,
+      "name": "Ulrich",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391847,
+      "name": "Francmage",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391848,
+      "name": "Courisaille",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391851,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7303,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7304,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7305,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7313,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7314,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Circle of Time.\u0007An Understanding Overlord?(pt.1).\u0007An Understanding Overlord?(pt.2).\u0007An Understanding Overlord?(pt.3).\u0007An Understanding Overlord?(pt.4).\u0007An Understanding Overlord?(pt.5).\u0007An Understanding Overlord?(pt.6).\u0007Magicite(pt.1).\u0007Magicite(pt.2)."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7315,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7316,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7317,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7307,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7306,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391853,
+      "name": "Loo Kohor",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7319,
+              "string": "1\u0000\u0007Kweh?\u0007Kharabom, tspoluhi...!\u0007Ahk! What business have you here!?"
+            },
+            {
+              "id": 7320,
+              "string": "1\u0000\u0007(Though merely exchanging words with a heretic heathen can be punished with an eternity of damnation, the almighty Tzee Xicu will surely forgive me for what I am about to do...)"
+            },
+            {
+              "id": 7321,
+              "string": "1\u0000\u0007Ahem...kwahk!\u0007I am Loo Kohor, servant of Tzee Xicu the Manifest. I have traveled from mighty Castle Oztroja in the mountains of Aragoneu to deliver a message to the Orcs."
+            },
+            {
+              "id": 7322,
+              "string": "1\u0000\u0007However, it seems that information of my visit has not been relayed to the lower ranks of the Orcish army."
+            },
+            {
+              "id": 7323,
+              "string": "1\u0000\u0007And as you probably already know, the oversized swine do not make a habit of asking many questions before they proceed in prodding you with one of their pointy weapons."
+            },
+            {
+              "id": 7324,
+              "string": "1\u0000\u0007Alright.\u0007Adventurer, are you not?"
+            },
+            {
+              "id": 7325,
+              "string": "1\u0000\u0007I hear tales that your type will do just about anything...if the price is right."
+            },
+            {
+              "id": 7329,
+              "string": "1\u0000\u0007However, I am not one to judge those who have chosen to walk their path in darkness.\u0007I need you to deliver this parchment to the Orcish Overlord. You will be paid upon your return."
+            },
+            {
+              "id": 7331,
+              "string": "1\u0000\u0007Second thoughts?\u0007While your faith hides behind the temptation of carnal pleasures, those temptations are no match for the cowardice that rots your pitiful soul. Go on, now. Leave this place before you stumble and scratch your knee."
+            },
+            {
+              "id": 7332,
+              "string": "1\u0000\u0007Kwahah! Excellent.\u0007...Hm? Not thinking of walking into Orc lair looking like that, are we?"
+            },
+            {
+              "id": 7333,
+              "string": "1\u0000\u0007The pathetic barbarians would slice you into ribbons and serve your flesh to the Overlord for supper. A disguise is what you need."
+            },
+            {
+              "id": 7334,
+              "string": "1\u0000\u0007Why not skin one of the grunts and use its thick leather to make yourself a mask to hide that repulsive face?"
+            },
+            {
+              "id": 7335,
+              "string": "1\u0000\u0007I shall be waiting for you here when you have made your preparations."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7336,
+              "string": "1\u0000\u0007I was wondering when you would return. Now let me see your..."
+            },
+            {
+              "id": 7337,
+              "string": "1\u0000\u0007........."
+            },
+            {
+              "id": 7338,
+              "string": "1\u0000\u0007Orlmhattjmha!\u0007Y-you don't really think you will fool the Orcs with that...that...thing, do you?"
+            },
+            {
+              "id": 7339,
+              "string": "1\u0000\u0007<Sigh>...\u0007However, I guess I have not any choice but to trust you and your plan. Here is the communication you are to deliver."
+            },
+            {
+              "id": 7340,
+              "string": "1\u0000\u0007You are to take it and place it within the Overlord's cryptexphere."
+            },
+            {
+              "id": 7341,
+              "string": "1\u0000\u0007Again, I will be waiting here for you behind these boulders, but let my will guide your spirit safely through this nest of fiends."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7366,
+              "string": "1\u0000\u0007What took you so long?\u0007I was beginning to worry that you had been..."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007Ahem...kwahk!\u0007Here is your reward. Did you believe I would attempt to trick you? I know not your people's beliefs, but it is against the teachings of the almighty Tzee Xicu to break one's promise."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007What? Are you dissatisfied with your prize? Is this not what you wanted?"
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007Now I must be off. Good day!"
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007A heretic that keeps ?[his\/her] word...\u0007Perhaps there still is some hope for the children of Altana..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391854,
+      "name": "???",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391855,
+      "name": "Orcish Overlord",
+      "events": [
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391856,
+      "name": "Overlord Bakgodek",
+      "events": [
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7347,
+              "string": "1\u0000\u0007You fool!\u0007You bear name Overlord, but do not forget who has true power!"
+            },
+            {
+              "id": 7348,
+              "string": "1\u0000\u0007My apology, adventurer.\u0007I see you are messenger for Yagudo."
+            },
+            {
+              "id": 7349,
+              "string": "1\u0000\u0007But I don't understand. Why would child of Altana keep promise to beastman? Why would you risk life for him? You either very brave, very noble, or very stupid. Gahahah!"
+            },
+            {
+              "id": 7350,
+              "string": "1\u0000\u0007We Orcs have no respect for coward. I'll be first to cut their throat!\u0007But we do respect bravery and good fight, whether fighter be enemy or friend!"
+            },
+            {
+              "id": 7351,
+              "string": "1\u0000\u0007Now, how can I repay you...?"
+            },
+            {
+              "id": 7352,
+              "string": "1\u0000\u0007Ah! That ugly hat!\u0007Put it down on cryptexphere."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007Gadzradd!\u0007Gadzradd! Come now!"
+            },
+            {
+              "id": 7356,
+              "string": "1\u0000\u0007Starting today, you have new order.\u0007You protect this adventurer when ?[he\/she] need you."
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007If adventurer use hat, you run to ?[his\/her] side and fight to death!"
+            },
+            {
+              "id": 7360,
+              "string": "1\u0000\u0007Even if ?[he\/she] ask you to fight me, you don't step down, or I crush your skull myself!"
+            },
+            {
+              "id": 7362,
+              "string": "1\u0000\u0007Here's hat. Proof of true bravery worthy of mighty Orc!"
+            },
+            {
+              "id": 7363,
+              "string": "1\u0000\u0007Use hat to summon Gadzradd. He hides in shadows but comes when you call. No worry about language. Gadzradd speaks your words good."
+            },
+            {
+              "id": 7364,
+              "string": "1\u0000\u0007Now I must go, adventurer."
+            },
+            {
+              "id": 7365,
+              "string": "1\u0000\u0007You are great warrior, and I salute you. But next time we meet we are enemy. Watch back, or you might be smashed into pulp! Gahahah!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17391857,
+      "name": "Ironhand Gadzradd",
+      "events": [
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7355,
+              "string": "1\u0000\u0007Yes, lord..."
+            },
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007B-but lord..."
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007Yes, lord! B-but..."
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007U-understood..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007You place \u0001\u00056???? and \u0001\u00056???? together upon the altar."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7326,
+              "string": "1\u0000\u0007What say you? Hear my offer?\u0007\u000bI'm all ears.\u0007What? What!?"
+            },
+            {
+              "id": 7330,
+              "string": "1\u0000\u0007What say you?\u0007\u000bI'm your ?[man\/woman]!\u0007Deliver it yourself!"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

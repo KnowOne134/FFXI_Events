@@ -1,0 +1,1705 @@
+{
+  "id": 162,
+  "name": "Castle Zvahl Keep",
+  "actors": [
+    {
+      "id": 17441016,
+      "name": "",
+      "events": [
+        {
+          "id": 115,
+          "dialogue": [
+            {
+              "id": 6514,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6515,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6520,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6530,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6527,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6524,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6521,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6531,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6528,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6525,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6522,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6532,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6529,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6526,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6523,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441023,
+      "name": "Ore Door",
+      "events": [
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7209,
+              "string": "1\u0000\u0007Your \u0001\u0005#???? broke!"
+            },
+            {
+              "id": 7213,
+              "string": "1\u0000\u0007This magic doll has had a seal placed upon i"
+            },
+            {
+              "id": 7214,
+              "string": "t.\u0000\u0007The old, worn-out seal breaks as you approac"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7212,
+              "string": "1\u0000\u0007You can sense something terrible behind the door.\u0007You should probably refrain from entering."
+            },
+            {
+              "id": 7210,
+              "string": "1\u0000\u0007Do you want to leave the room?\u0007\u000bYes.\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441078,
+      "name": "Talking Doll",
+      "events": [
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441089,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7232,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7233,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7234,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7242,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7243,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Recollections."
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7244,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7245,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7246,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7236,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7235,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441091,
+      "name": "Ominous Pillar",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7250,
+              "string": "1\u0000\u0007How about it?\u0007\u000bLet's do it.\u0007Do your own job."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441092,
+      "name": "Craggy Pillar",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441093,
+      "name": "Craggy Pillar",
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441094,
+      "name": "Craggy Pillar",
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441095,
+      "name": "Craggy Pillar",
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441096,
+      "name": "Stooge Moogle",
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007Greetings, friend, and welcome to the Mog Merchants Extraordinaire!\u0007Here, you can exchange your hard-earned kupons for all sorts of stupendous souvenirs!"
+            },
+            {
+              "id": 7248,
+              "string": "1\u0000\u0007...Or so we thought, kupo.\u0007Sadly, it seems that my cohorts are slacking off on the job.\u0007They're nowhere to be found!"
+            },
+            {
+              "id": 7249,
+              "string": "1\u0000\u0007Unless they come back, I fear that your \u0001\u00053???? is nothing but a worthless scrap of parchment.\u0007I know! Perhaps you could help me track them down, kupo?"
+            },
+            {
+              "id": 7252,
+              "string": "1\u0000\u0007Oh, a thousand thank-yous, kind adventurer!\u0007Without my accomplices--er, associates--the boss's plans will all be for naught!\u0007I mean, our customers will be distraught, kupo!"
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007<Ahem>! As I was saying...\u0007I'd be ever so grateful if you could find our \f\u0000[horticulturist\/ironmonger\/pyrotechnician\/pawnbroker], \f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], and escort \f\u0000[her\/his\/his\/his] procrastinating moogle posterior back to work."
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007They're far too lazy to have ventured outside this keep, so you should be able to find them loafing around here somewhere, kupo."
+            },
+            {
+              "id": 7251,
+              "string": "1\u0000\u0007Hmph. Fine, be that way!\u0007No fur off my nose, kupo.\u0007That's one less prize wasted on an ungrateful adventurer."
+            },
+            {
+              "id": 7253,
+              "string": "1\u0000\u0007<Ahem>! As I was saying...\u0007I'd be ever so grateful if you could find our \f\u0000[horticulturist\/ironmonger\/pyrotechnician\/pawnbroker], \f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], and escort \f\u0000[her\/his\/his\/his] procrastinating moogle posterior back to work."
+            },
+            {
+              "id": 7254,
+              "string": "1\u0000\u0007They're far too lazy to have ventured outside this keep, so you should be able to find them loafing around here somewhere, kupo."
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7247,
+              "string": "1\u0000\u0007Greetings, friend, and welcome to the Mog Merchants Extraordinaire!\u0007Here, you can exchange your hard-earned kupons for all sorts of stupendous souvenirs!"
+            },
+            {
+              "id": 7261,
+              "string": "1\u0000\u0007Welcome to the Mog Merchants Extraordinaire souvenir shop, where you can exchange that hard-earned \u0001\u00053???? of yours for scores of spectacular prizes!"
+            },
+            {
+              "id": 7262,
+              "string": "1\u0000\u0007What's that? You don't have a \u0001\u00053????!?\u0007Er...then just forget I said anything, kupo!"
+            },
+            {
+              "id": 7263,
+              "string": "1\u0000\u0007Or, if you fancy yourself to have nerves of darksteel...!\u0007The courage to look fear in the eye and make it your master...!\u0007You could go win yourself one at our event in the castle baileys!\u0007Do you have it in you, kupo!?"
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 106,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441097,
+      "name": "Kupatete",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 108,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441098,
+      "name": "Kupignol",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 109,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 110,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441099,
+      "name": "Kupuckl",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 111,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 112,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441100,
+      "name": "Kupert",
+      "events": [
+        {
+          "id": 101,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7256,
+              "string": "1\u0000\u0007Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!"
+            },
+            {
+              "id": 7257,
+              "string": "1\u0000\u0007Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053???? you've got there for this shiny new \u0001\u00053?????"
+            },
+            {
+              "id": 7258,
+              "string": "1\u0000\u0007Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053???? will allow you to take part in this festival's grand finale..."
+            },
+            {
+              "id": 7259,
+              "string": "1\u0000\u0007The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ??excitement??!?"
+            },
+            {
+              "id": 7260,
+              "string": "1\u0000\u0007What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            },
+            {
+              "id": 7255,
+              "string": "1\u0000\u0007\f\u0000[Kupatete\/Kupignol\/Kupuckl\/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her\/him\/him\/him] \f\u0001[enjoying a snack to the east\/wandering out west\/slacking off down south\/napping up to the north] not too long ago..."
+            }
+          ]
+        },
+        {
+          "id": 113,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 114,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441102,
+      "name": "Home Point #1",
+      "events": [
+        {
+          "id": 8700,
+          "dialogue": [
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7282,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7294,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7278,
+              "string": "s!\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7279,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7289,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7290,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7298,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7285,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7285,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7289,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7290,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441103,
+      "name": "Home Point #2",
+      "events": [
+        {
+          "id": 8701,
+          "dialogue": [
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7282,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7294,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7278,
+              "string": "s!\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7279,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7289,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7290,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7298,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7285,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7285,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7289,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7290,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441104,
+      "name": "Home Point #3",
+      "events": [
+        {
+          "id": 8702,
+          "dialogue": [
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7282,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7294,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7278,
+              "string": "s!\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7279,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7289,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7290,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7298,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7285,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7285,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7289,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7290,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441105,
+      "name": "Home Point #4",
+      "events": [
+        {
+          "id": 8703,
+          "dialogue": [
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7282,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7294,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7278,
+              "string": "s!\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7279,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7289,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7290,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7298,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7285,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7285,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7289,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7290,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17441106,
+      "name": "Home Point #5",
+      "events": [
+        {
+          "id": 8704,
+          "dialogue": [
+            {
+              "id": 7283,
+              "string": "1\u0000\u0007You have registered a new home point!\u0007You are now able to teleport here from any other home point."
+            },
+            {
+              "id": 7281,
+              "string": "1\u0000\u0007A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home point"
+            },
+            {
+              "id": 7282,
+              "string": "s.\u0000\u0007What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind."
+            },
+            {
+              "id": 7293,
+              "string": "1\u0000\u0007You may change the method of selecting the area of your desired home point to teleport t"
+            },
+            {
+              "id": 7294,
+              "string": "o.\u0000\u0007Which setting would you like?\u0007\u000bMy current setting.\u0007Select by region.\u0007Select by expansion."
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7295,
+              "string": "1\u0000\u0007You are now selecting by \f\u0001[region\/expansion"
+            },
+            {
+              "id": 7278,
+              "string": "s!\u0000\u0007You can set this as your current home point.\u0007Once you set a home point, you will return there whenever you are incapacitate"
+            },
+            {
+              "id": 7279,
+              "string": "d.\u0000\u0007Set this as current home point?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7284,
+              "string": "1\u0000\u0007You may teleport from here to any other home point you have registere"
+            },
+            {
+              "id": 7291,
+              "string": "1\u0000\u0007Teleport to which region?\u0007\u000bOn second thought, none.\u0007Select from favorites.\u0007Current region.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7287,
+              "string": "1\u0000\u0007You have not yet registered any other home points, and thus are unable to teleport."
+            },
+            {
+              "id": 7292,
+              "string": "1\u0000\u0007Teleport where?\u0007\u000bNone of these.\u0007A favorited location.\u0007An original area.\u0007A Rise of the Zilart area.\u0007A Chains of Promathia area.\u0007A Treasures of Aht Urhgan area.\u0007A Wings of the Goddess area.\u0007A Seekers of Adoulin area."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7289,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7290,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7298,
+              "string": "s.\u0000\u0007Your list of favorite locations is full. You must delete an existing entry in order to register a new on"
+            },
+            {
+              "id": 7297,
+              "string": "1\u0000\u0007Home Point #\n\u0002 in \u0001\u00058???? has been \f![registered to\/removed from] your list of favorite location"
+            },
+            {
+              "id": 7285,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7285,
+              "string": "d.\u0000\u0007Teleport where?\u0007\u000bNever mind.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007\u0001\u00058????.\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7289,
+              "string": "?.\u0000\u0007There is no fee for teleporting to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7288,
+              "string": "1\u0000\u0007It costs \n\u0003 gil to teleport to Home Point #\n\u0002 in \u0001\u00058???"
+            },
+            {
+              "id": 7290,
+              "string": "?.\u0000\u0007Teleport? (Current gil: \n\u0000)\u0007\u000b\f![Add to favorites\/Remove from favorites].\u0007Yes, please.\u0007No, thank you."
+            },
+            {
+              "id": 6552,
+              "string": "1\u0000\u0007You do not have enough gil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

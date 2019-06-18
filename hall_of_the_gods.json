@@ -1,0 +1,1784 @@
+{
+  "id": 251,
+  "name": "Hall of the Gods",
+  "actors": [
+    {
+      "id": 17805313,
+      "name": "",
+      "events": [
+        {
+          "id": 1,
+          "dialogue": [
+            {
+              "id": 7180,
+              "string": "4\u0001\u0000\u0007There is an oddly shaped depression in the center of the grate.\u0007The grate does not seem to be a door, as it is one with the walls around it."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            {
+              "id": 7353,
+              "string": "1\u0000\u0007The \u0001\u00053???? begins to glow."
+            },
+            {
+              "id": 7354,
+              "string": "1\u0000\u0007Insert the \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7174,
+              "string": "1\u0000\u0007But as one bright star shines through the clouds at night..."
+            },
+            {
+              "id": 7175,
+              "string": "1\u0000\u0007And as one song rings clear above the roar of beasts..."
+            },
+            {
+              "id": 7176,
+              "string": "1\u0000\u0007We hold to one hope in these darkest of times."
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7178,
+              "string": "1\u0000\u0007And someday, that hope will become our dreams...our prayers..."
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7192,
+              "string": "1\u0000\u0007Use the transporting device?\u0007\u000bYes.\u0007Not yet."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7192,
+              "string": "1\u0000\u0007Use the transporting device?\u0007\u000bYes.\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805314,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805315,
+      "name": "Yve'noile",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7155,
+              "string": "1\u0000\u0007Long have I awaited thine arrival..."
+            },
+            {
+              "id": 7156,
+              "string": "1\u0000\u0007Welcome, mortals, to the Temple of Altana. Eons ago, this temple was destroyed. However, its appearance doth not hinder its function."
+            },
+            {
+              "id": 7157,
+              "string": "1\u0000\u0007Thou hast come here to try and stop Eald'narche--to keep him from opening the Gate of the Gods..."
+            },
+            {
+              "id": 7158,
+              "string": "1\u0000\u0007I am Yve'noile, a servant of the Dawn Goddess. I watch over the path leading to the gate."
+            },
+            {
+              "id": 7159,
+              "string": "1\u0000\u0007All the Zilart, including Eald'narche, are still bound by our cursed past."
+            },
+            {
+              "id": 7160,
+              "string": "1\u0000\u0007As thou already know, his plan began ten thousand years ago when he came into contact with the five crystals that rest beneath the surface of Vana'diel. The true crystals..."
+            },
+            {
+              "id": 7161,
+              "string": "1\u0000\u0007The crystals that exist above the earth now are nothing but mere replicas, lacking true power."
+            },
+            {
+              "id": 7162,
+              "string": "1\u0000\u0007We Zilart harnessed the five true crystals' power, divided it elementally, and succeeded in containing it in a smaller form."
+            },
+            {
+              "id": 7163,
+              "string": "1\u0000\u0007However, during the Meltdown, the energy of these smaller crystals was simultaneously released and spread to the far reaches of Vana'diel."
+            },
+            {
+              "id": 7164,
+              "string": "1\u0000\u0007Over centuries, that energy accumulated inside the bodies of the living beings on this planet, causing them to crystallize. Thus, they took the form of the crystals that are found throughout Vana'diel."
+            },
+            {
+              "id": 7165,
+              "string": "1\u0000\u0007Mortals are an incomplete species. When Eald'narche's quest for Paradise was thwarted, life on this planet lost its perfection."
+            },
+            {
+              "id": 7166,
+              "string": "1\u0000\u0007Particularly, thine inability to communicate with the others of thy race casts a shadow over thy development."
+            },
+            {
+              "id": 7167,
+              "string": "1\u0000\u0007This inability became increasingly evident after the Meltdown divided thee into the five races."
+            },
+            {
+              "id": 7168,
+              "string": "1\u0000\u0007The arrogance of the Elvaan, the envy of the Mithra, the cowardice of the Tarutaru, the apathy of the Humes, the rage of the Galka... These are the traits thou must carry with thee as thou make thy journeys through life."
+            },
+            {
+              "id": 7169,
+              "string": "1\u0000\u0007However, unlike the tales thy legends tell, these traits are not some ancient curse. They are merely an aftereffect of the energy released during the Meltdown."
+            },
+            {
+              "id": 7170,
+              "string": "1\u0000\u0007One can understand why Eald'narche would aspire for perfection..."
+            },
+            {
+              "id": 7171,
+              "string": "1\u0000\u0007However, one can see why others would acknowledge the benefits of imperfection."
+            },
+            {
+              "id": 7172,
+              "string": "1\u0000\u0007On the other side of this gate lies the Gate of the Gods, Tu'Lia."
+            },
+            {
+              "id": 7173,
+              "string": "1\u0000\u0007I beg of thee. Release Eald'narche, and what remains of the Zilart consciousness, from the crystal's binds.\u0007I pray for thy safe journey. "
+            },
+            {
+              "id": 7177,
+              "string": "1\u0000\u0007May the Goddess of the Dawn protect thee in Her mercy..."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7615,
+              "string": "1\u0000\u0007Alas, I can confess to hearing that name only once before in my lifetime."
+            },
+            {
+              "id": 7616,
+              "string": "1\u0000\u0007The prophecies say that the Cloud of Darkness is fated to descend upon this land once the five pieces of the mothercrystal have turned to dust."
+            },
+            {
+              "id": 7617,
+              "string": "1\u0000\u0007Were the pieces to be made whole once more, it is perhaps possible to avoid this most gloomy of futures."
+            },
+            {
+              "id": 7618,
+              "string": "1\u0000\u0007But that day itself will signal the end of Vana'diel."
+            },
+            {
+              "id": 7629,
+              "string": "l!\u0000\u0007You, and you alone, have the potential to guide them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805316,
+      "name": "Zeid",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7153,
+              "string": "1\u0000\u0007It seems as if we cannot continue on any further."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7151,
+              "string": "1\u0000\u0007I am not certain about what he meant by being ??blessed by the light,?? but I do know that we need that \u0001\u00053???? you hold to find out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805317,
+      "name": "Aldo",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 3,
+          "dialogue": [
+            {
+              "id": 7154,
+              "string": "1\u0000\u0007What's going on? Does this mean our power was not accepted by the crystal?"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            {
+              "id": 7149,
+              "string": "1\u0000\u0007We've been waiting for you, \b."
+            },
+            {
+              "id": 7150,
+              "string": "1\u0000\u0007I've got a score to settle with Eald'narche. It's time to put an end to that midget's plan!"
+            },
+            {
+              "id": 7152,
+              "string": "1\u0000\u0007So that's how it works...\u0007Well, there's no turning back now. Let's go, Zeid. You too, \b."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805318,
+      "name": "Cermet Grate",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 4,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805319,
+      "name": "Shimmering Circle",
+      "events": [
+        {
+          "id": 3,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805320,
+      "name": "Shimmering Circle",
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805331,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7357,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7358,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7359,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7367,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7368,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Gate of the Gods(pt.1).\u0007The Gate of the Gods(pt.2).\u0007Born of Her Nightmares.\u0007Death and Rebirth.\u0007Emissaries of God.\u0007Beneath a Blood-red Sky.\u0007Meanwhile, Back on Abyssea.\u0007Exploring the Ruins(pt.1).\u0007Exploring the Ruins(pt.2).\u0007Exploring the Ruins(pt.3).\u0007Exploring the Ruins(pt.4).\u0007Exploring the Ruins(pt.5).\u0007Exploring the Ruins(pt.6).\u0007Exploring the Ruins(pt.7).\u0007Become Something More(pt.1).\u0007Become Something More(pt.2)."
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7369,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7370,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7371,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7361,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 7360,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805333,
+      "name": "",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805334,
+      "name": "Mathilde",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7374,
+              "string": ".?\u0000\u0007Aldo...? Is that you...?"
+            },
+            {
+              "id": 7376,
+              "string": "1\u0000\u0007Aldo...\u0007My...brother..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805335,
+      "name": "Aldo",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7372,
+              "string": "1\u0000\u0007Emeline!\u0007Can you hear me!?"
+            },
+            {
+              "id": 7375,
+              "string": "1\u0000\u0007Emeline...could it truly be?\u0007After all these years..."
+            },
+            {
+              "id": 7379,
+              "string": "e!\u0000\u0007(Curses!\u0007No...I won't let them take you from me again!)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805336,
+      "name": "Young Aldo",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7381,
+              "string": "1\u0000\u0007Lost in a waking dream...just like me."
+            },
+            {
+              "id": 7382,
+              "string": "1\u0000\u0007Deep in slumber, freed from the restraints of my physical body...\u0007It is here that the voice of the Seed Crystal speaks to me."
+            },
+            {
+              "id": 7383,
+              "string": "1\u0000\u0007I awaken, only to remember nothing."
+            },
+            {
+              "id": 7384,
+              "string": "1\u0000\u0007It's the same for mother, you see.\u0007Only in her dreams does she remember a past too frightening, too painful to face with waking eyes."
+            },
+            {
+              "id": 7385,
+              "string": "1\u0000\u0007Only in her dreams does she remember you, Uncle Aldo."
+            },
+            {
+              "id": 7386,
+              "string": "1\u0000\u0007Knowing this, would you open her eyes to the light of the world once more?"
+            },
+            {
+              "id": 7387,
+              "string": "1\u0000\u0007The choice belongs to you alone, Uncle."
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007And the power to save this world from destruction is yours, \b."
+            },
+            {
+              "id": 7389,
+              "string": "1\u0000\u0007You, and all living beings on Vana'diel.\u0007It is your will to live--your deep love for the world you call home--that is the key.\u0007Only you can instill the antiphon with the strength to counteract the echo..."
+            },
+            {
+              "id": 7390,
+              "string": "1\u0000\u0007So what will your choice be, Uncle Aldo? \b?"
+            },
+            {
+              "id": 7391,
+              "string": "1\u0000\u0007Will you silence the echo to save this world from destruction?\u0007Even knowing it would mean death for the sister you knew, will you do what must be done?"
+            },
+            {
+              "id": 7392,
+              "string": "1\u0000\u0007If you have the courage to answer, make way for the Stellar Fulcrum at the peak of Delkfutt's Tower."
+            },
+            {
+              "id": 7393,
+              "string": "1\u0000\u0007We'll be waiting for you there."
+            },
+            {
+              "id": 7394,
+              "string": "1\u0000\u0007Perhaps...we're all just living inside the crystal's dream."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805337,
+      "name": "???",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7380,
+              "string": "1\u0000\u0007It's no use, Uncle...where she is now, no words can reach her.\u0007Mother's dreaming, you see."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805338,
+      "name": "",
+      "events": [
+        {
+          "id": 5,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805339,
+      "name": "",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7441,
+              "string": "1\u0000\u0007What will you say?\u0007\u000bThat's not true!\u0007..."
+            },
+            {
+              "id": 7458,
+              "string": "1\u0000\u0007Do you have faith in Esha'ntarl?\u0007\u000bAye, with all me heart!\u0007...Huh?"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805340,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7396,
+              "string": ".)\u0000\u0007Arrrg, \b. Mighty good o' ye t' oblige me invite t' this out-o'-the-way place, matey."
+            },
+            {
+              "id": 7397,
+              "string": "1\u0000\u0007Y'see, we be needin' the...errr, somethin' 'r whats hereabouts. Magenta field or some magnetic feel or some such. The sciency stuff be way off me maps. Here be monsters, yarrr."
+            },
+            {
+              "id": 7398,
+              "string": "1\u0000\u0007Last we spoke--last I prrrattled, more like--I ga'e ye me solemn word I'd cork up me ramblin'.\u0007An' a pirate's word be as good as the gold he hoards. Arrrg."
+            },
+            {
+              "id": 7399,
+              "string": "1\u0000\u0007So it oughta please ye t' know someone else'll do most o' the talkin' today."
+            },
+            {
+              "id": 7401,
+              "string": "1\u0000\u0007Out ye come now, lil' missy. \b's here an' awaitin' yer pleasurrre."
+            },
+            {
+              "id": 7403,
+              "string": "1\u0000\u0007No call fer thanks, now. Hearin' out the whims o' peppy young lasses be as much a hobby o' mine as borin' hapless adventurers t' tears with me inane blatherin'. Arrrg."
+            },
+            {
+              "id": 7417,
+              "string": "1\u0000\u0007Eh? A man-god? I gone me entirrre life thinkin' there be jus' the Goddess. Now ye say there also be a ??He???"
+            },
+            {
+              "id": 7422,
+              "string": "1\u0000\u0007Arrrg, this careerrr pirate ain't sure he follows..."
+            },
+            {
+              "id": 7428,
+              "string": "1\u0000\u0007Blimey..."
+            },
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007I won't lie t' ye, missy. The bulk o' yer tale flew right over me head like a scrrreechin' gull.\u0007I think I grasp the meat o' it, though. This Proma...somethin'-or-other be the reason behind Abyssea's wretched state, aye?"
+            },
+            {
+              "id": 7430,
+              "string": "1\u0000\u0007But what be so terrible 'bout a dead deity bein' restored to life? Wouldn't a livin' god serve better'n a stiff one?"
+            },
+            {
+              "id": 7432,
+              "string": "1\u0000\u0007By Leviathan's whiskers!"
+            },
+            {
+              "id": 7444,
+              "string": "1\u0000\u0007Arrrg, there be no call fer beatin' yerself up on this, lass.\u0007Bearin' the burden o' this terrible knowledge, ye did what ye could."
+            },
+            {
+              "id": 7445,
+              "string": "1\u0000\u0007The rest o' us, on the other hand, we been blissful in our ignorance all our lives, clueless 'bout our origin."
+            },
+            {
+              "id": 7446,
+              "string": "1\u0000\u0007By me measure, things wouldn't of turned out so pretty if ye hadn't done the drudgery belowdecks."
+            },
+            {
+              "id": 7447,
+              "string": "1\u0000\u0007Ye can be proud o' yer efforts, lil' missy."
+            },
+            {
+              "id": 7448,
+              "string": "1\u0000\u0007Abyssea might never be her scenic old self again, but we're still standin' here, alive an' kickin'.\u0007The world's rebirth's begun, there be no denyin' that, but it ain't over either."
+            },
+            {
+              "id": 7449,
+              "string": "1\u0000\u0007The situation ain't improvin' much, true, but neither has it been deterioratin'.\u0007If I ain't mistaken, there be some kind o' anchor keepin' this ship from smashin' into the jagged rocks o' apocalypse."
+            },
+            {
+              "id": 7451,
+              "string": "1\u0000\u0007I'd stake me one good peeper them Champions o' Abyssea had somethin' t' do with it."
+            },
+            {
+              "id": 7452,
+              "string": "1\u0000\u0007Might be they went an' met their maker--an' in more ways'n one, heh--but that don't mean their efforts were fer naught."
+            },
+            {
+              "id": 7453,
+              "string": "1\u0000\u0007So where the hell did they go, an' what the devil did they do? \u0007Now I gots a nose fer treasure an' an eye fer booty, an' they're sayin' if we follow the trail we jus' might hit gold."
+            },
+            {
+              "id": 7456,
+              "string": "1\u0000\u0007An' I judge ye well as well gets, lil' missy.\u0007I be on this ship with ye t' the bloody end, whether it takes us t' treasures untold, or Davy Jones's locker."
+            },
+            {
+              "id": 7457,
+              "string": "1\u0000\u0007An' I know \b shares the same sentiments.\u0007Ain't that right, matey?"
+            },
+            {
+              "id": 7459,
+              "string": "1\u0000\u0007Harharhar! That be the spirit, matey!\u0007Fer one not even o' our world, ye sure be dependable!"
+            },
+            {
+              "id": 7465,
+              "string": "1\u0000\u0007I mus' say, all o' this gets me buccaneer's blood pumpin'."
+            },
+            {
+              "id": 7466,
+              "string": "1\u0000\u0007After all, it ain't everyday ye get t' stick it t' the man!\u0007Well, a god in this case...an' one who chooses death, t' boot."
+            },
+            {
+              "id": 7467,
+              "string": "1\u0000\u0007There be no guarantees t' be had that a happy endin' awaits us.\u0007But it gives me heart, \b, knowin' ye're fightin' on our side."
+            },
+            {
+              "id": 7468,
+              "string": "1\u0000\u0007Till next time, promise me ye won't go gettin' yerself killed."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007We been waitin' fer ye, matey."
+            },
+            {
+              "id": 7473,
+              "string": "1\u0000\u0007Arrrg. \b an' I, we talked--well, I blathered, more like--'bout that subject some when firs' we met."
+            },
+            {
+              "id": 7474,
+              "string": "1\u0000\u0007It be something t' do with objects acrrross dimensions existin' at the same time, aye?"
+            },
+            {
+              "id": 7481,
+              "string": "1\u0000\u0007Crrrikey! Talk 'bout gettin' yer ship sunk."
+            },
+            {
+              "id": 7484,
+              "string": "1\u0000\u0007Might be mankind sprung out from the loins o' this man-god, but each o' us've got a mind o' our own.\u0007An' me mind says this be nothin' I want no part o'!"
+            },
+            {
+              "id": 7491,
+              "string": "1\u0000\u0007No more, ye say? They up an' disappearrred someplace?"
+            },
+            {
+              "id": 7493,
+              "string": "1\u0000\u0007Arrrg, the currents an' storms in those there parts been feared fer their treacherousness, even since b'fore the gull dung splattered the sails.\u0007An' this pirate'd sooner skipper his ship from atop the deck, not among the fishes an' seaweeds."
+            },
+            {
+              "id": 7496,
+              "string": "1\u0000\u0007Inside 'em crrraggy white things, aye?\u0007The one as stood in the plateau ain't there no more, I saw fer meself. Why, it's as if it weren't ever there t' begin with."
+            },
+            {
+              "id": 7499,
+              "string": "1\u0000\u0007Arrrg, I ain't sure I follow.\u0007So that fandangle crystal be tryin' t' glue itself togetherrr. But what o' it?"
+            },
+            {
+              "id": 7504,
+              "string": "1\u0000\u0007What!? Be there no end t' this, woman!?\u0007Arrrg, but who be this pirate t' talk? Well, carry on, then."
+            },
+            {
+              "id": 7506,
+              "string": "1\u0000\u0007Errr...ye've gone an' lost me again, lass."
+            },
+            {
+              "id": 7510,
+              "string": "1\u0000\u0007O' Abyssea, but not part o' it? Large, but escapes notice?\u0007Blimey, lil' missy. Could ye dispense with the riddles an' spit it out already?"
+            },
+            {
+              "id": 7512,
+              "string": "1\u0000\u0007Well, shave me bearrrd an' call me senile!"
+            },
+            {
+              "id": 7517,
+              "string": "1\u0000\u0007Ye reckon? The same ones we been usin' all this while?"
+            },
+            {
+              "id": 7519,
+              "string": "1\u0000\u0007Our agents report frozen maws scattered across the land. But there seems t' be no way o' rrrousin' them."
+            },
+            {
+              "id": 7521,
+              "string": "1\u0000\u0007Loves us not? What gives ye that impression, if I might ask?"
+            },
+            {
+              "id": 7526,
+              "string": "1\u0000\u0007Crikey, lil' missy. Most o' us can put two an' two together, but the figurrres ye play with be in the tens o' thousands.\u0007But seein' as we don't got nothin' else t' go on, I reckon this line o' possibility be as feasible as any."
+            },
+            {
+              "id": 7527,
+              "string": "1\u0000\u0007...So, the caturae, eh?\u0007This recalls t' me mind reports o' folk feelin' their emotions bein' rrruled by some unknown force when confrontin' 'em."
+            },
+            {
+              "id": 7533,
+              "string": "1\u0000\u0007Harharrr! Now that be the \b I know!\u0007Errr, not that we been acquainted fer long, t' be sure."
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Arrrg. Me hearties an' I be countin' on ye, matey.\u0007In the meantime, I be off t' dig us up more o' 'em maws, jus' in case we missed somethin'."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7537,
+              "string": "1\u0000\u0007Ahoy there, matey! We been waitin' fer ye!"
+            },
+            {
+              "id": 7542,
+              "string": "1\u0000\u0007Arrrg, it seems yer instincts be right on the coin, lil' missy."
+            },
+            {
+              "id": 7545,
+              "string": "1\u0000\u0007Whoa, missy, I don't recall rrrequestin' a lectu--"
+            },
+            {
+              "id": 7553,
+              "string": "1\u0000\u0007An' second, that ye be me senior by no small margin.\u0007I s'pose it won't cut it no more t' call ye ??lil' missy.?? Gahahahaha-arrrg!"
+            },
+            {
+              "id": 7558,
+              "string": "1\u0000\u0007T' venture a guess, I'd say this incomplete alignment be the reason why me folk get stripped o' half our strrrength in the crossin'.\u0007Much like a sailor gets relieved o' cloth an' coin when he visits a dodgy...errr, establishment."
+            },
+            {
+              "id": 7561,
+              "string": "1\u0000\u0007There be no guessin' the horrors what await.\u0007But fact is, they be the best endowed t' deal with 'em, arrrg."
+            },
+            {
+              "id": 7563,
+              "string": "1\u0000\u0007It be a right heavy burden. I pray they don't get crushed by it."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7469,
+              "string": "1\u0000\u0007We been waitin' fer ye, matey."
+            },
+            {
+              "id": 7564,
+              "string": "1\u0000\u0007That ye stand b'fore us now could only mean one thing: sweet victory! Arrrg!"
+            },
+            {
+              "id": 7565,
+              "string": "1\u0000\u0007This old pirate's met many an' more folk in his day, but none o' 'em could hold a candle t' ye, matey."
+            },
+            {
+              "id": 7578,
+              "string": "1\u0000\u0007Ye've given us much, \b, includin' the precious gift o' life--a chance at livin'. I only wish there be some way fer me an' me hearties t' repay ye."
+            },
+            {
+              "id": 7579,
+              "string": "1\u0000\u0007B'fore I go wanderin' off, I feel obliged t' thank ye again fer puttin' up with me nigh endless prattlin'. Ye been a most attentive pair o' ears.\u0007Fare ye well, matey, an' may the wind always fill yer sails."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805341,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7404,
+              "string": "1\u0000\u0007Greetings, \b. My name is Esha'ntarl.\u0007Before I begin, please accept my apologies for having to appear before you in this unseemly state."
+            },
+            {
+              "id": 7405,
+              "string": "1\u0000\u0007Unlike a chosen few, I do not possess the power to traverse worlds. For this reason, I requested that our meeting take place within the Hall of the Gods, that we might harness the energy that permeates these sacred grounds."
+            },
+            {
+              "id": 7407,
+              "string": "1\u0000\u0007Judging by your expression, I gather we are already acquainted in your world.\u0007It would seem fate has had a hand in bringing us together once more."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007Your wary expression tells me you have yet to cross paths with my counterpart in Vana'diel."
+            },
+            {
+              "id": 7409,
+              "string": "1\u0000\u0007Nevertheless, fate has now deemed it fit that we meet."
+            },
+            {
+              "id": 7410,
+              "string": "1\u0000\u0007The world of mortals--the collective lives of men--is as a great river, formed of innumerable tributaries converging upon a single, torrential flow."
+            },
+            {
+              "id": 7411,
+              "string": "1\u0000\u0007And you, \b, are as a single leaf borne on the current...a current that brings together fellow drifters as often as it parts them."
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007Be it distant future or forgotten past, such is your destiny as is writ in the stars."
+            },
+            {
+              "id": 7413,
+              "string": "1\u0000\u0007A destiny you share with your counterpart in Abyssea..."
+            },
+            {
+              "id": 7416,
+              "string": "1\u0000\u0007The cataclysm that has ravaged the land--it is a thing spawned from the will of Promathia, a primeval divinity who has stirred to wakefulness with the coming of His worldly avatar."
+            },
+            {
+              "id": 7418,
+              "string": "1\u0000\u0007Correct. Also known as the Twilight God, Promathia has existed alongside the Dawn Goddess Altana since the beginning of time."
+            },
+            {
+              "id": 7420,
+              "string": "1\u0000\u0007Much knowledge pertaining to Promathia's existence has long lain hidden from the prying eyes of mortals."
+            },
+            {
+              "id": 7421,
+              "string": "1\u0000\u0007Indeed, that the world was born from the tragedy that befell the two divinities is known only to a select few."
+            },
+            {
+              "id": 7423,
+              "string": "1\u0000\u0007It was the Age of Gods. The Lord of Chaos, Promathia, desired and succumbed to complete death."
+            },
+            {
+              "id": 7424,
+              "string": "1\u0000\u0007In Her grief, Altana bestowed upon the fallen deity the light of the true crystal, and in so doing gave birth to life.\u0007Thus was mankind created."
+            },
+            {
+              "id": 7425,
+              "string": "1\u0000\u0007The true crystal, drained of its power, shattered into five parts.\u0007Bereft of its blessed light, the realm of gods was reduced into the world of mortals, Abyssea."
+            },
+            {
+              "id": 7426,
+              "string": "1\u0000\u0007Yet the will of the gods persisted, graven deep within mankind. And with it, the dream that the world be returned to its former state...that Paradise, the realm of gods, be restored."
+            },
+            {
+              "id": 7427,
+              "string": "1\u0000\u0007So too did the desire for death live on unfading, a smoldering darkness--an Emptiness--within the souls of mortals."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007That is not the case, I fear, for it was the Twilight God's death that brought forth mankind. His resurrection would therefore spell our demise."
+            },
+            {
+              "id": 7433,
+              "string": "1\u0000\u0007The disfiguring metamorphosis of the land is a manifestation of lives being reclaimed by Promathia.\u0007Drained of its power for eons, the true crystal, too, has begun to regain its erstwhile form and light."
+            },
+            {
+              "id": 7434,
+              "string": "1\u0000\u0007The wheels of the world's rebirth have been set in motion."
+            },
+            {
+              "id": 7436,
+              "string": "1\u0000\u0007Correct. The lattice-shaped breakdown of the land is proof positive of this reversion."
+            },
+            {
+              "id": 7438,
+              "string": "1\u0000\u0007That this event would come to pass had been foretold since ancient times.\u0007It was my intent to be fully prepared when the day came--to be ready to avert disaster."
+            },
+            {
+              "id": 7439,
+              "string": "1\u0000\u0007But in the end, I was powerless before the unyielding avalanche of fate."
+            },
+            {
+              "id": 7440,
+              "string": "1\u0000\u0007That the people now suffer so is due to my impotence. The blame lies with me."
+            },
+            {
+              "id": 7442,
+              "string": "1\u0000\u0007\b..."
+            },
+            {
+              "id": 7454,
+              "string": "1\u0000\u0007Gilgamesh..."
+            },
+            {
+              "id": 7442,
+              "string": "1\u0000\u0007\b..."
+            },
+            {
+              "id": 7462,
+              "string": "1\u0000\u0007Your theory in particular, Gilgamesh, bears further investigation.\u0007I, too, shall do what I can on this quarter."
+            },
+            {
+              "id": 7463,
+              "string": "1\u0000\u0007For now, I take my leave of you. Fare you well."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7470,
+              "string": "1\u0000\u0007Thank you once again for coming.\u0007I apologize that a location more convenient cannot be arranged."
+            },
+            {
+              "id": 7471,
+              "string": "1\u0000\u0007My time is limited, as you are already aware, so pray excuse me if I seem curt.\u0007Tell me, \b. Are you aware of the current state of Abyssea?"
+            },
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007You are not wrong, Gilgamesh. Pray allow me to elaborate."
+            },
+            {
+              "id": 7478,
+              "string": "1\u0000\u0007And it is that selfsame will that birthed the multitudinous new species that breathe only to eradicate mankind."
+            },
+            {
+              "id": 7479,
+              "string": "1\u0000\u0007Promathia desires the reversion of the mortal realm into Paradise.\u0007However, this transformation cannot take place so long as mortals exist."
+            },
+            {
+              "id": 7480,
+              "string": "1\u0000\u0007This is the truth behind that which the survivors have come to fear as the Abyssean hordes."
+            },
+            {
+              "id": 7482,
+              "string": "1\u0000\u0007These creatures are, for all intents and purposes, emissaries of god.\u0007For mortals to be taken by them...some might be fain to call it salvation."
+            },
+            {
+              "id": 7485,
+              "string": "1\u0000\u0007Eloquently said, Gilgamesh, and truer than you might know. For even as the Twilight God harbors death and Emptiness, so too does the desire for life survive within him. There is no greater proof of this than that mankind--His children--choose to fight for survival."
+            },
+            {
+              "id": 7486,
+              "string": "1\u0000\u0007And so it is our destiny to make a stand, even should it mean defying the will of a god."
+            },
+            {
+              "id": 7487,
+              "string": "1\u0000\u0007And defy it you did, \b, the you and yours of Abyssea."
+            },
+            {
+              "id": 7488,
+              "string": "1\u0000\u0007Our destination is the highest plane of existence: the celestial capital Al'Taieu.\u0007There is where the final battle between mankind and Promathia was waged."
+            },
+            {
+              "id": 7490,
+              "string": "1\u0000\u0007Even should we determine its location, gaining access will not be a simple affair, I fear.\u0007Due to the cataclysm, the precious few gateways that once existed are no more."
+            },
+            {
+              "id": 7494,
+              "string": "1\u0000\u0007Just so."
+            },
+            {
+              "id": 7497,
+              "string": "1\u0000\u0007The crags Holla, Dem, and Mea--all three were gateways to the true crystal, linked to it via the Crystal Line."
+            },
+            {
+              "id": 7498,
+              "string": "1\u0000\u0007That they have now disappeared could only mean one thing: the five fragments of the true crystal, too, are beginning to merge into one."
+            },
+            {
+              "id": 7500,
+              "string": "1\u0000\u0007That the fragments are merging is past certain. The only question that remains, then, is where the joining will take place."
+            },
+            {
+              "id": 7501,
+              "string": "1\u0000\u0007I believe that the answer we seek may be found on Qufim, the island which served as the point of convergence for the Crystal Line."
+            },
+            {
+              "id": 7502,
+              "string": "1\u0000\u0007I regret to say, however, that the undersea cave linking Jeuno to the island, too, has been inaccessible since the collapse of Heavens Bridge."
+            },
+            {
+              "id": 7503,
+              "string": "1\u0000\u0007Furthermore..."
+            },
+            {
+              "id": 7505,
+              "string": "1\u0000\u0007The likelihood is high that the celestial capital Al'Taieu has not in fact descended to Abyssea."
+            },
+            {
+              "id": 7507,
+              "string": "1\u0000\u0007Forgive me, but the workings of apocalypse are seldom simple. I shall endeavor to explain things more plainly.\u0007The return of the Keeper of the Apocalypse should have spelled the end of mankind. Yet this has not come to pass."
+            },
+            {
+              "id": 7508,
+              "string": "1\u0000\u0007And I credit your hypothesis to be the reason, Gilgamesh: that the Champions of Abyssea have done something to prevent the complete merging of dimensions."
+            },
+            {
+              "id": 7509,
+              "string": "1\u0000\u0007There exists a place that has undergone drastic change--a place that is of Abyssea, yet not part of it.\u0007And though not small by any measure, it has largely escaped our notice."
+            },
+            {
+              "id": 7511,
+              "string": "1\u0000\u0007As it please you, Gilgamesh.\u0007The place I speak of is none other than the moon."
+            },
+            {
+              "id": 7513,
+              "string": "1\u0000\u0007The moon appears to have greatly increased in size. It is obvious, if only one knows to look."
+            },
+            {
+              "id": 7514,
+              "string": "1\u0000\u0007Whether it has grown larger in actuality or has simply been drawn nearer to Abyssea cannot be readily determined. All things considered, however, I am compelled to believe it is to there that Al'Taieu has ascended."
+            },
+            {
+              "id": 7516,
+              "string": "1\u0000\u0007The cavernous maws."
+            },
+            {
+              "id": 7518,
+              "string": "1\u0000\u0007Being portals that connect our world Abyssea to \b's own, it is not beyond imagining that the selfsame maws can take us to Al'Taieu."
+            },
+            {
+              "id": 7520,
+              "string": "1\u0000\u0007Those are of no concern to us. For I am convinced the gateway we seek will not be so apparent, but rather hidden beyond mortal reach by a force that loves us not."
+            },
+            {
+              "id": 7523,
+              "string": "1\u0000\u0007Of the heretofore unseen creatures that rose to prominence in the cataclysm's wake, none is shrouded in more mystery and held in greater trepidation than the caturae."
+            },
+            {
+              "id": 7529,
+              "string": "1\u0000\u0007\b. I believe you already know what must be done.\u0007You must go forth and defeat the creatures. Yes, every last one."
+            },
+            {
+              "id": 7530,
+              "string": "1\u0000\u0007The likelihood that the caturae block our path to salvation can be ill ignored.\u0007Even if eliminating them proves fruitless to our greater cause, it would nonetheless be a kindness to the survivors."
+            },
+            {
+              "id": 7531,
+              "string": "1\u0000\u0007I am not unmindful of the immeasurable good you have already done for our cause. Yet we must ask for your aid once again."
+            },
+            {
+              "id": 7532,
+              "string": "1\u0000\u0007Mankind is forever in your debt, \b."
+            },
+            {
+              "id": 7535,
+              "string": "1\u0000\u0007We know full well we send you into perilous domain. Please take all care."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            {
+              "id": 7538,
+              "string": "1\u0000\u0007\b. It gladdens me to see you safely returned."
+            },
+            {
+              "id": 7539,
+              "string": "1\u0000\u0007Shortly after the last caturae was dispatched, a new source of dimensional disturbance manifested in your world."
+            },
+            {
+              "id": 7540,
+              "string": "1\u0000\u0007As suspected, the twisted creatures are linked to the Twilight God, and theirs had indeed been the presence concealing the gateway to our destination."
+            },
+            {
+              "id": 7541,
+              "string": "1\u0000\u0007The disturbance was detected on Qufim Island, by the southern edge of the wall outside Delkfutt's Tower."
+            },
+            {
+              "id": 7544,
+              "string": "1\u0000\u0007When Al'Taieu ascended to the highest plane, part of it was left behind in the mortal realm.\u0007That part was none other than Qufim Island, the point of convergence for the Crystal Line."
+            },
+            {
+              "id": 7546,
+              "string": "1\u0000\u0007The Sea of Shu'Meyo, it would interest you to know, was the terrestrial location of the celestial capital.\u0007My words would be made clearer if you examined a pre-cataclysm map of the area."
+            },
+            {
+              "id": 7549,
+              "string": "1\u0000\u0007This, Gilgamesh, was precisely why I sent you to investigate Qufim's surrounds, ensuring that differences in existential phase were accounted for."
+            },
+            {
+              "id": 7556,
+              "string": "1\u0000\u0007Although the caturae are eliminated and obstruct our passage no more, the newly formed gateway remains unfit to be traversed by one of Abyssea."
+            },
+            {
+              "id": 7560,
+              "string": "1\u0000\u0007Pray make all haste for Qufim Island, and thence to the celestial capital, where the Keeper of the Apocalypse abides."
+            },
+            {
+              "id": 7562,
+              "string": "1\u0000\u0007Yes. The hope of our entire world rests upon \b and ?[his\/her] comrades."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            {
+              "id": 7566,
+              "string": "1\u0000\u0007Welcome back, \b.\u0007While it is still fresh in your mind, I would have you recount to us all that transpired."
+            },
+            {
+              "id": 7567,
+              "string": "1\u0000\u0007I see... I am elated to learn that Prishe is alive and well."
+            },
+            {
+              "id": 7568,
+              "string": "1\u0000\u0007The pain and suffering she has had to endure are beyond even my imagining.\u0007It is I, not she, who needs to apologize for being powerless to do more."
+            },
+            {
+              "id": 7569,
+              "string": "1\u0000\u0007We Abysseans had stood on the precipice of destruction, every last person all but lost to hope. \u0007But a miracle appeared, instilling us with courage and resolve, ultimately saving us from a fate of certain destruction."
+            },
+            {
+              "id": 7570,
+              "string": "1\u0000\u0007That miracle, \b, is you. Our boundless gratitude is forever yours."
+            },
+            {
+              "id": 7571,
+              "string": "1\u0000\u0007Although the Keeper of the Apocalypse is no more, the scars of tragedy remain graven within the hearts of mortals."
+            },
+            {
+              "id": 7572,
+              "string": "1\u0000\u0007Yet time heals all wounds, no matter how deep they might run. And then people will rise again in united purpose and restore Abyssea to her former glory."
+            },
+            {
+              "id": 7573,
+              "string": "1\u0000\u0007Even now, the seeds of new lives--of a new and resilient generation--are sprouting, taking root."
+            },
+            {
+              "id": 7575,
+              "string": "1\u0000\u0007...Yes, Gilgamesh. Like a tree."
+            },
+            {
+              "id": 7580,
+              "string": "1\u0000\u0007\b."
+            },
+            {
+              "id": 7581,
+              "string": "1\u0000\u0007I know not the future that awaits you, the branches of eventualities that lie along the way."
+            },
+            {
+              "id": 7582,
+              "string": "1\u0000\u0007Yet in a world of infinite possibilities, it cannot be ruled out that the cataclysm that befell Abyssea may one day descend upon Vana'diel."
+            },
+            {
+              "id": 7583,
+              "string": "1\u0000\u0007You must stay strong and ever ready, \b, for the time may come when your uncommon courage and valor will be needed once more."
+            },
+            {
+              "id": 7584,
+              "string": "1\u0000\u0007Before I take my leave, I have one last favor to ask of you. It concerns Prishe."
+            },
+            {
+              "id": 7585,
+              "string": "1\u0000\u0007For all her carefree demeanor, she has known naught but hardship and suffering her entire life.\u0007It would mean much to both Prishe and me if you would pay her visit on occasion, whenever time permits."
+            },
+            {
+              "id": 7586,
+              "string": "1\u0000\u0007As your counterpart in Abyssea stood by her, easing the pain that racks her gentle heart, so too would I ask the same of you."
+            },
+            {
+              "id": 7587,
+              "string": "1\u0000\u0007Thank you, \b, and farewell.\u0007May the stars shine their countenance upon you, always."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805342,
+      "name": "???",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805343,
+      "name": "",
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 8,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 9,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805344,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805345,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805346,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805347,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 7,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805350,
+      "name": "",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7179,
+              "string": "1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 18,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805351,
+      "name": "Esha'ntarl",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007You are \b, correct?"
+            },
+            {
+              "id": 7592,
+              "string": "1\u0000\u0007Permit me to introduce myself. I am Esha'ntarl, representative of Archduke Kam'lanaut of the Grand Duchy of Jeuno."
+            },
+            {
+              "id": 7593,
+              "string": "1\u0000\u0007Ah, but your face belies your surprise at seeing one such as me here. Despite my position, I am given free reign to go where I please."
+            },
+            {
+              "id": 7594,
+              "string": "1\u0000\u0007I heard tell of a young woman struggling to save the world from oblivion together with her master...an adventurer. You."
+            },
+            {
+              "id": 7595,
+              "string": "1\u0000\u0007I desired but to lay my own two eyes on ?[his\/her] visage."
+            },
+            {
+              "id": 7588,
+              "string": "1\u0000\u0007I had an inkling you would be here."
+            },
+            {
+              "id": 7589,
+              "string": "1\u0000\u0007You must be taken aback to be reunited with me here, of all places."
+            },
+            {
+              "id": 7590,
+              "string": "1\u0000\u0007To think we had prevented the world from ending one way, only to find out it would end another..."
+            },
+            {
+              "id": 7596,
+              "string": "1\u0000\u0007And Iroha? Is she not with you?"
+            },
+            {
+              "id": 7598,
+              "string": "1\u0000\u0007I understand you have no reason to place your trust in me, but know this--I wish only to shelter this world from harm."
+            },
+            {
+              "id": 7599,
+              "string": "1\u0000\u0007Surely you can sense that my words ring true."
+            },
+            {
+              "id": 7600,
+              "string": "1\u0000\u0007Please. Apprise me of what you have learned thus far."
+            },
+            {
+              "id": 7597,
+              "string": "1\u0000\u0007Please. Apprise me of what you have learned thus far."
+            },
+            {
+              "id": 7601,
+              "string": "1\u0000\u0007So Iroha expired and has yet to return to this mortal coil."
+            },
+            {
+              "id": 7602,
+              "string": "1\u0000\u0007Revival is in the realm of the gods, and if she has not yet returned, it may be because they do not permit it."
+            },
+            {
+              "id": 7603,
+              "string": "1\u0000\u0007Should she be struggling in earnest against this void...this ??Cloud of Darkness,?? then it is but a matter of time before they see fit to bring her here once more."
+            },
+            {
+              "id": 7604,
+              "string": "1\u0000\u0007Unless...\u0007Unless their own powers have begun to wane and they have little time left."
+            },
+            {
+              "id": 7605,
+              "string": "1\u0000\u0007Only the ancients--the Zilart--possess the means by which to open these gates."
+            },
+            {
+              "id": 7607,
+              "string": "1\u0000\u0007I shall unbar the way."
+            },
+            {
+              "id": 7606,
+              "string": "1\u0000\u0007Ah, but you are already in possession of \u0001\u00056????. I should have expected no less."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7644,
+              "string": "!?\u0000\u0007I see. So that masked man is, for lack of a better term, a future you that has succumbed to darkness."
+            },
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007A fallen angel, if you will. I sense that your words do not ring false."
+            },
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007But let us reflect. If he came to our time to prevent you from becoming a god of light..."
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007...Then the logical conclusion is that you have the capability to do so."
+            },
+            {
+              "id": 7648,
+              "string": "1\u0000\u0007So you wish to know a more concrete method for becoming a god of light."
+            },
+            {
+              "id": 7649,
+              "string": "1\u0000\u0007Would that I could provide you with answers, but I cannot surmise what Yve'noile had in mind."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007Perhaps Selh'teus in \f\u0000[Al'Taieu\/Paradise] would have the answers we seek."
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007Ah, so you raise an eyebrow at my acquaintance with Selh'teus."
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007Naturally, I have not revealed my position as a representative of the Grand Duchy of Jeuno."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007However, should I have not made this clear before, you must make many sacrifices in order to discard your mortal form and ascend."
+            },
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007You will become more than any person was meant to be, and rise to a plane where you will no longer be able to interact with friends and loved ones."
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007Let there be no doubt: the path is a lonely one.1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 18,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805352,
+      "name": "???",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805353,
+      "name": "",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805354,
+      "name": "",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805355,
+      "name": "",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805356,
+      "name": "",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805357,
+      "name": "",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805358,
+      "name": "",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17805359,
+      "name": "Disjoined One",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        
+      ]
+    }
+  ]
+}

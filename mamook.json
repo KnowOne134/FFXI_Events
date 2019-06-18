@@ -1,0 +1,3674 @@
+{
+  "id": 65,
+  "name": "Mamook",
+  "actors": [
+    {
+      "id": 17043926,
+      "name": "",
+      "events": [
+        {
+          "id": 226,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043942,
+      "name": "Mahogany Door",
+      "events": [
+        {
+          "id": 220,
+          "dialogue": [
+            {
+              "id": 8110,
+              "string": "1\u0000\u0007Exit? (You cannot reenter here.)\u0007\u000bYes.\u0007Not now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043947,
+      "name": "Mahogany Door",
+      "events": [
+        {
+          "id": 206,
+          "dialogue": [
+            {
+              "id": 7475,
+              "string": "1\u0000\u0007Use the \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7477,
+              "string": "1\u0000\u0007You ring the red bell and hear the dull sound of something being unlocked."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043948,
+      "name": "Mahogany Door",
+      "events": [
+        {
+          "id": 207,
+          "dialogue": [
+            {
+              "id": 7318,
+              "string": "1\u0000\u0007Leave through the gate?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043954,
+      "name": "Mahogany Door",
+      "events": [
+        {
+          "id": 216,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043991,
+      "name": "Ramblix",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 8003,
+              "string": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, ?[man.\/lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 8004,
+              "string": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 8005,
+              "string": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 8013,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 8014,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Get the Picture.\u0007Give Peace a Chance.\u0007Two Horn the Savage(pt.1).\u0007Two Horn the Savage(pt.2).\u0007Moment of Truth.\u0007The Prince and the Hopper(pt.1).\u0007The Prince and the Hopper(pt.2).\u0007The Prince and the Hopper(pt.3).\u0007The Prince and the Hopper(pt.4).\u0007The Prince and the Hopper(pt.5)."
+            },
+            {
+              "id": 8007,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 8015,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 8007,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 8016,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 8007,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 8017,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 8007,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 8007,
+              "string": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            },
+            {
+              "id": 8006,
+              "string": "1\u0000\u0007Now, listen close..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043994,
+      "name": "Gukool Ja",
+      "events": [
+        {
+          "id": 211,
+          "dialogue": [
+            {
+              "id": 8018,
+              "string": "1\u0000\u0007I cannot...\u0007To the boss, I will not give you.\u0007You run. Run far from here."
+            },
+            {
+              "id": 8020,
+              "string": "1\u0000\u0007Fine, I will be.\u0007A mighty beastman, Gukool Ja is. Of worry, you have no need."
+            },
+            {
+              "id": 8021,
+              "string": "1\u0000\u0007Now, go. Quickly."
+            },
+            {
+              "id": 8024,
+              "string": "1\u0000\u0007Wrong, war is.\u0007Let go, I will not.\u0007Wrong, your ideas are!"
+            },
+            {
+              "id": 8036,
+              "string": "1\u0000\u0007Forget you, we will not.\u0007We."
+            },
+            {
+              "id": 8037,
+              "string": "..\u0000\u0007Forget, I will not.\u0007I."
+            },
+            {
+              "id": 8038,
+              "string": "..\u0000\u0007Friend...\u0007You...\u0007I."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043995,
+      "name": "Briallen",
+      "events": [
+        {
+          "id": 211,
+          "dialogue": [
+            {
+              "id": 8019,
+              "string": "1\u0000\u0007What...?\u0007But what about you?"
+            },
+            {
+              "id": 8022,
+              "string": "1\u0000\u0007Waa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043996,
+      "name": "Mishhar",
+      "events": [
+        {
+          "id": 211,
+          "dialogue": [
+            {
+              "id": 8026,
+              "string": "1\u0000\u0007This is the way it had to be.\u0007But I will not have you bringing children into this."
+            },
+            {
+              "id": 8028,
+              "string": "1\u0000\u0007Very well.\u0007I will overlook it this one time."
+            },
+            {
+              "id": 8029,
+              "string": "1\u0000\u0007We have more important things to worry about.\u0007My superiors have begun to notice our activities."
+            },
+            {
+              "id": 8030,
+              "string": "1\u0000\u0007I spread rumors of Isween's nightly meetings to divert attention, but it would be best if we avoided contact for a time."
+            }
+          ]
+        },
+        {
+          "id": 221,
+          "dialogue": [
+            {
+              "id": 8144,
+              "string": "1\u0000\u0007Did you find them!?"
+            },
+            {
+              "id": 8145,
+              "string": "1\u0000\u0007These are their weapons! And look at all these footprints... Could they have taken everyone to the Jade Sepulcher?"
+            },
+            {
+              "id": 8146,
+              "string": "1\u0000\u0007We must hurry!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043997,
+      "name": "Isween",
+      "events": [
+        {
+          "id": 211,
+          "dialogue": [
+            {
+              "id": 8032,
+              "string": "1\u0000\u0007Gukool Ja!\u0007You're injured!"
+            },
+            {
+              "id": 8039,
+              "string": "..\u0000\u0007No!\u0007Stay with me, Gukool Ja!"
+            },
+            {
+              "id": 8041,
+              "string": "1\u0000\u0007Gukool Ja!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043998,
+      "name": "Golaal Ja",
+      "events": [
+        {
+          "id": 211,
+          "dialogue": [
+            {
+              "id": 8023,
+              "string": "a!\u0000\u0007Soft, you still are.\u0007Ideas of peace, you must let go."
+            },
+            {
+              "id": 8025,
+              "string": "1\u0000\u0007Wrong...!?\u0007Your own ideas, you keep.\u0007One like you, we do not need."
+            },
+            {
+              "id": 8027,
+              "string": "1\u0000\u0007Only to test Gukool Ja, we wished.\u0007Free to go, the child is."
+            },
+            {
+              "id": 8031,
+              "string": "1\u0000\u0007Understood. Careful, we will be."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17043999,
+      "name": "Gukool Ja",
+      "events": [
+        {
+          "id": 211,
+          "dialogue": [
+            {
+              "id": 8033,
+              "string": "1\u0000\u0007War, I want to end.\u0007Boss, I want to stop."
+            },
+            {
+              "id": 8034,
+              "string": "1\u0000\u0007Stop boss, we cannot.\u0007End war, we cannot.\u0007Why..."
+            },
+            {
+              "id": 8035,
+              "string": "1\u0000\u0007Meeting you, I remember.\u0007That day, I remember..."
+            },
+            {
+              "id": 8040,
+              "string": "1\u0000\u0007You and I, the fighting, could not stop...\u0007Sorry, I am..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044000,
+      "name": "Gukool Ja",
+      "events": [
+        {
+          "id": 211,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044001,
+      "name": "Teepapa",
+      "events": [
+        {
+          "id": 212,
+          "dialogue": [
+            {
+              "id": 8042,
+              "string": "1\u0000\u0007Whoa! There you are!"
+            },
+            {
+              "id": 8043,
+              "string": "1\u0000\u0007Running will do you no goody-wood! I'm gonna get you!"
+            }
+          ]
+        },
+        {
+          "id": 213,
+          "dialogue": [
+            {
+              "id": 8046,
+              "string": "1\u0000\u0007He wasn't a Mamool Ja... He was a person dressy-wessed up as a Mamool Ja!"
+            },
+            {
+              "id": 8047,
+              "string": "1\u0000\u0007Come to thinky-wink of it, I did hear something about a liquid that will turn any who drinky-winks of it into the form of a resident of Mamook..."
+            },
+            {
+              "id": 8048,
+              "string": "1\u0000\u0007But by the looky-wooks of him...\u0007Who are you, anyway?"
+            },
+            {
+              "id": 8049,
+              "string": "1\u0000\u0007Are you the one who made mille feuille out of the guards?\u0007...Would you happy-wappen to be Duuruhn?"
+            },
+            {
+              "id": 8053,
+              "string": "1\u0000\u0007Explain yourself!"
+            },
+            {
+              "id": 8055,
+              "string": "1\u0000\u0007Doubts?"
+            },
+            {
+              "id": 8060,
+              "string": "1\u0000\u0007That's true. Empress Nashmeira receives a lot of crity-witicism for that."
+            },
+            {
+              "id": 8066,
+              "string": "1\u0000\u0007So you decidey-wided to transform into a Mamool Ja until everyone forgot about you."
+            },
+            {
+              "id": 8067,
+              "string": "1\u0000\u0007Interesting. Not that baddy-wad of a plan."
+            },
+            {
+              "id": 8070,
+              "string": "1\u0000\u0007Two Horn...doesn't exist?"
+            },
+            {
+              "id": 8071,
+              "string": "1\u0000\u0007Hmph, that shows how little-wittle you know."
+            },
+            {
+              "id": 8072,
+              "string": "1\u0000\u0007Two Horn is standy-wanding right in front of you!"
+            },
+            {
+              "id": 8074,
+              "string": "1\u0000\u0007I heardy-weard that someone was using my name, so I came to find out who it was."
+            },
+            {
+              "id": 8078,
+              "string": "1\u0000\u0007Hmph. That name isn't cutesy-wutesy at all!"
+            },
+            {
+              "id": 8079,
+              "string": "1\u0000\u0007Everyone thinky-winks we're so heartless, we're so cruelly-wuel, whatever...but surely-wurely they jest. Of course we're not a bunch of thuggy-wugs! And if you even try to insinuate as much, I'll knocky-wock your face in!"
+            },
+            {
+              "id": 8080,
+              "string": "1\u0000\u0007The Imperial Army is just as you said...a bunch of namby-pambies."
+            },
+            {
+              "id": 8081,
+              "string": "1\u0000\u0007I mean...what about the family-wamilies left behind when the beastmen attack?"
+            },
+            {
+              "id": 8082,
+              "string": "1\u0000\u0007What about the childy-wildren who lose their fathy-wather in the battles?"
+            },
+            {
+              "id": 8083,
+              "string": "1\u0000\u0007Who is going to takey-wake revenge for them? The Empire? Empress Nashmeira? No!"
+            },
+            {
+              "id": 8084,
+              "string": "1\u0000\u0007Do you thinky-wink the powerless are going to get happiness from goldy-wold, laws, or stuffy-wuffy philosophies? No!"
+            },
+            {
+              "id": 8085,
+              "string": "1\u0000\u0007Especially in Aht Urhgan!"
+            },
+            {
+              "id": 8086,
+              "string": "1\u0000\u0007I'm just lendy-wending the poor and huddled masses a helping hand!"
+            },
+            {
+              "id": 8089,
+              "string": "1\u0000\u0007Duuruhn, if you really-weally want to leave the army, we'll take care of you until this all setty-wettles down."
+            },
+            {
+              "id": 8091,
+              "string": "1\u0000\u0007Yeppy-weppers!\u0007\b, I'll leavey-weave everything else to you. Go reporty-wort to the Imperial Army...or else, see?"
+            },
+            {
+              "id": 8092,
+              "string": "1\u0000\u0007Maybe we'll meety-weet again somewhere."
+            },
+            {
+              "id": 8093,
+              "string": "1\u0000\u0007I hope we'll be on the same side then. Heh heh!"
+            },
+            {
+              "id": 8096,
+              "string": "1\u0000\u0007Time for our exit!\u0007You too, Duuruhn! Move those leggy-wegs!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044002,
+      "name": "Duuruhn",
+      "events": [
+        {
+          "id": 212,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 213,
+          "dialogue": [
+            {
+              "id": 8051,
+              "string": "1\u0000\u0007Well, I am Duuruhn."
+            },
+            {
+              "id": 8052,
+              "string": "1\u0000\u0007And everything is my fault..."
+            },
+            {
+              "id": 8054,
+              "string": "1\u0000\u0007It all began with my doubts regarding the Imperial Army..."
+            },
+            {
+              "id": 8056,
+              "string": "1\u0000\u0007Yes... I was a soldier of the Imperial Army, but to be honest, I hated the way they did things."
+            },
+            {
+              "id": 8057,
+              "string": "1\u0000\u0007The army is supposed to protect the Empire's citizens and ensure the security of its land."
+            },
+            {
+              "id": 8058,
+              "string": "1\u0000\u0007But where are they when the beastmen invade Al Zahbi?"
+            },
+            {
+              "id": 8059,
+              "string": "1\u0000\u0007They use the mercenaries and volunteer soldiers as fodder for the enemy as they watch the battle from afar!"
+            },
+            {
+              "id": 8061,
+              "string": "1\u0000\u0007I did not want to be part of an army that serves the Empire only in name."
+            },
+            {
+              "id": 8062,
+              "string": "1\u0000\u0007Rather than continue my duties with such doubts running through my mind, I opted to desert and find my own path."
+            },
+            {
+              "id": 8063,
+              "string": "1\u0000\u0007However, I am still a soldier. I have sworn loyalty to the Empress and know the inner workings of the Empire. They would not simply allow me to quit..."
+            },
+            {
+              "id": 8064,
+              "string": "1\u0000\u0007That's when I learned of Two Horn."
+            },
+            {
+              "id": 8065,
+              "string": "1\u0000\u0007Nobody knows who Two Horn is, so I used the rumors of his existence to disappear."
+            },
+            {
+              "id": 8068,
+              "string": "1\u0000\u0007Please forget you ever saw me here."
+            },
+            {
+              "id": 8069,
+              "string": "1\u0000\u0007I beg you... Tell my officer that Two Horn didn't exist after all, and that my life was taken by the beastmen."
+            },
+            {
+              "id": 8073,
+              "string": "1\u0000\u0007What!?"
+            },
+            {
+              "id": 8075,
+              "string": "1\u0000\u0007So you've been causing all those incidents...?"
+            },
+            {
+              "id": 8090,
+              "string": "1\u0000\u0007R-really?"
+            },
+            {
+              "id": 8097,
+              "string": "1\u0000\u0007Y-yes, ma'am!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044003,
+      "name": "",
+      "events": [
+        {
+          "id": 213,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044004,
+      "name": "",
+      "events": [
+        {
+          "id": 212,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044005,
+      "name": "Ibadeen",
+      "events": [
+        {
+          "id": 213,
+          "dialogue": [
+            {
+              "id": 8076,
+              "string": "1\u0000\u0007Heh heh. Surely ya can't expect us to keep count o' the number of people the boss 'as passed 'er merciless judgments on."
+            },
+            {
+              "id": 8087,
+              "string": "1\u0000\u0007Ya better not anger da boss."
+            },
+            {
+              "id": 8094,
+              "string": "1\u0000\u0007Ya better pray you are!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044006,
+      "name": "Mashubl",
+      "events": [
+        {
+          "id": 213,
+          "dialogue": [
+            {
+              "id": 8077,
+              "string": "1\u0000\u0007The name ??Two Horn?? comes from 'er pigtails seen by 'er shudderin' victims as she leaves 'em in 'er wake."
+            },
+            {
+              "id": 8088,
+              "string": "1\u0000\u0007She's gonna continue cleanin' up da streets, ya know."
+            },
+            {
+              "id": 8095,
+              "string": "1\u0000\u0007Later!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044007,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 17044014,
+      "name": "Logging Point",
+      "events": [
+        {
+          "id": 215,
+          "dialogue": [
+            {
+              "id": 7539,
+              "string": "s.\u0000\u0007You are unable to log anythin"
+            },
+            {
+              "id": 7537,
+              "string": "s!\u0000\u0007You successfully cut off \u0001\u0001\u0001 \u0001\u0005$???"
+            },
+            {
+              "id": 7536,
+              "string": "1\u0000\u0007Your \u0001\u0005#???? break"
+            },
+            {
+              "id": 7538,
+              "string": "?!\u0000\u0007You cut off \u0001\u0001\u0001 \u0001\u0005$????, but your \u0001\u0005#???? breaks in the proces"
+            },
+            {
+              "id": 7540,
+              "string": "g.\u0000\u0007You cannot carry any more items. Your inventory is ful"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044022,
+      "name": "???",
+      "events": [
+        {
+          "id": 221,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044023,
+      "name": "",
+      "events": [
+        {
+          "id": 222,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 223,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 225,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 227,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044024,
+      "name": "Salwa-Molwa",
+      "events": [
+        {
+          "id": 222,
+          "dialogue": [
+            {
+              "id": 8340,
+              "string": "!?\u0000\u0007Mikilulu! She's-- I've-- It's-- We've-- Toad!"
+            },
+            {
+              "id": 8345,
+              "string": "1\u0000\u0007You see, you two were still sleeping when I recovered from the spell. I looked around to see if I couldn't spot the fiend that had put us in this predicament..."
+            },
+            {
+              "id": 8346,
+              "string": "1\u0000\u0007...when I saw my precious Mikilulu..."
+            },
+            {
+              "id": 8347,
+              "string": "1\u0000\u0007...being turned into a frog!"
+            },
+            {
+              "id": 8352,
+              "string": "1\u0000\u0007Anyway, I tried my best to catch my poor sweetheart, but she was just too slick and slimy."
+            },
+            {
+              "id": 8353,
+              "string": "1\u0000\u0007And before I knew it, I found myself in the middle of the forest. Miki had stopped near a tree and I was just about to sneak up and grab her..."
+            },
+            {
+              "id": 8354,
+              "string": "1\u0000\u0007...when I saw her jump towards a shadow that was probably a terrible monster! It was a Poroggo, I tell you!"
+            }
+          ]
+        },
+        {
+          "id": 223,
+          "dialogue": [
+            {
+              "id": 8401,
+              "string": "s!\u0000\u0007Mikimiki! Why did you go and run away from your Salwa? You don't know how worried I was!"
+            },
+            {
+              "id": 8402,
+              "string": "1\u0000\u0007So, Professor. Now all we have to do is wait for the spell to wear off naturally, right?"
+            },
+            {
+              "id": 8409,
+              "string": "1\u0000\u0007Gwahhh!"
+            }
+          ]
+        },
+        {
+          "id": 224,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 225,
+          "dialogue": [
+            {
+              "id": 8412,
+              "string": "u!\u0000\u0007You did it! Now Miki will..."
+            },
+            {
+              "id": 8413,
+              "string": "1\u0000\u0007What the...?"
+            },
+            {
+              "id": 8419,
+              "string": "1\u0000\u0007Then if this is really Miki, and that is really the culprit, then why is she still a toad!?"
+            },
+            {
+              "id": 8421,
+              "string": "1\u0000\u0007But... But..."
+            },
+            {
+              "id": 8422,
+              "string": "1\u0000\u0007But what about waiting for the spell to wear off? You said that would work, right?"
+            },
+            {
+              "id": 8424,
+              "string": "1\u0000\u0007Eh!?"
+            },
+            {
+              "id": 8444,
+              "string": "1\u0000\u0007Wh-what!? That can't be!"
+            },
+            {
+              "id": 8446,
+              "string": "1\u0000\u0007Wait a minute... Are you trying to say that my girl has always been a frog!?"
+            },
+            {
+              "id": 8450,
+              "string": "1\u0000\u0007Eh!?"
+            },
+            {
+              "id": 8453,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 8456,
+              "string": "1\u0000\u0007P-Professor! Let me help you!"
+            },
+            {
+              "id": 8457,
+              "string": "1\u0000\u0007I'll do anything!\u0007I mean, I don't know much about zoology, but there's got to be something I can do!"
+            },
+            {
+              "id": 8459,
+              "string": "1\u0000\u0007Discipline is my middle name! I won't let you down!"
+            },
+            {
+              "id": 8462,
+              "string": "1\u0000\u0007T-Thanks B! I...uh, mean, thank you very much, Your Professing Greatness."
+            },
+            {
+              "id": 8466,
+              "string": "1\u0000\u0007N-none at all, sir!"
+            },
+            {
+              "id": 8467,
+              "string": "1\u0000\u0007Alright, Miki. Let's go back to the kind professor's lab, where I'll build you a nice, big cage with grass and rocks and..."
+            },
+            {
+              "id": 8468,
+              "string": "1\u0000\u0007Oh, and I bet you'll be wanting to take a swim every now and then."
+            },
+            {
+              "id": 8469,
+              "string": "1\u0000\u0007Well, you don't have to worry about that. Just croak and I'll dig you your very own swamp, with lily pads and everything!"
+            },
+            {
+              "id": 8470,
+              "string": "1\u0000\u0007And food! I'll get you whatever you're craving for! What are you craving for? Worms? No, wait moles like worms... What do toads like again? Bugs! That's right!"
+            },
+            {
+              "id": 8471,
+              "string": "1\u0000\u0007If it's bugs you want, bugs you'll get! I've got a Mog Locker full of shell bugs from that last time I tried to grow some ore."
+            },
+            {
+              "id": 8472,
+              "string": "1\u0000\u0007..."
+            },
+            {
+              "id": 8473,
+              "string": "1\u0000\u0007That's right, Miki. I'll be right by your side until the big B can find a way to turn you back to normal."
+            },
+            {
+              "id": 8474,
+              "string": "1\u0000\u0007And then..."
+            },
+            {
+              "id": 8475,
+              "string": "1\u0000\u0007We can get married and live happily ever after!"
+            },
+            {
+              "id": 8476,
+              "string": "1\u0000\u0007M-Mikilulu!"
+            },
+            {
+              "id": 8479,
+              "string": "1\u0000\u0007You... You understood what I was saying the whole time?"
+            },
+            {
+              "id": 8483,
+              "string": "1\u0000\u0007Wow... So, all this time you were a frog, you were still thinking of me?"
+            },
+            {
+              "id": 8484,
+              "string": "1\u0000\u0007I'm sorry, Mikilulu. This is all my fault. If I hadn't made you worry about me being transmutrified into a toad, you wouldn't have had to go through all this."
+            },
+            {
+              "id": 8485,
+              "string": "1\u0000\u0007But never again! From now on, I'll protect you from anything that stands in the way of our love..."
+            },
+            {
+              "id": 8487,
+              "string": "1\u0000\u0007...as soon as I finish this job for Professor Clavauert!"
+            },
+            {
+              "id": 8489,
+              "string": "1\u0000\u0007Eh? You're not going through with the experiment? But what about your research? What about my paycheck!?"
+            },
+            {
+              "id": 8502,
+              "string": "1\u0000\u0007And... Um... So does this mean I still get my paycheck...?"
+            },
+            {
+              "id": 8504,
+              "string": "1\u0000\u0007Th-thank you!"
+            }
+          ]
+        },
+        {
+          "id": 227,
+          "dialogue": [
+            {
+              "id": 8358,
+              "string": "1\u0000\u0007I don't know. She didn't tell me...\u0007I can only guess it was because she was worried about the experiment."
+            },
+            {
+              "id": 8359,
+              "string": "1\u0000\u0007Oh! Why did it have to be Miki!? I was the one that was supposed to be transformed!"
+            },
+            {
+              "id": 8360,
+              "string": "1\u0000\u0007How scared she must be..."
+            },
+            {
+              "id": 8362,
+              "string": "1\u0000\u0007Well, after what seemed like hours of chasing, the Poroggo finally ducked away into this cave..."
+            },
+            {
+              "id": 8363,
+              "string": "1\u0000\u0007...and that's when I lost him..."
+            },
+            {
+              "id": 8364,
+              "string": "1\u0000\u0007I thought about searching for the frogman myself, but this place is crawling with hungry-looking Mamool Ja, and I wasn't planning on being a snack for those snakes."
+            },
+            {
+              "id": 8366,
+              "string": "1\u0000\u0007But how, Professor?"
+            },
+            {
+              "id": 8376,
+              "string": "1\u0000\u0007Professor! I think I can tell which one is my Miki!"
+            },
+            {
+              "id": 8377,
+              "string": "1\u0000\u0007I mean, I did chase her through the forest for almost an hour."
+            },
+            {
+              "id": 8378,
+              "string": "1\u0000\u0007But even so, I'd know my own fiancee anywhere--frog or not!"
+            },
+            {
+              "id": 8385,
+              "string": "1\u0000\u0007I-- No... I haven't!"
+            },
+            {
+              "id": 8387,
+              "string": "1\u0000\u0007Whoa!\u0007I guess that's why they call you ??Professor??!"
+            },
+            {
+              "id": 8388,
+              "string": "1\u0000\u0007But...\u0007This place is huge. Where do we start looking?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044025,
+      "name": "Mikilulu",
+      "events": [
+        {
+          "id": 222,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 225,
+          "dialogue": [
+            {
+              "id": 8478,
+              "string": "1\u0000\u0007That's all I wanted to hear, Salwa."
+            },
+            {
+              "id": 8480,
+              "string": "1\u0000\u0007No, not the whole time."
+            },
+            {
+              "id": 8481,
+              "string": "1\u0000\u0007But for some reason, those last few words of yours rang out in my head..."
+            },
+            {
+              "id": 8482,
+              "string": "1\u0000\u0007...and before I knew it, I was back to my old self!"
+            },
+            {
+              "id": 8486,
+              "string": "1\u0000\u0007Salwa..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044026,
+      "name": "Clavauert",
+      "events": [
+        {
+          "id": 222,
+          "dialogue": [
+            {
+              "id": 8341,
+              "string": "1\u0000\u0007Well, if it isn't Salwa-Molwa..."
+            },
+            {
+              "id": 8342,
+              "string": "1\u0000\u0007\b and I were just about to set off in search of you."
+            },
+            {
+              "id": 8343,
+              "string": "1\u0000\u0007However, it seems that you, in turn, have found us. All's well that ends well, I suppose."
+            },
+            {
+              "id": 8344,
+              "string": "1\u0000\u0007Now, why don't you calm down and explain to us what has befallen you...starting with that unfortunate occurrence in Wajaom."
+            },
+            {
+              "id": 8351,
+              "string": "1\u0000\u0007(You must have the eyes of a pugil, \b. His account of the events is absolutely nothing like what you claim to have seen!)"
+            },
+            {
+              "id": 8350,
+              "string": "i.\u0000\u0007So it was just as you explained, \b."
+            }
+          ]
+        },
+        {
+          "id": 223,
+          "dialogue": [
+            {
+              "id": 8393,
+              "string": "t!\u0000\u0007And exactly the same shape as the last! I feel we are getting close..."
+            },
+            {
+              "id": 8394,
+              "string": "1\u0000\u0007And here is another!"
+            },
+            {
+              "id": 8395,
+              "string": "1\u0000\u0007But this one is considerably larger... No doubt from the Poroggo that abducted the poor Mikilulu. This suggests that they are still traveling together."
+            },
+            {
+              "id": 8397,
+              "string": "!!\u0000\u0007I do not see any Poroggo in the area.\u0007Hurry! We must capture her while she is alone!"
+            },
+            {
+              "id": 8398,
+              "string": "1\u0000\u0007Let me make sure her print is the same as the one at the entrance."
+            },
+            {
+              "id": 8399,
+              "string": "1\u0000\u0007Yes... A perfect match!"
+            },
+            {
+              "id": 8406,
+              "string": "h!\u0000\u0007Hmmm... Just as I had feared."
+            },
+            {
+              "id": 8408,
+              "string": "n!\u0000\u0007Stop!"
+            }
+          ]
+        },
+        {
+          "id": 224,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 225,
+          "dialogue": [
+            {
+              "id": 8414,
+              "string": "1\u0000\u0007I do not understand... The spell should have been broken the instant the caster became incapacitated."
+            },
+            {
+              "id": 8416,
+              "string": "!?\u0000\u0007Hmmm...\u0007The print is the same as the one we saw near Mikilulu's."
+            },
+            {
+              "id": 8417,
+              "string": "1\u0000\u0007I also believe I witnessed your lady friend respond to one of the Poroggo's commands during the battle."
+            },
+            {
+              "id": 8418,
+              "string": "1\u0000\u0007Finally, you can see that the subject has calmed down quite considerably since her captor's defeat."
+            },
+            {
+              "id": 8420,
+              "string": "1\u0000\u0007That, my boy, I cannot say. My data has never failed me before..."
+            },
+            {
+              "id": 8423,
+              "string": "1\u0000\u0007Yes, and I also said that slaying the caster would break the curse..."
+            },
+            {
+              "id": 8425,
+              "string": "1\u0000\u0007Let us rethink this from a scientific standpoint, shall we?"
+            },
+            {
+              "id": 8426,
+              "string": "1\u0000\u0007First of all, it is clear that the tissue mutation is merely a physiological reaction to a particular medium that has been introduced into the victim's body via the sound waves of the frog song."
+            },
+            {
+              "id": 8427,
+              "string": "1\u0000\u0007This reaction continues until the whole body is affected, thus reducing him or her to the shape of the assailant."
+            },
+            {
+              "id": 8428,
+              "string": "1\u0000\u0007The concept is much similar to that behind the strange liquid medium that transforms its consumer into the shape of a Mamool Ja."
+            },
+            {
+              "id": 8429,
+              "string": "1\u0000\u0007Now, whether the sound waves of the frog song actually carry the medium..."
+            },
+            {
+              "id": 8430,
+              "string": "1\u0000\u0007...or simply act as a catalyst, activating a genetic medium already present in the victim's body, I cannot say."
+            },
+            {
+              "id": 8431,
+              "string": "1\u0000\u0007That was to be the focal point of this expedition's research."
+            },
+            {
+              "id": 8432,
+              "string": "1\u0000\u0007As for the victim's actions while in the transmogrified state, it seems that one loses the ability of voluntary thought, leaving him susceptible to the will of the caster."
+            },
+            {
+              "id": 8433,
+              "string": "1\u0000\u0007We can derive from this that the Poroggo must be sending some type of neural signal directly to the victim's brain."
+            },
+            {
+              "id": 8434,
+              "string": "1\u0000\u0007I believe this signal may also affect the medium I spoke of earlier."
+            },
+            {
+              "id": 8435,
+              "string": "1\u0000\u0007By taking control of the nervous system, the Poroggo is able to override the victim's natural defenses--in particular, the defenses that prevent foreign mediums from invading the body."
+            },
+            {
+              "id": 8436,
+              "string": "1\u0000\u0007The signal also may trigger the spontaneous generation of a new medium in the body by stimulating certain areas of the cerebral cortex."
+            },
+            {
+              "id": 8437,
+              "string": "1\u0000\u0007To put it in layman's terms..."
+            },
+            {
+              "id": 8438,
+              "string": "1\u0000\u0007To maintain the transmogrified state, there must exist a continuous physiological reaction."
+            },
+            {
+              "id": 8439,
+              "string": "1\u0000\u0007In other words, the Poroggo must keep sending inhibitor signals to the victim, or the reaction will cease."
+            },
+            {
+              "id": 8440,
+              "string": "1\u0000\u0007In theory, maintaining these signals would require extreme levels of concentration. This explains why most victims return to their original state after extended periods of time--when the caster becomes fatigued or distracted."
+            },
+            {
+              "id": 8441,
+              "string": "1\u0000\u0007And if we apply these same conclusions, then we can easily explain why defeating the caster would immediately nullify the effects of the song."
+            },
+            {
+              "id": 8442,
+              "string": "1\u0000\u0007However, as we can see here, the victim, Mikilulu, remains in the transmogrified state despite the fact her assailant has met his demise."
+            },
+            {
+              "id": 8443,
+              "string": "1\u0000\u0007Which suggests that she may not return with the simple passing of time."
+            },
+            {
+              "id": 8445,
+              "string": "1\u0000\u0007The potency of the physiological reaction has been known to vary depending on mental condition of the victim. It is possible the song resonated with something deep within Mikilulu's subconscious."
+            },
+            {
+              "id": 8447,
+              "string": "1\u0000\u0007While I wouldn't necessarily use those words, yes, one could say that your Mikilulu has more than likely been harboring suppressed ranine tendencies."
+            },
+            {
+              "id": 8448,
+              "string": "1\u0000\u0007Though, there may be a more reasonable explanation."
+            },
+            {
+              "id": 8449,
+              "string": "1\u0000\u0007For example, if a large portion of Mikilulu's conscious had been dedicated to thinking of, and or, worrying about toads, then her mind may have become dependant on the Poroggo's signal and thus began reproducing it out of necessity when the original signal stopped."
+            },
+            {
+              "id": 8451,
+              "string": "1\u0000\u0007In any case, finding a cure will require months, maybe years of new research."
+            },
+            {
+              "id": 8452,
+              "string": "1\u0000\u0007I am sorry, Salwa, but you shall just have to wait until then to reunite with your lady friend."
+            },
+            {
+              "id": 8454,
+              "string": "1\u0000\u0007But you need not fear, my friend, for I shall dedicate myself to finding a solution to this predicament."
+            },
+            {
+              "id": 8455,
+              "string": "1\u0000\u0007You have my word as a scientist!"
+            },
+            {
+              "id": 8458,
+              "string": "1\u0000\u0007Hmmm...\u0007I conduct a very strict program. I require the utmost in discipline from my assistants."
+            },
+            {
+              "id": 8460,
+              "string": "1\u0000\u0007But can I trust you...?"
+            },
+            {
+              "id": 8461,
+              "string": "1\u0000\u0007Alright. You may temporarily join my research team."
+            },
+            {
+              "id": 8463,
+              "string": "1\u0000\u0007Now we must hurry back to Al Zahbi and begin conducting tests. Move along, young man! We have little time to waste!"
+            },
+            {
+              "id": 8464,
+              "string": "1\u0000\u0007Ah, and if I do recall, you have a slight problem with punctuality."
+            },
+            {
+              "id": 8465,
+              "string": "1\u0000\u0007That is why I will require you to take up residency in my laboratory's supplies room. Do you have any objections?"
+            },
+            {
+              "id": 8477,
+              "string": "1\u0000\u0007Amazing!"
+            },
+            {
+              "id": 8488,
+              "string": "1\u0000\u0007Your services are no longer required, Salwa-Molwa."
+            },
+            {
+              "id": 8490,
+              "string": "1\u0000\u0007What are you talking about? The experiment was a success."
+            },
+            {
+              "id": 8491,
+              "string": "1\u0000\u0007Let me sum up my theory for you."
+            },
+            {
+              "id": 8492,
+              "string": "1\u0000\u0007Your expression of love triggered something within Mikilulu's mind, or should I say heart, thus releasing her from the grasp of the inhibitor signals."
+            },
+            {
+              "id": 8493,
+              "string": "1\u0000\u0007This ultimately proves that the duration of the frog song depends less on the potency of the Poroggo's cant, and more on the victim's psychological state."
+            },
+            {
+              "id": 8494,
+              "string": "1\u0000\u0007And because we now know that the victim's mind is capable of mimicking the Poroggo inhibitor signal..."
+            },
+            {
+              "id": 8495,
+              "string": "1\u0000\u0007...we can conclude that the song is merely a catalyst, and it is the victim himself that maintains the actual transmogrification."
+            },
+            {
+              "id": 8496,
+              "string": "1\u0000\u0007However, we cannot ignore previous data showing symptoms of the toad curse vanishing upon the death of the caster."
+            },
+            {
+              "id": 8497,
+              "string": "1\u0000\u0007Therefore, I shall reconstruct my original theories and continue my research to discover a connection between Poroggo neural activity and transmogrification duration."
+            },
+            {
+              "id": 8498,
+              "string": "1\u0000\u0007This expedition has spawned more questions than it has answered, but I did learn one thing..."
+            },
+            {
+              "id": 8499,
+              "string": "1\u0000\u0007...that the true culprit behind physical transmogrification is the victim himself!"
+            },
+            {
+              "id": 8500,
+              "string": "1\u0000\u0007If this seemingly subconscious action could somehow be made lucid, then people could transform themselves into whatever shape they dreamed!"
+            },
+            {
+              "id": 8501,
+              "string": "1\u0000\u0007However, this hypothesis requires much more research before it can be proven. I have much work ahead of me..."
+            },
+            {
+              "id": 8503,
+              "string": "1\u0000\u0007<Sigh>\u0007Of course it does. And I shall even throw in something extra for Mikilulu's part in all this. Come by my office tomorrow morning at nine o-clock sharp...and do not be late!"
+            },
+            {
+              "id": 8505,
+              "string": "1\u0000\u0007Ah yes, and I suppose you'll be wanting your reward as well. I have entrusted your payment with Maudaal in Whitegate. Speak with him when you return to the city."
+            },
+            {
+              "id": 8506,
+              "string": "1\u0000\u0007Now let us be off!"
+            }
+          ]
+        },
+        {
+          "id": 227,
+          "dialogue": [
+            {
+              "id": 8356,
+              "string": "p!\u0000\u0007Hmmm... An interesting story..."
+            },
+            {
+              "id": 8357,
+              "string": "1\u0000\u0007Though one aspect of the tale makes little sense--what was this female acquaintance of yours doing in the Wajaom Woodlands in the first place?"
+            },
+            {
+              "id": 8361,
+              "string": "1\u0000\u0007Calm down, calm down. Now, tell us what happened next."
+            },
+            {
+              "id": 8365,
+              "string": "1\u0000\u0007Understood.\u0007We are left with no other choice than to locate and rescue this Mikilulu."
+            },
+            {
+              "id": 8367,
+              "string": "1\u0000\u0007My recent studies of Poroggo behavior have led me to the following conclusions regarding the removal of their curses."
+            },
+            {
+              "id": 8368,
+              "string": "1\u0000\u0007The first is that the effects of the frog song will simply wear off after time."
+            },
+            {
+              "id": 8369,
+              "string": "1\u0000\u0007If we can catch your lady friend, then we need simply wait in a safe location until she returns to normal."
+            },
+            {
+              "id": 8370,
+              "string": "1\u0000\u0007The second of my conclusions is a tad more dramatic."
+            },
+            {
+              "id": 8371,
+              "string": "1\u0000\u0007In theory, the spell of the frog song can also be broken..."
+            },
+            {
+              "id": 8372,
+              "string": "1\u0000\u0007...by slaying its caster."
+            },
+            {
+              "id": 8373,
+              "string": "1\u0000\u0007While I hope it will not come to this, we may be forced to resort to violence if the Poroggo in question is not as cooperative as we may like."
+            },
+            {
+              "id": 8374,
+              "string": "1\u0000\u0007Now, I am a man of science. I could never resort to killing a fellow living creature. That is where you come in, \b."
+            },
+            {
+              "id": 8375,
+              "string": "1\u0000\u0007Now, as for distinguishing 'your' toad from a more common specimen..."
+            },
+            {
+              "id": 8379,
+              "string": "1\u0000\u0007Hmmm...\u0007While I do not question your feelings towards Mikilulu..."
+            },
+            {
+              "id": 8380,
+              "string": "1\u0000\u0007...I am wary of basing our search efforts on the memory of a Tarutaru who cannot even remember at which gate he is to convene."
+            },
+            {
+              "id": 8381,
+              "string": "1\u0000\u0007If only there were another, more reliable method..."
+            },
+            {
+              "id": 8383,
+              "string": "!?\u0000\u0007Toadprints! And quite fresh, by my calculations."
+            },
+            {
+              "id": 8384,
+              "string": "1\u0000\u0007Salwa, my boy. Have you seen any other toads in the vicinity since arriving?"
+            },
+            {
+              "id": 8386,
+              "string": "1\u0000\u0007Then by process of elimination, we can deduce that the prints here belong to none other than Mikilulu!"
+            },
+            {
+              "id": 8389,
+              "string": "1\u0000\u0007You need not worry, son. Poroggo are an amphibious species, meaning they cannot survive long out of water."
+            },
+            {
+              "id": 8390,
+              "string": "1\u0000\u0007To the west of our current location lies a small lake that is rumored to be one of their breeding grounds. We shall first try our luck there."
+            },
+            {
+              "id": 8391,
+              "string": "1\u0000\u0007And if anything attempts to attack us, I am sure our trusty mercenary here will handle it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044027,
+      "name": "",
+      "events": [
+        {
+          "id": 227,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044028,
+      "name": "",
+      "events": [
+        {
+          "id": 222,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 223,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 224,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 225,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 227,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044029,
+      "name": "",
+      "events": [
+        {
+          "id": 222,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 223,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 224,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 225,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 227,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044030,
+      "name": "",
+      "events": [
+        {
+          "id": 222,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 225,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044031,
+      "name": "",
+      "events": [
+        {
+          "id": 223,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 224,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044032,
+      "name": "",
+      "events": [
+        {
+          "id": 223,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 224,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044033,
+      "name": "",
+      "events": [
+        {
+          "id": 223,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 224,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044034,
+      "name": "",
+      "events": [
+        {
+          "id": 223,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 224,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044035,
+      "name": "",
+      "events": [
+        {
+          "id": 223,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 227,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044036,
+      "name": "",
+      "events": [
+        {
+          "id": 222,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 225,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044037,
+      "name": "",
+      "events": [
+        {
+          "id": 222,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 225,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044040,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 22,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 23,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044041,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 25,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044042,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 26,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044043,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 28,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 29,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044044,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044045,
+      "name": "GoalPoint",
+      "events": [
+        {
+          "id": 32,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044046,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 22,
+          "dialogue": [
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8624,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 8625,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 8626,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 8627,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "dialogue": [
+            {
+              "id": 8628,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8629,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 8630,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 8631,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 8632,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044047,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 24,
+          "dialogue": [
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8624,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 8625,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 8626,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 8627,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "dialogue": [
+            {
+              "id": 8628,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8629,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 8630,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 8631,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 8632,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044048,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 26,
+          "dialogue": [
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8624,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 8625,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 8626,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 8627,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "dialogue": [
+            {
+              "id": 8628,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8629,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 8630,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 8631,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 8632,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044049,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 28,
+          "dialogue": [
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8624,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 8625,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 8626,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 8627,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "dialogue": [
+            {
+              "id": 8628,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8629,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 8630,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 8631,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 8632,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044050,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8624,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 8625,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 8626,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 8627,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "dialogue": [
+            {
+              "id": 8628,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8629,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 8630,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 8631,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 8632,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044051,
+      "name": "Moogle",
+      "events": [
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8624,
+              "string": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 8625,
+              "string": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 8626,
+              "string": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 8627,
+              "string": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 8628,
+              "string": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 8623,
+              "string": "1\u0000\u0007Boo-hah-hah?`...kupo!"
+            },
+            {
+              "id": 8629,
+              "string": "1\u0000\u0007Why do ghosts say ??boo,?? anyway?"
+            },
+            {
+              "id": 8630,
+              "string": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 8631,
+              "string": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 8632,
+              "string": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044052,
+      "name": "Planar Rift",
+      "events": [
+        {
+          "id": 6000,
+          "dialogue": [
+            {
+              "id": 8683,
+              "string": "1\u0000\u0007You feel a mysterious energy seeping forth from an unknown source..."
+            },
+            {
+              "id": 8684,
+              "string": "1\u0000\u0007The \u0001\u00053???? resonates with the \u0001\u00053????.\u0007You may commence the Voidwatch operation at will."
+            },
+            {
+              "id": 8685,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 8685,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 8686,
+              "string": "1\u0000\u0007However, your presence does not seem to elicit a reaction."
+            },
+            {
+              "id": 8687,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Initiate Voidwatch operation.\u0007View alignment values.\u0007Examine atmacite.\u0007Read up on the Voidwatch."
+            },
+            {
+              "id": 8688,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8811,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes, use with \u0001\u00055????.\u0007Yes.\u0007No."
+            },
+            {
+              "id": 8812,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 8691,
+              "string": "1\u0000\u0007\u001e\u0005Current Spectral Alignment\u001e\u0001\u0007Blue: +\n\u0000% (reward quantity)\u0007Red: +\n\u0001% (reward quality)"
+            },
+            {
+              "id": 8692,
+              "string": "1\u0000\u0007Yellow: +\n\u0000% (experience yield)\u0007Green: +\n\u0001% (cruor yield)"
+            },
+            {
+              "id": 8693,
+              "string": "1\u0000\u0007Alignment bonuses granted by ascent items will be added to the final value."
+            },
+            {
+              "id": 8694,
+              "string": "1\u0000\u0007You can infuse up to \n\u0000 atmacite at this time."
+            },
+            {
+              "id": 8695,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing for now.\u0007Infused: \u0001\u00053???? (Lv.\n\u0001)\u0007Infused: \u0001\u00053???? (Lv.\n\u0003)\u0007Infused: \u0001\u00053???? (Lv.\n\u0005)\u0007Purge atmacite.\u0007Infuse atmacite.\u0007Enrich atmacite."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8700,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8700,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8700,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8702,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8705,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8696,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8698,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 8699,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 8702,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 8703,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 8710,
+              "string": "1\u0000\u0007You do not possess any atmacite capable of enrichment."
+            },
+            {
+              "id": 8711,
+              "string": "1\u0000\u0007Enrich which atmacite? (Cruor: \n$)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001): \n\u0002\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004): \n\u0005\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007): \n\b\u0007?\u0001\u0001\u00053???? (Lv.\n\n): \n\u000b\u0007?\u0001\u0001\u00053???? (Lv.\n\r): \n\u000e\u0007?\u0001\u0001\u00053???? (Lv.\n\u0010): \n\u0011\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013): \n\u0014\u0007?\u0001\u0001\u00053???? (Lv.\n\u0016): \n\u0017\u0007?\u0001\u0001\u00053???? (Lv.\n\u0019): \n\u001a\u0007?\u0001\u0001\u00053???? (Lv.\n\u001c): \n\u001d\u0007?\u0001\u0001\u00053???? (Lv.\n\u001f): \n \u0007?\u0001\u0001\u00053???? (Lv.\n\"): \n#\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8712,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? will produce the following:"
+            },
+            {
+              "id": 8713,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? from level \n\u0001 to level \n\u0002 requires \n\u0003 cruor."
+            },
+            {
+              "id": 8714,
+              "string": "1\u0000\u0007Enrich \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 8718,
+              "string": "1\u0000\u0007Read up on what?\u0007\u000bNothing for now.\u0007Voidwatch Ops.\u0007How to participate.\u0007?\u0001\u0001\u00055????.\u0007Stratum abyssite.\u0007Alignment.\u0007Atmacite.\u0007Periapt."
+            },
+            {
+              "id": 8719,
+              "string": "1\u0000\u0007The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called ??Voidwalkers.?? Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos."
+            },
+            {
+              "id": 8720,
+              "string": "1\u0000\u0007Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized.\u0007This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched."
+            },
+            {
+              "id": 8721,
+              "string": "1\u0000\u0007Such efforts to stem the rise of Voidwalkers, collectively dubbed ??Voidwatch Operations,?? or ??Ops?? for short, take place in the vicinity of planar rifts--weak points in the fabric of space."
+            },
+            {
+              "id": 8722,
+              "string": "1\u0000\u0007A single person may initiate a Voidwatch operation, at which time ??Voidwatcher?? status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker."
+            },
+            {
+              "id": 8723,
+              "string": "1\u0000\u0007Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status."
+            },
+            {
+              "id": 8724,
+              "string": "1\u0000\u0007Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world.\u0007Such is the arduous nature of transdimensional encounters."
+            },
+            {
+              "id": 8725,
+              "string": "1\u0000\u0007Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift."
+            },
+            {
+              "id": 8726,
+              "string": "1\u0000\u0007Only one person needs to be in possession of these objects for all party and alliance members to participate."
+            },
+            {
+              "id": 8727,
+              "string": "1\u0000\u0007However, there exists a number of participation conditions that must be observed."
+            },
+            {
+              "id": 8728,
+              "string": "1\u0000\u0007When an operation commences, a single voidstone will be expended for all who possess it.\u0007These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle."
+            },
+            {
+              "id": 8729,
+              "string": "1\u0000\u0007Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain."
+            },
+            {
+              "id": 8730,
+              "string": "1\u0000\u0007The ??voidstone?? is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible."
+            },
+            {
+              "id": 8731,
+              "string": "1\u0000\u0007Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation.\u0007Those without one, however, will find their spoils limited in both quantity and quality."
+            },
+            {
+              "id": 8732,
+              "string": "1\u0000\u0007As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory."
+            },
+            {
+              "id": 8733,
+              "string": "1\u0000\u0007Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals."
+            },
+            {
+              "id": 8734,
+              "string": "1\u0000\u0007Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts."
+            },
+            {
+              "id": 8735,
+              "string": "1\u0000\u0007After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined."
+            },
+            {
+              "id": 8736,
+              "string": "1\u0000\u0007Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development."
+            },
+            {
+              "id": 8737,
+              "string": "1\u0000\u0007Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum."
+            },
+            {
+              "id": 8738,
+              "string": "1\u0000\u0007While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
+            },
+            {
+              "id": 8739,
+              "string": "1\u0000\u0007Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as ??ascent items.??"
+            },
+            {
+              "id": 8740,
+              "string": "1\u0000\u0007Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation."
+            },
+            {
+              "id": 8741,
+              "string": "1\u0000\u0007Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items."
+            },
+            {
+              "id": 8742,
+              "string": "1\u0000\u0007Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage."
+            },
+            {
+              "id": 8743,
+              "string": "1\u0000\u0007Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected."
+            },
+            {
+              "id": 8744,
+              "string": "1\u0000\u0007The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield."
+            },
+            {
+              "id": 8745,
+              "string": "1\u0000\u0007The precise workings of each light can be reviewed when examining your current alignment values."
+            },
+            {
+              "id": 8746,
+              "string": "1\u0000\u0007Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils."
+            },
+            {
+              "id": 8747,
+              "string": "1\u0000\u0007Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle."
+            },
+            {
+              "id": 8748,
+              "string": "1\u0000\u0007Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts.\u0007By infusing atmacite to one's body using \u0001\u00056????, it is possible to enhance one's battle prowess."
+            },
+            {
+              "id": 8749,
+              "string": "1\u0000\u0007Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation."
+            },
+            {
+              "id": 8750,
+              "string": "1\u0000\u0007Atmacite is resilient and will not be expended in the infusion process."
+            },
+            {
+              "id": 8751,
+              "string": "1\u0000\u0007Furthermore, infused atmacite will remain in place until voluntarily purged."
+            },
+            {
+              "id": 8752,
+              "string": "1\u0000\u0007As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time."
+            },
+            {
+              "id": 8753,
+              "string": "1\u0000\u0007Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite."
+            },
+            {
+              "id": 8754,
+              "string": "1\u0000\u0007Atmacite can be enriched in stages to a maximum of level \n\u0000."
+            },
+            {
+              "id": 8755,
+              "string": "1\u0000\u0007All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death."
+            },
+            {
+              "id": 8756,
+              "string": "1\u0000\u0007Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
+            },
+            {
+              "id": 8757,
+              "string": "1\u0000\u0007Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy."
+            },
+            {
+              "id": 8758,
+              "string": "1\u0000\u0007Although their acquisition can only be described as arduous, the benefits make them well worth the effort."
+            },
+            {
+              "id": 8696,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8698,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 8699,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044053,
+      "name": "Planar Rift",
+      "events": [
+        {
+          "id": 6001,
+          "dialogue": [
+            {
+              "id": 8683,
+              "string": "1\u0000\u0007You feel a mysterious energy seeping forth from an unknown source..."
+            },
+            {
+              "id": 8684,
+              "string": "1\u0000\u0007The \u0001\u00053???? resonates with the \u0001\u00053????.\u0007You may commence the Voidwatch operation at will."
+            },
+            {
+              "id": 8685,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 8685,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 8686,
+              "string": "1\u0000\u0007However, your presence does not seem to elicit a reaction."
+            },
+            {
+              "id": 8687,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Initiate Voidwatch operation.\u0007View alignment values.\u0007Examine atmacite.\u0007Read up on the Voidwatch."
+            },
+            {
+              "id": 8688,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8811,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes, use with \u0001\u00055????.\u0007Yes.\u0007No."
+            },
+            {
+              "id": 8812,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 8691,
+              "string": "1\u0000\u0007\u001e\u0005Current Spectral Alignment\u001e\u0001\u0007Blue: +\n\u0000% (reward quantity)\u0007Red: +\n\u0001% (reward quality)"
+            },
+            {
+              "id": 8692,
+              "string": "1\u0000\u0007Yellow: +\n\u0000% (experience yield)\u0007Green: +\n\u0001% (cruor yield)"
+            },
+            {
+              "id": 8693,
+              "string": "1\u0000\u0007Alignment bonuses granted by ascent items will be added to the final value."
+            },
+            {
+              "id": 8694,
+              "string": "1\u0000\u0007You can infuse up to \n\u0000 atmacite at this time."
+            },
+            {
+              "id": 8695,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing for now.\u0007Infused: \u0001\u00053???? (Lv.\n\u0001)\u0007Infused: \u0001\u00053???? (Lv.\n\u0003)\u0007Infused: \u0001\u00053???? (Lv.\n\u0005)\u0007Purge atmacite.\u0007Infuse atmacite.\u0007Enrich atmacite."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8700,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8700,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8700,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8702,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8705,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8696,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8698,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 8699,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 8702,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 8703,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 8710,
+              "string": "1\u0000\u0007You do not possess any atmacite capable of enrichment."
+            },
+            {
+              "id": 8711,
+              "string": "1\u0000\u0007Enrich which atmacite? (Cruor: \n$)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001): \n\u0002\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004): \n\u0005\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007): \n\b\u0007?\u0001\u0001\u00053???? (Lv.\n\n): \n\u000b\u0007?\u0001\u0001\u00053???? (Lv.\n\r): \n\u000e\u0007?\u0001\u0001\u00053???? (Lv.\n\u0010): \n\u0011\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013): \n\u0014\u0007?\u0001\u0001\u00053???? (Lv.\n\u0016): \n\u0017\u0007?\u0001\u0001\u00053???? (Lv.\n\u0019): \n\u001a\u0007?\u0001\u0001\u00053???? (Lv.\n\u001c): \n\u001d\u0007?\u0001\u0001\u00053???? (Lv.\n\u001f): \n \u0007?\u0001\u0001\u00053???? (Lv.\n\"): \n#\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8712,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? will produce the following:"
+            },
+            {
+              "id": 8713,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? from level \n\u0001 to level \n\u0002 requires \n\u0003 cruor."
+            },
+            {
+              "id": 8714,
+              "string": "1\u0000\u0007Enrich \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 8718,
+              "string": "1\u0000\u0007Read up on what?\u0007\u000bNothing for now.\u0007Voidwatch Ops.\u0007How to participate.\u0007?\u0001\u0001\u00055????.\u0007Stratum abyssite.\u0007Alignment.\u0007Atmacite.\u0007Periapt."
+            },
+            {
+              "id": 8719,
+              "string": "1\u0000\u0007The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called ??Voidwalkers.?? Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos."
+            },
+            {
+              "id": 8720,
+              "string": "1\u0000\u0007Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized.\u0007This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched."
+            },
+            {
+              "id": 8721,
+              "string": "1\u0000\u0007Such efforts to stem the rise of Voidwalkers, collectively dubbed ??Voidwatch Operations,?? or ??Ops?? for short, take place in the vicinity of planar rifts--weak points in the fabric of space."
+            },
+            {
+              "id": 8722,
+              "string": "1\u0000\u0007A single person may initiate a Voidwatch operation, at which time ??Voidwatcher?? status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker."
+            },
+            {
+              "id": 8723,
+              "string": "1\u0000\u0007Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status."
+            },
+            {
+              "id": 8724,
+              "string": "1\u0000\u0007Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world.\u0007Such is the arduous nature of transdimensional encounters."
+            },
+            {
+              "id": 8725,
+              "string": "1\u0000\u0007Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift."
+            },
+            {
+              "id": 8726,
+              "string": "1\u0000\u0007Only one person needs to be in possession of these objects for all party and alliance members to participate."
+            },
+            {
+              "id": 8727,
+              "string": "1\u0000\u0007However, there exists a number of participation conditions that must be observed."
+            },
+            {
+              "id": 8728,
+              "string": "1\u0000\u0007When an operation commences, a single voidstone will be expended for all who possess it.\u0007These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle."
+            },
+            {
+              "id": 8729,
+              "string": "1\u0000\u0007Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain."
+            },
+            {
+              "id": 8730,
+              "string": "1\u0000\u0007The ??voidstone?? is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible."
+            },
+            {
+              "id": 8731,
+              "string": "1\u0000\u0007Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation.\u0007Those without one, however, will find their spoils limited in both quantity and quality."
+            },
+            {
+              "id": 8732,
+              "string": "1\u0000\u0007As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory."
+            },
+            {
+              "id": 8733,
+              "string": "1\u0000\u0007Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals."
+            },
+            {
+              "id": 8734,
+              "string": "1\u0000\u0007Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts."
+            },
+            {
+              "id": 8735,
+              "string": "1\u0000\u0007After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined."
+            },
+            {
+              "id": 8736,
+              "string": "1\u0000\u0007Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development."
+            },
+            {
+              "id": 8737,
+              "string": "1\u0000\u0007Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum."
+            },
+            {
+              "id": 8738,
+              "string": "1\u0000\u0007While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
+            },
+            {
+              "id": 8739,
+              "string": "1\u0000\u0007Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as ??ascent items.??"
+            },
+            {
+              "id": 8740,
+              "string": "1\u0000\u0007Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation."
+            },
+            {
+              "id": 8741,
+              "string": "1\u0000\u0007Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items."
+            },
+            {
+              "id": 8742,
+              "string": "1\u0000\u0007Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage."
+            },
+            {
+              "id": 8743,
+              "string": "1\u0000\u0007Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected."
+            },
+            {
+              "id": 8744,
+              "string": "1\u0000\u0007The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield."
+            },
+            {
+              "id": 8745,
+              "string": "1\u0000\u0007The precise workings of each light can be reviewed when examining your current alignment values."
+            },
+            {
+              "id": 8746,
+              "string": "1\u0000\u0007Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils."
+            },
+            {
+              "id": 8747,
+              "string": "1\u0000\u0007Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle."
+            },
+            {
+              "id": 8748,
+              "string": "1\u0000\u0007Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts.\u0007By infusing atmacite to one's body using \u0001\u00056????, it is possible to enhance one's battle prowess."
+            },
+            {
+              "id": 8749,
+              "string": "1\u0000\u0007Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation."
+            },
+            {
+              "id": 8750,
+              "string": "1\u0000\u0007Atmacite is resilient and will not be expended in the infusion process."
+            },
+            {
+              "id": 8751,
+              "string": "1\u0000\u0007Furthermore, infused atmacite will remain in place until voluntarily purged."
+            },
+            {
+              "id": 8752,
+              "string": "1\u0000\u0007As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time."
+            },
+            {
+              "id": 8753,
+              "string": "1\u0000\u0007Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite."
+            },
+            {
+              "id": 8754,
+              "string": "1\u0000\u0007Atmacite can be enriched in stages to a maximum of level \n\u0000."
+            },
+            {
+              "id": 8755,
+              "string": "1\u0000\u0007All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death."
+            },
+            {
+              "id": 8756,
+              "string": "1\u0000\u0007Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
+            },
+            {
+              "id": 8757,
+              "string": "1\u0000\u0007Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy."
+            },
+            {
+              "id": 8758,
+              "string": "1\u0000\u0007Although their acquisition can only be described as arduous, the benefits make them well worth the effort."
+            },
+            {
+              "id": 8696,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8698,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 8699,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044054,
+      "name": "Planar Rift",
+      "events": [
+        {
+          "id": 6002,
+          "dialogue": [
+            {
+              "id": 8683,
+              "string": "1\u0000\u0007You feel a mysterious energy seeping forth from an unknown source..."
+            },
+            {
+              "id": 8684,
+              "string": "1\u0000\u0007The \u0001\u00053???? resonates with the \u0001\u00053????.\u0007You may commence the Voidwatch operation at will."
+            },
+            {
+              "id": 8685,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 8685,
+              "string": "1\u0000\u0007A Voidwatch operation could be initiated if only you had \u0001\u00056???? and \u0001\u00056????..."
+            },
+            {
+              "id": 8686,
+              "string": "1\u0000\u0007However, your presence does not seem to elicit a reaction."
+            },
+            {
+              "id": 8687,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing.\u0007Initiate Voidwatch operation.\u0007View alignment values.\u0007Examine atmacite.\u0007Read up on the Voidwatch."
+            },
+            {
+              "id": 8688,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8811,
+              "string": "1\u0000\u0007Use \u0001\u00056?????\u0007\u000bYes, use with \u0001\u00055????.\u0007Yes.\u0007No."
+            },
+            {
+              "id": 8812,
+              "string": "1\u0000\u0007How many \u0001\u00055???? will you use?\u0007\u000bNone.\u0007One.\u0007Two.\u0007Three.\u0007Four.\u0007Five."
+            },
+            {
+              "id": 8691,
+              "string": "1\u0000\u0007\u001e\u0005Current Spectral Alignment\u001e\u0001\u0007Blue: +\n\u0000% (reward quantity)\u0007Red: +\n\u0001% (reward quality)"
+            },
+            {
+              "id": 8692,
+              "string": "1\u0000\u0007Yellow: +\n\u0000% (experience yield)\u0007Green: +\n\u0001% (cruor yield)"
+            },
+            {
+              "id": 8693,
+              "string": "1\u0000\u0007Alignment bonuses granted by ascent items will be added to the final value."
+            },
+            {
+              "id": 8694,
+              "string": "1\u0000\u0007You can infuse up to \n\u0000 atmacite at this time."
+            },
+            {
+              "id": 8695,
+              "string": "1\u0000\u0007What will you do?\u0007\u000bNothing for now.\u0007Infused: \u0001\u00053???? (Lv.\n\u0001)\u0007Infused: \u0001\u00053???? (Lv.\n\u0003)\u0007Infused: \u0001\u00053???? (Lv.\n\u0005)\u0007Purge atmacite.\u0007Infuse atmacite.\u0007Enrich atmacite."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8700,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8700,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8700,
+              "string": "1\u0000\u0007Replace \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8702,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8705,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8696,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8698,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 8699,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 8702,
+              "string": "1\u0000\u0007\f\u0000[Infuse\/Purge] which atmacite?\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0002)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0006)"
+            },
+            {
+              "id": 8703,
+              "string": "1\u0000\u0007Purge \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 8710,
+              "string": "1\u0000\u0007You do not possess any atmacite capable of enrichment."
+            },
+            {
+              "id": 8711,
+              "string": "1\u0000\u0007Enrich which atmacite? (Cruor: \n$)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001): \n\u0002\u0007?\u0001\u0001\u00053???? (Lv.\n\u0004): \n\u0005\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007): \n\b\u0007?\u0001\u0001\u00053???? (Lv.\n\n): \n\u000b\u0007?\u0001\u0001\u00053???? (Lv.\n\r): \n\u000e\u0007?\u0001\u0001\u00053???? (Lv.\n\u0010): \n\u0011\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013): \n\u0014\u0007?\u0001\u0001\u00053???? (Lv.\n\u0016): \n\u0017\u0007?\u0001\u0001\u00053???? (Lv.\n\u0019): \n\u001a\u0007?\u0001\u0001\u00053???? (Lv.\n\u001c): \n\u001d\u0007?\u0001\u0001\u00053???? (Lv.\n\u001f): \n \u0007?\u0001\u0001\u00053???? (Lv.\n\"): \n#\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8712,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? will produce the following:"
+            },
+            {
+              "id": 8713,
+              "string": "1\u0000\u0007Enriching the \u0001\u00053???? from level \n\u0001 to level \n\u0002 requires \n\u0003 cruor."
+            },
+            {
+              "id": 8714,
+              "string": "1\u0000\u0007Enrich \u0001\u00053?????\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            },
+            {
+              "id": 8718,
+              "string": "1\u0000\u0007Read up on what?\u0007\u000bNothing for now.\u0007Voidwatch Ops.\u0007How to participate.\u0007?\u0001\u0001\u00055????.\u0007Stratum abyssite.\u0007Alignment.\u0007Atmacite.\u0007Periapt."
+            },
+            {
+              "id": 8719,
+              "string": "1\u0000\u0007The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called ??Voidwalkers.?? Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos."
+            },
+            {
+              "id": 8720,
+              "string": "1\u0000\u0007Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized.\u0007This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched."
+            },
+            {
+              "id": 8721,
+              "string": "1\u0000\u0007Such efforts to stem the rise of Voidwalkers, collectively dubbed ??Voidwatch Operations,?? or ??Ops?? for short, take place in the vicinity of planar rifts--weak points in the fabric of space."
+            },
+            {
+              "id": 8722,
+              "string": "1\u0000\u0007A single person may initiate a Voidwatch operation, at which time ??Voidwatcher?? status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker."
+            },
+            {
+              "id": 8723,
+              "string": "1\u0000\u0007Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status."
+            },
+            {
+              "id": 8724,
+              "string": "1\u0000\u0007Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world.\u0007Such is the arduous nature of transdimensional encounters."
+            },
+            {
+              "id": 8725,
+              "string": "1\u0000\u0007Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift."
+            },
+            {
+              "id": 8726,
+              "string": "1\u0000\u0007Only one person needs to be in possession of these objects for all party and alliance members to participate."
+            },
+            {
+              "id": 8727,
+              "string": "1\u0000\u0007However, there exists a number of participation conditions that must be observed."
+            },
+            {
+              "id": 8728,
+              "string": "1\u0000\u0007When an operation commences, a single voidstone will be expended for all who possess it.\u0007These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle."
+            },
+            {
+              "id": 8729,
+              "string": "1\u0000\u0007Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain."
+            },
+            {
+              "id": 8730,
+              "string": "1\u0000\u0007The ??voidstone?? is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible."
+            },
+            {
+              "id": 8731,
+              "string": "1\u0000\u0007Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation.\u0007Those without one, however, will find their spoils limited in both quantity and quality."
+            },
+            {
+              "id": 8732,
+              "string": "1\u0000\u0007As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory."
+            },
+            {
+              "id": 8733,
+              "string": "1\u0000\u0007Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals."
+            },
+            {
+              "id": 8734,
+              "string": "1\u0000\u0007Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts."
+            },
+            {
+              "id": 8735,
+              "string": "1\u0000\u0007After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined."
+            },
+            {
+              "id": 8736,
+              "string": "1\u0000\u0007Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development."
+            },
+            {
+              "id": 8737,
+              "string": "1\u0000\u0007Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum."
+            },
+            {
+              "id": 8738,
+              "string": "1\u0000\u0007While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
+            },
+            {
+              "id": 8739,
+              "string": "1\u0000\u0007Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as ??ascent items.??"
+            },
+            {
+              "id": 8740,
+              "string": "1\u0000\u0007Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation."
+            },
+            {
+              "id": 8741,
+              "string": "1\u0000\u0007Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items."
+            },
+            {
+              "id": 8742,
+              "string": "1\u0000\u0007Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage."
+            },
+            {
+              "id": 8743,
+              "string": "1\u0000\u0007Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected."
+            },
+            {
+              "id": 8744,
+              "string": "1\u0000\u0007The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield."
+            },
+            {
+              "id": 8745,
+              "string": "1\u0000\u0007The precise workings of each light can be reviewed when examining your current alignment values."
+            },
+            {
+              "id": 8746,
+              "string": "1\u0000\u0007Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils."
+            },
+            {
+              "id": 8747,
+              "string": "1\u0000\u0007Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle."
+            },
+            {
+              "id": 8748,
+              "string": "1\u0000\u0007Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts.\u0007By infusing atmacite to one's body using \u0001\u00056????, it is possible to enhance one's battle prowess."
+            },
+            {
+              "id": 8749,
+              "string": "1\u0000\u0007Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation."
+            },
+            {
+              "id": 8750,
+              "string": "1\u0000\u0007Atmacite is resilient and will not be expended in the infusion process."
+            },
+            {
+              "id": 8751,
+              "string": "1\u0000\u0007Furthermore, infused atmacite will remain in place until voluntarily purged."
+            },
+            {
+              "id": 8752,
+              "string": "1\u0000\u0007As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time."
+            },
+            {
+              "id": 8753,
+              "string": "1\u0000\u0007Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite."
+            },
+            {
+              "id": 8754,
+              "string": "1\u0000\u0007Atmacite can be enriched in stages to a maximum of level \n\u0000."
+            },
+            {
+              "id": 8755,
+              "string": "1\u0000\u0007All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death."
+            },
+            {
+              "id": 8756,
+              "string": "1\u0000\u0007Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
+            },
+            {
+              "id": 8757,
+              "string": "1\u0000\u0007Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy."
+            },
+            {
+              "id": 8758,
+              "string": "1\u0000\u0007Although their acquisition can only be described as arduous, the benefits make them well worth the effort."
+            },
+            {
+              "id": 8696,
+              "string": "1\u0000\u0007Infuse which atmacite? (Cruor: \n\u0018)\u0007\u000bNone for now.\u0007?\u0001\u0001\u00053???? (Lv.\n\u0001)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0003)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0005)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0007)\u0007?\u0001\u0001\u00053???? (Lv.\n\t)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000b)\u0007?\u0001\u0001\u00053???? (Lv.\n\r)\u0007?\u0001\u0001\u00053???? (Lv.\n\u000f)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0011)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0013)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0015)\u0007?\u0001\u0001\u00053???? (Lv.\n\u0017)\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 8697,
+              "string": "1\u0000\u0007The \u0001\u00053???? (Lv.\n\u0001) bestows the following bonuses:"
+            },
+            {
+              "id": 8698,
+              "string": "1\u0000\u0007Infusing the \u0001\u00053???? (Lv.\n\u0001) requires \n\u0002 cruor."
+            },
+            {
+              "id": 8699,
+              "string": "1\u0000\u0007Infuse \u0001\u00053???? (Lv.\n\u0001)?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 8707,
+              "string": "1\u0000\u0007You do not have enough cruor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044055,
+      "name": "Riftworn Pyxis",
+      "events": [
+        {
+          "id": 6003,
+          "dialogue": [
+            {
+              "id": 8805,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[\/??]?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 8771,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 8806,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 8807,
+              "string": "1\u0000\u0007One or more of the items you are about to obtain can be converted into pulse cell"
+            },
+            {
+              "id": 8771,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 8806,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 8777,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044056,
+      "name": "Riftworn Pyxis",
+      "events": [
+        {
+          "id": 6004,
+          "dialogue": [
+            {
+              "id": 8805,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[\/??]?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 8771,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 8806,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 8807,
+              "string": "1\u0000\u0007One or more of the items you are about to obtain can be converted into pulse cell"
+            },
+            {
+              "id": 8771,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 8806,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 8777,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044057,
+      "name": "Riftworn Pyxis",
+      "events": [
+        {
+          "id": 6005,
+          "dialogue": [
+            {
+              "id": 8805,
+              "string": "1\u0000\u0007Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[\/??]?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007?\u0001\u0001\u0005#????.\u0007Relinquish all.\u0007Obtain all."
+            },
+            {
+              "id": 8771,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 8806,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 8807,
+              "string": "1\u0000\u0007One or more of the items you are about to obtain can be converted into pulse cell"
+            },
+            {
+              "id": 8771,
+              "string": "1\u0000\u0007Obtain this item?"
+            },
+            {
+              "id": 8806,
+              "string": "1\u0000\u0007Obtain the \u0001\u0005#?????\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell."
+            },
+            {
+              "id": 8777,
+              "string": "1\u0000\u0007Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17044058,
+      "name": "Survival Guide",
+      "events": [
+        {
+          "id": 8500,
+          "dialogue": [
+            {
+              "id": 9539,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 9537,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 9540,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            }
+          ]
+        },
+        {
+          "id": 8501,
+          "dialogue": [
+            {
+              "id": 9539,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 9537,
+              "string": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 9540,
+              "string": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007??Teleportation Assistance.??\u0007??Field Support.??\u0007??Other mysteries.??"
+            },
+            {
+              "id": 9553,
+              "string": "1\u0000\u0007You may change the way you select areas listed in ??Teleportation Assistance."
+            },
+            {
+              "id": 9554,
+              "string": "??\u0000\u0007Any changes to make?\u0007\u000bKeep course.\u0007Select by region.\u0007Select by content."
+            },
+            {
+              "id": 9555,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 9555,
+              "string": "1\u0000\u0007Area selection will now be made by \f\u0001[region\/content"
+            },
+            {
+              "id": 9549,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 9550,
+              "string": "1\u0000\u0007At the bottom of the page is a reminder. It perfunctorily states that you may receive \u0001\u0001\u0001 \u0001\u0005$???? once you have logged a total of \n\u0002 hours."
+            },
+            {
+              "id": 9549,
+              "string": "1\u0000\u0007The records indicate you have fought valiantly for Vana'diel for \n\u0001 hour?\u0001[\/s]."
+            },
+            {
+              "id": 9551,
+              "string": "1\u0000\u0007As per the custom noted within, you are eligible to receive \u0001\u0001\u0001 \u0001\u0005$???? for the \n\u0002 hour?\u0002[\/s] of fighting you've accrued."
+            },
+            {
+              "id": 9552,
+              "string": "1\u0000\u0007Accept the reward?\u0007\u000bYes, please.\u0007No, thanks."
+            },
+            {
+              "id": 6388,
+              "string": "1\u0000\u0007Obtained: ?\u0001\u0001\u0005#????."
+            },
+            {
+              "id": 6382,
+              "string": "1\u0000\u0007You cannot obtain the \u0001\u0005#????.\u0007Come back after sorting your inventory."
+            },
+            {
+              "id": 9541,
+              "string": "1\u0000\u0007The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
+            },
+            {
+              "id": 9542,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 9557,
+              "string": "1\u0000\u0007Travel to which region?\u0007\u000bOn second thought, none.\u0007Select from amongst favorites.\u0007\f\u0001[San d'Oria\/Movalpolos].\u0007\f\u0001[Bastok\/Tavnazian Arch].\u0007\f\u0001[Windurst\/Lumoria].\u0007\f\u0001[Jeuno\/Mamool Ja Savage].\u0007\f\u0001[Tavnazia\/Halvung].\u0007\f\u0001[West. Aht Urhgan\/Arrapago Is].\u0007\f\u0001[Adoulin Isles\/Ruins of Alzadaal].\u0007\f\u0001[Ronfaure\/Ronfaure Front].\u0007\f\u0001[Zulkheim\/Norvallen Front].\u0007\f\u0001[Norvallen\/Gustaberg Front].\u0007\f\u0001[Gustaberg\/Derfland Front].\u0007\f\u0001[Derfland\/Sarutabaruta Front].\u0007\f\u0001[Sarutabaruta\/Aragoneu Front].\u0007\f\u0001[Kolshushu\/Fauregandi Front].\u0007\f\u0001[Aragoneu\/Valdeaunia Front].\u0007\f\u0001[Fauregandi\/East. Ulbuka].\u0007\f\u0001[Valdeaunia\/Ra'Kaznar].\u0007\f\u0001[Qufim\/].\u0007\f\u0001[Li'Telor\/].\u0007\f\u0001[Kuzotz\/].\u0007\f\u0001[Vollbow\/].\u0007\f\u0001[Elshimo Low\/].\u0007\f\u0001[Elshimo Up\/].\u0007\f\u0001[Tu'Lia\/].\u0007Previous page.\u0007Next page."
+            },
+            {
+              "id": 9542,
+              "string": "1\u0000\u0007No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
+            },
+            {
+              "id": 9556,
+              "string": "].\u0000\u0007\u000bNowhere for now.\u0007Select from amongst favorites.\u0007Original release areas.\u0007Rise of the Zilart areas.\u0007Chains of Promathia areas.\u0007Treasures of Aht Urhgan areas.\u0007Wings of the Goddess areas.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007Seekers of Adoulin areas."
+            },
+            {
+              "id": 9545,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 9546,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 9547,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 9548,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 9559,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 9559,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 9560,
+              "string": "].\u0000\u0007Your list of favorites is full. You must remove an existing entry to add new one"
+            },
+            {
+              "id": 9559,
+              "string": "1\u0000\u0007\u0001\u00058???? has been \f![added to your list of favorites\/removed from your list of favorites"
+            },
+            {
+              "id": 9545,
+              "string": "1\u0000\u0007All mog tablets have currently been found, so you may teleport to \u0001\u00058???? at no charge."
+            },
+            {
+              "id": 9546,
+              "string": "1\u0000\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Up and away!\u0007I'm down and out."
+            },
+            {
+              "id": 9547,
+              "string": "1\u0000\u0007\n\u0002?M?????????????i\n\u0004?M???j\u0007Travel to \u0001\u00058?????\u0007\u000b\f![Add to favorites\/Delete from favorites].\u0007Travel using \n\u0002 gil. (\n\u0004 gil)\u0007Travel using \n\u0003 tab?\u0003[\/s]. (\n\u0005 total)\u0007Not just yet."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 9548,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            },
+            {
+              "id": 6393,
+              "string": "1\u0000\u0007You do not have enough gil."
+            },
+            {
+              "id": 9548,
+              "string": "1\u0000\u0007You do not have enough tabs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 200,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 201,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 202,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 203,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 204,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 205,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 208,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 209,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 210,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 211,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 212,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 213,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 214,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 217,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 218,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 219,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7985,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007Mamook Incursion.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007"
+            },
+            {
+              "id": 7541,
+              "string": "l.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7552,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7591,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7900,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7880,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7544,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7880,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

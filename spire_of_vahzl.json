@@ -1,0 +1,976 @@
+{
+  "id": 23,
+  "name": "Spire of Vahzl",
+  "actors": [
+    {
+      "id": 16871576,
+      "name": "",
+      "events": [
+        {
+          "id": 22,
+          "dialogue": [
+            {
+              "id": 6355,
+              "string": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053????..."
+            },
+            {
+              "id": 6356,
+              "string": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 6361,
+              "string": "1\u0000\u0007You open the tome to the ??Moogle's Almanack?? chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6368,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6362,
+              "string": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????."
+            },
+            {
+              "id": 6369,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017????. There is also the possibility of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6363,
+              "string": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            },
+            {
+              "id": 6373,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6370,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018????. There is also the possibility of \u0001\u0005\u0018????, so caution is advised."
+            },
+            {
+              "id": 6367,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with a chance of \u0001\u0005\u0018????."
+            },
+            {
+              "id": 6364,
+              "string": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018???? with occasional \u0001\u0005\u0018????. There is also a slight chance of \u0001\u0005\u0018????, so caution is in order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871578,
+      "name": "Web of Recollections",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871579,
+      "name": "Web of Regret",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871580,
+      "name": "Web of Regret",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871581,
+      "name": "Web of Regret",
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871587,
+      "name": "Bridge",
+      "events": [
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7605,
+              "string": "1\u0000\u0007Press a button to continue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871588,
+      "name": "Radiant Aureole",
+      "events": [
+        {
+          "id": 15,
+          "dialogue": [
+            {
+              "id": 7429,
+              "string": "1\u0000\u0007Choose your path...\u0007\u000bLeave Promyvion.\u0007Return to the spire entrance.\u0007Nothing."
+            },
+            {
+              "id": 7430,
+              "string": "1\u0000\u0007Return to the Beaucedine Glacier?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7431,
+              "string": "1\u0000\u0007Return to the web of recollections?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871589,
+      "name": "???",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7622,
+              "string": "1\u0000\u0007Is the exit up ahead?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871590,
+      "name": "Tenzen",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7609,
+              "string": "1\u0000\u0007By Altana's tears...!"
+            },
+            {
+              "id": 7610,
+              "string": "1\u0000\u0007If we go any further, we will plunge into the Emptiness."
+            },
+            {
+              "id": 7614,
+              "string": "1\u0000\u0007Nag'molada!?"
+            },
+            {
+              "id": 7617,
+              "string": "1\u0000\u0007You have met with Diabolos!?"
+            },
+            {
+              "id": 7620,
+              "string": "1\u0000\u0007Help \b?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871591,
+      "name": "Louverance",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871592,
+      "name": "Ulmia",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7611,
+              "string": "1\u0000\u0007Then we must backtrack and find another path."
+            },
+            {
+              "id": 7612,
+              "string": "1\u0000\u0007\b, there was something I..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871593,
+      "name": "Nag'molada",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7613,
+              "string": "1\u0000\u0007Ah, good to see you are all safe and well."
+            },
+            {
+              "id": 7615,
+              "string": "1\u0000\u0007Hrmph...\u0007It seems that Diabolos spoke the truth."
+            },
+            {
+              "id": 7616,
+              "string": "1\u0000\u0007Although I did think it strange that one could enter the Emptiness without being devoured by its darkness."
+            },
+            {
+              "id": 7618,
+              "string": "1\u0000\u0007Yes, in his dreamworld of Dynamis."
+            },
+            {
+              "id": 7619,
+              "string": "1\u0000\u0007He said that if I helped you, \b, we would find a way out of this place."
+            },
+            {
+              "id": 7621,
+              "string": "1\u0000\u0007Does the exit lie in this direction?"
+            },
+            {
+              "id": 7623,
+              "string": "1\u0000\u0007Well then, step aside.\u0007There is little light remaining within this vessel."
+            },
+            {
+              "id": 7624,
+              "string": "1\u0000\u0007You should not embarrass yourself with petty lies.\u0007Now step aside. There is little light remaining within this vessel."
+            },
+            {
+              "id": 7625,
+              "string": "1\u0000\u0007Selh'teus...\u0007As long as I have breath in my body, I will find you. No matter what it takes...!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871594,
+      "name": "BOX2",
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871595,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7710,
+              "string": "1\u0000\u0007???l?f?o?b?O?p???j???[\u0007\u000b?L?????Z??\u0007???[?v\u0007?J????\u0007?C?x???g"
+            },
+            {
+              "id": 7712,
+              "string": "1\u0000\u0007?{?^?????????????i??????"
+            },
+            {
+              "id": 7711,
+              "string": "1\u0000\u0007?C?x???g???I??\u0007\u000b?{?X?O\u0007?{?X??\u0007?????p"
+            },
+            {
+              "id": 7675,
+              "string": "..\u0000\u0007  "
+            },
+            {
+              "id": 7712,
+              "string": "1\u0000\u0007?{?^?????????????i??????"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871596,
+      "name": "",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16871597,
+      "name": "???",
+      "events": [
+        
+      ]
+    },
+    {
+      "id": 16871598,
+      "name": "Prishe",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007Diabolos!\u0007If you had anything close to a soul, you'd know that pain comes with the package. There's no way around it, but it's what makes us who we are!"
+            },
+            {
+              "id": 7668,
+              "string": "1\u0000\u0007You're nothing but an empty shell. What happened to your soul!?"
+            },
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007If you're going to live your life in fear of hurting someone, then you'll never be able to save anything!"
+            },
+            {
+              "id": 7673,
+              "string": "1\u0000\u0007...!\u0007Break the pact...\u0007Why didn't I think of that...?"
+            },
+            {
+              "id": 7667,
+              "string": "1\u0000\u0007Diabolos!\u0007If you had anything close to a soul, you'd know that pain comes with the package. There's no way around it, but it's what makes us who we are!"
+            },
+            {
+              "id": 7668,
+              "string": "1\u0000\u0007You're nothing but an empty shell. What happened to your soul!?"
+            },
+            {
+              "id": 7669,
+              "string": "1\u0000\u0007If you're going to live your life in fear of hurting someone, then you'll never be able to save anything!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871599,
+      "name": "Tenzen",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7628,
+              "string": "1\u0000\u0007Lord Diabolos...?"
+            },
+            {
+              "id": 7634,
+              "string": "1\u0000\u0007Is he truly planning to thrust Vana'diel into the abyss of the Emptiness?"
+            },
+            {
+              "id": 7644,
+              "string": "1\u0000\u0007I do not understand... Are you saying that there is a hidden realm beyond the fifth crystal?"
+            },
+            {
+              "id": 7652,
+              "string": "1\u0000\u0007So, the true reason Bahamut has deemed us his enemy lies in the curse..."
+            },
+            {
+              "id": 7653,
+              "string": "1\u0000\u0007Lord Diabolos! Is there any way to break these chains that bind us?"
+            },
+            {
+              "id": 7659,
+              "string": "1\u0000\u0007However, if we are not purified of this ??curse,?? whether it is one or not, there is no avoiding a battle with the Wyrmking!"
+            },
+            {
+              "id": 7660,
+              "string": "1\u0000\u0007And even if we are victorious...there is no stopping the Emptiness from swallowing all life in Vana'diel!"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871600,
+      "name": "Ulmia",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7629,
+              "string": "1\u0000\u0007Prishe!"
+            },
+            {
+              "id": 7651,
+              "string": "1\u0000\u0007The will of Promathia...?\u0007Promathia's curse on mankind...?"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Prishe...?"
+            },
+            {
+              "id": 7666,
+              "string": "1\u0000\u0007Prishe...?"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871601,
+      "name": "Nag'molada",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7627,
+              "string": "1\u0000\u0007Show yourself, Selh'teus!"
+            },
+            {
+              "id": 7633,
+              "string": "1\u0000\u0007Diabolos!\u0007Are you saying that you know what he is up to?"
+            },
+            {
+              "id": 7638,
+              "string": "1\u0000\u0007From where!?"
+            },
+            {
+              "id": 7639,
+              "string": "1\u0000\u0007That is ridiculous! The celestial capital was destroyed without a trace when the Zilart tried opening the Gates of Paradise over ten thousand years ago!"
+            },
+            {
+              "id": 7641,
+              "string": "1\u0000\u0007A safe place...?"
+            },
+            {
+              "id": 7656,
+              "string": "1\u0000\u0007..."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871602,
+      "name": "Louverance",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7645,
+              "string": "1\u0000\u0007And the Gates of Paradise... They could also be..."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871603,
+      "name": "Diabolos",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            {
+              "id": 7630,
+              "string": "1\u0000\u0007So we meet again, he who is one with Selh'teus..."
+            },
+            {
+              "id": 7631,
+              "string": "1\u0000\u0007Now that the light of the fourth crystal has been robbed, it will not be long before this land is infested by the Emptiness."
+            },
+            {
+              "id": 7632,
+              "string": "1\u0000\u0007I fear that it may be impossible to thwart the plans of Selh'teus. If I had only realized earlier what he was attempting..."
+            },
+            {
+              "id": 7635,
+              "string": "1\u0000\u0007That may be the ultimate result of his actions; however, I do not feel it was his original intention."
+            },
+            {
+              "id": 7636,
+              "string": "1\u0000\u0007No, I learned the true ambition of Selh'teus in the form of a dream--the dream of this girl."
+            },
+            {
+              "id": 7637,
+              "string": "1\u0000\u0007Selh'teus has come from Al'Taieu on a mission to protect the celestial capital."
+            },
+            {
+              "id": 7640,
+              "string": "1\u0000\u0007Child of the Kuluu, Al'Taieu was not destroyed as you thought. It still remains intact--its residents alive--resting in a safe place."
+            },
+            {
+              "id": 7642,
+              "string": "1\u0000\u0007Beyond the fifth crystal."
+            },
+            {
+              "id": 7643,
+              "string": "1\u0000\u0007\b...\u0007Search out the final mothercrystal. There you will find the truth you seek."
+            },
+            {
+              "id": 7646,
+              "string": "1\u0000\u0007Hah hah hah! Foolish children! Do you still aimlessly seek the dream of Paradise?"
+            },
+            {
+              "id": 7647,
+              "string": "1\u0000\u0007I must warn you. It is not your will that guides you to the gates...but the will of Promathia."
+            },
+            {
+              "id": 7649,
+              "string": "!?\u0000\u0007You and every other soul on this world are slaves to the will of the Twilight God."
+            },
+            {
+              "id": 7650,
+              "string": "1\u0000\u0007And that is why Bahamut, keeper of the Gates of Paradise, has set out to destroy you."
+            },
+            {
+              "id": 7654,
+              "string": "1\u0000\u0007There is...one way...\u0007Long ago, remnants of the Kuluu came to me and asked me to release them from the chains of Promathia."
+            },
+            {
+              "id": 7655,
+              "string": "1\u0000\u0007I did as they asked...\u0007However, the result was tragic. The Kuluu lost their original selves..."
+            },
+            {
+              "id": 7657,
+              "string": "1\u0000\u0007Children of Vana'diel!\u0007Promathia's curse is necessary for the survival of your species. Without it you would be nothing."
+            },
+            {
+              "id": 7658,
+              "string": "1\u0000\u0007It is only a curse because that is the name you have given it. It is only your chains because that is what you make it."
+            },
+            {
+              "id": 7661,
+              "string": "1\u0000\u0007There are no roads left for you to travel...\u0007Phoenix has been reduced to a mere fragment of her former self, while Fenrir, guardian of tomorrow, remains powerless."
+            },
+            {
+              "id": 7662,
+              "string": "1\u0000\u0007And Carbuncle, bringer of rainbows, still ponders over whether to lend his hand to your cause."
+            },
+            {
+              "id": 7663,
+              "string": "1\u0000\u0007This is because he realizes that he cannot save both of you. He must choose one: mankind or Vana'diel."
+            },
+            {
+              "id": 7664,
+              "string": "1\u0000\u0007We must learn from Selh'teus and the mistake he has made.\u0007In attempting to save both sides, he only caused them much pain."
+            },
+            {
+              "id": 7670,
+              "string": "1\u0000\u0007You know nothing, girl..."
+            },
+            {
+              "id": 7671,
+              "string": "1\u0000\u0007If you are so adamant about your cause, then why not carry the pain of all Vana'diel on your own?"
+            },
+            {
+              "id": 7672,
+              "string": "1\u0000\u0007Sacrifice yourself for this world and its children! If you die, Bahamut's pact would be broken and Vana'diel would be saved!"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871604,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871605,
+      "name": "",
+      "events": [
+        {
+          "id": 0,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32000,
+          "dialogue": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16871606,
+      "name": "Grumblix",
+      "events": [
+        {
+          "id": 16,
+          "dialogue": [
+            {
+              "id": 7685,
+              "string": "1\u0000\u0007I travel......hear lots...\u0007Hear...stories... Can tell...if..."
+            },
+            {
+              "id": 7688,
+              "string": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7689,
+              "string": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Desires of Emptiness(pt.1).\u0007Desires of Emptiness(pt.2).\u0007Desires of Emptiness(pt.3).\u0007Desires of Emptiness(pt.4)."
+            },
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7690,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7691,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7692,
+              "string": "1\u0000\u0007"
+            },
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7687,
+              "string": "1\u0000\u0007Oh......\u0007...outta here........."
+            },
+            {
+              "id": 7686,
+              "string": "1\u0000\u0007.........listen......"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2147483632,
+      "name": "",
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": [
+            {
+              "id": 7603,
+              "string": "?!\u0000\u0007Which battlefield will you enter?\u0007\u000bNone.\u0007Desires of Emptiness.\u0007Pulling the Plug.\u0007Empty Aspirations.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007"
+            },
+            {
+              "id": 7415,
+              "string": "1\u0000\u0007Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave."
+            },
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            },
+            {
+              "id": 7060,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7061,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7062,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7063,
+              "string": "1\u0000\u0007You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u0001"
+            },
+            {
+              "id": 7099,
+              "string": "1\u0000\u0007You do not meet the requirements to enter the battlefield. Access is denied."
+            },
+            {
+              "id": 7408,
+              "string": "1\u0000\u0007Only \n\u0003 ?\u0003[member\/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
+            },
+            {
+              "id": 7695,
+              "string": "d.\u0000\u0007The current record for ??\f\u0002[Empty Hopes\/Empty Dreams\/Empty Desires\/Empty Aspirations]?? is \n\u0003 ?\u0001[memory\/memories"
+            },
+            {
+              "id": 7413,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7601,
+              "string": "].\u0000\u0007The current battlefield clear time record for ??\f\u0001[Desires of Emptiness\/Pulling the Plug\/Empty Aspirations]?? is \n\u0003 minute?\u0003[\/s] \n\u0002 second?\u0002[\/s"
+            },
+            {
+              "id": 7600,
+              "string": "4\u0001\u0000\u0007The current battlefield clear time record for ??\f\u0001[Desires of Emptiness\/Pulling the Plug\/Empty Aspirations]?? is \n\u0003 second?\u0003[\/s"
+            },
+            {
+              "id": 7413,
+              "string": "\u0000!\u0000\u0007That record is held by \u001c"
+            },
+            {
+              "id": 7412,
+              "string": "1\u0000\u0007That record is held by \n\u0005 adventurers, including \u001c"
+            },
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7052,
+              "string": "1\u0000\u0007You cannot enter the battlefield at present. Please wait a little longer.4\u0001"
+            },
+            {
+              "id": 7604,
+              "string": "1\u0000\u0007Level limit of 50. The experience point reward for this battlefield will be reduced for parties of seven or more members."
+            },
+            {
+              "id": 7694,
+              "string": "e.\u0000\u0007You will be rewarded upon completion with as many as \n\u0000 ?\u0000[item\/items].\u0007Sort your inventory in advance to ensure that you can claim your rewar"
+            }
+          ]
+        },
+        {
+          "id": 32001,
+          "dialogue": [
+            {
+              "id": 7388,
+              "string": "1\u0000\u0007Skip the event?\u0007\u000bYes.\u0007No."
+            },
+            {
+              "id": 7695,
+              "string": "d.\u0000\u0007The current record for ??\f\u0002[Empty Hopes\/Empty Dreams\/Empty Desires\/Empty Aspirations]?? is \n\u0003 ?\u0001[memory\/memories"
+            }
+          ]
+        },
+        {
+          "id": 32002,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32003,
+          "dialogue": [
+            
+          ]
+        },
+        {
+          "id": 32004,
+          "dialogue": [
+            {
+              "id": 7049,
+              "string": "s.\u0000\u0007Enter the battlefield?\u0007\u000bEnter.\u0007Decline."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
